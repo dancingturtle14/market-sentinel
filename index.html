@@ -404,8 +404,8 @@ function startCountdown(updatedAt) {
   const ageMs    = Date.now() - updated.getTime();
   const el       = document.getElementById('countdown');
 
-  // Data is stale (> 12 min old) — GitHub Actions may be delayed; retry slowly
-  if (ageMs > 12 * 60 * 1000) {
+  // Data is stale (> 20 min old) — external trigger may be delayed; retry slowly
+  if (ageMs > 20 * 60 * 1000) {
     const staleMins = Math.round(ageMs / 60000);
     el.textContent = `· data ${staleMins}m old`;
     _cdTimer = setTimeout(() => loadData(), 90 * 1000); // retry in 90s
