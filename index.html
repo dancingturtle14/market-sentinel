@@ -160,6 +160,10 @@ a:hover{text-decoration:underline}
 .portfolio-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
 @media(max-width:480px){.portfolio-grid{grid-template-columns:1fr}}
 
+/* ── Source Notes ── */
+.source-note{font-size:10px;color:var(--muted);margin-top:10px;padding-top:8px;border-top:1px solid var(--border);line-height:1.5}
+.source-note strong{color:#475569}
+
 /* ── Loading / Error ── */
 .loading{text-align:center;padding:60px 20px;color:var(--muted)}
 .spinner{width:30px;height:30px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 12px}
@@ -205,7 +209,7 @@ a:hover{text-decoration:underline}
       <!-- Fear & Greed -->
       <div class="card">
         <div class="card-title">Fear & Greed Index</div>
-        <div class="gauge-wrap">
+        <div class="gauge-wrap" style="flex:1">
           <svg class="gauge-svg" viewBox="0 0 200 120" id="gauge-svg">
             <!-- gradient arcs: extreme fear → greed -->
             <path d="M20,100 A80,80,0,0,1,60.6,43.4" stroke="#ef4444" stroke-width="18" fill="none" stroke-linecap="round"/>
@@ -221,6 +225,7 @@ a:hover{text-decoration:underline}
           <div class="gauge-label" id="fg-label">Loading</div>
           <div class="gauge-delta" id="fg-delta"></div>
         </div>
+        <div class="source-note"><strong>來源：</strong>alternative.me Fear &amp; Greed Index。綜合加密市場波幅、動能、社交媒體聲量、調查問卷及BTC主導地位，計算0–100分（0=極度恐懼，100=極度貪婪）。</div>
       </div>
 
       <!-- News Sentiment -->
@@ -231,12 +236,14 @@ a:hover{text-decoration:underline}
           <div id="crypto-sentiment-label" class="mood-label"></div>
         </div>
         <div id="crypto-sentiment-bars"></div>
+        <div class="source-note"><strong>來源：</strong>CoinDesk、Cointelegraph、Decrypt、CryptoSlate RSS 新聞。<strong>分析方法：</strong>關鍵字比對（例如 surge/rally=看漲，crash/dump=看跌），有 Groq API 時改用 AI 語意分析，每15分鐘更新。</div>
       </div>
 
       <!-- Top Mentioned -->
       <div class="card">
         <div class="card-title">Top Mentioned Coins (Reddit)</div>
         <div id="crypto-mentions"></div>
+        <div class="source-note"><strong>來源：</strong>Reddit 公開 API（r/CryptoCurrency、r/Bitcoin、r/ethereum、r/solana、r/CryptoMarkets）。<strong>計算方式：</strong>統計各貨幣名稱及代號在帖子標題中出現的次數，數字越高代表社群關注度越強。</div>
       </div>
     </div>
 
@@ -245,12 +252,14 @@ a:hover{text-decoration:underline}
       <div class="card">
         <div class="card-title">Crypto Prices (Spot)</div>
         <div id="crypto-prices"></div>
+        <div class="source-note"><strong>來源：</strong>CoinGecko 免費 API。顯示現貨市場實時價格及24小時漲跌幅，僅追蹤現貨資產，不含槓桿或衍生品。</div>
       </div>
 
       <!-- Polymarket -->
       <div class="card">
         <div class="card-title">🎲 Polymarket — Crypto Topics</div>
         <div id="crypto-polymarket"></div>
+        <div class="source-note"><strong>來源：</strong>Polymarket 去中心化預測市場。Yes% 為真實資金押注所反映的事件發生概率，成交量代表市場關注程度。數字非價格預測，而是群眾對特定事件的集體判斷。</div>
       </div>
     </div>
 
@@ -259,12 +268,14 @@ a:hover{text-decoration:underline}
       <div class="card">
         <div class="card-title">Latest Crypto News</div>
         <div id="crypto-news"></div>
+        <div class="source-note"><strong>來源：</strong>CoinDesk、Cointelegraph、Decrypt、CryptoSlate。情緒標籤（Bullish/Bearish/Neutral）由關鍵字分析或 Groq AI 生成，僅作參考。</div>
       </div>
 
       <!-- Reddit Activity -->
       <div class="card">
         <div class="card-title">Reddit Activity</div>
         <div id="crypto-reddit"></div>
+        <div class="source-note"><strong>來源：</strong>Reddit 公開 JSON API（無需帳號）。Activity 分數綜合帖子 upvotes 及留言數量，反映社群即時活躍程度，每30分鐘更新。</div>
       </div>
     </div>
 
@@ -308,6 +319,7 @@ a:hover{text-decoration:underline}
       <div class="card">
         <div class="card-title">Market Indices</div>
         <div class="index-grid" id="stock-indices"></div>
+        <div class="source-note"><strong>來源：</strong>yfinance 實時數據。追蹤 S&amp;P 500（^GSPC）、Nasdaq（^IXIC）、Dow Jones（^DJI）及 VIX 波幅指數（^VIX），反映美股整體走勢。</div>
       </div>
 
       <!-- Market Mood -->
@@ -316,12 +328,14 @@ a:hover{text-decoration:underline}
         <div id="market-mood-score" class="mood-score">—</div>
         <div id="market-mood-label" class="mood-label"></div>
         <div style="margin-top:14px" id="stock-sentiment-bars"></div>
+        <div class="source-note"><strong>分析方法：</strong>綜合四大指數漲跌計算情緒分數（-1 至 +1）。S&amp;P 500 及 Nasdaq 權重較高，VIX 上升視為看跌訊號，下降視為看漲訊號。</div>
       </div>
 
       <!-- Top Mentioned -->
       <div class="card">
         <div class="card-title">Top Mentioned Stocks (Reddit)</div>
         <div id="stock-mentions"></div>
+        <div class="source-note"><strong>來源：</strong>Reddit 公開 API（r/wallstreetbets、r/stocks、r/investing、r/StockMarket）。<strong>計算方式：</strong>統計股票代號在帖子標題中出現次數，反映散戶社群關注熱度。</div>
       </div>
     </div>
 
@@ -330,12 +344,14 @@ a:hover{text-decoration:underline}
       <div class="card">
         <div class="card-title">Stock Prices (Spot)</div>
         <div id="stock-prices"></div>
+        <div class="source-note"><strong>來源：</strong>yfinance 實時股價（美股收市後顯示收市價）。追蹤 NVDA、TSLA、AAPL、MSFT、GOOGL、AMZN、META、AMD、PLTR、COIN 等10隻股票，僅現貨，不含衍生品。</div>
       </div>
 
       <!-- Polymarket Finance -->
       <div class="card">
         <div class="card-title">🎲 Polymarket — Finance & Economy</div>
         <div id="stock-polymarket"></div>
+        <div class="source-note"><strong>來源：</strong>Polymarket 去中心化預測市場。Yes% 反映真實資金對宏觀經濟事件（如加息、衰退、貿易政策）的發生概率判斷，成交量越高代表市場共識越強。</div>
       </div>
     </div>
 
@@ -343,10 +359,12 @@ a:hover{text-decoration:underline}
       <div class="card">
         <div class="card-title">Latest Stock & Finance News</div>
         <div id="stock-news"></div>
+        <div class="source-note"><strong>來源：</strong>Reuters、CNBC、MarketWatch、Yahoo Finance RSS。情緒標籤由關鍵字分析或 Groq AI 語意分析生成，反映市場新聞整體情緒傾向。</div>
       </div>
       <div class="card">
         <div class="card-title">Reddit Activity</div>
         <div id="stock-reddit"></div>
+        <div class="source-note"><strong>來源：</strong>Reddit 公開 JSON API。Activity 分數綜合 upvotes 及留言數（upvotes + 留言×3，標準化至100），反映各板塊即時社群熱度，每30分鐘更新。</div>
       </div>
     </div>
 
@@ -712,6 +730,7 @@ function renderPortfolio(funds) {
           ${o.reasons.map(r => `<li>${r}</li>`).join('')}
         </ul>
       </div>
+      <div class="source-note"><strong>來源：</strong>yfinance 3個月日線數據。<strong>分析方法：</strong>5項技術指標綜合評分——價格相對20日均線、20/50日黃金交叉、RSI(14)超買超賣、5日動能、1個月趨勢。多數指標看漲則 Bullish，反之 Bearish。信心度按指標一致性計算。</div>
     </div>`;
   }).join('');
 }

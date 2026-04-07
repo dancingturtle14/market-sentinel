@@ -24,68 +24,89 @@ def _calc_rsi(closes: pd.Series, period: int = 14) -> float:
 
 def _signal(closes: pd.Series, rsi: float) -> dict:
     """Composite outlook from multiple technical signals. Returns score + reasons."""
-    score   = 0
-    reasons = []
-
     sma20 = closes.rolling(20).mean()
     sma50 = closes.rolling(50).mean()
     price = float(closes.iloc[-1])
 
+    # Each signal tracked individually: +1 bullish, -1 bearish, 0 neutral
+    signals = []
+    reasons = []
+
     # 1. Price vs SMA20
     if price > float(sma20.iloc[-1]):
-        score += 1
-        reasons.append("Price above 20-day average ↑")
+        signals.append(1)
+        reasons.append("Price above 20-day moving average ↑")
     else:
-        score -= 1
-        reasons.append("Price below 20-day average ↓")
+        signals.append(-1)
+        reasons.append("Price below 20-day moving average ↓")
 
-    # 2. SMA20 vs SMA50 (trend)
+    # 2. SMA20 vs SMA50 (golden/death cross)
     if float(sma20.iloc[-1]) > float(sma50.iloc[-1]):
-        score += 1
-        reasons.append("Short-term trend above long-term ↑")
+        signals.append(1)
+        reasons.append("Short-term trend above long-term (bullish cross) ↑")
     else:
-        score -= 1
-        reasons.append("Short-term trend below long-term ↓")
+        signals.append(-1)
+        reasons.append("Short-term trend below long-term (bearish cross) ↓")
 
-    # 3. RSI
+    # 3. RSI — extra weight at extremes
     if rsi < 30:
-        score += 2
-        reasons.append(f"RSI {rsi} — Oversold, potential bounce ↑")
+        signals.extend([1, 1])   # oversold = strong bullish signal
+        reasons.append(f"RSI {rsi} — Oversold zone, historically signals a bounce ↑")
     elif rsi > 70:
-        score -= 2
-        reasons.append(f"RSI {rsi} — Overbought, potential pullback ↓")
+        signals.extend([-1, -1]) # overbought = strong bearish signal
+        reasons.append(f"RSI {rsi} — Overbought zone, historically signals a pullback ↓")
     elif rsi < 45:
-        score += 0
-        reasons.append(f"RSI {rsi} — Neutral-weak")
+        signals.append(-1)
+        reasons.append(f"RSI {rsi} — Below neutral, mild downward pressure ↓")
     elif rsi > 55:
-        score += 0
-        reasons.append(f"RSI {rsi} — Neutral-strong")
+        signals.append(1)
+        reasons.append(f"RSI {rsi} — Above neutral, mild upward momentum ↑")
     else:
-        reasons.append(f"RSI {rsi} — Neutral range")
+        signals.append(0)
+        reasons.append(f"RSI {rsi} — In neutral range (45–55)")
 
     # 4. 5-day momentum
     if len(closes) >= 6:
         mom5 = (price - float(closes.iloc[-6])) / float(closes.iloc[-6]) * 100
         if mom5 > 1.5:
-            score += 1
-            reasons.append(f"5-day momentum +{mom5:.1f}% ↑")
+            signals.append(1)
+            reasons.append(f"5-day momentum +{mom5:.1f}% — short-term buying pressure ↑")
         elif mom5 < -1.5:
-            score -= 1
-            reasons.append(f"5-day momentum {mom5:.1f}% ↓")
+            signals.append(-1)
+            reasons.append(f"5-day momentum {mom5:.1f}% — short-term selling pressure ↓")
         else:
-            reasons.append(f"5-day momentum {mom5:+.1f}% (flat)")
+            signals.append(0)
+            reasons.append(f"5-day momentum {mom5:+.1f}% — consolidating sideways →")
 
     # 5. 1-month trend
     if len(closes) >= 22:
         mom1m = (price - float(closes.iloc[-22])) / float(closes.iloc[-22]) * 100
         if mom1m > 3:
-            score += 1
-            reasons.append(f"1-month return +{mom1m:.1f}% ↑")
+            signals.append(1)
+            reasons.append(f"1-month return +{mom1m:.1f}% — sustained uptrend ↑")
         elif mom1m < -3:
-            score -= 1
-            reasons.append(f"1-month return {mom1m:.1f}% ↓")
+            signals.append(-1)
+            reasons.append(f"1-month return {mom1m:.1f}% — sustained downtrend ↓")
+        else:
+            signals.append(0)
+            reasons.append(f"1-month return {mom1m:+.1f}% — range-bound")
 
-    # Map score to label
+    # Composite score and confidence from signal agreement
+    score      = sum(signals)
+    bull_count = signals.count(1)
+    bear_count = signals.count(-1)
+    dominant   = max(bull_count, bear_count)
+    total      = len(signals)
+
+    # Confidence = how many signals agree on the dominant direction
+    if dominant >= total - 1:          # all or all-but-one agree
+        confidence = "High"
+    elif dominant >= round(total * 0.6):  # 60%+ agree
+        confidence = "Medium"
+    else:
+        confidence = "Low"
+
+    # Label
     if score >= 3:
         label, color = "Bullish",      "green"
     elif score <= -3:
@@ -97,14 +118,15 @@ def _signal(closes: pd.Series, rsi: float) -> dict:
     else:
         label, color = "Neutral",      "yellow"
 
-    confidence = "High" if abs(score) >= 3 else "Medium" if abs(score) >= 2 else "Low"
-
     return {
         "label":      label,
         "color":      color,
         "score":      score,
+        "bull_count": bull_count,
+        "bear_count": bear_count,
+        "total":      total,
         "confidence": confidence,
-        "reasons":    reasons[:4],
+        "reasons":    reasons,
     }
 
 
