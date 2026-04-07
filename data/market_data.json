@@ -1,0 +1,880 @@
+{
+  "updated_at": "2026-04-07T08:08:04Z",
+  "crypto": {
+    "fear_greed": {
+      "value": 11,
+      "label": "Extreme Fear",
+      "previous_value": 13,
+      "previous_label": "Extreme Fear"
+    },
+    "prices": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price_usd": 68650,
+        "change_24h": -0.7,
+        "market_cap": 1374316277499,
+        "volume_24h": 40870425673
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price_usd": 2105.25,
+        "change_24h": -1.41,
+        "market_cap": 254167390714,
+        "volume_24h": 16658927185
+      },
+      {
+        "symbol": "BNB",
+        "name": "BNB",
+        "price_usd": 599.77,
+        "change_24h": -0.72,
+        "market_cap": 81771668986,
+        "volume_24h": 722012083
+      },
+      {
+        "symbol": "XRP",
+        "name": "XRP",
+        "price_usd": 1.31,
+        "change_24h": -2.37,
+        "market_cap": 80614547583,
+        "volume_24h": 1535645872
+      },
+      {
+        "symbol": "SOL",
+        "name": "Solana",
+        "price_usd": 79.93,
+        "change_24h": -2.3,
+        "market_cap": 45845454682,
+        "volume_24h": 2690678085
+      },
+      {
+        "symbol": "DOGE",
+        "name": "Dogecoin",
+        "price_usd": 0.090674,
+        "change_24h": -1.51,
+        "market_cap": 13940518933,
+        "volume_24h": 838384284
+      },
+      {
+        "symbol": "ADA",
+        "name": "Cardano",
+        "price_usd": 0.24336,
+        "change_24h": -4.73,
+        "market_cap": 8980747524,
+        "volume_24h": 364625713
+      },
+      {
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "price_usd": 8.78,
+        "change_24h": -2.01,
+        "market_cap": 6383596246,
+        "volume_24h": 251511196
+      },
+      {
+        "symbol": "AVAX",
+        "name": "Avalanche",
+        "price_usd": 8.66,
+        "change_24h": -7.79,
+        "market_cap": 3739213606,
+        "volume_24h": 376326130
+      }
+    ],
+    "top_mentioned": [
+      {
+        "symbol": "BTC",
+        "mentions": 48,
+        "price_usd": 68650,
+        "change_24h": -0.7
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 32,
+        "price_usd": 79.93,
+        "change_24h": -2.3
+      },
+      {
+        "symbol": "ETH",
+        "mentions": 18,
+        "price_usd": 2105.25,
+        "change_24h": -1.41
+      },
+      {
+        "symbol": "ADA",
+        "mentions": 1,
+        "price_usd": 0.24336,
+        "change_24h": -4.73
+      },
+      {
+        "symbol": "DOT",
+        "mentions": 1,
+        "price_usd": null,
+        "change_24h": null
+      },
+      {
+        "symbol": "LTC",
+        "mentions": 1,
+        "price_usd": null,
+        "change_24h": null
+      },
+      {
+        "symbol": "BNB",
+        "mentions": 0,
+        "price_usd": 599.77,
+        "change_24h": -0.72
+      },
+      {
+        "symbol": "XRP",
+        "mentions": 0,
+        "price_usd": 1.31,
+        "change_24h": -2.37
+      },
+      {
+        "symbol": "DOGE",
+        "mentions": 0,
+        "price_usd": 0.090674,
+        "change_24h": -1.51
+      },
+      {
+        "symbol": "AVAX",
+        "mentions": 0,
+        "price_usd": 8.66,
+        "change_24h": -7.79
+      }
+    ],
+    "news": [
+      {
+        "title": "Bitcoin ETF inflows hit highest level since February",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-etf-inflows-hit-highest-level-since-february",
+        "published": "Tue, 07 Apr 2026 05:56:35 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "XRP slips to $1.31 after failed breakout as liquidity dries up",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/07/xrp-slips-to-usd1-31-after-failed-breakout-as-liquidity-dries-up",
+        "published": "Tue, 07 Apr 2026 05:41:56 +0000",
+        "assets": [
+          "XRP"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Bitcoin miners face a new rival for cheap power as Anthropic signs multi-gigawatt compute deal",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/04/07/bitcoin-miners-face-a-new-rival-for-cheap-power-as-anthropic-signs-multi-gigawatt-compute-deal",
+        "published": "Tue, 07 Apr 2026 05:01:18 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Bitcoin, ether, solana hold steady as Trump sets Tuesday night deadline for Iran deal",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-ether-solana-hold-steady-as-trump-sets-tuesday-night-deadline-for-iran-deal",
+        "published": "Tue, 07 Apr 2026 04:30:53 +0000",
+        "assets": [
+          "BTC",
+          "ETH",
+          "SOL"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "SEC close to putting out 'reg crypto' for fundraising questions, Chair Atkins says",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/04/07/sec-close-to-putting-out-reg-crypto-for-fundraising-questions-chair-atkins-says",
+        "published": "Tue, 07 Apr 2026 03:59:07 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Bitcoin drops toward $68,000 as demand weakens and whales sell",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-drops-toward-usd68-000-as-demand-weakens-and-whales-sell",
+        "published": "Tue, 07 Apr 2026 03:57:29 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Bitcoin options market is quietly pricing a major downside move",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-options-market-is-quietly-pricing-a-major-downside-move",
+        "published": "Mon, 06 Apr 2026 19:23:38 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Aave loses key risk manager, Chaos Labs, amid contributor exodus and disputes",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/04/06/aave-loses-key-risk-manager-chaos-labs-amid-contributor-exodus-and-disputes",
+        "published": "Mon, 06 Apr 2026 17:50:02 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Polymarket reveals a 'full exchange upgrade' to take control of its own trading and truth",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/06/polymarket-reveals-a-full-exchange-upgrade-to-take-control-of-its-own-trading-and-truth",
+        "published": "Mon, 06 Apr 2026 17:13:59 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Bitcoin climbs above $70,000 as more contrarian bottoming signs emerge",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-climbs-above-usd70-000-as-more-contrarian-bottoming-signs-emerge",
+        "published": "Mon, 06 Apr 2026 16:28:09 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Bitcoin’s quantum challenges are ‘more social than technical’: Grayscale",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-quantum-challenges-more-social-than-technical-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 07 Apr 2026 06:46:56 +0100",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Onchain evidence was key to convicting 3 terrorism financiers: TRM Labs",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/indonesian-officials-blockchain-data-evidence-convict-terrorism-financiers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 07 Apr 2026 05:52:38 +0100",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Crypto market safe harbor lands at White House for review",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/regulation-crypto-assets-safe-harbor-lands-at-white-house-for-final-review-sec-chair-atkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 07 Apr 2026 05:13:33 +0100",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "New evidence in Libra probe renews questions about Milei involvement",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/milei-libra-token-investigation-new-evidence-raises-questions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 07 Apr 2026 05:11:26 +0100",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Solana Foundation looks to beef up DeFi security as attacks continue",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/solana-foundation-launches-new-security-tools-and-incident-response-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 07 Apr 2026 05:04:35 +0100",
+        "assets": [
+          "SOL"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      }
+    ],
+    "news_sentiment": {
+      "score": -0.067,
+      "label": "Neutral",
+      "color": "yellow"
+    },
+    "polymarket": [
+      {
+        "title": "Bitcoin Up or Down - April 6, 9:35AM-9:40AM ET",
+        "volume_24h": 717494,
+        "yes_price": 0.5,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be above $70,000 on April 6?",
+        "volume_24h": 665540,
+        "yes_price": 0.5,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be above $60,000 on April 7?",
+        "volume_24h": 560963,
+        "yes_price": 0.5,
+        "category": "crypto"
+      }
+    ],
+    "reddit": [
+      {
+        "subreddit": "r/CryptoCurrency",
+        "mentions": {
+          "BTC": 7,
+          "ETH": 3,
+          "SOL": 1,
+          "ADA": 1,
+          "DOT": 1,
+          "LTC": 1,
+          "BNB": 0,
+          "XRP": 0,
+          "DOGE": 0,
+          "AVAX": 0
+        },
+        "activity_score": 38,
+        "top_post": "Crypto guys right now",
+        "top_post_url": "https://reddit.com/r/CryptoCurrency/comments/1scczhm/crypto_guys_right_now/",
+        "top_post_score": 3026
+      },
+      {
+        "subreddit": "r/Bitcoin",
+        "mentions": {
+          "BTC": 31,
+          "ETH": 0,
+          "SOL": 0,
+          "BNB": 0,
+          "XRP": 0,
+          "ADA": 0,
+          "DOGE": 0,
+          "AVAX": 0,
+          "LINK": 0,
+          "TON": 0
+        },
+        "activity_score": 59,
+        "top_post": "Could it really be that simple?",
+        "top_post_url": "https://reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/",
+        "top_post_score": 1505
+      },
+      {
+        "subreddit": "r/ethereum",
+        "mentions": {
+          "ETH": 12,
+          "BTC": 2,
+          "SOL": 0,
+          "BNB": 0,
+          "XRP": 0,
+          "ADA": 0,
+          "DOGE": 0,
+          "AVAX": 0,
+          "LINK": 0,
+          "TON": 0
+        },
+        "activity_score": 15,
+        "top_post": "Daily General Discussion March 30, 2026",
+        "top_post_url": "https://reddit.com/r/ethereum/comments/1s7hcs2/daily_general_discussion_march_30_2026/",
+        "top_post_score": 131
+      },
+      {
+        "subreddit": "r/solana",
+        "mentions": {
+          "SOL": 30,
+          "BTC": 2,
+          "ETH": 2,
+          "BNB": 0,
+          "XRP": 0,
+          "ADA": 0,
+          "DOGE": 0,
+          "AVAX": 0,
+          "LINK": 0,
+          "TON": 0
+        },
+        "activity_score": 5,
+        "top_post": "Never forget what we used to celebrate 14 months ago",
+        "top_post_url": "https://reddit.com/r/solana/comments/1sbidjq/never_forget_what_we_used_to_celebrate_14_months/",
+        "top_post_score": 1033
+      },
+      {
+        "subreddit": "r/CryptoMarkets",
+        "mentions": {
+          "BTC": 6,
+          "ETH": 1,
+          "SOL": 1,
+          "BNB": 0,
+          "XRP": 0,
+          "ADA": 0,
+          "DOGE": 0,
+          "AVAX": 0,
+          "LINK": 0,
+          "TON": 0
+        },
+        "activity_score": 6,
+        "top_post": "Bitrue launches 40 tokenized assets with up to 100x leverage trading",
+        "top_post_url": "https://reddit.com/r/CryptoMarkets/comments/1sdudmr/bitrue_launches_40_tokenized_assets_with_up_to/",
+        "top_post_score": 32
+      }
+    ]
+  },
+  "stocks": {
+    "indices": {
+      "sp500": {
+        "value": 6611.83,
+        "change_24h": 0.44
+      },
+      "nasdaq": {
+        "value": 21996.34,
+        "change_24h": 0.54
+      },
+      "dow": {
+        "value": 46669.88,
+        "change_24h": 0.36
+      },
+      "vix": {
+        "value": 25.17,
+        "change_24h": 4.14
+      }
+    },
+    "market_mood": {
+      "score": -0.039,
+      "label": "Neutral",
+      "color": "yellow"
+    },
+    "prices": [
+      {
+        "symbol": "NVDA",
+        "price_usd": 177.64,
+        "change_24h": 0.14
+      },
+      {
+        "symbol": "TSLA",
+        "price_usd": 352.82,
+        "change_24h": -2.15
+      },
+      {
+        "symbol": "AAPL",
+        "price_usd": 258.86,
+        "change_24h": 1.15
+      },
+      {
+        "symbol": "MSFT",
+        "price_usd": 372.88,
+        "change_24h": -0.16
+      },
+      {
+        "symbol": "GOOGL",
+        "price_usd": 299.99,
+        "change_24h": 1.43
+      },
+      {
+        "symbol": "AMZN",
+        "price_usd": 212.79,
+        "change_24h": 1.44
+      },
+      {
+        "symbol": "META",
+        "price_usd": 573.02,
+        "change_24h": -0.25
+      },
+      {
+        "symbol": "AMD",
+        "price_usd": 220.18,
+        "change_24h": 1.23
+      },
+      {
+        "symbol": "PLTR",
+        "price_usd": 147.93,
+        "change_24h": -0.36
+      },
+      {
+        "symbol": "COIN",
+        "price_usd": 174.79,
+        "change_24h": 1.94
+      }
+    ],
+    "top_mentioned": [
+      {
+        "symbol": "SPY",
+        "mentions": 8,
+        "price_usd": null,
+        "change_24h": null
+      },
+      {
+        "symbol": "TSLA",
+        "mentions": 6,
+        "price_usd": 352.82,
+        "change_24h": -2.15
+      },
+      {
+        "symbol": "GOOGL",
+        "mentions": 3,
+        "price_usd": 299.99,
+        "change_24h": 1.43
+      },
+      {
+        "symbol": "QQQ",
+        "mentions": 3,
+        "price_usd": null,
+        "change_24h": null
+      },
+      {
+        "symbol": "NVDA",
+        "mentions": 2,
+        "price_usd": 177.64,
+        "change_24h": 0.14
+      },
+      {
+        "symbol": "MSFT",
+        "mentions": 2,
+        "price_usd": 372.88,
+        "change_24h": -0.16
+      },
+      {
+        "symbol": "AAPL",
+        "mentions": 0,
+        "price_usd": 258.86,
+        "change_24h": 1.15
+      },
+      {
+        "symbol": "AMZN",
+        "mentions": 0,
+        "price_usd": 212.79,
+        "change_24h": 1.44
+      },
+      {
+        "symbol": "META",
+        "mentions": 0,
+        "price_usd": 573.02,
+        "change_24h": -0.25
+      },
+      {
+        "symbol": "AMD",
+        "mentions": 0,
+        "price_usd": 220.18,
+        "change_24h": 1.23
+      }
+    ],
+    "news": [
+      {
+        "title": "Oil prices rise as Trump reaffirms deadline for bombarding Iran's power plants, bridges",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html",
+        "published": "Tue, 07 Apr 2026 08:05:38 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Trump says Iran ceasefire proposal 'significant' but 'not good enough' as Hormuz Strait deadline nears",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/06/trump-iran-war-ceasefire-hormuz-strait.html",
+        "published": "Mon, 06 Apr 2026 20:36:24 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Universal Music stock rises 10% after Pershing Square's $64 billion takeover proposal",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/umg-pershing-square-merger-bil-ackman-universal-music.html",
+        "published": "Tue, 07 Apr 2026 07:41:25 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here's what they learned",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html",
+        "published": "Mon, 06 Apr 2026 20:47:02 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Samsung shares rise after profit seen jumping 8-fold on AI chip boom",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html",
+        "published": "Tue, 07 Apr 2026 03:58:28 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
+        "published": "Mon, 06 Apr 2026 08:18:20 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Trump administration finalizes better-than-feared Medicare Advantage payment rate in boost to health insurers",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/06/trump-medicare-advantage.html",
+        "published": "Mon, 06 Apr 2026 21:16:40 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "AI data center boom ‘stress tests’ insurers as private capital floods in",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html",
+        "published": "Mon, 06 Apr 2026 05:38:40 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Asia-Pacific markets trade mixed as investors assess Trump's hardened rhetoric on Iran war",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/asia-pacific-markets-toda-kospi-nikkei225-nifty50.html",
+        "published": "Tue, 07 Apr 2026 07:34:44 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Zohran Mamdani and the business exodus? New York's office real estate market is up under new mayor",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/05/mayor-zohran-mamdani-new-york-office-real-estate-market.html",
+        "published": "Mon, 06 Apr 2026 15:31:45 GMT",
+        "assets": [
+          "AMD"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Broadcom’s stock is rising. Here’s why its new Google and Anthropic deals are so significant.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories",
+        "published": "Mon, 06 Apr 2026 23:33:00 GMT",
+        "assets": [
+          "GOOGL"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Amazon, USPS strike a deal — showing they still need each other despite threats of big delivery cuts",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/amazon-usps-strike-a-deal-showing-they-still-need-each-other-despite-threats-of-big-delivery-cuts-87078db2?mod=mw_rss_topstories",
+        "published": "Mon, 06 Apr 2026 22:22:00 GMT",
+        "assets": [
+          "AMZN"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Here’s the somewhat surprising stock that will soon join the S&P 500",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/an-s-p-500-change-may-be-imminent-these-stocks-are-leading-contenders-to-join-the-index-497eb076?mod=mw_rss_topstories",
+        "published": "Mon, 06 Apr 2026 22:02:00 GMT",
+        "assets": [
+          "SPY"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "As stocks approach a true comeback, here’s where investors can find the richest opportunities",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/as-stocks-approach-a-true-comeback-heres-where-investors-can-find-the-richest-opportunities-71bbc2cf?mod=mw_rss_topstories",
+        "published": "Mon, 06 Apr 2026 22:00:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "A top J.P. Morgan strategist tackles some of the biggest myths about the war in Iran",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories",
+        "published": "Mon, 06 Apr 2026 21:48:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      }
+    ],
+    "news_sentiment": {
+      "score": 0.267,
+      "label": "Neutral",
+      "color": "yellow"
+    },
+    "polymarket": [
+      {
+        "title": "Will Trump talk to Xi Jinping in March?",
+        "volume_24h": 2060626,
+        "yes_price": 0.5,
+        "category": "finance"
+      },
+      {
+        "title": "San Diego Padres vs. Pittsburgh Pirates: O/U 8.5",
+        "volume_24h": 1215714,
+        "yes_price": 0.5,
+        "category": "finance"
+      },
+      {
+        "title": "Trump out as President by April 30?",
+        "volume_24h": 570245,
+        "yes_price": 0.5,
+        "category": "finance"
+      },
+      {
+        "title": "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?",
+        "volume_24h": 551473,
+        "yes_price": 0.5,
+        "category": "finance"
+      },
+      {
+        "title": "Will there be no change in Fed interest rates after the April 2026 meeting?",
+        "volume_24h": 481952,
+        "yes_price": 0.5,
+        "category": "finance"
+      },
+      {
+        "title": "Will Judy Shelton be confirmed as Fed Chair?",
+        "volume_24h": 439953,
+        "yes_price": 0.5,
+        "category": "finance"
+      }
+    ],
+    "reddit": [
+      {
+        "subreddit": "r/wallstreetbets",
+        "mentions": {
+          "TSLA": 2,
+          "SPY": 2,
+          "GOOGL": 1,
+          "NVDA": 0,
+          "AAPL": 0,
+          "MSFT": 0,
+          "AMZN": 0,
+          "META": 0,
+          "AMD": 0,
+          "PLTR": 0
+        },
+        "activity_score": 100,
+        "top_post": "Bears watching the market close green despite oil trading above $110 a barrel.",
+        "top_post_url": "https://reddit.com/r/wallstreetbets/comments/1sasiaj/bears_watching_the_market_close_green_despite_oil/",
+        "top_post_score": 18812
+      },
+      {
+        "subreddit": "r/stocks",
+        "mentions": {
+          "NVDA": 2,
+          "TSLA": 2,
+          "MSFT": 2,
+          "GOOGL": 2,
+          "AAPL": 0,
+          "AMZN": 0,
+          "META": 0,
+          "AMD": 0,
+          "PLTR": 0,
+          "GME": 0
+        },
+        "activity_score": 100,
+        "top_post": "U.S.-Iran war ‘tax’ begins to hit American businesses and consumers",
+        "top_post_url": "https://reddit.com/r/stocks/comments/1scj7q0/usiran_war_tax_begins_to_hit_american_businesses/",
+        "top_post_score": 1062
+      },
+      {
+        "subreddit": "r/investing",
+        "mentions": {
+          "NVDA": 0,
+          "TSLA": 0,
+          "AAPL": 0,
+          "MSFT": 0,
+          "GOOGL": 0,
+          "AMZN": 0,
+          "META": 0,
+          "AMD": 0,
+          "PLTR": 0,
+          "GME": 0
+        },
+        "activity_score": 36,
+        "top_post": "Please explain why the Dollar is still so strong despite everything happening?",
+        "top_post_url": "https://reddit.com/r/investing/comments/1sd7vcw/please_explain_why_the_dollar_is_still_so_strong/",
+        "top_post_score": 497
+      },
+      {
+        "subreddit": "r/StockMarket",
+        "mentions": {
+          "TSLA": 2,
+          "NVDA": 0,
+          "AAPL": 0,
+          "MSFT": 0,
+          "GOOGL": 0,
+          "AMZN": 0,
+          "META": 0,
+          "AMD": 0,
+          "PLTR": 0,
+          "GME": 0
+        },
+        "activity_score": 100,
+        "top_post": "President Trump Reiterates Escalation on Iran",
+        "top_post_url": "https://reddit.com/r/StockMarket/comments/1se53ts/president_trump_reiterates_escalation_on_iran/",
+        "top_post_score": 2676
+      },
+      {
+        "subreddit": "r/options",
+        "mentions": {
+          "SPY": 6,
+          "QQQ": 3,
+          "NVDA": 0,
+          "TSLA": 0,
+          "AAPL": 0,
+          "MSFT": 0,
+          "GOOGL": 0,
+          "AMZN": 0,
+          "META": 0,
+          "AMD": 0
+        },
+        "activity_score": 19,
+        "top_post": "War premium is mispriced. my view",
+        "top_post_url": "https://reddit.com/r/options/comments/1sc95gz/war_premium_is_mispriced_my_view/",
+        "top_post_score": 98
+      }
+    ]
+  }
+}
