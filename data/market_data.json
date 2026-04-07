@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T18:20:43Z",
+  "updated_at": "2026-04-07T18:30:44Z",
   "crypto": {
     "fear_greed": {
       "value": 11,
@@ -11,78 +11,88 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 68633,
-        "change_24h": -1.67,
-        "market_cap": 1373526310778,
-        "volume_24h": 44963592481
+        "price_usd": 68619,
+        "change_24h": -1.74,
+        "market_cap": 1372672388220,
+        "volume_24h": 44870416653
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2095.69,
-        "change_24h": -2.23,
-        "market_cap": 252954685368,
-        "volume_24h": 15809287731
+        "price_usd": 2094.84,
+        "change_24h": -2.31,
+        "market_cap": 252813329140,
+        "volume_24h": 15772417839
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 604.25,
-        "change_24h": -0.2,
-        "market_cap": 82393724367,
-        "volume_24h": 894049212
+        "price_usd": 604.43,
+        "change_24h": -0.31,
+        "market_cap": 82372502874,
+        "volume_24h": 795445798
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.31,
-        "change_24h": -2.37,
-        "market_cap": 80338975305,
-        "volume_24h": 1582156146
+        "change_24h": -2.41,
+        "market_cap": 80311019323,
+        "volume_24h": 1573835073
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 80.09,
-        "change_24h": -2.28,
-        "market_cap": 45960723587,
-        "volume_24h": 2989695178
+        "price_usd": 80.03,
+        "change_24h": -2.51,
+        "market_cap": 45886163371,
+        "volume_24h": 2971320089
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.091757,
-        "change_24h": -0.31,
-        "market_cap": 14095129772,
-        "volume_24h": 891770381
+        "price_usd": 0.091806,
+        "change_24h": -0.25,
+        "market_cap": 14114417462,
+        "volume_24h": 880877065
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.243526,
-        "change_24h": -3.62,
-        "market_cap": 8983014910,
-        "volume_24h": 363799708
+        "price_usd": 0.243707,
+        "change_24h": -3.55,
+        "market_cap": 8991189782,
+        "volume_24h": 370395360
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 8.65,
         "change_24h": -4.01,
-        "market_cap": 6291578587,
-        "volume_24h": 313735053
+        "market_cap": 6288154583,
+        "volume_24h": 314338930
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.63,
-        "change_24h": -7.45,
-        "market_cap": 3729575007,
-        "volume_24h": 454092455
+        "price_usd": 8.64,
+        "change_24h": -7.46,
+        "market_cap": 3731227256,
+        "volume_24h": 455228993
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Stablecoin issuers get closer to U.S. federal rules with FDIC's new proposal",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/04/07/stablecoin-issuers-get-closer-to-u-s-federal-rules-with-fdic-s-new-proposal",
+        "published": "Tue, 07 Apr 2026 18:21:08 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
       {
         "title": "Trump-linked World Liberty faces scrutiny over ties to sanctioned network: The Times",
         "source": "CoinDesk",
@@ -103,9 +113,9 @@
         "assets": [
           "SOL"
         ],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
       },
       {
         "title": "DeFi yields are crashing so hard that they can't compete with a traditional savings account",
@@ -114,7 +124,7 @@
         "published": "Tue, 07 Apr 2026 15:23:41 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -144,7 +154,7 @@
         "published": "Tue, 07 Apr 2026 14:25:12 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.6,
         "color": "green"
       },
       {
@@ -168,7 +178,7 @@
           "XRP"
         ],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -182,14 +192,16 @@
         "color": "red"
       },
       {
-        "title": "'A whole civilization will die': Crypto markets under pressure as Trump ups rhetoric towards Iran",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/07/a-whole-civilization-will-die-crypto-markets-under-pressure-as-trump-ups-rhetoric-towards-iran",
-        "published": "Tue, 07 Apr 2026 13:00:26 +0000",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.8,
-        "color": "red"
+        "title": "Bitcoin holds $67K support as data exposes price to sentiment divergence",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-holds-dollar67k-support-as-data-exposes-price-to-sentiment-divergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 07 Apr 2026 18:49:12 +0100",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
       },
       {
         "title": "US prosecutors reject Tornado Cash co-founder‘s argument for dismissal",
@@ -218,7 +230,7 @@
         "published": "Tue, 07 Apr 2026 15:50:26 +0100",
         "assets": [],
         "sentiment": "Neutral",
-        "score": -0.2,
+        "score": -0.1,
         "color": "yellow"
       },
       {
@@ -228,38 +240,26 @@
         "published": "Tue, 07 Apr 2026 15:20:47 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.8,
         "color": "green"
-      },
-      {
-        "title": "Bitcoin waits at $68K as hours tick down to Iran deadline",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bitcoin-waits-68k-hours-tick-down-iran-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 07 Apr 2026 15:17:15 +0100",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.1,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.24,
+      "score": -0.093,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Ethereum be above $2,100 on April 9?",
-        "volume_24h": 247933,
+        "volume_24h": 247943,
         "yes_price": 0.51,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 51% of participants predict Ethereum will exceed $2,100 on April 9, with $247,933 in volume."
+      "summary": "Bullish: 51% of traders predict Ethereum will be above $2,100 on April 9, with $247,943 in volume."
     },
     "reddit": [],
     "reddit_summary": {
@@ -268,83 +268,83 @@
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Negative news dominates, with $11 billion in crypto scam losses, DeFi yields crashing, and scrutiny over World Liberty, with only a few bullish notes from Schwab and Grayscale."
+      "summary": "Bearish: Sentiment is down due to scrutiny of World Liberty, crashing DeFi yields, $11 billion in crypto scam losses, and hostile regulation, outweighing bullish views from FDIC, Schwab, and Grayscale."
     }
   },
   "stocks": {
     "indices": {
       "sp500": {
-        "value": 6591.21,
-        "change_24h": -0.31
+        "value": 6585.42,
+        "change_24h": -0.4
       },
       "nasdaq": {
-        "value": 21883.14,
-        "change_24h": -0.51
+        "value": 21859.84,
+        "change_24h": -0.62
       },
       "dow": {
-        "value": 46504.29,
-        "change_24h": -0.35
+        "value": 46470.97,
+        "change_24h": -0.43
       },
       "vix": {
-        "value": 26.66,
-        "change_24h": 10.3
+        "value": 26.63,
+        "change_24h": 10.18
       }
     },
     "market_mood": {
-      "score": -0.396,
+      "score": -0.431,
       "label": "Bearish",
       "color": "red"
     },
     "prices": [
       {
         "symbol": "NVDA",
-        "price_usd": 176.03,
-        "change_24h": -0.91
+        "price_usd": 175.68,
+        "change_24h": -1.11
       },
       {
         "symbol": "TSLA",
-        "price_usd": 342.52,
-        "change_24h": -2.92
+        "price_usd": 342.31,
+        "change_24h": -2.98
       },
       {
         "symbol": "AAPL",
-        "price_usd": 251.65,
-        "change_24h": -2.79
+        "price_usd": 251.46,
+        "change_24h": -2.86
       },
       {
         "symbol": "MSFT",
-        "price_usd": 370.65,
-        "change_24h": -0.6
+        "price_usd": 370.16,
+        "change_24h": -0.73
       },
       {
         "symbol": "GOOGL",
-        "price_usd": 303.52,
-        "change_24h": 1.18
+        "price_usd": 302.95,
+        "change_24h": 0.99
       },
       {
         "symbol": "AMZN",
-        "price_usd": 212.78,
-        "change_24h": -0.0
+        "price_usd": 212.47,
+        "change_24h": -0.15
       },
       {
         "symbol": "META",
-        "price_usd": 569.51,
-        "change_24h": -0.61
+        "price_usd": 568.63,
+        "change_24h": -0.77
       },
       {
         "symbol": "AMD",
-        "price_usd": 218.86,
-        "change_24h": -0.6
+        "price_usd": 218.49,
+        "change_24h": -0.77
       },
       {
         "symbol": "PLTR",
-        "price_usd": 148.5,
-        "change_24h": 0.39
+        "price_usd": 148.45,
+        "change_24h": 0.35
       },
       {
         "symbol": "COIN",
-        "price_usd": 172.82,
-        "change_24h": -1.13
+        "price_usd": 172.43,
+        "change_24h": -1.35
       }
     ],
     "top_mentioned": [],
@@ -377,9 +377,19 @@
         "url": "https://www.cnbc.com/2026/04/07/used-car-prices.html",
         "published": "Tue, 07 Apr 2026 14:22:04 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
+      {
+        "title": "Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/anthropic-claude-mythos-ai-hackers-cyberattacks.html",
+        "published": "Tue, 07 Apr 2026 18:28:27 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Trump praises Hungary PM Viktor Orban after Vance calls him at Budapest rally",
@@ -388,7 +398,7 @@
         "published": "Tue, 07 Apr 2026 18:10:55 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.1,
         "color": "yellow"
       },
       {
@@ -398,7 +408,7 @@
         "published": "Tue, 07 Apr 2026 18:11:19 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.3,
         "color": "red"
       },
       {
@@ -408,7 +418,7 @@
         "published": "Tue, 07 Apr 2026 16:07:36 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -418,18 +428,8 @@
         "published": "Tue, 07 Apr 2026 15:47:15 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.5,
         "color": "green"
-      },
-      {
-        "title": "Bill Gates interview about Jeffrey Epstein by House Oversight set for June 10",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/07/jeffrey-epstein-bill-gates-house-oversight.html",
-        "published": "Tue, 07 Apr 2026 17:32:35 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
       },
       {
         "title": "NASA Artemis II photo captures moon eclipse of sun — 'Absolutely stunning'",
@@ -438,7 +438,7 @@
         "published": "Tue, 07 Apr 2026 17:50:44 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -448,8 +448,28 @@
         "published": "Tue, 07 Apr 2026 16:05:39 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.3,
         "color": "green"
+      },
+      {
+        "title": "Stocks fall as Trump’s Tuesday night deadline for Iran looms: ‘The market is certainly on edge’",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/stocks-fall-as-trumps-tuesday-night-deadline-for-iran-looms-the-market-is-certainly-on-edge-35d15659?mod=mw_rss_topstories",
+        "published": "Tue, 07 Apr 2026 18:25:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
+      },
+      {
+        "title": "‘Our FICO score is excellent’: My husband and I are in our 70s. How do we raise $10,000 for a new roof?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/our-fico-score-is-excellent-my-husband-and-i-are-in-our-70s-how-do-we-raise-10-000-for-a-new-roof-738e2821?mod=mw_rss_topstories",
+        "published": "Tue, 07 Apr 2026 18:20:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "‘I worked very hard’: I’m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?",
@@ -458,18 +478,8 @@
         "published": "Tue, 07 Apr 2026 18:00:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.1,
+        "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Stocks fall as Trump’s Tuesday night deadline for Iran looms: ‘The market is certainly on edge’",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/stocks-fall-as-trumps-tuesday-night-deadline-for-iran-looms-the-market-is-certainly-on-edge-35d15659?mod=mw_rss_topstories",
-        "published": "Tue, 07 Apr 2026 17:46:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.9,
-        "color": "red"
       },
       {
         "title": "My second husband will leave me $540,000 if I bequeath him my $130,000 net worth. What will happen to my two sons?",
@@ -478,7 +488,7 @@
         "published": "Tue, 07 Apr 2026 17:45:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.1,
+        "score": 0.0,
         "color": "yellow"
       },
       {
@@ -487,79 +497,69 @@
         "url": "https://www.marketwatch.com/story/heres-the-real-reason-these-3-airlines-are-raising-their-bag-fees-45530319?mod=mw_rss_topstories",
         "published": "Tue, 07 Apr 2026 17:35:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.4,
-        "color": "red"
-      },
-      {
-        "title": "Americans would love this $25,000 hybrid SUV — but it’s not available here yet",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/americans-would-love-this-25-000-hybrid-suv-but-its-not-available-here-yet-bfa693ce?mod=mw_rss_topstories",
-        "published": "Tue, 07 Apr 2026 17:18:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.7,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.04,
+      "score": -0.127,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "US x Iran ceasefire by April 7?",
-        "volume_24h": 5140210,
-        "yes_price": 0.04,
+        "volume_24h": 5165690,
+        "yes_price": 0.06,
         "category": "finance"
       },
       {
         "title": "US x Iran ceasefire by April 15?",
-        "volume_24h": 2114491,
+        "volume_24h": 2153335,
         "yes_price": 0.2,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 1063686,
+        "volume_24h": 1067345,
         "yes_price": 0.05,
         "category": "finance"
       },
       {
         "title": "US x Iran ceasefire by April 30?",
-        "volume_24h": 1011176,
+        "volume_24h": 996686,
         "yes_price": 0.34,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 703968,
+        "volume_24h": 704422,
         "yes_price": 0.13,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $200 in April?",
-        "volume_24h": 562735,
+        "volume_24h": 574565,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-        "volume_24h": 484410,
+        "volume_24h": 483795,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 469924,
+        "volume_24h": 469756,
         "yes_price": 0.14,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Low probabilities for US-Iran ceasefire by April 7 (4%) and Iranian regime fall by April 30 (5%) indicate pessimism, with significant volumes ($5,140,210 and $1,063,686)."
+      "summary": "Bearish: Market sentiment indicates low confidence in a US-Iran ceasefire by April 7 (6%) and Iranian regime fall by April 30 (5%), with low volumes for extreme outcomes like WTI Crude Oil hitting $200 (4%)."
     },
     "reddit": [],
     "reddit_summary": {
@@ -568,7 +568,7 @@
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Market sentiment is down due to Trump's Iran warning, Apple's iPhone delays, AWS service concerns, and jet fuel supply issues, with multiple bearish reports outweighing a few bullish notes, such as rising used car prices and Robinhood's growth."
+      "summary": "Bearish: Market sentiment is negative due to Trump's Iran warning, Apple's iPhone delays, Anthropic's AI rollout limits, and jet fuel supply concerns, with airlines cutting flights."
     }
   },
   "portfolio": [
@@ -608,15 +608,15 @@
       "symbol": "XYLD",
       "name": "Global X S&P 500 Covered Call",
       "type": "Covered Call Income",
-      "price_usd": 39.4,
-      "change_1d": -0.22,
-      "change_1w": 2.72,
-      "change_1m": -0.95,
+      "price_usd": 39.38,
+      "change_1d": -0.29,
+      "change_1w": 2.65,
+      "change_1m": -1.02,
       "high_3m": 40.5,
       "low_3m": 38.36,
       "week52_high": 41.1,
       "week52_low": 35.08,
-      "rsi": 42.8,
+      "rsi": 42.5,
       "div_yield": 10.98,
       "last_div": null,
       "outlook": {
@@ -630,9 +630,9 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 42.8 — Below neutral, mild downward pressure ↓",
-          "5-day momentum +2.7% — short-term buying pressure ↑",
-          "1-month return -0.9% — range-bound"
+          "RSI 42.5 — Below neutral, mild downward pressure ↓",
+          "5-day momentum +2.6% — short-term buying pressure ↑",
+          "1-month return -1.0% — range-bound"
         ]
       }
     },
@@ -640,15 +640,15 @@
       "symbol": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium",
       "type": "Equity Income",
-      "price_usd": 55.62,
-      "change_1d": -0.54,
-      "change_1w": 4.49,
-      "change_1m": -1.17,
+      "price_usd": 55.58,
+      "change_1d": -0.62,
+      "change_1w": 4.41,
+      "change_1m": -1.25,
       "high_3m": 58.37,
       "low_3m": 53.23,
       "week52_high": 60.14,
       "week52_low": 45.15,
-      "rsi": 41.8,
+      "rsi": 41.6,
       "div_yield": 11.11,
       "last_div": null,
       "outlook": {
@@ -662,8 +662,8 @@
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 41.8 — Below neutral, mild downward pressure ↓",
-          "5-day momentum +4.5% — short-term buying pressure ↑",
+          "RSI 41.6 — Below neutral, mild downward pressure ↓",
+          "5-day momentum +4.4% — short-term buying pressure ↑",
           "1-month return -1.2% — range-bound"
         ]
       }
@@ -672,15 +672,15 @@
       "symbol": "SCHD",
       "name": "Schwab US Dividend Equity",
       "type": "Dividend Growth",
-      "price_usd": 30.6,
-      "change_1d": -0.11,
-      "change_1w": 0.41,
-      "change_1m": -0.85,
+      "price_usd": 30.59,
+      "change_1d": -0.15,
+      "change_1w": 0.38,
+      "change_1m": -0.89,
       "high_3m": 31.59,
       "low_3m": 27.67,
       "week52_high": 31.95,
       "week52_low": 23.87,
-      "rsi": 47.6,
+      "rsi": 47.4,
       "div_yield": 3.44,
       "last_div": null,
       "outlook": {
@@ -694,7 +694,7 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 47.6 — In neutral range (45–55)",
+          "RSI 47.4 — In neutral range (45–55)",
           "5-day momentum +0.4% — consolidating sideways →",
           "1-month return -0.9% — range-bound"
         ]
@@ -704,15 +704,15 @@
       "symbol": "QQQM",
       "name": "Invesco Nasdaq 100",
       "type": "Growth",
-      "price_usd": 240.88,
-      "change_1d": -0.59,
-      "change_1w": 4.79,
-      "change_1m": -2.33,
+      "price_usd": 240.65,
+      "change_1d": -0.69,
+      "change_1w": 4.69,
+      "change_1m": -2.43,
       "high_3m": 260.4,
       "low_3m": 229.87,
       "week52_high": 262.234,
       "week52_low": 168.815,
-      "rsi": 41.1,
+      "rsi": 40.9,
       "div_yield": 53.0,
       "last_div": null,
       "outlook": {
@@ -726,9 +726,9 @@
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 41.1 — Below neutral, mild downward pressure ↓",
-          "5-day momentum +4.8% — short-term buying pressure ↑",
-          "1-month return -2.3% — range-bound"
+          "RSI 40.9 — Below neutral, mild downward pressure ↓",
+          "5-day momentum +4.7% — short-term buying pressure ↑",
+          "1-month return -2.4% — range-bound"
         ]
       }
     }
