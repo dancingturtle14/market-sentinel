@@ -399,14 +399,31 @@ function switchTab(name, el) {
 let _cdTimer = null;
 function startCountdown(updatedAt) {
   clearInterval(_cdTimer);
-  const next = new Date(new Date(updatedAt).getTime() + 10 * 60 * 1000);
-  const el = document.getElementById('countdown');
+  clearTimeout(_cdTimer);
+  const updated  = new Date(updatedAt);
+  const ageMs    = Date.now() - updated.getTime();
+  const el       = document.getElementById('countdown');
+
+  // Data is stale (> 12 min old) — GitHub Actions may be delayed; retry slowly
+  if (ageMs > 12 * 60 * 1000) {
+    const staleMins = Math.round(ageMs / 60000);
+    el.textContent = `· data ${staleMins}m old`;
+    _cdTimer = setTimeout(() => loadData(), 90 * 1000); // retry in 90s
+    return;
+  }
+
+  const next = new Date(updated.getTime() + 10 * 60 * 1000);
   function tick() {
     const diff = next - Date.now();
-    if (diff <= 0) { clearInterval(_cdTimer); loadData(); return; }
+    if (diff <= 0) {
+      clearInterval(_cdTimer);
+      el.textContent = '· checking…';
+      loadData();
+      return;
+    }
     const m = Math.floor(diff / 60000);
     const s = Math.floor((diff % 60000) / 1000);
-    el.textContent = `· next update in ${m}:${String(s).padStart(2,'0')}`;
+    el.textContent = `· next in ${m}:${String(s).padStart(2,'0')}`;
   }
   tick();
   _cdTimer = setInterval(tick, 1000);
@@ -775,9 +792,8 @@ function renderPortfolio(funds) {
   }).join('');
 }
 
-// Auto-refresh every 5 minutes
+// Initial load — countdown handles all subsequent refreshes
 loadData();
-setInterval(loadData, 5 * 60 * 1000);
 </script>
 </body>
 </html>
