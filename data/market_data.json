@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T20:01:01Z",
+  "updated_at": "2026-04-07T20:09:00Z",
   "crypto": {
     "fear_greed": {
       "value": 11,
@@ -11,74 +11,74 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 69009,
-        "change_24h": -0.95,
-        "market_cap": 1381858028565,
-        "volume_24h": 44757975717
+        "price_usd": 69502,
+        "change_24h": -0.33,
+        "market_cap": 1388292946064,
+        "volume_24h": 45930468679
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2112.79,
-        "change_24h": -1.4,
-        "market_cap": 254946424310,
-        "volume_24h": 16668274543
+        "price_usd": 2123.44,
+        "change_24h": -0.96,
+        "market_cap": 255972940889,
+        "volume_24h": 15699810251
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 608.36,
-        "change_24h": 0.25,
-        "market_cap": 82960028480,
-        "volume_24h": 895425019
+        "price_usd": 609.3,
+        "change_24h": 0.38,
+        "market_cap": 83075116828,
+        "volume_24h": 935346106
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.31,
-        "change_24h": -1.88,
-        "market_cap": 80717193074,
-        "volume_24h": 1657201909
+        "price_usd": 1.32,
+        "change_24h": -1.52,
+        "market_cap": 80912877536,
+        "volume_24h": 1635486880
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 81.67,
-        "change_24h": -0.08,
-        "market_cap": 46807575746,
-        "volume_24h": 3317567179
+        "price_usd": 82.11,
+        "change_24h": 0.32,
+        "market_cap": 47058419716,
+        "volume_24h": 3023099853
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.092202,
-        "change_24h": 0.36,
-        "market_cap": 14166590180,
-        "volume_24h": 986114189
+        "price_usd": 0.092512,
+        "change_24h": 0.67,
+        "market_cap": 14209125687,
+        "volume_24h": 1015282792
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.246558,
-        "change_24h": -2.13,
-        "market_cap": 9093203967,
-        "volume_24h": 380519318
+        "price_usd": 0.247528,
+        "change_24h": -1.86,
+        "market_cap": 9123667340,
+        "volume_24h": 397157289
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.74,
-        "change_24h": -2.68,
-        "market_cap": 6358225878,
-        "volume_24h": 332693232
+        "price_usd": 8.76,
+        "change_24h": -2.49,
+        "market_cap": 6369357138,
+        "volume_24h": 338076181
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.79,
-        "change_24h": -5.58,
-        "market_cap": 3793622047,
-        "volume_24h": 477843206
+        "price_usd": 8.84,
+        "change_24h": -5.11,
+        "market_cap": 3818842870,
+        "volume_24h": 486960390
       }
     ],
     "top_mentioned": [],
@@ -124,7 +124,7 @@
         "published": "Tue, 07 Apr 2026 15:23:41 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -192,6 +192,28 @@
         "color": "red"
       },
       {
+        "title": "Spot Bitcoin ETF inflows top $471M but BTC is pinned under $70K: Here’s why",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/spot-bitcoin-etf-inflows-top-dollar471m-but-btc-is-pinned-under-dollar70k-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 07 Apr 2026 20:45:05 +0100",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
+      {
+        "title": "Americans lost $11B to crypto scams in 2025, says FBI",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/fbi-americans-crypto-scams-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 07 Apr 2026 20:44:32 +0100",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.9,
+        "color": "red"
+      },
+      {
         "title": "Bitcoin holds $67K support as data exposes price to sentiment divergence",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/bitcoin-holds-dollar67k-support-as-data-exposes-price-to-sentiment-divergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -200,7 +222,7 @@
           "BTC"
         ],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.1,
         "color": "yellow"
       },
       {
@@ -222,30 +244,10 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Split Capital winds down as founder joins stablecoin startup Plasma",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/split-capital-wind-down-founder-plasma-stablecoin-startup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 07 Apr 2026 15:50:26 +0100",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": -0.1,
-        "color": "yellow"
-      },
-      {
-        "title": "Polymarket bags 97% of onchain prediction market fees after pricing overhaul",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/polymarket-grabs-97-onchain-prediction-market-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 07 Apr 2026 15:20:47 +0100",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": -0.093,
+      "score": -0.2,
       "label": "Neutral",
       "color": "yellow"
     },
@@ -253,28 +255,28 @@
       {
         "title": "Will the price of Ethereum be above $2,100 on April 9?",
         "volume_24h": 248104,
-        "yes_price": 0.56,
+        "yes_price": 0.58,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 56% of participants predict Ethereum will exceed $2,100 on April 9, with $248,104 in volume."
+      "summary": "Bullish: 58% of participants predict Ethereum will exceed $2,100 on April 9, with $248,104 in volume."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Sentiment is uncertain due to limited data, with no specific trends or names mentioned, and no numbers available to gauge market direction."
+      "summary": "Mixed: Sentiment is unclear due to lack of data, with no specific trends or names mentioned, and no numbers available to analyze market direction."
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Overall sentiment leans bearish, driven by the FBI reporting over $11 billion in crypto scam losses and DeFi yields crashing below traditional savings. Trump-linked World Liberty scrutiny and \"regulation by hostility\" from Biden-era policy further dampen optimism. Countering this are bullish signs like FDIC's stablecoin proposal and Schwab's view that a 1% crypto allocation can reshape portfolio risk."
+      "summary": "Bearish: Market sentiment is negative due to $11 billion in crypto scam losses and scrutiny of Trump-linked World Liberty, with DeFi yields also crashing, outweighing bullish views from FDIC, Schwab, and Grayscale."
     }
   },
   "stocks": {
     "indices": {
       "sp500": {
-        "value": 6616.88,
+        "value": 6616.85,
         "change_24h": 0.08
       },
       "nasdaq": {
@@ -282,12 +284,12 @@
         "change_24h": 0.1
       },
       "dow": {
-        "value": 46584.75,
+        "value": 46584.46,
         "change_24h": -0.18
       },
       "vix": {
-        "value": 26.99,
-        "change_24h": 11.67
+        "value": 26.55,
+        "change_24h": 9.85
       }
     },
     "market_mood": {
@@ -363,7 +365,7 @@
         "title": "Apple shares sink on report of foldable iPhone delays",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/07/apple-stock-foldable-iphone-report.html",
-        "published": "Tue, 07 Apr 2026 17:31:42 GMT",
+        "published": "Tue, 07 Apr 2026 20:01:44 GMT",
         "assets": [
           "AAPL"
         ],
@@ -388,7 +390,7 @@
         "published": "Tue, 07 Apr 2026 19:32:59 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.7,
         "color": "red"
       },
       {
@@ -398,7 +400,7 @@
         "published": "Tue, 07 Apr 2026 19:52:22 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.7,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -417,9 +419,9 @@
         "url": "https://www.cnbc.com/2026/04/07/aws-iran-threats-us-tech-data-centers.html",
         "published": "Tue, 07 Apr 2026 18:11:19 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 0.3,
+        "color": "green"
       },
       {
         "title": "Jet fuel supply concerns grow as war with Iran drags on, airlines cut flights",
@@ -450,6 +452,16 @@
         "sentiment": "Bullish",
         "score": 0.6,
         "color": "green"
+      },
+      {
+        "title": "You can’t build financial security with a 90-day mindset. Why quarterly earnings reports hurt investors.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-sec-is-right-you-cant-build-financial-security-with-a-90-day-mindset-6f0b8ccd?mod=mw_rss_topstories",
+        "published": "Tue, 07 Apr 2026 20:05:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
       },
       {
         "title": "Multimillion-dollar CEO pay at these 20 low-wage companies is costing you. This is the only fix.",
@@ -492,85 +504,75 @@
         "sentiment": "Bullish",
         "score": 0.7,
         "color": "green"
-      },
-      {
-        "title": "Stocks fall as Trump’s Tuesday night deadline for Iran looms: ‘The market is certainly on edge’",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/stocks-fall-as-trumps-tuesday-night-deadline-for-iran-looms-the-market-is-certainly-on-edge-35d15659?mod=mw_rss_topstories",
-        "published": "Tue, 07 Apr 2026 18:25:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.8,
-        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.08,
+      "score": -0.04,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "US x Iran ceasefire by April 7?",
-        "volume_24h": 6073403,
-        "yes_price": 0.11,
+        "volume_24h": 6156215,
+        "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "US x Iran ceasefire by April 15?",
-        "volume_24h": 2377392,
+        "volume_24h": 2406449,
         "yes_price": 0.27,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 1204408,
+        "volume_24h": 1211080,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "US x Iran ceasefire by April 30?",
-        "volume_24h": 1086613,
-        "yes_price": 0.42,
+        "volume_24h": 1100514,
+        "yes_price": 0.4,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 760729,
+        "volume_24h": 771191,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $200 in April?",
-        "volume_24h": 751476,
+        "volume_24h": 754430,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will Judy Shelton be confirmed as Fed Chair?",
-        "volume_24h": 688000,
+        "volume_24h": 693823,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 533795,
-        "yes_price": 0.56,
+        "volume_24h": 538868,
+        "yes_price": 0.55,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Market sentiment indicates low confidence in a US-Iran ceasefire by April 7 (11%) and a regime change in Iran by April 30 (4%), with significant volume ($6,073,403 and $1,204,408 respectively)."
+      "summary": "Bearish: Markets predict low chances of a US-Iran ceasefire by April 7 (12%) and a low 4% chance of WTI Crude Oil hitting $200 in April, with Judy Shelton's confirmation as Fed Chair at 2%."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No specific data is available to determine market sentiment, with no top mentions or subreddits provided, making it unclear to assess the overall sentiment."
+      "summary": "Mixed: No market sentiment can be determined as the provided Reddit discussion data is entirely empty, lacking any top mentions, subreddits, numbers, or company names for analysis. Therefore, a concise summary based on specific reasons is not possible."
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Market sentiment is negative due to Iran updates, Apple's iPhone delays, and Anthropic's AI rollout limits, with used car prices being a sole bullish factor, rising to their highest point since summer 2023."
+      "summary": "Bearish: Market sentiment is negative due to Iran updates, Apple iPhone delays, and jet fuel supply concerns, with Trump warning of civilization death and airlines cutting flights."
     }
   },
   "portfolio": [
