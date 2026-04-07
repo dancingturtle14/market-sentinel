@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T21:20:39Z",
+  "updated_at": "2026-04-07T21:30:44Z",
   "crypto": {
     "fear_greed": {
       "value": 11,
@@ -11,74 +11,74 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 69821,
-        "change_24h": 0.22,
-        "market_cap": 1399437813003,
-        "volume_24h": 50125534852
+        "price_usd": 69572,
+        "change_24h": -0.11,
+        "market_cap": 1391656222909,
+        "volume_24h": 49795133252
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2137.65,
-        "change_24h": -0.39,
-        "market_cap": 258547363930,
-        "volume_24h": 16933189714
+        "price_usd": 2130.98,
+        "change_24h": -0.67,
+        "market_cap": 257118361240,
+        "volume_24h": 17763172790
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 610.76,
-        "change_24h": 0.83,
-        "market_cap": 83417515048,
-        "volume_24h": 973573658
+        "price_usd": 609.7,
+        "change_24h": 0.64,
+        "market_cap": 83137682927,
+        "volume_24h": 975429295
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.33,
-        "change_24h": -0.59,
-        "market_cap": 81837528173,
-        "volume_24h": 1934087219
+        "change_24h": -0.78,
+        "market_cap": 81552028334,
+        "volume_24h": 1840393448
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.51,
-        "change_24h": 0.85,
-        "market_cap": 47432951680,
-        "volume_24h": 3677811351
+        "price_usd": 82.29,
+        "change_24h": 0.65,
+        "market_cap": 47201662096,
+        "volume_24h": 3693282609
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.092587,
-        "change_24h": 1.05,
-        "market_cap": 14253236476,
-        "volume_24h": 1092820209
+        "price_usd": 0.092403,
+        "change_24h": 0.91,
+        "market_cap": 14204490776,
+        "volume_24h": 1098362719
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.248435,
-        "change_24h": -1.46,
-        "market_cap": 9173373199,
-        "volume_24h": 415361911
+        "price_usd": 0.247753,
+        "change_24h": -1.71,
+        "market_cap": 9138401934,
+        "volume_24h": 419020806
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.84,
-        "change_24h": -1.72,
-        "market_cap": 6432873223,
-        "volume_24h": 359124372
+        "price_usd": 8.8,
+        "change_24h": -2.06,
+        "market_cap": 6399222102,
+        "volume_24h": 363166489
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.88,
-        "change_24h": -4.67,
-        "market_cap": 3837267813,
-        "volume_24h": 512413540
+        "price_usd": 8.86,
+        "change_24h": -4.74,
+        "market_cap": 3831765735,
+        "volume_24h": 514907413
       }
     ],
     "top_mentioned": [],
@@ -136,7 +136,7 @@
         "published": "Tue, 07 Apr 2026 15:23:41 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -1.0,
         "color": "red"
       },
       {
@@ -156,7 +156,7 @@
         "published": "Tue, 07 Apr 2026 15:00:00 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -166,7 +166,7 @@
         "published": "Tue, 07 Apr 2026 14:25:12 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -190,7 +190,7 @@
           "XRP"
         ],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -212,7 +212,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.4,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -234,7 +234,7 @@
           "BTC"
         ],
         "sentiment": "Neutral",
-        "score": 0.1,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -249,30 +249,30 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.173,
+      "score": -0.14,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Ethereum be above $2,100 on April 9?",
-        "volume_24h": 248603,
-        "yes_price": 0.7,
+        "volume_24h": 248868,
+        "yes_price": 0.64,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 70% of participants predict Ethereum will be above $2,100 on April 9, with $248,603 in volume."
+      "summary": "Bullish: 64% of Ethereum price predictions are above $2,100 on April 9, with $248,868 in volume."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Discussion lacks clear direction, with no dominant sentiment or specific numbers mentioned, and no notable names or subreddits referenced."
+      "summary": "Mixed: Sentiment is unclear due to lack of data on top mentioned topics and subreddits."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Bitcoin rose past $69,000, while bearish news included $11 billion in crypto scam losses and DeFi yield crashes, with 5 bearish and 3 bullish reports."
+      "summary": "Mixed: Bitcoin rose past $69,000, while bearish sentiments emerged from Trump-linked World Liberty scrutiny, DeFi yields crashing, and $11 billion in crypto scam losses, with 5 bearish and 3 bullish reports."
     }
   },
   "stocks": {
@@ -367,7 +367,7 @@
         "title": "Apple shares sink on report of foldable iPhone delays",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/07/apple-stock-foldable-iphone-report.html",
-        "published": "Tue, 07 Apr 2026 20:01:44 GMT",
+        "published": "Tue, 07 Apr 2026 21:28:17 GMT",
         "assets": [
           "AAPL"
         ],
@@ -386,10 +386,10 @@
         "color": "green"
       },
       {
-        "title": "Levi Strauss beats expectations on the top and bottom lines, raises guidance",
+        "title": "Levi Strauss revenue jumps again, with DTC making up more than half of sales for the first time",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/07/levi-strauss-levi-earnings-q1-2026.html",
-        "published": "Tue, 07 Apr 2026 20:10:54 GMT",
+        "published": "Tue, 07 Apr 2026 21:24:47 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 0.9,
@@ -399,7 +399,7 @@
         "title": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/07/elon-musk-seeks-ouster-of-openai-ceo-sam-altman-as-part-of-lawsuit.html",
-        "published": "Tue, 07 Apr 2026 21:14:06 GMT",
+        "published": "Tue, 07 Apr 2026 21:21:23 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -0.5,
@@ -456,6 +456,16 @@
         "color": "green"
       },
       {
+        "title": "Levi’s boosts its sales outlook, defying concerns about the impact of the Iran conflict",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/levis-boosts-its-sales-outlook-defying-concerns-about-the-impact-of-the-iran-conflict-8f71cb20?mod=mw_rss_topstories",
+        "published": "Tue, 07 Apr 2026 21:24:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
+      },
+      {
         "title": "U.S. stocks end mixed after late-day rebound as Trump’s Iran deadline looms",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/stocks-fall-as-trumps-tuesday-night-deadline-for-iran-looms-the-market-is-certainly-on-edge-35d15659?mod=mw_rss_topstories",
@@ -492,87 +502,77 @@
         "published": "Tue, 07 Apr 2026 20:05:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
-      },
-      {
-        "title": "Multimillion-dollar CEO pay at these 20 low-wage companies is costing you. This is the only fix.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/multimillion-dollar-ceo-pay-at-these-20-low-wage-companies-is-costing-you-this-is-the-only-fix-ac6bf8b0?mod=mw_rss_topstories",
-        "published": "Tue, 07 Apr 2026 19:06:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.3,
         "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.253,
+      "score": -0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "US x Iran ceasefire by April 7?",
-        "volume_24h": 8048099,
-        "yes_price": 0.23,
+        "volume_24h": 8470786,
+        "yes_price": 0.19,
         "category": "finance"
       },
       {
         "title": "US x Iran ceasefire by April 15?",
-        "volume_24h": 3149563,
-        "yes_price": 0.41,
+        "volume_24h": 3234844,
+        "yes_price": 0.37,
         "category": "finance"
       },
       {
         "title": "US x Iran ceasefire by April 30?",
-        "volume_24h": 1517576,
-        "yes_price": 0.51,
+        "volume_24h": 1597177,
+        "yes_price": 0.49,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 1409976,
+        "volume_24h": 1430965,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Trump out as President by April 30?",
-        "volume_24h": 1148777,
+        "volume_24h": 1148957,
         "yes_price": 0.02,
-        "category": "finance"
-      },
-      {
-        "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 831287,
-        "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $200 in April?",
-        "volume_24h": 816843,
+        "volume_24h": 899418,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
-        "title": "Will Judy Shelton be confirmed as Fed Chair?",
-        "volume_24h": 725535,
-        "yes_price": 0.02,
+        "title": "Kharg Island no longer under Iranian control by April 15?",
+        "volume_24h": 845719,
+        "yes_price": 0.07,
+        "category": "finance"
+      },
+      {
+        "title": "Will the U.S. invade Iran before 2027?",
+        "volume_24h": 737490,
+        "yes_price": 0.39,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: Market sentiment is divided, with 51% predicting a US-Iran ceasefire by April 30, while only 4% expect the Iranian regime to fall by then, and 2% predict Trump's ousting."
+      "outlook": "Bearish",
+      "summary": "Bearish: Market sentiment indicates low confidence in a US-Iran ceasefire by April 7 (19%) and Trump's removal by April 30 (2%), with only 4% expecting the Iranian regime to fall by then."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No specific data is available to determine market sentiment, with no top mentioned stocks or subreddits provided."
+      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentioned stocks or subreddits provided."
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Market sentiment is negative due to Trump's Iran deadline, Apple's iPhone delays, Elon Musk's lawsuit, and Anthropic's AI rollout limits, with Apple shares sinking."
+      "summary": "Bearish: Multiple negative reports, including Apple's iPhone delays, Elon Musk's lawsuit, and Anthropic's AI rollout limits, weigh on the market, with Trump's warning to Iran also contributing to the downturn."
     }
   },
   "portfolio": [
