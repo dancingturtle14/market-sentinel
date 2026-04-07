@@ -2,8 +2,8 @@ name: Update Market Data
 
 on:
   schedule:
-    - cron: '*/10 * * * *'   # every 10 minutes
-  workflow_dispatch:           # manual trigger anytime
+    - cron: '*/30 * * * *'   # every 30 min (GitHub backup — cron-job.org triggers every 10 min)
+  workflow_dispatch:           # manual trigger / called by cron-job.org every 10 min
 
 jobs:
   update:
