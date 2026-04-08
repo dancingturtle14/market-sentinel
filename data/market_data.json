@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T11:11:30Z",
+  "updated_at": "2026-04-08T11:20:52Z",
   "crypto": {
     "fear_greed": {
       "value": 17,
@@ -11,78 +11,90 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71554,
-        "change_24h": 4.79,
-        "market_cap": 1431733122978,
-        "volume_24h": 52510793249
+        "price_usd": 71626,
+        "change_24h": 4.87,
+        "market_cap": 1433599915047,
+        "volume_24h": 52455815130
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2244.62,
-        "change_24h": 7.51,
-        "market_cap": 270830446735,
-        "volume_24h": 25427527413
+        "price_usd": 2248.2,
+        "change_24h": 7.69,
+        "market_cap": 271388119489,
+        "volume_24h": 25367946962
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.38,
-        "change_24h": 5.67,
-        "market_cap": 84882607318,
-        "volume_24h": 3095938289
+        "change_24h": 5.63,
+        "market_cap": 84852197228,
+        "volume_24h": 2869745866
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 612.36,
-        "change_24h": 2.53,
-        "market_cap": 83478052903,
-        "volume_24h": 1361317917
+        "price_usd": 612.53,
+        "change_24h": 2.67,
+        "market_cap": 83527951042,
+        "volume_24h": 1346580432
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 84.61,
-        "change_24h": 6.54,
-        "market_cap": 48534787520,
-        "volume_24h": 5062982239
+        "price_usd": 84.73,
+        "change_24h": 6.84,
+        "market_cap": 48599331986,
+        "volume_24h": 5052439081
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.094578,
-        "change_24h": 4.45,
-        "market_cap": 14537784183,
-        "volume_24h": 1720045473
+        "price_usd": 0.094536,
+        "change_24h": 4.28,
+        "market_cap": 14533871455,
+        "volume_24h": 1699022982
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.258588,
-        "change_24h": 6.66,
-        "market_cap": 9537264766,
-        "volume_24h": 605703015
+        "price_usd": 0.258543,
+        "change_24h": 6.67,
+        "market_cap": 9536141359,
+        "volume_24h": 606059119
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.19,
-        "change_24h": 5.66,
-        "market_cap": 6683878452,
-        "volume_24h": 531783991
+        "price_usd": 9.2,
+        "change_24h": 5.85,
+        "market_cap": 6691500087,
+        "volume_24h": 534003531
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.34,
-        "change_24h": 8.36,
-        "market_cap": 4036204620,
-        "volume_24h": 498846911
+        "price_usd": 9.35,
+        "change_24h": 8.5,
+        "market_cap": 4034169175,
+        "volume_24h": 500868145
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Ceasefire lifts bitcoin, but animal spirits may not return just yet",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/08/ceasefire-lifts-bitcoin-but-animal-spirits-may-not-return-just-yet",
+        "published": "Wed, 08 Apr 2026 11:15:00 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
       {
         "title": "Six Swiss banks join forces to build a unified digital franc",
         "source": "CoinDesk",
@@ -101,9 +113,9 @@
         "url": "https://www.coindesk.com/policy/2026/04/08/south-korean-authorities-mandate-unified-crypto-withdrawal-delays-to-curb-fraud",
         "published": "Wed, 08 Apr 2026 10:44:28 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Crypto markets rally as Trump announces two-week Iran ceasefire",
@@ -112,7 +124,7 @@
         "published": "Wed, 08 Apr 2026 10:30:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -122,7 +134,7 @@
         "published": "Wed, 08 Apr 2026 10:00:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.3,
         "color": "green"
       },
       {
@@ -142,7 +154,7 @@
         "published": "Wed, 08 Apr 2026 08:43:08 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -176,20 +188,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
-        "color": "green"
-      },
-      {
-        "title": "XRP zooms 5% on bitcoin strength, but trend reversal still unconfirmed",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/08/xrp-zooms-5-on-bitcoin-strength-but-trend-reversal-still-unconfirmed",
-        "published": "Wed, 08 Apr 2026 04:49:00 +0000",
-        "assets": [
-          "BTC",
-          "XRP"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -211,7 +210,7 @@
         "published": "Wed, 08 Apr 2026 10:24:18 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.6,
         "color": "green"
       },
       {
@@ -221,7 +220,7 @@
         "published": "Wed, 08 Apr 2026 09:58:44 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -245,55 +244,55 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.6,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.66,
+      "score": 0.593,
       "label": "Bullish",
       "color": "green"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 398161,
+        "volume_24h": 398043,
         "yes_price": 0.23,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $74,000 on April 8?",
-        "volume_24h": 279610,
-        "yes_price": 0.02,
+        "volume_24h": 285386,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 8?",
-        "volume_24h": 225711,
-        "yes_price": 0.95,
+        "volume_24h": 226075,
+        "yes_price": 0.96,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 203773,
+        "volume_24h": 203729,
         "yes_price": 0.17,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 8?",
-        "volume_24h": 189654,
-        "yes_price": 0.26,
+        "volume_24h": 190929,
+        "yes_price": 0.31,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 141714,
-        "yes_price": 0.62,
+        "volume_24h": 142248,
+        "yes_price": 0.64,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 128499,
+        "volume_24h": 128635,
         "yes_price": 0.03,
         "category": "crypto"
       },
@@ -311,7 +310,7 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: Sentiment is unclear due to lack of data, with no specific trends or names mentioned, and no numbers available to analyze market direction."
     },
     "news_summary": {
       "outlook": "Mixed",
@@ -333,8 +332,8 @@
         "change_24h": -0.18
       },
       "vix": {
-        "value": 20.47,
-        "change_24h": -20.6
+        "value": 20.54,
+        "change_24h": -20.33
       }
     },
     "market_mood": {
@@ -420,21 +419,11 @@
         "title": "Delta CEO says airline will 'meaningfully' cut growth plans, sees $300 million boost from its refinery",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/delta-air-lines-q1-2026-earnings.html",
-        "published": "Wed, 08 Apr 2026 11:04:01 GMT",
+        "published": "Wed, 08 Apr 2026 11:15:21 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "Homebuyer mortgage demand drops annually for the first time in over a year, as war fuels uncertainty",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/08/homebuyer-mortgage-demand-drops.html",
-        "published": "Wed, 08 Apr 2026 11:00:01 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "Why the U.S. Navy’s retail business is fighting Walmart and Amazon to fund its own future",
@@ -449,10 +438,10 @@
         "color": "yellow"
       },
       {
-        "title": "USDA Secretary Brooke Rollins sent Easter email to staff touting 'Jesus' and 'God'",
+        "title": "Homebuyer mortgage demand drops annually for the first time in over a year, as war fuels uncertainty",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/07/usda-brooke-rollins-easter-jesus-god.html",
-        "published": "Tue, 07 Apr 2026 21:10:11 GMT",
+        "url": "https://www.cnbc.com/2026/04/08/homebuyer-mortgage-demand-drops.html",
+        "published": "Wed, 08 Apr 2026 11:00:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -467,6 +456,16 @@
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
+      },
+      {
+        "title": "USDA Secretary Brooke Rollins sent Easter email to staff touting 'Jesus' and 'God'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/usda-brooke-rollins-easter-jesus-god.html",
+        "published": "Tue, 07 Apr 2026 21:10:11 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Levi Strauss revenue jumps again, with DTC making up more than half of sales for the first time",
@@ -493,6 +492,16 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/spain-pm-sanchez-trump-iran-war-ceasefire-middle-east-crisis.html",
         "published": "Wed, 08 Apr 2026 11:07:15 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "The price Americans pay for medicine has gotten horribly out of control. Here’s how to fix it.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-price-americans-pay-for-medicine-has-gotten-horribly-out-of-control-heres-how-to-fix-it-5c2e0750?mod=mw_rss_topstories",
+        "published": "Wed, 08 Apr 2026 11:09:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -537,16 +546,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "‘I worked very hard’: I’m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/i-worked-very-hard-im-71-and-have-6-million-after-scrimping-and-saving-my-son-33-wants-money-for-a-house-do-i-say-yes-a62657f7?mod=mw_rss_topstories",
-        "published": "Wed, 08 Apr 2026 09:55:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -556,51 +555,51 @@
     },
     "polymarket": [
       {
+        "title": "Will the Iranian regime fall by April 30?",
+        "volume_24h": 2473585,
+        "yes_price": 0.02,
+        "category": "finance"
+      },
+      {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1735400,
+        "volume_24h": 1730972,
         "yes_price": 0.3,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 1661077,
-        "yes_price": 0.02,
+        "volume_24h": 1659989,
+        "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 976043,
+        "volume_24h": 973438,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 740942,
+        "volume_24h": 742731,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 734302,
-        "yes_price": 0.2,
+        "volume_24h": 735362,
+        "yes_price": 0.21,
         "category": "finance"
       },
       {
         "title": "Will Trump visit China by April 30?",
-        "volume_24h": 606913,
+        "volume_24h": 610125,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in April?",
-        "volume_24h": 543111,
+        "volume_24h": 541468,
         "yes_price": 0.12,
-        "category": "finance"
-      },
-      {
-        "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 516859,
-        "yes_price": 0.16,
         "category": "finance"
       }
     ],
