@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T20:50:35Z",
+  "updated_at": "2026-04-08T21:00:43Z",
   "crypto": {
     "fear_greed": {
       "value": 17,
@@ -11,78 +11,90 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71308,
-        "change_24h": 3.02,
-        "market_cap": 1427218849099,
-        "volume_24h": 52392347078
+        "price_usd": 71365,
+        "change_24h": 3.0,
+        "market_cap": 1428089202263,
+        "volume_24h": 51692800609
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2208.2,
-        "change_24h": 4.5,
-        "market_cap": 266443170624,
-        "volume_24h": 27224572120
+        "price_usd": 2209.51,
+        "change_24h": 4.51,
+        "market_cap": 266693423446,
+        "volume_24h": 27048255158
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.35,
-        "change_24h": 2.34,
-        "market_cap": 82721428339,
-        "volume_24h": 3198848029
+        "change_24h": 2.37,
+        "market_cap": 82772080106,
+        "volume_24h": 3204852308
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 604.22,
-        "change_24h": -0.56,
-        "market_cap": 82386375145,
-        "volume_24h": 1440047807
+        "price_usd": 604.83,
+        "change_24h": -0.47,
+        "market_cap": 82464780235,
+        "volume_24h": 1446094546
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 83.14,
-        "change_24h": 1.41,
-        "market_cap": 47691643355,
-        "volume_24h": 4852188220
+        "price_usd": 83.24,
+        "change_24h": 1.62,
+        "market_cap": 47749801157,
+        "volume_24h": 4820262187
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.09299,
-        "change_24h": 0.87,
-        "market_cap": 14295467674,
-        "volume_24h": 1792399592
+        "price_usd": 0.093047,
+        "change_24h": 1.03,
+        "market_cap": 14304590221,
+        "volume_24h": 1789130175
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.251882,
-        "change_24h": 2.28,
-        "market_cap": 9288367783,
-        "volume_24h": 590066777
+        "price_usd": 0.252333,
+        "change_24h": 2.53,
+        "market_cap": 9304640871,
+        "volume_24h": 592638113
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.96,
-        "change_24h": 2.52,
-        "market_cap": 6516373667,
-        "volume_24h": 491070148
+        "price_usd": 8.97,
+        "change_24h": 2.76,
+        "market_cap": 6519946965,
+        "volume_24h": 490069703
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 9.14,
-        "change_24h": 4.26,
-        "market_cap": 3946712908,
-        "volume_24h": 449048783
+        "change_24h": 4.39,
+        "market_cap": 3949314520,
+        "volume_24h": 450754167
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Morgan Stanley’s bitcoin ETF draws $34 million on day one",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-draws-usd34-million-on-day-one",
+        "published": "Wed, 08 Apr 2026 20:51:31 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
       {
         "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
         "source": "CoinDesk",
@@ -92,7 +104,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -102,7 +114,7 @@
         "published": "Wed, 08 Apr 2026 17:16:52 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.0,
         "color": "yellow"
       },
       {
@@ -123,9 +135,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Crypto Long & Short: Asia’s digital asset crackdown: accountability gets personal",
@@ -134,7 +146,7 @@
         "published": "Wed, 08 Apr 2026 15:50:35 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -166,7 +178,7 @@
         "published": "Wed, 08 Apr 2026 14:56:21 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -180,19 +192,6 @@
         "color": "green"
       },
       {
-        "title": "Adam Back denies he’s Satoshi Nakamoto after NYT report claims he’s Bitcoin’s creator",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/08/adam-back-denies-he-s-satoshi-nakamoto-after-nyt-report-claims-he-s-bitcoin-s-creator",
-        "published": "Wed, 08 Apr 2026 14:24:03 +0000",
-        "assets": [
-          "BTC",
-          "ADA"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Bitcoin has 3–5 years to prepare for quantum risk, says Bernstein",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/bitcoin-quantum-risk-3-5-years-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -201,7 +200,7 @@
           "BTC"
         ],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.0,
         "color": "yellow"
       },
       {
@@ -254,62 +253,62 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.213,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": 0.333,
+      "label": "Bullish",
+      "color": "green"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 409226,
-        "yes_price": 0.2,
+        "volume_24h": 409747,
+        "yes_price": 0.19,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 157322,
+        "volume_24h": 157018,
         "yes_price": 0.17,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 145019,
+        "volume_24h": 145536,
         "yes_price": 0.59,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 133393,
+        "volume_24h": 133331,
         "yes_price": 0.42,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $55,000 in April?",
-        "volume_24h": 113903,
+        "volume_24h": 113910,
         "yes_price": 0.07,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $85,000 in April?",
-        "volume_24h": 109555,
+        "volume_24h": 109549,
         "yes_price": 0.07,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 103922,
-        "yes_price": 0.03,
+        "title": "Will Ethereum dip to $1,800 in April?",
+        "volume_24h": 106767,
+        "yes_price": 0.16,
         "category": "crypto"
       },
       {
-        "title": "Will Ethereum dip to $1,800 in April?",
-        "volume_24h": 92893,
-        "yes_price": 0.17,
+        "title": "Will Bitcoin dip to $50,000 in April?",
+        "volume_24h": 103924,
+        "yes_price": 0.03,
         "category": "crypto"
       }
     ],
@@ -320,7 +319,7 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: Sentiment is unclear due to lack of data, with no specific trends or names mentioned, and no numbers available to analyze market direction."
     },
     "news_summary": {
       "outlook": "Mixed",
@@ -409,7 +408,7 @@
         "title": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/ceasefire-iran-war-lebanon.html",
-        "published": "Wed, 08 Apr 2026 20:02:14 GMT",
+        "published": "Wed, 08 Apr 2026 20:56:35 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -509,6 +508,26 @@
         "color": "yellow"
       },
       {
+        "title": "Corona brewer says shoppers are going for cheaper beer and wine, as it grows more cautious on demand",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/corona-brewer-says-shoppers-are-going-for-cheaper-beer-and-wine-as-it-grows-more-cautious-on-demand-d3c89aed?mod=mw_rss_topstories",
+        "published": "Wed, 08 Apr 2026 20:59:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Intel’s stock soars to a five-year high. This is what’s driving its massive momentum.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/intels-stock-soars-to-a-five-year-high-this-is-whats-driving-its-massive-momentum-61e91f5b?mod=mw_rss_topstories",
+        "published": "Wed, 08 Apr 2026 20:56:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
         "title": "Bonds may be the real winner now that the world economy has sidestepped a historic oil crisis",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/bonds-may-be-the-real-winner-now-that-the-world-economy-has-sidestepped-a-historic-oil-crisis-4797c6ff?mod=mw_rss_topstories",
@@ -539,79 +558,59 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "‘Our FICO score is excellent’: My husband and I are in our 70s. How do we raise $10,000 for a new roof?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/our-fico-score-is-excellent-my-husband-and-i-are-in-our-70s-how-do-we-raise-10-000-for-a-new-roof-738e2821?mod=mw_rss_topstories",
-        "published": "Wed, 08 Apr 2026 20:15:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Many Fed officials think rate cuts are still likely, March meeting minutes show",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/many-fed-officials-think-next-move-will-be-a-rate-cut-march-meeting-minutes-show-c0e2fc30?mod=mw_rss_topstories",
-        "published": "Wed, 08 Apr 2026 20:09:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.0,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 1858917,
+        "volume_24h": 1870725,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1771053,
-        "yes_price": 0.33,
+        "volume_24h": 1711681,
+        "yes_price": 0.34,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 1320429,
+        "volume_24h": 1319140,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 816817,
-        "yes_price": 0.33,
+        "volume_24h": 831935,
+        "yes_price": 0.34,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 761664,
+        "volume_24h": 760441,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 696435,
+        "volume_24h": 704765,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 616229,
+        "volume_24h": 621477,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Trump announces end of military operations against Iran by April 15th?",
-        "volume_24h": 607983,
+        "volume_24h": 600809,
         "yes_price": 0.14,
         "category": "finance"
       }
