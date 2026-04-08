@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T08:41:38Z",
+  "updated_at": "2026-04-08T08:50:36Z",
   "crypto": {
     "fear_greed": {
       "value": 17,
@@ -11,78 +11,98 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71727,
-        "change_24h": 4.13,
-        "market_cap": 1435044701324,
-        "volume_24h": 53993762841
+        "price_usd": 71723,
+        "change_24h": 4.01,
+        "market_cap": 1435258906560,
+        "volume_24h": 53444094040
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2254.64,
-        "change_24h": 6.72,
-        "market_cap": 272044360540,
-        "volume_24h": 26531744863
+        "price_usd": 2255.22,
+        "change_24h": 6.65,
+        "market_cap": 272139634507,
+        "volume_24h": 25756175056
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.38,
-        "change_24h": 4.86,
-        "market_cap": 84821069052,
-        "volume_24h": 3077510708
+        "change_24h": 4.66,
+        "market_cap": 84738412279,
+        "volume_24h": 3162776218
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 612.38,
-        "change_24h": 1.81,
-        "market_cap": 83483390720,
-        "volume_24h": 1398704120
+        "price_usd": 612.53,
+        "change_24h": 1.76,
+        "market_cap": 83521768392,
+        "volume_24h": 1400281233
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 84.6,
-        "change_24h": 5.6,
-        "market_cap": 48499364965,
-        "volume_24h": 5165625133
+        "price_usd": 84.61,
+        "change_24h": 5.64,
+        "market_cap": 48531463990,
+        "volume_24h": 5144210264
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.094613,
-        "change_24h": 4.27,
-        "market_cap": 14548183692,
-        "volume_24h": 1640430022
+        "price_usd": 0.094389,
+        "change_24h": 4.0,
+        "market_cap": 14511246208,
+        "volume_24h": 1618709641
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.2609,
-        "change_24h": 7.0,
-        "market_cap": 9623312128,
-        "volume_24h": 629539056
+        "price_usd": 0.260102,
+        "change_24h": 6.54,
+        "market_cap": 9592963343,
+        "volume_24h": 627199118
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.25,
-        "change_24h": 5.02,
-        "market_cap": 6722743191,
-        "volume_24h": 554754050
+        "price_usd": 9.24,
+        "change_24h": 4.74,
+        "market_cap": 6716056739,
+        "volume_24h": 551108709
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.37,
-        "change_24h": 7.81,
-        "market_cap": 4047563191,
-        "volume_24h": 521688476
+        "price_usd": 9.36,
+        "change_24h": 7.74,
+        "market_cap": 4042863930,
+        "volume_24h": 520350708
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Crypto's 'AWS' Alchemy unveils tool to make AI payment systems talk to each other",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/04/08/blockchain-development-firm-alchemy-unveils-interoperable-layer-for-ai-payments",
+        "published": "Wed, 08 Apr 2026 08:43:08 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
+      },
+      {
+        "title": "Crypto whale holding oil shorts walks away with $2 million in profit",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/08/crypto-whale-holding-oil-shorts-walks-away-with-usd2-million-in-profit",
+        "published": "Wed, 08 Apr 2026 08:42:39 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
       {
         "title": "U.S. bank with $1.9 trillion in assets could debut its bitcoin ETF Wednesday",
         "source": "CoinDesk",
@@ -92,7 +112,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -104,7 +124,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -129,9 +149,9 @@
           "BTC",
           "ETH"
         ],
-        "sentiment": "Bullish",
-        "score": 0.7,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
       },
       {
         "title": "CZ says SBF asked for billions 'like a Bologna sandwich' as FTX collapsed",
@@ -178,30 +198,6 @@
         "color": "green"
       },
       {
-        "title": "Trump-linked World Liberty faces scrutiny over ties to sanctioned network: The Times",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/04/07/trump-linked-world-liberty-faces-scrutiny-over-ties-to-sanctioned-network-the-times",
-        "published": "Tue, 07 Apr 2026 18:02:41 +0000",
-        "assets": [
-          "LINK"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.8,
-        "color": "red"
-      },
-      {
-        "title": "‘Don’t waste time with crypto': Here is what Solana Foundation's cryptic message really means",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/04/07/don-t-waste-time-with-crypto-here-is-what-solana-foundation-s-cryptic-message-really-means",
-        "published": "Tue, 07 Apr 2026 17:13:36 +0000",
-        "assets": [
-          "SOL"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
-      },
-      {
         "title": "Ethereum stablecoin supply hits $180B all-time high: Token Terminal",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/stablecoin-supply-ethereum-hits-180b-all-time-high-token-terminal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -210,7 +206,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.6,
         "color": "green"
       },
       {
@@ -220,7 +216,7 @@
         "published": "Wed, 08 Apr 2026 07:18:34 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -230,7 +226,7 @@
         "published": "Wed, 08 Apr 2026 07:13:30 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -242,7 +238,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.6,
         "color": "green"
       },
       {
@@ -254,43 +250,43 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.9,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.427,
+      "score": 0.5,
       "label": "Bullish",
       "color": "green"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 403918,
+        "volume_24h": 404891,
         "yes_price": 0.23,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $74,000 on April 8?",
-        "volume_24h": 241089,
-        "yes_price": 0.04,
+        "volume_24h": 252027,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 8?",
-        "volume_24h": 191483,
-        "yes_price": 0.97,
+        "volume_24h": 195384,
+        "yes_price": 0.96,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 8?",
-        "volume_24h": 183579,
-        "yes_price": 0.39,
+        "volume_24h": 183846,
+        "yes_price": 0.33,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 132134,
+        "volume_24h": 132181,
         "yes_price": 0.65,
         "category": "crypto"
       },
@@ -302,14 +298,14 @@
       },
       {
         "title": "Will Bitcoin dip to $55,000 in April?",
-        "volume_24h": 125924,
+        "volume_24h": 125984,
         "yes_price": 0.07,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin reach $85,000 in April?",
-        "volume_24h": 117692,
-        "yes_price": 0.08,
+        "title": "Will Bitcoin dip to $50,000 in April?",
+        "volume_24h": 119110,
+        "yes_price": 0.03,
         "category": "crypto"
       }
     ],
@@ -320,11 +316,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Discussion lacks clear direction, with no dominant sentiment or specific numbers mentioned, and no notable names or subreddits referenced."
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 3 bullish vs 5 bearish signals detected across crypto news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -342,8 +338,8 @@
         "change_24h": -0.18
       },
       "vix": {
-        "value": 20.52,
-        "change_24h": -20.4
+        "value": 20.49,
+        "change_24h": -20.52
       }
     },
     "market_mood": {
@@ -568,50 +564,50 @@
     "polymarket": [
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1674005,
+        "volume_24h": 1664096,
         "yes_price": 0.24,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 970043,
+        "volume_24h": 973658,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 724400,
+        "volume_24h": 726550,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 722786,
+        "volume_24h": 721961,
         "yes_price": 0.23,
         "category": "finance"
       },
       {
         "title": "Will Trump visit China by April 30?",
-        "volume_24h": 602104,
+        "volume_24h": 606104,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in April?",
-        "volume_24h": 552011,
+        "volume_24h": 552241,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Trump announces end of military operations against Iran by April 15th?",
-        "volume_24h": 490974,
+        "volume_24h": 487200,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
-        "title": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in April?",
-        "volume_24h": 486265,
-        "yes_price": 0.06,
+        "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
+        "volume_24h": 483724,
+        "yes_price": 0.16,
         "category": "finance"
       }
     ],
