@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T17:10:38Z",
+  "updated_at": "2026-04-08T17:20:44Z",
   "crypto": {
     "fear_greed": {
       "value": 17,
@@ -11,87 +11,97 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71662,
-        "change_24h": 4.92,
-        "market_cap": 1434331428788,
-        "volume_24h": 54669556560
+        "price_usd": 71742,
+        "change_24h": 5.03,
+        "market_cap": 1436184113235,
+        "volume_24h": 54777795442
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2221.81,
-        "change_24h": 6.68,
-        "market_cap": 268139947894,
-        "volume_24h": 26807977123
+        "price_usd": 2224.27,
+        "change_24h": 6.73,
+        "market_cap": 268568946691,
+        "volume_24h": 26790244640
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.36,
-        "change_24h": 4.56,
-        "market_cap": 83451150208,
-        "volume_24h": 3166488638
+        "change_24h": 4.42,
+        "market_cap": 83464471746,
+        "volume_24h": 3246453396
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 605.6,
-        "change_24h": 0.71,
-        "market_cap": 82577363657,
-        "volume_24h": 1498737903
+        "price_usd": 605.84,
+        "change_24h": 0.66,
+        "market_cap": 82609611121,
+        "volume_24h": 1495362972
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 83.47,
-        "change_24h": 5.8,
-        "market_cap": 47910533567,
-        "volume_24h": 5375989022
+        "price_usd": 83.6,
+        "change_24h": 5.34,
+        "market_cap": 47955000363,
+        "volume_24h": 5371244238
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.093559,
-        "change_24h": 3.12,
-        "market_cap": 14388910966,
-        "volume_24h": 1903111744
+        "price_usd": 0.093569,
+        "change_24h": 3.28,
+        "market_cap": 14392549058,
+        "volume_24h": 1907105314
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.255243,
-        "change_24h": 5.32,
-        "market_cap": 9413380205,
-        "volume_24h": 609647012
+        "price_usd": 0.255168,
+        "change_24h": 5.49,
+        "market_cap": 9417520398,
+        "volume_24h": 612218732
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.07,
-        "change_24h": 5.23,
-        "market_cap": 6596337829,
-        "volume_24h": 516771805
+        "price_usd": 9.08,
+        "change_24h": 5.48,
+        "market_cap": 6602461342,
+        "volume_24h": 514372143
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.23,
-        "change_24h": 7.62,
-        "market_cap": 3986041142,
-        "volume_24h": 490193359
+        "price_usd": 9.25,
+        "change_24h": 7.86,
+        "market_cap": 3994204828,
+        "volume_24h": 488343113
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Yuga Labs settles Bored Ape NFT lawsuit, ending fight over alleged copycat tokens",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/04/08/yuga-labs-settles-bored-ape-nft-lawsuit-ending-fight-over-alleged-copycat-tokens",
+        "published": "Wed, 08 Apr 2026 17:16:52 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
       {
         "title": "South Korea proposes cryptocurrency law with bank-style rules for stablecoins",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/policy/2026/04/08/south-korea-proposes-cryptocurrency-law-with-bank-style-rules-for-stablecoins",
         "published": "Wed, 08 Apr 2026 16:28:54 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.3,
+        "color": "red"
       },
       {
         "title": "The Protocol: Bernstein says quantum threat to Bitcoin is real but manageable",
@@ -101,9 +111,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.1,
+        "color": "yellow"
       },
       {
         "title": "Crypto Long & Short: Asia’s digital asset crackdown: accountability gets personal",
@@ -121,9 +131,9 @@
         "url": "https://www.coindesk.com/policy/2026/04/08/u-s-treasury-to-propose-demands-that-stablecoin-firms-be-set-to-police-bad-transactions",
         "published": "Wed, 08 Apr 2026 15:45:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": -0.2,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.4,
+        "color": "red"
       },
       {
         "title": "Bitcoin is above $70,000 on Iran ceasefire, but rally is turning cautious for good reasons",
@@ -134,7 +144,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.6,
         "color": "green"
       },
       {
@@ -177,19 +187,7 @@
         "published": "Wed, 08 Apr 2026 14:14:51 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
-      },
-      {
-        "title": "Quantum threat to Bitcoin is real, but manageable, according to Wall Street broker Bernstein",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/04/08/quantum-threat-to-bitcoin-is-real-but-manageable-according-to-wall-street-broker-bernstein",
-        "published": "Wed, 08 Apr 2026 13:45:07 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -198,9 +196,9 @@
         "url": "https://cointelegraph.com/news/iran-crypto-ships-strait-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 08 Apr 2026 16:43:18 +0100",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": -0.2,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.3,
+        "color": "green"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -241,49 +239,55 @@
         "published": "Wed, 08 Apr 2026 15:19:35 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.6,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.26,
+      "score": 0.207,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 418244,
+        "volume_24h": 418300,
         "yes_price": 0.2,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 203133,
+        "volume_24h": 203119,
         "yes_price": 0.18,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 174539,
+        "volume_24h": 174637,
         "yes_price": 0.64,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 136455,
+        "volume_24h": 136798,
         "yes_price": 0.41,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $85,000 in April?",
-        "volume_24h": 121326,
+        "volume_24h": 121367,
         "yes_price": 0.07,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $90,000 in April?",
-        "volume_24h": 121138,
+        "volume_24h": 120961,
+        "yes_price": 0.03,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $50,000 in April?",
+        "volume_24h": 116433,
         "yes_price": 0.03,
         "category": "crypto"
       },
@@ -291,12 +295,6 @@
         "title": "Will Bitcoin dip to $55,000 in April?",
         "volume_24h": 109643,
         "yes_price": 0.07,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 107692,
-        "yes_price": 0.03,
         "category": "crypto"
       }
     ],
@@ -307,7 +305,7 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Market sentiment is uncertain, with no clear trend emerging from the crypto Reddit discussion data, which lacks specific details on top mentioned topics and subreddits."
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
       "outlook": "Mixed",
@@ -317,20 +315,20 @@
   "stocks": {
     "indices": {
       "sp500": {
-        "value": 6783.53,
-        "change_24h": 2.52
+        "value": 6781.66,
+        "change_24h": 2.49
       },
       "nasdaq": {
-        "value": 22691.17,
-        "change_24h": 3.06
+        "value": 22673.97,
+        "change_24h": 2.98
       },
       "dow": {
-        "value": 47815.54,
+        "value": 47813.15,
         "change_24h": 2.64
       },
       "vix": {
-        "value": 20.66,
-        "change_24h": -19.86
+        "value": 20.7,
+        "change_24h": -19.71
       }
     },
     "market_mood": {
@@ -341,53 +339,53 @@
     "prices": [
       {
         "symbol": "NVDA",
-        "price_usd": 181.71,
-        "change_24h": 2.02
+        "price_usd": 181.65,
+        "change_24h": 1.99
       },
       {
         "symbol": "TSLA",
-        "price_usd": 347.53,
-        "change_24h": 0.25
+        "price_usd": 347.96,
+        "change_24h": 0.38
       },
       {
         "symbol": "AAPL",
-        "price_usd": 258.42,
-        "change_24h": 1.94
+        "price_usd": 258.08,
+        "change_24h": 1.81
       },
       {
         "symbol": "MSFT",
-        "price_usd": 378.12,
-        "change_24h": 1.57
+        "price_usd": 377.48,
+        "change_24h": 1.4
       },
       {
         "symbol": "GOOGL",
-        "price_usd": 319.11,
-        "change_24h": 4.47
+        "price_usd": 318.48,
+        "change_24h": 4.26
       },
       {
         "symbol": "AMZN",
-        "price_usd": 222.08,
-        "change_24h": 3.89
+        "price_usd": 222.05,
+        "change_24h": 3.88
       },
       {
         "symbol": "META",
-        "price_usd": 625.13,
-        "change_24h": 8.71
+        "price_usd": 622.4,
+        "change_24h": 8.23
       },
       {
         "symbol": "AMD",
-        "price_usd": 232.69,
-        "change_24h": 5.04
+        "price_usd": 232.6,
+        "change_24h": 5.0
       },
       {
         "symbol": "PLTR",
-        "price_usd": 144.82,
-        "change_24h": -3.5
+        "price_usd": 144.5,
+        "change_24h": -3.71
       },
       {
         "symbol": "COIN",
-        "price_usd": 178.56,
-        "change_24h": 1.93
+        "price_usd": 178.42,
+        "change_24h": 1.85
       }
     ],
     "top_mentioned": [],
@@ -561,49 +559,49 @@
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 2085992,
+        "volume_24h": 2084822,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1821285,
-        "yes_price": 0.33,
+        "volume_24h": 1848847,
+        "yes_price": 0.35,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 1365173,
+        "volume_24h": 1369614,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 831500,
-        "yes_price": 0.09,
+        "volume_24h": 847981,
+        "yes_price": 0.08,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 824768,
-        "yes_price": 0.27,
+        "volume_24h": 825666,
+        "yes_price": 0.28,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 730023,
+        "volume_24h": 626245,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 589136,
+        "volume_24h": 587770,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Trump announces end of military operations against Iran by April 15th?",
-        "volume_24h": 566708,
+        "volume_24h": 568448,
         "yes_price": 0.18,
         "category": "finance"
       }
@@ -660,14 +658,14 @@
       "name": "Global X S&P 500 Covered Call",
       "type": "Covered Call Income",
       "price_usd": 39.83,
-      "change_1d": 0.91,
-      "change_1w": 1.79,
-      "change_1m": -0.66,
+      "change_1d": 0.92,
+      "change_1w": 1.8,
+      "change_1m": -0.65,
       "high_3m": 40.5,
       "low_3m": 38.36,
       "week52_high": 41.1,
-      "week52_low": 35.3,
-      "rsi": 57.0,
+      "week52_low": 35.08,
+      "rsi": 57.1,
       "div_yield": 10.98,
       "last_div": null,
       "outlook": {
@@ -681,7 +679,7 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 57.0 — Above neutral, mild upward momentum ↑",
+          "RSI 57.1 — Above neutral, mild upward momentum ↑",
           "5-day momentum +1.8% — short-term buying pressure ↑",
           "1-month return -0.7% — range-bound"
         ]
@@ -691,15 +689,15 @@
       "symbol": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium",
       "type": "Equity Income",
-      "price_usd": 57.18,
-      "change_1d": 2.26,
-      "change_1w": 4.04,
-      "change_1m": 0.32,
+      "price_usd": 57.17,
+      "change_1d": 2.23,
+      "change_1w": 4.01,
+      "change_1m": 0.29,
       "high_3m": 58.37,
       "low_3m": 53.23,
       "week52_high": 60.14,
-      "week52_low": 45.67,
-      "rsi": 55.4,
+      "week52_low": 45.15,
+      "rsi": 55.3,
       "div_yield": 11.11,
       "last_div": null,
       "outlook": {
@@ -713,7 +711,7 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 55.4 — Above neutral, mild upward momentum ↑",
+          "RSI 55.3 — Above neutral, mild upward momentum ↑",
           "5-day momentum +4.0% — short-term buying pressure ↑",
           "1-month return +0.3% — range-bound"
         ]
@@ -723,15 +721,15 @@
       "symbol": "SCHD",
       "name": "Schwab US Dividend Equity",
       "type": "Dividend Growth",
-      "price_usd": 30.68,
-      "change_1d": 0.41,
-      "change_1w": 0.01,
-      "change_1m": -0.25,
+      "price_usd": 30.69,
+      "change_1d": 0.44,
+      "change_1w": 0.05,
+      "change_1m": -0.21,
       "high_3m": 31.59,
       "low_3m": 28.18,
       "week52_high": 31.95,
       "week52_low": 23.87,
-      "rsi": 61.1,
+      "rsi": 61.4,
       "div_yield": 3.44,
       "last_div": null,
       "outlook": {
@@ -745,7 +743,7 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 61.1 — Above neutral, mild upward momentum ↑",
+          "RSI 61.4 — Above neutral, mild upward momentum ↑",
           "5-day momentum +0.0% — consolidating sideways →",
           "1-month return -0.2% — range-bound"
         ]
@@ -755,15 +753,15 @@
       "symbol": "QQQM",
       "name": "Invesco Nasdaq 100",
       "type": "Growth",
-      "price_usd": 249.91,
-      "change_1d": 3.11,
-      "change_1w": 5.17,
-      "change_1m": 0.02,
+      "price_usd": 249.76,
+      "change_1d": 3.05,
+      "change_1w": 5.11,
+      "change_1m": -0.04,
       "high_3m": 260.4,
       "low_3m": 229.87,
       "week52_high": 262.234,
-      "week52_low": 171.05,
-      "rsi": 56.1,
+      "week52_low": 168.815,
+      "rsi": 55.9,
       "div_yield": 53.0,
       "last_div": null,
       "outlook": {
@@ -777,9 +775,9 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 56.1 — Above neutral, mild upward momentum ↑",
-          "5-day momentum +5.2% — short-term buying pressure ↑",
-          "1-month return +0.0% — range-bound"
+          "RSI 55.9 — Above neutral, mild upward momentum ↑",
+          "5-day momentum +5.1% — short-term buying pressure ↑",
+          "1-month return -0.0% — range-bound"
         ]
       }
     }
