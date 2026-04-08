@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T03:31:10Z",
+  "updated_at": "2026-04-08T03:40:54Z",
   "crypto": {
     "fear_greed": {
       "value": 17,
@@ -11,74 +11,74 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71406,
-        "change_24h": 3.87,
-        "market_cap": 1427524730813,
-        "volume_24h": 57920868082
+        "price_usd": 71362,
+        "change_24h": 3.78,
+        "market_cap": 1428420619427,
+        "volume_24h": 57667186671
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2236.95,
-        "change_24h": 6.1,
-        "market_cap": 269732234877,
-        "volume_24h": 24103575229
+        "price_usd": 2235.6,
+        "change_24h": 6.06,
+        "market_cap": 269889319453,
+        "volume_24h": 23064588326
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.37,
-        "change_24h": 4.06,
-        "market_cap": 84116216573,
-        "volume_24h": 2781023860
+        "change_24h": 4.18,
+        "market_cap": 84260136981,
+        "volume_24h": 2795490402
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 615.4,
-        "change_24h": 2.73,
-        "market_cap": 83843727776,
-        "volume_24h": 1309724630
+        "price_usd": 615.44,
+        "change_24h": 2.71,
+        "market_cap": 83932639324,
+        "volume_24h": 1279042634
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 84.59,
-        "change_24h": 5.94,
-        "market_cap": 48493270489,
-        "volume_24h": 4940131952
+        "price_usd": 84.54,
+        "change_24h": 5.89,
+        "market_cap": 48513260094,
+        "volume_24h": 4887851912
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.094643,
-        "change_24h": 4.51,
-        "market_cap": 14545696072,
-        "volume_24h": 1596319167
+        "price_usd": 0.094587,
+        "change_24h": 4.5,
+        "market_cap": 14548661962,
+        "volume_24h": 1588434359
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.261328,
-        "change_24h": 6.62,
-        "market_cap": 9633846613,
-        "volume_24h": 615547817
+        "price_usd": 0.261012,
+        "change_24h": 6.44,
+        "market_cap": 9629019889,
+        "volume_24h": 598262453
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.2,
-        "change_24h": 4.7,
-        "market_cap": 6681754875,
-        "volume_24h": 545990204
+        "price_usd": 9.19,
+        "change_24h": 4.62,
+        "market_cap": 6688016837,
+        "volume_24h": 546831523
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 9.45,
-        "change_24h": 8.88,
-        "market_cap": 4074024948,
-        "volume_24h": 571882310
+        "change_24h": 8.8,
+        "market_cap": 4083788095,
+        "volume_24h": 570687284
       }
     ],
     "top_mentioned": [],
@@ -89,9 +89,9 @@
         "url": "https://www.coindesk.com/business/2026/04/07/cz-says-sbf-asked-for-billions-like-a-bologna-sandwich-as-ftx-collapsed",
         "published": "Wed, 08 Apr 2026 00:00:00 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Bitcoin vaults past $72,000 as U.S. stock futures surge on a two‑week U.S.–Iran ceasefire",
@@ -114,7 +114,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -158,7 +158,7 @@
         "published": "Tue, 07 Apr 2026 15:23:41 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -178,7 +178,7 @@
         "published": "Tue, 07 Apr 2026 15:00:00 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -232,7 +232,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.7,
         "color": "red"
       },
       {
@@ -242,62 +242,62 @@
         "published": "Wed, 08 Apr 2026 01:00:00 +0100",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.3,
         "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.08,
+      "score": -0.14,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 383357,
+        "volume_24h": 396608,
         "yes_price": 0.2,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Bitcoin be above $72,000 on April 8?",
-        "volume_24h": 152105,
-        "yes_price": 0.3,
+        "title": "Will the price of Bitcoin be above $74,000 on April 8?",
+        "volume_24h": 156921,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Bitcoin be above $74,000 on April 8?",
-        "volume_24h": 147195,
-        "yes_price": 0.04,
+        "title": "Will the price of Bitcoin be above $72,000 on April 8?",
+        "volume_24h": 153658,
+        "yes_price": 0.31,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 138557,
+        "volume_24h": 141913,
         "yes_price": 0.2,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $90,000 in April?",
-        "volume_24h": 130059,
+        "volume_24h": 129073,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 129715,
-        "yes_price": 0.62,
-        "category": "crypto"
-      },
-      {
         "title": "Will the price of Bitcoin be above $70,000 on April 8?",
-        "volume_24h": 124834,
-        "yes_price": 0.85,
+        "volume_24h": 126813,
+        "yes_price": 0.88,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $55,000 in April?",
-        "volume_24h": 123634,
+        "volume_24h": 123444,
         "yes_price": 0.09,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $75,000 in April?",
+        "volume_24h": 120975,
+        "yes_price": 0.62,
         "category": "crypto"
       }
     ],
@@ -308,7 +308,7 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: Discussion lacks specific trends, with no dominant subreddits or names mentioned, indicating a neutral market sentiment with no clear direction, and no notable numbers or data to support a bullish or bearish outlook."
     },
     "news_summary": {
       "outlook": "Bearish",
@@ -554,56 +554,56 @@
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 2092506,
+        "volume_24h": 2090995,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 1586401,
-        "yes_price": 0.05,
+        "volume_24h": 1591439,
+        "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1390454,
+        "volume_24h": 1392444,
         "yes_price": 0.26,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 794556,
+        "volume_24h": 815756,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 775498,
+        "volume_24h": 782178,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 737785,
-        "yes_price": 0.25,
+        "volume_24h": 732070,
+        "yes_price": 0.24,
         "category": "finance"
       },
       {
         "title": "Will Trump visit China by April 30?",
-        "volume_24h": 643245,
+        "volume_24h": 614764,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in April?",
-        "volume_24h": 558515,
+        "volume_24h": 555067,
         "yes_price": 0.1,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: The market anticipates geopolitical stability, with Iranian regime fall probabilities at just 2-9% by April/June and Kharg Island loss at 5-7%. However, there's a 25% chance WTI Crude hits $120 in April, suggesting some inflationary pressure, though an extreme $130 spike is only 10% likely."
+      "summary": "Mixed: 1 bullish vs 1 bearish signals detected across finance prediction markets data."
     },
     "reddit": [],
     "reddit_summary": {
@@ -659,7 +659,7 @@
       "high_3m": 40.5,
       "low_3m": 38.36,
       "week52_high": 41.1,
-      "week52_low": 35.08,
+      "week52_low": 35.3,
       "rsi": 43.6,
       "div_yield": 10.98,
       "last_div": null,
@@ -691,7 +691,7 @@
       "high_3m": 58.37,
       "low_3m": 53.23,
       "week52_high": 60.14,
-      "week52_low": 45.15,
+      "week52_low": 45.67,
       "rsi": 43.3,
       "div_yield": 11.11,
       "last_div": null,
@@ -755,7 +755,7 @@
       "high_3m": 260.4,
       "low_3m": 229.87,
       "week52_high": 262.234,
-      "week52_low": 168.815,
+      "week52_low": 171.05,
       "rsi": 42.7,
       "div_yield": 53.0,
       "last_div": null,
