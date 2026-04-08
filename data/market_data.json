@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T15:01:01Z",
+  "updated_at": "2026-04-08T15:11:05Z",
   "crypto": {
     "fear_greed": {
       "value": 17,
@@ -11,87 +11,99 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 70865,
-        "change_24h": 4.43,
-        "market_cap": 1416717395521,
-        "volume_24h": 54151153991
+        "price_usd": 70909,
+        "change_24h": 4.46,
+        "market_cap": 1420324195404,
+        "volume_24h": 54661398025
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2192.9,
-        "change_24h": 5.99,
-        "market_cap": 264274990653,
-        "volume_24h": 25831748834
+        "price_usd": 2198.4,
+        "change_24h": 6.19,
+        "market_cap": 265534058304,
+        "volume_24h": 27243429189
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.35,
-        "change_24h": 3.97,
-        "market_cap": 82762644504,
-        "volume_24h": 3168521161
+        "change_24h": 4.08,
+        "market_cap": 82981629165,
+        "volume_24h": 3191367000
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 602.3,
-        "change_24h": 1.3,
-        "market_cap": 82103323235,
-        "volume_24h": 1487678909
+        "price_usd": 602.44,
+        "change_24h": 1.25,
+        "market_cap": 82204504753,
+        "volume_24h": 1502377442
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.84,
-        "change_24h": 5.52,
-        "market_cap": 47525339616,
-        "volume_24h": 5320136080
+        "price_usd": 82.9,
+        "change_24h": 5.48,
+        "market_cap": 47594002885,
+        "volume_24h": 5421019970
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.092863,
-        "change_24h": 2.91,
-        "market_cap": 14261632817,
-        "volume_24h": 1899351357
+        "price_usd": 0.092877,
+        "change_24h": 2.96,
+        "market_cap": 14282024169,
+        "volume_24h": 1878418072
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.252485,
-        "change_24h": 4.63,
-        "market_cap": 9314217457,
-        "volume_24h": 597239035
+        "price_usd": 0.253178,
+        "change_24h": 4.8,
+        "market_cap": 9345304167,
+        "volume_24h": 606213786
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.99,
-        "change_24h": 4.69,
-        "market_cap": 6534911095,
-        "volume_24h": 525678064
+        "price_usd": 9.0,
+        "change_24h": 4.86,
+        "market_cap": 6548870082,
+        "volume_24h": 524430846
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.17,
-        "change_24h": 7.1,
-        "market_cap": 3959359221,
-        "volume_24h": 502542970
+        "price_usd": 9.2,
+        "change_24h": 7.47,
+        "market_cap": 3972831353,
+        "volume_24h": 500265856
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Bitcoin is above $70,000 on Iran ceasefire, but rally is turning cautious for good reasons",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/08/bitcoin-is-above-usd70-000-on-iran-ceasefire-but-rally-is-turning-cautious-for-good-reasons",
+        "published": "Wed, 08 Apr 2026 15:05:59 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
       {
         "title": "Standard Chartered is looking to take over crypto custody provider Zodia: Bloomberg",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/business/2026/04/08/standard-chartered-is-looking-to-take-over-crypto-custody-provider-zodia-bloomberg",
         "published": "Wed, 08 Apr 2026 14:56:21 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "RWA network Pharos lands a $1 billion valuation in $44M funding round ahead of mainnet debut",
@@ -99,9 +111,9 @@
         "url": "https://www.coindesk.com/business/2026/04/08/pharos-raises-usd44-million-in-series-a-to-power-real-world-asset-tokenization",
         "published": "Wed, 08 Apr 2026 14:40:53 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Adam Back denies he’s Satoshi Nakamoto after NYT report claims he’s Bitcoin’s creator",
@@ -113,7 +125,7 @@
           "ADA"
         ],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": -0.2,
         "color": "yellow"
       },
       {
@@ -123,7 +135,7 @@
         "published": "Wed, 08 Apr 2026 14:14:51 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -135,7 +147,7 @@
           "BTC"
         ],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -146,9 +158,9 @@
         "assets": [
           "SOL"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Iran eyes crypto toll for oil tanker transits through Strait of Hormuz, according to FT",
@@ -156,9 +168,9 @@
         "url": "https://www.coindesk.com/markets/2026/04/08/iran-eyes-crypto-toll-for-oil-tanker-transit-through-strait-of-hormuz",
         "published": "Wed, 08 Apr 2026 13:14:44 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "CoinDesk 20 performance update: Internet Computer (ICP) rises 12.1%",
@@ -167,7 +179,7 @@
         "published": "Wed, 08 Apr 2026 13:14:43 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -180,19 +192,7 @@
           "ADA"
         ],
         "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Morgan Stanley's bitcoin ETF opens today, giving BlackRock’s $55 billion IBIT fund its toughest rival yet",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-opens-today-giving-blackrock-s-usd55-billion-ibit-fund-its-toughest-rival-yet",
-        "published": "Wed, 08 Apr 2026 12:45:00 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -213,9 +213,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "MEXC targets EU MiCA compliance as new CEO takes helm",
@@ -224,7 +224,7 @@
         "published": "Wed, 08 Apr 2026 15:26:53 +0100",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -234,7 +234,7 @@
         "published": "Wed, 08 Apr 2026 15:19:35 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -243,63 +243,63 @@
         "url": "https://cointelegraph.com/news/standard-chartered-mulls-folding-parts-of-zodia-custody-in-house-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 08 Apr 2026 14:56:23 +0100",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.2,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": 0.387,
+      "label": "Bullish",
+      "color": "green"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 415957,
+        "volume_24h": 416150,
         "yes_price": 0.18,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 8?",
-        "volume_24h": 389009,
-        "yes_price": 0.95,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the price of Bitcoin be above $72,000 on April 8?",
-        "volume_24h": 334885,
-        "yes_price": 0.02,
+        "volume_24h": 391946,
+        "yes_price": 0.97,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 198367,
-        "yes_price": 0.18,
+        "volume_24h": 199285,
+        "yes_price": 0.2,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 165641,
-        "yes_price": 0.59,
+        "volume_24h": 166004,
+        "yes_price": 0.58,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 140828,
+        "volume_24h": 140983,
         "yes_price": 0.46,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $90,000 in April?",
-        "volume_24h": 132720,
+        "volume_24h": 133525,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 123630,
+        "volume_24h": 123654,
         "yes_price": 0.03,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $85,000 in April?",
+        "volume_24h": 121427,
+        "yes_price": 0.07,
         "category": "crypto"
       }
     ],
@@ -310,7 +310,7 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: Sentiment is unclear due to lack of data, with no specific trends or names mentioned, and no numbers available to analyze market direction."
     },
     "news_summary": {
       "outlook": "Bullish",
@@ -320,20 +320,20 @@
   "stocks": {
     "indices": {
       "sp500": {
-        "value": 6754.42,
-        "change_24h": 2.08
+        "value": 6749.63,
+        "change_24h": 2.01
       },
       "nasdaq": {
-        "value": 22563.16,
-        "change_24h": 2.48
+        "value": 22552.65,
+        "change_24h": 2.43
       },
       "dow": {
-        "value": 47642.01,
-        "change_24h": 2.27
+        "value": 47611.62,
+        "change_24h": 2.2
       },
       "vix": {
-        "value": 21.63,
-        "change_24h": -16.1
+        "value": 21.86,
+        "change_24h": -15.21
       }
     },
     "market_mood": {
@@ -344,53 +344,53 @@
     "prices": [
       {
         "symbol": "NVDA",
-        "price_usd": 181.03,
-        "change_24h": 1.65
+        "price_usd": 181.07,
+        "change_24h": 1.66
       },
       {
         "symbol": "TSLA",
-        "price_usd": 348.75,
-        "change_24h": 0.61
+        "price_usd": 346.11,
+        "change_24h": -0.16
       },
       {
         "symbol": "AAPL",
-        "price_usd": 258.91,
-        "change_24h": 2.13
+        "price_usd": 258.51,
+        "change_24h": 1.98
       },
       {
         "symbol": "MSFT",
-        "price_usd": 378.35,
-        "change_24h": 1.63
+        "price_usd": 377.67,
+        "change_24h": 1.44
       },
       {
         "symbol": "GOOGL",
-        "price_usd": 316.45,
-        "change_24h": 3.6
+        "price_usd": 316.54,
+        "change_24h": 3.63
       },
       {
         "symbol": "AMZN",
-        "price_usd": 220.82,
-        "change_24h": 3.3
+        "price_usd": 220.47,
+        "change_24h": 3.14
       },
       {
         "symbol": "META",
-        "price_usd": 593.2,
-        "change_24h": 3.16
+        "price_usd": 592.86,
+        "change_24h": 3.1
       },
       {
         "symbol": "AMD",
-        "price_usd": 228.73,
-        "change_24h": 3.25
+        "price_usd": 229.63,
+        "change_24h": 3.66
       },
       {
         "symbol": "PLTR",
-        "price_usd": 147.43,
-        "change_24h": -1.76
+        "price_usd": 147.06,
+        "change_24h": -2.01
       },
       {
         "symbol": "COIN",
-        "price_usd": 177.58,
-        "change_24h": 1.37
+        "price_usd": 177.63,
+        "change_24h": 1.4
       }
     ],
     "top_mentioned": [],
@@ -399,7 +399,7 @@
         "title": "First ships pass Strait of Hormuz since Trump-Iran ceasefire, but traffic remains low amid confusion",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/trump-iran-ceasefire-strait-of-hormuz-toll.html",
-        "published": "Wed, 08 Apr 2026 14:47:38 GMT",
+        "published": "Wed, 08 Apr 2026 15:06:38 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -503,6 +503,46 @@
         "color": "yellow"
       },
       {
+        "title": "The New York Times says it’s identified Satoshi, bitcoin’s inventor. The crypto industry doesn’t seem to care.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-new-york-times-says-its-identified-satoshi-the-inventor-of-bitcoin-3dd055a7?mod=mw_rss_topstories",
+        "published": "Wed, 08 Apr 2026 15:08:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Oracle’s stock is trading at a very extreme discount to this key technical indicator",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/oracles-stock-is-trading-at-a-very-extreme-discount-to-this-key-technical-indicator-22f27f9f?mod=mw_rss_topstories",
+        "published": "Wed, 08 Apr 2026 15:08:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Two reasons AT&T’s stock is missing out on the market’s cease-fire rally",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/two-reasons-at-ts-stock-is-missing-out-on-the-markets-cease-fire-rally-da7d191f?mod=mw_rss_topstories",
+        "published": "Wed, 08 Apr 2026 15:05:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "We’re in our 70s with no heirs. I like donating $30,000 from our $700,000 IRA to charity — my husband disagrees. Who’s right?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/were-in-our-70s-with-no-heirs-i-like-donating-30-000-from-our-700-000-ira-to-charity-my-husband-disagrees-whos-right-46080fcc?mod=mw_rss_topstories",
+        "published": "Wed, 08 Apr 2026 15:00:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "My wife and I want to move to Malaysia. Will we receive Social Security benefits there?",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/my-wife-and-i-want-to-move-to-malaysia-will-we-receive-social-security-benefits-there-cb38f98e?mod=mw_rss_topstories",
@@ -511,102 +551,60 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "These stocks in the S&P 500 are rising the most after Trump’s cease-fire announcement",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/these-stocks-in-the-s-p-500-are-rising-the-most-after-trumps-cease-fire-announcement-86f29ef1?mod=mw_rss_topstories",
-        "published": "Wed, 08 Apr 2026 14:49:00 GMT",
-        "assets": [
-          "SPY"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "The New York Times says it’s identified bitcoin’s inventor. The crypto industry doesn’t seem to care.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/the-new-york-times-says-its-identified-satoshi-the-inventor-of-bitcoin-3dd055a7?mod=mw_rss_topstories",
-        "published": "Wed, 08 Apr 2026 14:42:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "My second husband will leave me $540,000 if I bequeath him my $130,000 net worth. What will happen to my two sons?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/my-second-husband-will-leave-me-540-000-if-i-bequeath-him-my-130-000-net-worth-what-will-happen-to-my-two-sons-d5a80a08?mod=mw_rss_topstories",
-        "published": "Wed, 08 Apr 2026 14:36:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Why SpaceX could trade like a meme stock after its blockbuster IPO",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/why-spacex-could-trade-like-a-meme-stock-after-its-blockbuster-ipo-1e03a564?mod=mw_rss_topstories",
-        "published": "Wed, 08 Apr 2026 14:15:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.133,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 2252021,
+        "volume_24h": 2208026,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1756697,
-        "yes_price": 0.26,
+        "volume_24h": 1767407,
+        "yes_price": 0.28,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 1397290,
+        "volume_24h": 1394096,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 904665,
+        "volume_24h": 904614,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 756614,
-        "yes_price": 0.24,
+        "volume_24h": 786167,
+        "yes_price": 0.26,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 754981,
+        "volume_24h": 755237,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 574737,
+        "volume_24h": 575640,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Trump announces end of military operations against Iran by April 15th?",
-        "volume_24h": 569043,
-        "yes_price": 0.2,
+        "volume_24h": 572551,
+        "yes_price": 0.18,
         "category": "finance"
       }
     ],
@@ -629,15 +627,15 @@
       "symbol": "BKHY",
       "name": "BlackRock High Yield Bond",
       "type": "Bond Income",
-      "price_usd": 47.62,
-      "change_1d": 0.66,
-      "change_1w": 1.35,
-      "change_1m": 0.65,
+      "price_usd": 47.61,
+      "change_1d": 0.63,
+      "change_1w": 1.33,
+      "change_1m": 0.63,
       "high_3m": 47.67,
       "low_3m": 46.46,
       "week52_high": 48.89,
       "week52_low": 42.33,
-      "rsi": 63.0,
+      "rsi": 62.9,
       "div_yield": 7.35,
       "last_div": null,
       "outlook": {
@@ -651,9 +649,9 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 63.0 — Above neutral, mild upward momentum ↑",
-          "5-day momentum +1.4% — consolidating sideways →",
-          "1-month return +0.7% — range-bound"
+          "RSI 62.9 — Above neutral, mild upward momentum ↑",
+          "5-day momentum +1.3% — consolidating sideways →",
+          "1-month return +0.6% — range-bound"
         ]
       }
     },
@@ -693,15 +691,15 @@
       "symbol": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium",
       "type": "Equity Income",
-      "price_usd": 56.98,
-      "change_1d": 1.9,
-      "change_1w": 3.67,
-      "change_1m": -0.04,
+      "price_usd": 56.94,
+      "change_1d": 1.83,
+      "change_1w": 3.61,
+      "change_1m": -0.1,
       "high_3m": 58.37,
       "low_3m": 53.23,
       "week52_high": 60.14,
       "week52_low": 45.15,
-      "rsi": 54.3,
+      "rsi": 54.1,
       "div_yield": 11.11,
       "last_div": null,
       "outlook": {
@@ -715,9 +713,9 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 54.3 — In neutral range (45–55)",
-          "5-day momentum +3.7% — short-term buying pressure ↑",
-          "1-month return -0.0% — range-bound"
+          "RSI 54.1 — In neutral range (45–55)",
+          "5-day momentum +3.6% — short-term buying pressure ↑",
+          "1-month return -0.1% — range-bound"
         ]
       }
     },
@@ -725,15 +723,15 @@
       "symbol": "SCHD",
       "name": "Schwab US Dividend Equity",
       "type": "Dividend Growth",
-      "price_usd": 30.69,
-      "change_1d": 0.44,
-      "change_1w": 0.05,
-      "change_1m": -0.21,
+      "price_usd": 30.66,
+      "change_1d": 0.33,
+      "change_1w": -0.07,
+      "change_1m": -0.32,
       "high_3m": 31.59,
       "low_3m": 28.18,
       "week52_high": 31.95,
       "week52_low": 23.87,
-      "rsi": 61.4,
+      "rsi": 60.6,
       "div_yield": 3.44,
       "last_div": null,
       "outlook": {
@@ -747,9 +745,9 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 61.4 — Above neutral, mild upward momentum ↑",
-          "5-day momentum +0.0% — consolidating sideways →",
-          "1-month return -0.2% — range-bound"
+          "RSI 60.6 — Above neutral, mild upward momentum ↑",
+          "5-day momentum -0.1% — consolidating sideways →",
+          "1-month return -0.3% — range-bound"
         ]
       }
     },
@@ -757,15 +755,15 @@
       "symbol": "QQQM",
       "name": "Invesco Nasdaq 100",
       "type": "Growth",
-      "price_usd": 248.61,
-      "change_1d": 2.57,
-      "change_1w": 4.62,
-      "change_1m": -0.5,
+      "price_usd": 248.46,
+      "change_1d": 2.51,
+      "change_1w": 4.56,
+      "change_1m": -0.56,
       "high_3m": 260.4,
       "low_3m": 229.87,
       "week52_high": 262.234,
       "week52_low": 168.815,
-      "rsi": 54.7,
+      "rsi": 54.6,
       "div_yield": 53.0,
       "last_div": null,
       "outlook": {
@@ -779,9 +777,9 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 54.7 — In neutral range (45–55)",
+          "RSI 54.6 — In neutral range (45–55)",
           "5-day momentum +4.6% — short-term buying pressure ↑",
-          "1-month return -0.5% — range-bound"
+          "1-month return -0.6% — range-bound"
         ]
       }
     }
