@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T05:20:47Z",
+  "updated_at": "2026-04-08T05:30:46Z",
   "crypto": {
     "fear_greed": {
       "value": 17,
@@ -11,74 +11,74 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71666,
-        "change_24h": 4.19,
-        "market_cap": 1434184650065,
-        "volume_24h": 53626260820
+        "price_usd": 71711,
+        "change_24h": 4.36,
+        "market_cap": 1435812612007,
+        "volume_24h": 53629234520
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2241.41,
-        "change_24h": 6.18,
-        "market_cap": 270547922732,
-        "volume_24h": 24250063985
+        "price_usd": 2243.55,
+        "change_24h": 6.52,
+        "market_cap": 270819794914,
+        "volume_24h": 24181158097
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.38,
-        "change_24h": 4.91,
-        "market_cap": 84831936466,
-        "volume_24h": 2818047740
+        "change_24h": 5.33,
+        "market_cap": 85034500850,
+        "volume_24h": 2887114680
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 615.82,
-        "change_24h": 2.82,
-        "market_cap": 83973099615,
-        "volume_24h": 1342125840
+        "price_usd": 616.27,
+        "change_24h": 2.97,
+        "market_cap": 84071092688,
+        "volume_24h": 1358031505
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 84.58,
-        "change_24h": 5.91,
-        "market_cap": 48527737955,
-        "volume_24h": 5003250896
+        "price_usd": 84.64,
+        "change_24h": 6.1,
+        "market_cap": 48579954997,
+        "volume_24h": 5011394560
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.094755,
-        "change_24h": 4.74,
-        "market_cap": 14566668072,
-        "volume_24h": 1608740158
+        "price_usd": 0.09485,
+        "change_24h": 4.82,
+        "market_cap": 14589220307,
+        "volume_24h": 1600132912
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.262654,
-        "change_24h": 7.15,
-        "market_cap": 9687275007,
-        "volume_24h": 630457301
+        "price_usd": 0.262442,
+        "change_24h": 7.09,
+        "market_cap": 9690336852,
+        "volume_24h": 619136932
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.23,
-        "change_24h": 4.92,
-        "market_cap": 6709687142,
-        "volume_24h": 544370915
+        "price_usd": 9.24,
+        "change_24h": 5.3,
+        "market_cap": 6723410940,
+        "volume_24h": 545944948
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.44,
-        "change_24h": 8.76,
-        "market_cap": 4073966522,
-        "volume_24h": 559618259
+        "price_usd": 9.49,
+        "change_24h": 9.6,
+        "market_cap": 4100663855,
+        "volume_24h": 572163329
       }
     ],
     "top_mentioned": [],
@@ -198,13 +198,35 @@
         "color": "red"
       },
       {
+        "title": "Morgan Stanley's Bitcoin ETF set to launch on Wednesday",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/morgan-stanley-bitcoin-etf-debut-wednesday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 08 Apr 2026 05:42:37 +0100",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
+      },
+      {
+        "title": "Anthropic limits access to AI model, fearing future of cyberattacks",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/claude-mythos-finds-thousands-of-zero-day-os-and-browser-vulnerabilities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 08 Apr 2026 05:30:59 +0100",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
+      },
+      {
         "title": "SEC admits certain crypto enforcement cases delivered no investor benefit",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/sec-crypto-enforcement-cases-no-benefit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 08 Apr 2026 03:40:40 +0100",
         "assets": [],
         "sentiment": "Neutral",
-        "score": -0.2,
+        "score": -0.1,
         "color": "yellow"
       },
       {
@@ -228,82 +250,60 @@
         "sentiment": "Bullish",
         "score": 0.7,
         "color": "green"
-      },
-      {
-        "title": "Iran’s Bitcoin hashrate falls 77% over the past quarter amid conflict",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/iran-bitcoin-hashrate-drop-results-mining-redistribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 08 Apr 2026 01:07:11 +0100",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
-      },
-      {
-        "title": "Crypto billionaire to prison: CZ’s autobiography revisits turbulent Binance era",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/crypto-billionaire-cz-autobiography?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 08 Apr 2026 01:00:00 +0100",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.4,
-        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.093,
+      "score": 0.02,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 400818,
+        "volume_24h": 400864,
         "yes_price": 0.21,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $74,000 on April 8?",
-        "volume_24h": 177866,
-        "yes_price": 0.05,
+        "volume_24h": 184513,
+        "yes_price": 0.06,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 8?",
-        "volume_24h": 162060,
-        "yes_price": 0.37,
+        "volume_24h": 162174,
+        "yes_price": 0.41,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 141945,
-        "yes_price": 0.2,
+        "volume_24h": 141978,
+        "yes_price": 0.17,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 8?",
-        "volume_24h": 136770,
-        "yes_price": 0.93,
+        "volume_24h": 139051,
+        "yes_price": 0.94,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 130400,
+        "volume_24h": 130599,
         "yes_price": 0.64,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $90,000 in April?",
-        "volume_24h": 128818,
+        "volume_24h": 128782,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $55,000 in April?",
-        "volume_24h": 123688,
-        "yes_price": 0.09,
+        "volume_24h": 124759,
+        "yes_price": 0.07,
         "category": "crypto"
       }
     ],
@@ -497,49 +497,49 @@
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 2136610,
+        "volume_24h": 2140190,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1423947,
-        "yes_price": 0.26,
+        "volume_24h": 1491973,
+        "yes_price": 0.27,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 832271,
+        "volume_24h": 833552,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 805255,
+        "volume_24h": 804921,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 744253,
+        "volume_24h": 746646,
         "yes_price": 0.23,
         "category": "finance"
       },
       {
         "title": "Will Trump visit China by April 30?",
-        "volume_24h": 615185,
+        "volume_24h": 615881,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in April?",
-        "volume_24h": 563567,
-        "yes_price": 0.12,
+        "volume_24h": 567129,
+        "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in April?",
-        "volume_24h": 520103,
+        "volume_24h": 523355,
         "yes_price": 0.07,
         "category": "finance"
       }
