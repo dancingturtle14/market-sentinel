@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T11:30:44Z",
+  "updated_at": "2026-04-08T11:41:05Z",
   "crypto": {
     "fear_greed": {
       "value": 17,
@@ -11,78 +11,90 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71643,
-        "change_24h": 4.91,
-        "market_cap": 1433898910053,
-        "volume_24h": 52595413034
+        "price_usd": 71468,
+        "change_24h": 4.46,
+        "market_cap": 1430227717048,
+        "volume_24h": 47910098973
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2252.46,
-        "change_24h": 7.88,
-        "market_cap": 271689208023,
-        "volume_24h": 25644813843
+        "price_usd": 2240.23,
+        "change_24h": 7.14,
+        "market_cap": 270523109480,
+        "volume_24h": 22901327527
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.38,
-        "change_24h": 5.71,
-        "market_cap": 84727860669,
-        "volume_24h": 2854219064
+        "price_usd": 1.37,
+        "change_24h": 5.12,
+        "market_cap": 84320720751,
+        "volume_24h": 2886115659
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 612.88,
-        "change_24h": 2.71,
-        "market_cap": 83523689941,
-        "volume_24h": 1342337465
+        "price_usd": 611.45,
+        "change_24h": 2.33,
+        "market_cap": 83386146852,
+        "volume_24h": 1343975519
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 84.65,
-        "change_24h": 6.9,
-        "market_cap": 48554828928,
-        "volume_24h": 5002735713
+        "price_usd": 84.22,
+        "change_24h": 6.22,
+        "market_cap": 48365152920,
+        "volume_24h": 5002952991
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.094513,
-        "change_24h": 4.4,
-        "market_cap": 14530749378,
-        "volume_24h": 1717434862
+        "price_usd": 0.093984,
+        "change_24h": 3.77,
+        "market_cap": 14447615724,
+        "volume_24h": 1747947605
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.258355,
-        "change_24h": 6.86,
-        "market_cap": 9531818877,
-        "volume_24h": 588804887
+        "price_usd": 0.25659,
+        "change_24h": 5.93,
+        "market_cap": 9465805036,
+        "volume_24h": 608544963
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.21,
-        "change_24h": 6.02,
-        "market_cap": 6699575269,
-        "volume_24h": 535432415
+        "price_usd": 9.16,
+        "change_24h": 5.54,
+        "market_cap": 6680653975,
+        "volume_24h": 535834592
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.35,
-        "change_24h": 8.62,
-        "market_cap": 4038512830,
-        "volume_24h": 497862813
+        "price_usd": 9.29,
+        "change_24h": 8.05,
+        "market_cap": 4014031128,
+        "volume_24h": 500476607
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Bitcoin buyers gobbled up nearly 850,000 BTC between $60,000 and $70,000",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000",
+        "published": "Wed, 08 Apr 2026 11:36:11 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
       {
         "title": "Ceasefire lifts bitcoin, but animal spirits may not return just yet",
         "source": "CoinDesk",
@@ -91,9 +103,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Six Swiss banks join forces to build a unified digital franc",
@@ -124,7 +136,7 @@
         "published": "Wed, 08 Apr 2026 10:30:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -133,9 +145,9 @@
         "url": "https://www.coindesk.com/markets/2026/04/08/mexc-s-new-ceo-wants-to-tame-a-memecoin-machine-without-killing-what-made-it-work",
         "published": "Wed, 08 Apr 2026 10:00:00 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.3,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
       },
       {
         "title": "Pre-market crypto stocks are glowing green after the ceasefire news",
@@ -144,7 +156,7 @@
         "published": "Wed, 08 Apr 2026 09:24:50 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -154,7 +166,7 @@
         "published": "Wed, 08 Apr 2026 08:43:08 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -176,43 +188,8 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "Attacking bitcoin mining with a quantum computer would require the energy of a star, academics say",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/04/08/attacking-bitcoin-mining-with-a-quantum-computer-would-require-the-energy-of-a-star-academics-say",
-        "published": "Wed, 08 Apr 2026 05:42:54 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
-      },
-      {
-        "title": "Thailand proposes tighter scrutiny of funders behind crypto firms",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/thailand-sec-tighter-rules-crypto-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 08 Apr 2026 12:26:28 +0100",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
-      },
-      {
-        "title": "NYT revives Adam Back theory in latest bid to identify Bitcoin creator",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/nyt-adam-back-bitcoin-creator-theory?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 08 Apr 2026 12:03:20 +0100",
-        "assets": [
-          "BTC",
-          "ADA"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.1,
-        "color": "yellow"
       },
       {
         "title": "Oil falls, Bitcoin jumps to $72K, but is this BTC price breakout for real?",
@@ -223,7 +200,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -233,7 +210,7 @@
         "published": "Wed, 08 Apr 2026 10:24:18 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.4,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -243,32 +220,50 @@
         "published": "Wed, 08 Apr 2026 09:58:44 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.8,
+        "color": "green"
+      },
+      {
+        "title": "Will quantum-safe cryptography slow Ethereum down? The performance tradeoff explained",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/explained/will-quantum-safe-cryptography-slow-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 08 Apr 2026 09:49:39 +0100",
+        "assets": [
+          "ETH"
+        ],
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
+      },
+      {
+        "title": "Ethereum stablecoin supply hits $180B all-time high: Token Terminal",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/stablecoin-supply-ethereum-hits-180b-all-time-high-token-terminal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 08 Apr 2026 07:21:14 +0100",
+        "assets": [
+          "ETH"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.8,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.46,
+      "score": 0.62,
       "label": "Bullish",
       "color": "green"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 398545,
+        "volume_24h": 398436,
         "yes_price": 0.23,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Bitcoin be above $74,000 on April 8?",
-        "volume_24h": 287842,
-        "yes_price": 0.02,
-        "category": "crypto"
-      },
-      {
         "title": "Will the price of Bitcoin be above $70,000 on April 8?",
-        "volume_24h": 232757,
-        "yes_price": 0.96,
+        "volume_24h": 246043,
+        "yes_price": 0.95,
         "category": "crypto"
       },
       {
@@ -279,26 +274,32 @@
       },
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 8?",
-        "volume_24h": 191361,
+        "volume_24h": 191280,
         "yes_price": 0.28,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 142475,
-        "yes_price": 0.63,
+        "volume_24h": 142250,
+        "yes_price": 0.64,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 130027,
+        "volume_24h": 130076,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $55,000 in April?",
-        "volume_24h": 125100,
+        "volume_24h": 124285,
         "yes_price": 0.07,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $90,000 in April?",
+        "volume_24h": 118681,
+        "yes_price": 0.03,
         "category": "crypto"
       }
     ],
@@ -309,11 +310,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: Market sentiment is uncertain, with no clear trend emerging from the provided data, which lacks specific numbers and names, making it challenging to determine a dominant outlook."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across crypto news data."
+      "summary": "Mixed: 3 bullish vs 2 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -331,8 +332,8 @@
         "change_24h": -0.18
       },
       "vix": {
-        "value": 20.47,
-        "change_24h": -20.6
+        "value": 20.21,
+        "change_24h": -21.61
       }
     },
     "market_mood": {
@@ -398,7 +399,7 @@
         "title": "Oil prices plunge below $95 after Iran agrees to safe passage through Strait of Hormuz during ceasefire",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html",
-        "published": "Wed, 08 Apr 2026 10:15:49 GMT",
+        "published": "Wed, 08 Apr 2026 11:34:21 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
@@ -440,7 +441,7 @@
         "title": "Homebuyer mortgage demand drops annually for the first time in over a year, as war fuels uncertainty",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/homebuyer-mortgage-demand-drops.html",
-        "published": "Wed, 08 Apr 2026 11:00:01 GMT",
+        "published": "Wed, 08 Apr 2026 11:31:51 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -467,26 +468,6 @@
         "color": "yellow"
       },
       {
-        "title": "Levi Strauss revenue jumps again, with DTC making up more than half of sales for the first time",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/07/levi-strauss-levi-earnings-q1-2026.html",
-        "published": "Tue, 07 Apr 2026 21:24:47 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/07/elon-musk-seeks-ouster-of-openai-ceo-sam-altman-as-part-of-lawsuit.html",
-        "published": "Tue, 07 Apr 2026 23:34:15 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Sánchez to Trump: Spain won’t ‘applaud those who set the world on fire just because they then show up with a bucket’",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/spain-pm-sanchez-trump-iran-war-ceasefire-middle-east-crisis.html",
@@ -495,6 +476,26 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "Trump faces calls for removal over threats to wipe out 'whole civilization' in Iran",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/25th-amendment-trump-removal-iran-war.html",
+        "published": "Wed, 08 Apr 2026 00:15:24 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Levi Strauss revenue jumps again, with DTC making up more than half of sales for the first time",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/levi-strauss-levi-earnings-q1-2026.html",
+        "published": "Tue, 07 Apr 2026 21:24:47 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Exxon and Shell reveal production hit from Iran war",
@@ -555,49 +556,49 @@
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 2518633,
-        "yes_price": 0.03,
+        "volume_24h": 2529754,
+        "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1741433,
+        "volume_24h": 1701773,
         "yes_price": 0.28,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 1638449,
+        "volume_24h": 1625983,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 972450,
+        "volume_24h": 939612,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 743971,
+        "volume_24h": 744010,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 736473,
+        "volume_24h": 736733,
         "yes_price": 0.21,
         "category": "finance"
       },
       {
         "title": "Will Trump visit China by April 30?",
-        "volume_24h": 609727,
+        "volume_24h": 605195,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in April?",
-        "volume_24h": 540591,
+        "volume_24h": 540386,
         "yes_price": 0.12,
         "category": "finance"
       }
@@ -613,7 +614,7 @@
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 6 bullish vs 4 bearish signals detected across stock/finance news data."
+      "summary": "Mixed: 4 bullish vs 4 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
@@ -660,7 +661,7 @@
       "high_3m": 40.5,
       "low_3m": 38.36,
       "week52_high": 41.1,
-      "week52_low": 35.3,
+      "week52_low": 35.08,
       "rsi": 43.6,
       "div_yield": 10.98,
       "last_div": null,
@@ -692,7 +693,7 @@
       "high_3m": 58.37,
       "low_3m": 53.23,
       "week52_high": 60.14,
-      "week52_low": 45.67,
+      "week52_low": 45.15,
       "rsi": 43.3,
       "div_yield": 11.11,
       "last_div": null,
@@ -756,7 +757,7 @@
       "high_3m": 260.4,
       "low_3m": 229.87,
       "week52_high": 262.234,
-      "week52_low": 171.05,
+      "week52_low": 168.815,
       "rsi": 42.7,
       "div_yield": 53.0,
       "last_div": null,
