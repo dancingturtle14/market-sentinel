@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T04:40:51Z",
+  "updated_at": "2026-04-08T04:50:41Z",
   "crypto": {
     "fear_greed": {
       "value": 17,
@@ -11,78 +11,91 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71599,
-        "change_24h": 4.03,
-        "market_cap": 1431598562487,
-        "volume_24h": 53025519254
+        "price_usd": 71647,
+        "change_24h": 4.02,
+        "market_cap": 1433863454138,
+        "volume_24h": 53445132464
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2249.27,
-        "change_24h": 6.48,
-        "market_cap": 271015547921,
-        "volume_24h": 23681890078
+        "price_usd": 2249.01,
+        "change_24h": 6.28,
+        "market_cap": 271435336432,
+        "volume_24h": 25003549345
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.38,
-        "change_24h": 4.47,
-        "market_cap": 84462346519,
-        "volume_24h": 2784093879
+        "change_24h": 4.41,
+        "market_cap": 84555878342,
+        "volume_24h": 2779039345
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 615.4,
-        "change_24h": 2.57,
-        "market_cap": 83851123331,
-        "volume_24h": 1305336135
+        "price_usd": 615.7,
+        "change_24h": 2.49,
+        "market_cap": 83927921347,
+        "volume_24h": 1328081896
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 84.88,
-        "change_24h": 6.23,
-        "market_cap": 48672431386,
-        "volume_24h": 4959222750
+        "price_usd": 84.8,
+        "change_24h": 5.98,
+        "market_cap": 48707631635,
+        "volume_24h": 4992478461
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.094892,
-        "change_24h": 4.79,
-        "market_cap": 14576203380,
-        "volume_24h": 1614521317
+        "price_usd": 0.094744,
+        "change_24h": 4.51,
+        "market_cap": 14565888764,
+        "volume_24h": 1595078155
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.26249,
-        "change_24h": 7.02,
-        "market_cap": 9661304585,
-        "volume_24h": 627143605
+        "price_usd": 0.262626,
+        "change_24h": 6.95,
+        "market_cap": 9688855392,
+        "volume_24h": 612731547
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 9.24,
-        "change_24h": 5.04,
-        "market_cap": 6709267979,
-        "volume_24h": 545631906
+        "change_24h": 4.9,
+        "market_cap": 6719187466,
+        "volume_24h": 546791119
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.54,
-        "change_24h": 9.8,
-        "market_cap": 4114018062,
-        "volume_24h": 573205998
+        "price_usd": 9.53,
+        "change_24h": 9.42,
+        "market_cap": 4117009739,
+        "volume_24h": 573215067
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "XRP zooms 5% on bitcoin strength, but trend reversal still unconfirmed",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/08/xrp-zooms-5-on-bitcoin-strength-but-trend-reversal-still-unconfirmed",
+        "published": "Wed, 08 Apr 2026 04:49:00 +0000",
+        "assets": [
+          "BTC",
+          "XRP"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
       {
         "title": "Bitcoin, ether, oil shorts lead $427 million wipeout on US-Iran ceasefire",
         "source": "CoinDesk",
@@ -93,7 +106,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -103,7 +116,7 @@
         "published": "Wed, 08 Apr 2026 00:00:00 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.3,
         "color": "red"
       },
       {
@@ -115,7 +128,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -127,7 +140,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.6,
         "color": "green"
       },
       {
@@ -137,7 +150,7 @@
         "published": "Tue, 07 Apr 2026 18:21:08 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.1,
         "color": "yellow"
       },
       {
@@ -149,7 +162,7 @@
           "LINK"
         ],
         "sentiment": "Bearish",
-        "score": -0.6,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -161,7 +174,7 @@
           "SOL"
         ],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -171,7 +184,7 @@
         "published": "Tue, 07 Apr 2026 15:23:41 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -182,16 +195,6 @@
         "assets": [],
         "sentiment": "Bearish",
         "score": -0.9,
-        "color": "red"
-      },
-      {
-        "title": "Regulation by hostility: the real legacy of Biden-era crypto policy",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/opinion/2026/04/07/regulation-by-hostility-the-real-legacy-of-biden-era-crypto-policy",
-        "published": "Tue, 07 Apr 2026 15:00:00 +0000",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.8,
         "color": "red"
       },
       {
@@ -211,7 +214,7 @@
         "published": "Wed, 08 Apr 2026 02:25:57 +0100",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.1,
         "color": "yellow"
       },
       {
@@ -223,7 +226,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -250,50 +253,50 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.147,
+      "score": -0.093,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 398322,
+        "volume_24h": 398354,
         "yes_price": 0.2,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $74,000 on April 8?",
-        "volume_24h": 172015,
+        "volume_24h": 174463,
         "yes_price": 0.05,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 8?",
-        "volume_24h": 162505,
-        "yes_price": 0.34,
+        "volume_24h": 163104,
+        "yes_price": 0.36,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 142011,
+        "volume_24h": 141708,
         "yes_price": 0.19,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 8?",
-        "volume_24h": 132766,
+        "volume_24h": 135536,
         "yes_price": 0.92,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 129226,
+        "volume_24h": 129256,
         "yes_price": 0.62,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $90,000 in April?",
-        "volume_24h": 128740,
+        "volume_24h": 128758,
         "yes_price": 0.03,
         "category": "crypto"
       },
@@ -311,11 +314,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: Sentiment is unclear due to lack of data, with no specific numbers or names mentioned in the provided discussion."
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 3 bullish vs 6 bearish signals detected across crypto news data."
+      "summary": "Bearish: 3 bullish vs 5 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -389,6 +392,16 @@
         "color": "yellow"
       },
       {
+        "title": "India's central bank holds benchmark policy rates as Iran war raises inflation risks",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/08/rbi-rate-iran-war-inflation.html",
+        "published": "Wed, 08 Apr 2026 04:46:27 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
         "title": "South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/asia-markets-today-trump-iran-war-kospi-nikkei-225-oil-hang-seng-index.html",
@@ -403,16 +416,6 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/daily-open-trump-iran-pause-strait-hormuz-oil-markets.html",
         "published": "Wed, 08 Apr 2026 01:44:17 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "'The thaw is real': Indian delegation visits China to talk EVs and more",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/07/india-china-relations-ease-iran-war-ev.html",
-        "published": "Tue, 07 Apr 2026 10:07:32 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -490,57 +493,57 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.267,
+      "score": 0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 2111445,
-        "yes_price": 0.02,
-        "category": "finance"
-      },
-      {
-        "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 1604163,
+        "volume_24h": 2111643,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1418657,
+        "volume_24h": 1418548,
         "yes_price": 0.26,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 824950,
+        "volume_24h": 825406,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 799983,
+        "volume_24h": 800686,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 731441,
-        "yes_price": 0.24,
+        "volume_24h": 741072,
+        "yes_price": 0.23,
         "category": "finance"
       },
       {
         "title": "Will Trump visit China by April 30?",
-        "volume_24h": 624662,
+        "volume_24h": 623355,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in April?",
-        "volume_24h": 561806,
+        "volume_24h": 565789,
         "yes_price": 0.12,
+        "category": "finance"
+      },
+      {
+        "title": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in April?",
+        "volume_24h": 520921,
+        "yes_price": 0.07,
         "category": "finance"
       }
     ],
@@ -554,8 +557,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 2 bullish vs 5 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
@@ -602,7 +605,7 @@
       "high_3m": 40.5,
       "low_3m": 38.36,
       "week52_high": 41.1,
-      "week52_low": 35.08,
+      "week52_low": 35.3,
       "rsi": 45.3,
       "div_yield": 10.98,
       "last_div": null,
@@ -634,7 +637,7 @@
       "high_3m": 58.37,
       "low_3m": 53.23,
       "week52_high": 60.14,
-      "week52_low": 45.15,
+      "week52_low": 45.67,
       "rsi": 45.5,
       "div_yield": 11.11,
       "last_div": null,
@@ -698,7 +701,7 @@
       "high_3m": 260.4,
       "low_3m": 229.87,
       "week52_high": 262.234,
-      "week52_low": 168.815,
+      "week52_low": 171.05,
       "rsi": 44.4,
       "div_yield": 53.0,
       "last_div": null,
