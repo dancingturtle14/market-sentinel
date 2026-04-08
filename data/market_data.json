@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T09:51:36Z",
+  "updated_at": "2026-04-08T10:00:42Z",
   "crypto": {
     "fear_greed": {
       "value": 17,
@@ -11,78 +11,88 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71625,
-        "change_24h": 3.57,
-        "market_cap": 1432942139512,
-        "volume_24h": 53509773050
+        "price_usd": 71684,
+        "change_24h": 3.76,
+        "market_cap": 1434653411373,
+        "volume_24h": 53367870379
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2248.75,
-        "change_24h": 5.69,
-        "market_cap": 271220898563,
-        "volume_24h": 26301986229
+        "price_usd": 2249.92,
+        "change_24h": 5.84,
+        "market_cap": 271517623961,
+        "volume_24h": 26507533681
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.38,
-        "change_24h": 4.41,
-        "market_cap": 84644847439,
-        "volume_24h": 3149028696
+        "change_24h": 4.58,
+        "market_cap": 84805596073,
+        "volume_24h": 2916836616
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 611.72,
-        "change_24h": 1.04,
-        "market_cap": 83396190698,
-        "volume_24h": 1396532902
+        "price_usd": 611.86,
+        "change_24h": 1.2,
+        "market_cap": 83421696779,
+        "volume_24h": 1395270605
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 84.63,
-        "change_24h": 5.2,
-        "market_cap": 48530695860,
-        "volume_24h": 5159096516
+        "price_usd": 84.67,
+        "change_24h": 5.34,
+        "market_cap": 48572747244,
+        "volume_24h": 5127022072
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.094604,
-        "change_24h": 3.57,
-        "market_cap": 14537246814,
-        "volume_24h": 1671619164
+        "price_usd": 0.094771,
+        "change_24h": 3.76,
+        "market_cap": 14569274311,
+        "volume_24h": 1676814447
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.259008,
-        "change_24h": 5.83,
-        "market_cap": 9556530345,
-        "volume_24h": 606195716
+        "price_usd": 0.258997,
+        "change_24h": 5.88,
+        "market_cap": 9553176795,
+        "volume_24h": 591126321
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 9.21,
-        "change_24h": 3.83,
-        "market_cap": 6696963563,
-        "volume_24h": 547398698
+        "change_24h": 3.95,
+        "market_cap": 6701087932,
+        "volume_24h": 545641193
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 9.36,
-        "change_24h": 7.68,
-        "market_cap": 4045937676,
-        "volume_24h": 514862294
+        "change_24h": 7.72,
+        "market_cap": 4044030456,
+        "volume_24h": 514554674
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "MEXC's new CEO wants to tame a memecoin machine without killing what made it work",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/08/mexc-s-new-ceo-wants-to-tame-a-memecoin-machine-without-killing-what-made-it-work",
+        "published": "Wed, 08 Apr 2026 10:00:00 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
       {
         "title": "Pre-market crypto stocks are glowing green after the ceasefire news",
         "source": "CoinDesk",
@@ -100,7 +110,7 @@
         "published": "Wed, 08 Apr 2026 08:43:08 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -146,9 +156,9 @@
           "BTC",
           "XRP"
         ],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Bitcoin, ether, oil shorts lead $427 million wipeout on US-Iran ceasefire",
@@ -186,15 +196,23 @@
         "color": "green"
       },
       {
-        "title": "Bitcoin rises past $69,000 as risk markets reverse big early losses on hope for Iran deal",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-rises-past-usd69-000-as-risk-markets-reverse-big-early-losses-on-hope-for-iran-deal",
-        "published": "Tue, 07 Apr 2026 20:18:52 +0000",
-        "assets": [
-          "BTC"
-        ],
+        "title": "ARK buys $13M in Robinhood as US Treasury taps platform for Trump Accounts",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/ark-13m-robinhood-trump-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 08 Apr 2026 10:24:18 +0100",
+        "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.5,
+        "color": "green"
+      },
+      {
+        "title": "UBS partners with five banks for Swiss franc stablecoin sandbox",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/ubs-five-banks-swiss-franc-stablecoin-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 08 Apr 2026 09:58:44 +0100",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -218,88 +236,66 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.8,
         "color": "green"
       },
       {
-        "title": "3 Polymarket traders made a timely bet on a US-Iran ceasefire",
+        "title": "Three Polymarket traders made timely bets on US-Iran ceasefire",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/3-polymarket-traders-made-a-timely-bet-on-a-us-iran-ceasefire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 08 Apr 2026 07:18:34 +0100",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
-      },
-      {
-        "title": "Coinbase plans expansion to stock trading in Australia after securing license",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/coinbase-afsl-license-australia-crypto-equity-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 08 Apr 2026 07:13:30 +0100",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
-      },
-      {
-        "title": "Ethereum buyers are back, data shows, as bulls defend $2K support",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/ethereum-buyers-are-back-data-shows-as-bulls-defend-2k-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 08 Apr 2026 06:49:12 +0100",
-        "assets": [
-          "ETH"
-        ],
         "sentiment": "Bullish",
         "score": 0.5,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.367,
+      "score": 0.427,
       "label": "Bullish",
       "color": "green"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 405499,
+        "volume_24h": 404749,
         "yes_price": 0.23,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $74,000 on April 8?",
-        "volume_24h": 272162,
+        "volume_24h": 275714,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 8?",
-        "volume_24h": 211825,
-        "yes_price": 0.96,
+        "volume_24h": 214598,
+        "yes_price": 0.95,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $60,000 in April?",
+        "volume_24h": 195563,
+        "yes_price": 0.18,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 8?",
-        "volume_24h": 186239,
-        "yes_price": 0.32,
+        "volume_24h": 187249,
+        "yes_price": 0.34,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 132152,
+        "volume_24h": 132166,
         "yes_price": 0.62,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 128499,
+        "volume_24h": 128657,
         "yes_price": 0.03,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 126253,
-        "yes_price": 0.17,
         "category": "crypto"
       },
       {
@@ -316,11 +312,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Sentiment is unclear due to lack of data, with no specific trends or names mentioned, and no numbers available to analyze market direction."
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 1 bullish vs 3 bearish signals detected across crypto news data."
+      "summary": "Bearish: 1 bullish vs 2 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -338,8 +334,8 @@
         "change_24h": -0.18
       },
       "vix": {
-        "value": 20.35,
-        "change_24h": -21.06
+        "value": 20.48,
+        "change_24h": -20.56
       }
     },
     "market_mood": {
@@ -474,10 +470,10 @@
         "color": "yellow"
       },
       {
-        "title": "Ray Dalio: Trump-Xi meeting to focus on trade, capital flows",
+        "title": "AWS teams working around the clock to keep Middle East services up after drone strikes, CEO says",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/08/ray-dalio-trump-xi-meeting-to-focus-on-trade-capital-flows.html",
-        "published": "Wed, 08 Apr 2026 08:48:48 GMT",
+        "url": "https://www.cnbc.com/2026/04/07/aws-iran-threats-us-tech-data-centers.html",
+        "published": "Tue, 07 Apr 2026 20:16:18 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -502,6 +498,26 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "‘I worked very hard’: I’m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/i-worked-very-hard-im-71-and-have-6-million-after-scrimping-and-saving-my-son-33-wants-money-for-a-house-do-i-say-yes-a62657f7?mod=mw_rss_topstories",
+        "published": "Wed, 08 Apr 2026 09:55:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "My second husband will leave me $540,000 if I bequeath him my $130,000 net worth. What will happen to my two sons?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/my-second-husband-will-leave-me-540-000-if-i-bequeath-him-my-130-000-net-worth-what-will-happen-to-my-two-sons-d5a80a08?mod=mw_rss_topstories",
+        "published": "Wed, 08 Apr 2026 09:53:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Oil prices see biggest drop in six years after two-week cease-fire reached",
@@ -532,26 +548,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Cease-fire means the bottom is in, declares strategist Tom Lee",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/cease-fire-means-the-bottom-is-in-declares-strategist-tom-lee-8207becd?mod=mw_rss_topstories",
-        "published": "Wed, 08 Apr 2026 09:00:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "‘The View’ host Joy Behar tries an unusual strategy to sell her longtime Hamptons home",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/the-view-host-joy-behar-tries-an-unusual-strategy-to-sell-her-longtime-hamptons-home-4e490969?mod=mw_rss_topstories",
-        "published": "Wed, 08 Apr 2026 08:58:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -561,51 +557,51 @@
     },
     "polymarket": [
       {
+        "title": "Will the Iranian regime fall by April 30?",
+        "volume_24h": 2382484,
+        "yes_price": 0.02,
+        "category": "finance"
+      },
+      {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1720846,
+        "volume_24h": 1736036,
         "yes_price": 0.27,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 978947,
+        "volume_24h": 978665,
+        "yes_price": 0.07,
+        "category": "finance"
+      },
+      {
+        "title": "Will the Iranian regime fall by June 30?",
+        "volume_24h": 740490,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 736579,
+        "volume_24h": 733095,
         "yes_price": 0.2,
         "category": "finance"
       },
       {
-        "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 728438,
-        "yes_price": 0.07,
-        "category": "finance"
-      },
-      {
         "title": "Will Trump visit China by April 30?",
-        "volume_24h": 608102,
+        "volume_24h": 607082,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in April?",
-        "volume_24h": 552003,
+        "volume_24h": 551298,
         "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "Trump announces end of military operations against Iran by April 15th?",
-        "volume_24h": 513300,
+        "volume_24h": 507933,
         "yes_price": 0.17,
-        "category": "finance"
-      },
-      {
-        "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 499848,
-        "yes_price": 0.16,
         "category": "finance"
       }
     ],
