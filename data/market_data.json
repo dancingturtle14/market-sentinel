@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T05:20:38Z",
+  "updated_at": "2026-04-09T05:30:59Z",
   "crypto": {
     "fear_greed": {
       "value": 14,
@@ -11,78 +11,90 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 70882,
-        "change_24h": -1.19,
-        "market_cap": 1418429511234,
-        "volume_24h": 34667628204
+        "price_usd": 70982,
+        "change_24h": -1.05,
+        "market_cap": 1420153456995,
+        "volume_24h": 38423351247
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2178.26,
-        "change_24h": -2.91,
-        "market_cap": 262834947967,
-        "volume_24h": 18182606262
+        "price_usd": 2181.32,
+        "change_24h": -2.78,
+        "market_cap": 263128875709,
+        "volume_24h": 17782795999
+      },
+      {
+        "symbol": "BNB",
+        "name": "BNB",
+        "price_usd": 600.24,
+        "change_24h": -2.62,
+        "market_cap": 81824806435,
+        "volume_24h": 1084563197
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.33,
-        "change_24h": -3.68,
-        "market_cap": 81823483911,
-        "volume_24h": 2494776220
-      },
-      {
-        "symbol": "BNB",
-        "name": "BNB",
-        "price_usd": 599.73,
-        "change_24h": -2.7,
-        "market_cap": 81758906732,
-        "volume_24h": 1091229365
+        "change_24h": -3.8,
+        "market_cap": 81778462717,
+        "volume_24h": 2455341804
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 81.94,
-        "change_24h": -3.23,
-        "market_cap": 47023858226,
-        "volume_24h": 3401264827
+        "price_usd": 82.03,
+        "change_24h": -3.11,
+        "market_cap": 47083973183,
+        "volume_24h": 3396235414
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.091075,
-        "change_24h": -3.69,
-        "market_cap": 13994623719,
-        "volume_24h": 1336328878
+        "price_usd": 0.091206,
+        "change_24h": -3.83,
+        "market_cap": 14025332099,
+        "volume_24h": 1329426632
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.24892,
-        "change_24h": -5.04,
-        "market_cap": 9180444655,
-        "volume_24h": 372153224
+        "price_usd": 0.248973,
+        "change_24h": -5.23,
+        "market_cap": 9181926862,
+        "volume_24h": 369380704
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 8.77,
-        "change_24h": -4.94,
-        "market_cap": 6375209487,
-        "volume_24h": 338941277
+        "change_24h": -5.09,
+        "market_cap": 6375562783,
+        "volume_24h": 334593176
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 9.03,
-        "change_24h": -4.28,
-        "market_cap": 3899802019,
-        "volume_24h": 287844589
+        "change_24h": -4.88,
+        "market_cap": 3899415811,
+        "volume_24h": 286919328
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Bitcoin's next big move hinges on oil, and right now it's a total coin flip",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-s-next-big-move-hinges-on-oil-and-right-now-it-s-a-total-coin-flip",
+        "published": "Thu, 09 Apr 2026 05:22:58 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed",
         "source": "CoinDesk",
@@ -107,7 +119,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -119,7 +131,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -163,7 +175,7 @@
           "BTC"
         ],
         "sentiment": "Neutral",
-        "score": 0.1,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -173,7 +185,7 @@
         "published": "Wed, 08 Apr 2026 15:50:35 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.6,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -183,20 +195,8 @@
         "published": "Wed, 08 Apr 2026 15:45:00 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.7,
+        "score": -0.5,
         "color": "red"
-      },
-      {
-        "title": "Bitcoin is above $70,000 on Iran ceasefire, but rally is turning cautious for good reasons",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/08/bitcoin-is-above-usd70-000-on-iran-ceasefire-but-rally-is-turning-cautious-for-good-reasons",
-        "published": "Wed, 08 Apr 2026 15:05:59 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.4,
-        "color": "green"
       },
       {
         "title": "Visa unveils commerce platform enabling autonomous AI shopping",
@@ -207,7 +207,7 @@
           "TON"
         ],
         "sentiment": "Bullish",
-        "score": 0.3,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -231,7 +231,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -250,38 +250,38 @@
         "url": "https://cointelegraph.com/news/sec-enforcement-director-questions-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 08 Apr 2026 21:52:02 +0100",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.093,
+      "score": 0.087,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 120782,
+        "volume_24h": 121140,
         "yes_price": 0.04,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on April 9?",
-        "volume_24h": 113225,
-        "yes_price": 0.3,
+        "volume_24h": 113309,
+        "yes_price": 0.33,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 9?",
-        "volume_24h": 111170,
-        "yes_price": 0.12,
+        "volume_24h": 112320,
+        "yes_price": 0.14,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 103427,
+        "volume_24h": 103713,
         "yes_price": 0.2,
         "category": "crypto"
       },
@@ -293,20 +293,20 @@
       },
       {
         "title": "Will MegaETH launch a token by June 30, 2026?",
-        "volume_24h": 96860,
-        "yes_price": 0.73,
+        "volume_24h": 96920,
+        "yes_price": 0.74,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 92293,
-        "yes_price": 0.47,
+        "volume_24h": 91813,
+        "yes_price": 0.46,
         "category": "crypto"
       },
       {
-        "title": "Bitcoin Up or Down - April 9, 1:10AM-1:15AM ET",
-        "volume_24h": 86371,
-        "yes_price": 0.76,
+        "title": "Will Bitcoin reach $80,000 in April?",
+        "volume_24h": 83929,
+        "yes_price": 0.17,
         "category": "crypto"
       }
     ],
@@ -317,11 +317,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: Sentiment is unclear due to lack of data on top mentioned topics and subreddits."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 3 bullish vs 5 bearish signals detected across crypto news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -500,50 +500,50 @@
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 1120732,
+        "volume_24h": 1113574,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1032883,
+        "volume_24h": 965536,
         "yes_price": 0.33,
         "category": "finance"
       },
       {
+        "title": "Will Ron DeSantis win the 2028 US Presidential Election?",
+        "volume_24h": 675001,
+        "yes_price": 0.02,
+        "category": "finance"
+      },
+      {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 629194,
+        "volume_24h": 626497,
         "yes_price": 0.34,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 564810,
+        "volume_24h": 559533,
         "yes_price": 0.16,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 444224,
+        "volume_24h": 439922,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will UAE strike Iran by April 30?",
-        "volume_24h": 420679,
+        "volume_24h": 420681,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Israel x Hezbollah ceasefire by April 30, 2026?",
-        "volume_24h": 407582,
+        "volume_24h": 404134,
         "yes_price": 0.29,
-        "category": "finance"
-      },
-      {
-        "title": "JD Vance diplomatic meeting with Iran by April 10?",
-        "volume_24h": 402527,
-        "yes_price": 0.22,
         "category": "finance"
       }
     ],
