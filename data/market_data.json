@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T12:40:40Z",
+  "updated_at": "2026-04-09T12:50:40Z",
   "crypto": {
     "fear_greed": {
       "value": 14,
@@ -11,74 +11,74 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71158,
-        "change_24h": -1.01,
-        "market_cap": 1425611082800,
-        "volume_24h": 36683599581
+        "price_usd": 71175,
+        "change_24h": -1.11,
+        "market_cap": 1424531612439,
+        "volume_24h": 36644612239
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2180.57,
+        "price_usd": 2181.18,
         "change_24h": -3.27,
-        "market_cap": 263415579935,
-        "volume_24h": 17130314616
+        "market_cap": 263271027371,
+        "volume_24h": 17130850975
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 602.64,
-        "change_24h": -1.77,
-        "market_cap": 82199938513,
-        "volume_24h": 1036011819
+        "price_usd": 602.99,
+        "change_24h": -1.81,
+        "market_cap": 82230892877,
+        "volume_24h": 1052320594
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.33,
-        "change_24h": -3.77,
-        "market_cap": 81646448210,
-        "volume_24h": 2523025643
+        "change_24h": -3.82,
+        "market_cap": 81676885537,
+        "volume_24h": 2524567234
       },
       {
         "symbol": "SOL",
         "name": "Solana",
         "price_usd": 82.2,
         "change_24h": -2.83,
-        "market_cap": 47209832624,
-        "volume_24h": 3106522775
+        "market_cap": 47182258404,
+        "volume_24h": 3100826161
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.091532,
-        "change_24h": -2.89,
-        "market_cap": 14068262455,
-        "volume_24h": 1199285627
+        "price_usd": 0.091599,
+        "change_24h": -2.86,
+        "market_cap": 14082393803,
+        "volume_24h": 1226651574
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.250461,
-        "change_24h": -2.6,
-        "market_cap": 9238922601,
-        "volume_24h": 344177101
+        "price_usd": 0.250962,
+        "change_24h": -2.43,
+        "market_cap": 9256164076,
+        "volume_24h": 338958027
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.78,
-        "change_24h": -4.55,
-        "market_cap": 6386147217,
-        "volume_24h": 347327846
+        "price_usd": 8.79,
+        "change_24h": -4.44,
+        "market_cap": 6392943428,
+        "volume_24h": 350589834
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.09,
-        "change_24h": -2.78,
-        "market_cap": 3923596419,
-        "volume_24h": 237692497
+        "price_usd": 9.1,
+        "change_24h": -2.67,
+        "market_cap": 3929492974,
+        "volume_24h": 238964537
       }
     ],
     "top_mentioned": [],
@@ -110,8 +110,18 @@
         "published": "Thu, 09 Apr 2026 12:00:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.7,
         "color": "green"
+      },
+      {
+        "title": "Fartcoin's price crashed 50% after $145 million manipulation bet went wrong",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/09/someone-tried-to-manipulate-fartcoin-s-price-with-a-usd145-million-long-it-crashed-50",
+        "published": "Thu, 09 Apr 2026 11:30:40 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.9,
+        "color": "red"
       },
       {
         "title": "Bitcoin’s $80,000 bull bet just took over the market",
@@ -134,7 +144,7 @@
           "BTC"
         ],
         "sentiment": "Neutral",
-        "score": -0.2,
+        "score": 0.0,
         "color": "yellow"
       },
       {
@@ -156,7 +166,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.7,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -166,7 +176,7 @@
         "published": "Thu, 09 Apr 2026 08:32:18 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.4,
         "color": "red"
       },
       {
@@ -182,15 +192,35 @@
         "color": "yellow"
       },
       {
-        "title": "The ‘bottom is in’: Why Tom Lee says the Iran ceasefire is the starting gun for a massive bitcoin rally",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/09/fundstrat-s-tom-lee-says-the-bottom-is-in-for-stocks-paving-a-bull-case-for-bitcoin-and-ether",
-        "published": "Thu, 09 Apr 2026 07:42:38 +0000",
+        "title": "Bitcoin Depot discloses $3.7M BTC theft in cybersecurity breach",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-depot-3-7m-cybersecurity-breach-customer-data-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 13:13:28 +0100",
         "assets": [
           "BTC"
         ],
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
+      },
+      {
+        "title": "Crypto exchanges chase TradFi commodities market as pricing gaps persist",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/crypto-exchanges-tradfi-precious-metals-pricing-liquidity-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 13:03:16 +0100",
+        "assets": [],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.5,
+        "color": "green"
+      },
+      {
+        "title": "Gold, silver and oil drive 65,000% jump in commodity perpetuals",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/gold-silver-oil-drive-65000-percent-jump-in-commodity-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 13:00:00 +0100",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -214,93 +244,61 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.5,
         "color": "red"
-      },
-      {
-        "title": "South Korea court cancels Upbit suspension, citing regulatory gaps: Report",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/south-korea-court-cancels-dunamu-upbit-suspension-fiu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 11:19:02 +0100",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.4,
-        "color": "green"
-      },
-      {
-        "title": "Bessent ramps up pressure on Congress to pass CLARITY Act",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bessent-presses-congress-to-pass-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 10:58:19 +0100",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.1,
-        "color": "yellow"
-      },
-      {
-        "title": "Morgan Stanley Bitcoin ETF trails BlackRock with $30M in first-day inflows",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/morgan-stanley-bitcoin-etf-trails-blackrock-with-30m-in-first-day-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 10:21:29 +0100",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.7,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.2,
+      "score": 0.1,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 9?",
-        "volume_24h": 194542,
+        "volume_24h": 203862,
         "yes_price": 0.14,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on April 9?",
-        "volume_24h": 166827,
-        "yes_price": 0.45,
+        "volume_24h": 168170,
+        "yes_price": 0.43,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 9?",
-        "volume_24h": 138695,
-        "yes_price": 0.93,
+        "volume_24h": 149991,
+        "yes_price": 0.94,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 111030,
+        "volume_24h": 111085,
         "yes_price": 0.17,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 108332,
+        "volume_24h": 108260,
         "yes_price": 0.41,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 103667,
+        "volume_24h": 103672,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will Ethereum dip to $1,800 in April?",
-        "volume_24h": 100521,
+        "volume_24h": 100516,
         "yes_price": 0.2,
         "category": "crypto"
       },
       {
         "title": "SpaceX IPO closing market cap above $3T",
-        "volume_24h": 100153,
+        "volume_24h": 99752,
         "yes_price": 0.17,
         "category": "crypto"
       }
@@ -312,11 +310,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentions or subreddits provided."
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 2 bullish vs 1 bearish signals detected across crypto news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 2 bullish vs 2 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -334,12 +332,12 @@
         "change_24h": 2.85
       },
       "vix": {
-        "value": 21.26,
-        "change_24h": 1.05
+        "value": 21.29,
+        "change_24h": 1.19
       }
     },
     "market_mood": {
-      "score": 0.698,
+      "score": 0.691,
       "label": "Bullish",
       "color": "green"
     },
@@ -398,6 +396,16 @@
     "top_mentioned": [],
     "news": [
       {
+        "title": "Oil prices rise to nearly $100 after Iran accuses U.S. of breaching ceasefire deal",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/09/oil-prices-today-wti-brent-iran-accuse-us-of-ceasefire-breach.html",
+        "published": "Thu, 09 Apr 2026 11:47:58 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
         "title": "Trump says U.S. ready for 'next conquest,' warns military to remain near Iran until 'real agreement' is honored",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/09/trump-military-troops-iran-conflict-middle-east-hormuz.html",
@@ -411,21 +419,11 @@
         "title": "Core inflation was 3% in February, as expected, key Fed gauge shows",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
-        "published": "Thu, 09 Apr 2026 12:35:14 GMT",
+        "published": "Thu, 09 Apr 2026 12:43:45 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "Oil prices rise to nearly $100 after Iran accuses U.S. of breaching ceasefire deal",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/oil-prices-today-wti-brent-iran-accuse-us-of-ceasefire-breach.html",
-        "published": "Thu, 09 Apr 2026 11:47:58 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
       },
       {
         "title": "Meta's long-awaited AI model is finally here. But can it make money?",
@@ -443,7 +441,7 @@
         "title": "As millions lose weight on GLP-1s, they're starting to turn to retailers to refresh their wardrobes",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/09/weight-loss-pills-glp-1s-stitch-fix-apparel-retailers.html",
-        "published": "Thu, 09 Apr 2026 11:00:01 GMT",
+        "published": "Thu, 09 Apr 2026 12:48:30 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -463,7 +461,7 @@
         "title": "Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html",
-        "published": "Thu, 09 Apr 2026 12:27:57 GMT",
+        "published": "Thu, 09 Apr 2026 12:42:51 GMT",
         "assets": [
           "META"
         ],
@@ -492,10 +490,30 @@
         "color": "yellow"
       },
       {
-        "title": "Britain to call for toll-free Strait of Hormuz, says Lebanon must be part of Iran ceasefire",
+        "title": "‘Weeks, if not months’: Strait of Hormuz tanker traffic won't normalize anytime soon",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/uk-cooper-iran-war-strait-of-hormuz-tolls-lebanon-israel-ceasefire.html",
-        "published": "Thu, 09 Apr 2026 09:04:03 GMT",
+        "url": "https://www.cnbc.com/2026/04/09/tankers-return-to-hormuz-ceasefire-disruption-to-last-weeks.html",
+        "published": "Thu, 09 Apr 2026 11:30:04 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Don’t start saving for college until you have these 4 financial priorities under control",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/dont-start-saving-for-college-until-you-have-these-4-financial-priorities-under-control-84988ed6?mod=mw_rss_topstories",
+        "published": "Thu, 09 Apr 2026 12:45:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Consumer spending partly recovers after winter freeze, but not enough to signal improved economy",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/consumer-spending-partly-recovers-after-winter-freeze-but-not-enough-to-signal-improved-economy-4552ac4e?mod=mw_rss_topstories",
+        "published": "Thu, 09 Apr 2026 12:44:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -532,26 +550,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Oil prices tick higher but stay below $100 a barrel on concerns about a ‘fragile’ cease-fire",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories",
-        "published": "Thu, 09 Apr 2026 12:19:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "These signals will make or break the Iran cease-fire — and oil prices",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/these-signals-will-make-or-break-the-iran-cease-fire-and-oil-prices-8f415515?mod=mw_rss_topstories",
-        "published": "Thu, 09 Apr 2026 12:05:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -562,50 +560,50 @@
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 656062,
+        "volume_24h": 654578,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
-        "title": "Will Ron DeSantis win the 2028 US Presidential Election?",
-        "volume_24h": 653647,
-        "yes_price": 0.02,
-        "category": "finance"
-      },
-      {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 626035,
-        "yes_price": 0.3,
-        "category": "finance"
-      },
-      {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 591595,
+        "volume_24h": 620986,
         "yes_price": 0.16,
         "category": "finance"
       },
       {
+        "title": "Will the U.S. invade Iran before 2027?",
+        "volume_24h": 613313,
+        "yes_price": 0.3,
+        "category": "finance"
+      },
+      {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 589716,
+        "volume_24h": 588858,
         "yes_price": 0.35,
         "category": "finance"
       },
       {
         "title": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-        "volume_24h": 434276,
+        "volume_24h": 446453,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "JD Vance diplomatic meeting with Iran by April 10?",
-        "volume_24h": 425628,
-        "yes_price": 0.29,
+        "volume_24h": 423192,
+        "yes_price": 0.24,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 409745,
+        "volume_24h": 409585,
         "yes_price": 0.1,
+        "category": "finance"
+      },
+      {
+        "title": "Israel x Hezbollah ceasefire by April 30, 2026?",
+        "volume_24h": 379283,
+        "yes_price": 0.34,
         "category": "finance"
       }
     ],
