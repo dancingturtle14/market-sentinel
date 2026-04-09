@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T06:21:38Z",
+  "updated_at": "2026-04-09T06:30:46Z",
   "crypto": {
     "fear_greed": {
       "value": 14,
@@ -11,78 +11,88 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 70977,
-        "change_24h": -1.27,
-        "market_cap": 1421229277998,
-        "volume_24h": 38588756075
+        "price_usd": 70857,
+        "change_24h": -1.33,
+        "market_cap": 1418520668242,
+        "volume_24h": 38266917501
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2180.9,
-        "change_24h": -3.02,
-        "market_cap": 263573565691,
-        "volume_24h": 17805957739
+        "price_usd": 2176.95,
+        "change_24h": -3.2,
+        "market_cap": 262841206432,
+        "volume_24h": 17542859792
+      },
+      {
+        "symbol": "BNB",
+        "name": "BNB",
+        "price_usd": 599.03,
+        "change_24h": -2.73,
+        "market_cap": 81686270787,
+        "volume_24h": 1059288531
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.33,
-        "change_24h": -3.98,
-        "market_cap": 81833768791,
-        "volume_24h": 2505890211
-      },
-      {
-        "symbol": "BNB",
-        "name": "BNB",
-        "price_usd": 599.37,
-        "change_24h": -2.8,
-        "market_cap": 81833675813,
-        "volume_24h": 1081651385
+        "change_24h": -3.96,
+        "market_cap": 81568471060,
+        "volume_24h": 2499589418
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.16,
-        "change_24h": -2.82,
-        "market_cap": 47211841246,
-        "volume_24h": 3333062478
+        "price_usd": 82.03,
+        "change_24h": -3.02,
+        "market_cap": 47119152110,
+        "volume_24h": 3315891361
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.091381,
-        "change_24h": -3.69,
-        "market_cap": 14073283435,
-        "volume_24h": 1379030165
+        "price_usd": 0.091344,
+        "change_24h": -3.72,
+        "market_cap": 14049204366,
+        "volume_24h": 1352157733
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.249938,
-        "change_24h": -4.81,
-        "market_cap": 9223455310,
-        "volume_24h": 366894028
+        "price_usd": 0.249603,
+        "change_24h": -5.13,
+        "market_cap": 9209897869,
+        "volume_24h": 368097916
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.77,
-        "change_24h": -4.98,
-        "market_cap": 6382751091,
-        "volume_24h": 341435174
+        "price_usd": 8.76,
+        "change_24h": -5.22,
+        "market_cap": 6369562961,
+        "volume_24h": 339444300
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.03,
-        "change_24h": -4.57,
-        "market_cap": 3903485666,
-        "volume_24h": 280293832
+        "price_usd": 9.02,
+        "change_24h": -4.69,
+        "market_cap": 3894103311,
+        "volume_24h": 278477906
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "CFTC presses case that sports betting is finance, seeks to block Arizona enforcement",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/04/09/cftc-presses-case-that-sports-betting-is-finance-seeks-to-block-arizona-enforcement",
+        "published": "Thu, 09 Apr 2026 06:29:54 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "XRP slips 4% as selling pressure builds despite ETF inflows",
         "source": "CoinDesk",
@@ -191,13 +201,43 @@
         "color": "green"
       },
       {
-        "title": "Crypto Long & Short: Asia’s digital asset crackdown: accountability gets personal",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/04/08/crypto-long-and-short-asia-s-digital-asset-crackdown-accountability-gets-personal",
-        "published": "Wed, 08 Apr 2026 15:50:35 +0000",
+        "title": "Yuga Labs settles lawsuit against artists accused of copying its NFTs",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/yuga-labs-settles-bayc-nft-lawsuit-ripps-cahen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 07:23:23 +0100",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
+      {
+        "title": "Canary Capital submits application for US-based spot PEPE ETF",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/canary-capital-pepe-us-etf-crypto-altcoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 07:13:49 +0100",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
+      },
+      {
+        "title": "Anthropic loses first round in fight over Pentagon's 'supply chain risk' label",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/anthropic-loses-bid-pause-pentagon-supply-chain-risk-designation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 07:12:45 +0100",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.3,
+        "color": "red"
+      },
+      {
+        "title": "99.99% of Polymarket traders shouldn't quit their day jobs, data suggests",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/should-you-quit-your-job-trade-full-time-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 07:01:04 +0100",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -209,81 +249,35 @@
         "sentiment": "Bullish",
         "score": 0.9,
         "color": "green"
-      },
-      {
-        "title": "Fed minutes open door to further rate cuts amid Iran war",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/many-officials-still-see-rate-cuts-coming-in-2026-despite-war-risks-fed-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 05:51:46 +0100",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
-      },
-      {
-        "title": "Visa unveils commerce platform enabling autonomous AI shopping",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/visa-launches-ai-commerce-platform-to-power-autonomous-agent-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 05:18:27 +0100",
-        "assets": [
-          "TON"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
-      },
-      {
-        "title": "Counterhacker exposes DPRK unit that made $1M a month working IT jobs",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/north-korea-it-worker-hacked-exposing-fraud-scam-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 03:52:01 +0100",
-        "assets": [
-          "UNI"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin tops $72K after $280M liquidation targets bears: Will the ‘fragile truce’ hold?",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bitcoin-tops-dollar72k-after-dollar280m-liquidation-targets-bears-will-the-fragile-truce-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 01:16:43 +0100",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.267,
+      "score": 0.187,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "Bitcoin Up or Down on April 9?",
-        "volume_24h": 119869,
-        "yes_price": 0.35,
+        "title": "Will the price of Bitcoin be above $72,000 on April 9?",
+        "volume_24h": 122621,
+        "yes_price": 0.12,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Bitcoin be above $72,000 on April 9?",
-        "volume_24h": 115796,
-        "yes_price": 0.17,
+        "title": "Bitcoin Up or Down on April 9?",
+        "volume_24h": 120253,
+        "yes_price": 0.33,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 106796,
+        "volume_24h": 106389,
         "yes_price": 0.04,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 101802,
+        "volume_24h": 101797,
         "yes_price": 0.2,
         "category": "crypto"
       },
@@ -295,26 +289,26 @@
       },
       {
         "title": "Will MegaETH launch a token by June 30, 2026?",
-        "volume_24h": 96920,
-        "yes_price": 0.74,
+        "volume_24h": 96927,
+        "yes_price": 0.75,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 90848,
+        "volume_24h": 90836,
         "yes_price": 0.46,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 87036,
-        "yes_price": 0.57,
+        "volume_24h": 85351,
+        "yes_price": 0.56,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 57% predict Bitcoin to reach $75,000 in April, with $87,036 volume."
+      "outlook": "Bearish",
+      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across crypto prediction markets data."
     },
     "reddit": [],
     "reddit_summary": {
@@ -372,6 +366,16 @@
         "color": "green"
       },
       {
+        "title": "From war to weather: A 'super El Niño' event poses fresh risks to global food costs",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/09/el-nino-food-risks-iran-war-fertilizer-weather.html",
+        "published": "Thu, 09 Apr 2026 05:01:10 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Europe stocks rebound to stall as U.S-Iran ceasefire comes under strain",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/09/europe-stocks-rebound-stall-us-iran-ceasefire-under-strain.html",
@@ -400,16 +404,6 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "From war to weather: A 'super El Niño' event poses fresh risks to global food costs",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/el-nino-food-risks-iran-war-fertilizer-weather.html",
-        "published": "Thu, 09 Apr 2026 05:01:10 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "The U.S. housing markets where million-dollar listings are standard",
@@ -502,50 +496,50 @@
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 1059897,
+        "volume_24h": 1042686,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 950826,
+        "volume_24h": 950275,
         "yes_price": 0.33,
         "category": "finance"
       },
       {
+        "title": "Will Ron DeSantis win the 2028 US Presidential Election?",
+        "volume_24h": 670940,
+        "yes_price": 0.02,
+        "category": "finance"
+      },
+      {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 637255,
+        "volume_24h": 643206,
         "yes_price": 0.34,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 532243,
-        "yes_price": 0.16,
+        "volume_24h": 527760,
+        "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Will UAE strike Iran by April 30?",
-        "volume_24h": 418608,
-        "yes_price": 0.18,
+        "volume_24h": 418437,
+        "yes_price": 0.2,
         "category": "finance"
       },
       {
         "title": "Israel x Hezbollah ceasefire by April 30, 2026?",
-        "volume_24h": 405216,
+        "volume_24h": 404893,
         "yes_price": 0.3,
         "category": "finance"
       },
       {
         "title": "JD Vance diplomatic meeting with Iran by April 10?",
-        "volume_24h": 401772,
-        "yes_price": 0.28,
-        "category": "finance"
-      },
-      {
-        "title": "Will China invade Taiwan by June 30, 2026?",
-        "volume_24h": 388660,
-        "yes_price": 0.03,
+        "volume_24h": 402861,
+        "yes_price": 0.32,
         "category": "finance"
       }
     ],
