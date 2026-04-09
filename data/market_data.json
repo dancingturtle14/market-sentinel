@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T11:20:37Z",
+  "updated_at": "2026-04-09T11:30:51Z",
   "crypto": {
     "fear_greed": {
       "value": 14,
@@ -11,78 +11,90 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71192,
-        "change_24h": -0.6,
-        "market_cap": 1424788198112,
-        "volume_24h": 37596274611
+        "price_usd": 71074,
+        "change_24h": -0.7,
+        "market_cap": 1422877523094,
+        "volume_24h": 36689846089
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2183.87,
-        "change_24h": -2.85,
-        "market_cap": 263573695512,
-        "volume_24h": 16618537137
+        "price_usd": 2179.95,
+        "change_24h": -3.16,
+        "market_cap": 263105538806,
+        "volume_24h": 16684229795
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 602.25,
-        "change_24h": -1.67,
-        "market_cap": 82120376689,
-        "volume_24h": 1071685913
+        "price_usd": 601.71,
+        "change_24h": -1.75,
+        "market_cap": 82057111071,
+        "volume_24h": 1062660835
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.33,
-        "change_24h": -3.59,
-        "market_cap": 81783604594,
-        "volume_24h": 2486373245
+        "change_24h": -3.44,
+        "market_cap": 81824657615,
+        "volume_24h": 2658053190
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.21,
-        "change_24h": -2.97,
-        "market_cap": 47254049272,
-        "volume_24h": 3215208100
+        "price_usd": 82.18,
+        "change_24h": -2.78,
+        "market_cap": 47166972082,
+        "volume_24h": 3193657656
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.0916,
-        "change_24h": -3.11,
-        "market_cap": 14083931509,
-        "volume_24h": 1274209505
+        "price_usd": 0.0917,
+        "change_24h": -2.97,
+        "market_cap": 14108933098,
+        "volume_24h": 1245054384
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.250552,
-        "change_24h": -3.09,
-        "market_cap": 9241268569,
-        "volume_24h": 360596086
+        "price_usd": 0.250903,
+        "change_24h": -2.88,
+        "market_cap": 9255872378,
+        "volume_24h": 359390208
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.76,
-        "change_24h": -4.85,
-        "market_cap": 6367095403,
-        "volume_24h": 350553559
+        "price_usd": 8.75,
+        "change_24h": -5.0,
+        "market_cap": 6367395476,
+        "volume_24h": 352260647
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 9.07,
-        "change_24h": -2.98,
-        "market_cap": 3917310571,
-        "volume_24h": 256950297
+        "change_24h": -3.04,
+        "market_cap": 3916499581,
+        "volume_24h": 253892146
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Bitcoin’s $80,000 bull bet just took over the market",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-s-usd80-000-bull-bet-just-took-over-the-market",
+        "published": "Thu, 09 Apr 2026 11:23:57 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
       {
         "title": "Bitcoin stalls below key resistance as analysts clash over next move",
         "source": "CoinDesk",
@@ -123,9 +135,9 @@
         "url": "https://www.coindesk.com/policy/2026/04/09/crypto-payments-to-pass-strait-of-hormuz-is-the-next-logical-step-for-iran-s-sanctions-skirting-trade-network",
         "published": "Thu, 09 Apr 2026 08:32:18 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Everyone’s awaiting U.S. inflation figures, but bitcoin traders couldn’t care less",
@@ -186,21 +198,6 @@
         "color": "yellow"
       },
       {
-        "title": "Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed",
-        "published": "Thu, 09 Apr 2026 04:13:40 +0000",
-        "assets": [
-          "BTC",
-          "ETH",
-          "SOL",
-          "XRP"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
-      },
-      {
         "title": "Bhutan moves a further $23M in Bitcoin as holdings drop by 70%",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/bhutan-offloads-a-further-23m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -256,39 +253,45 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.067,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 9?",
-        "volume_24h": 171089,
+        "volume_24h": 172260,
         "yes_price": 0.14,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on April 9?",
-        "volume_24h": 153682,
-        "yes_price": 0.41,
+        "volume_24h": 154239,
+        "yes_price": 0.42,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 9?",
-        "volume_24h": 123153,
+        "volume_24h": 124304,
         "yes_price": 0.93,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 108979,
+        "volume_24h": 109840,
         "yes_price": 0.17,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 108062,
+        "volume_24h": 108104,
         "yes_price": 0.4,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $50,000 in April?",
+        "volume_24h": 103613,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
@@ -302,12 +305,6 @@
         "volume_24h": 100519,
         "yes_price": 0.2,
         "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 98951,
-        "yes_price": 0.03,
-        "category": "crypto"
       }
     ],
     "polymarket_summary": {
@@ -317,11 +314,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Sentiment is unclear due to lack of data on top mentioned topics and subreddits."
+      "summary": "Mixed: Discussion lacks clear direction, with no dominant sentiment or specific numbers mentioned, and no notable names or subreddits referenced."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 3 bullish vs 3 bearish signals detected across crypto news data."
+      "summary": "Mixed: 3 bullish vs 2 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -339,12 +336,12 @@
         "change_24h": 2.85
       },
       "vix": {
-        "value": 21.56,
-        "change_24h": 2.47
+        "value": 21.5,
+        "change_24h": 2.19
       }
     },
     "market_mood": {
-      "score": 0.626,
+      "score": 0.64,
       "label": "Bullish",
       "color": "green"
     },
@@ -475,20 +472,20 @@
         "color": "yellow"
       },
       {
-        "title": "OpenAI halts UK stargate project amid regulatory and energy price concerns",
+        "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/openai-halts-uk-stargate-project.html",
-        "published": "Thu, 09 Apr 2026 11:06:28 GMT",
+        "url": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
+        "published": "Wed, 08 Apr 2026 23:52:04 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Olympic skier Lindsey Vonn doesn't rule out the 2030 games: 'I would only do it if I could be fast'",
+        "title": "How to save money on flights as airlines raise prices",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/olympic-skier-lindsey-vonn-2030-games.html",
-        "published": "Thu, 09 Apr 2026 10:30:01 GMT",
+        "url": "https://www.cnbc.com/2026/04/08/iran-war-airlines-prices-airfare-flights-how-to-save-money.html",
+        "published": "Wed, 08 Apr 2026 23:01:24 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -503,6 +500,16 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "My second husband will leave me $540,000 if I bequeath him my $130,000 net worth. What will happen to my two sons?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/my-second-husband-will-leave-me-540-000-if-i-bequeath-him-my-130-000-net-worth-what-will-happen-to-my-two-sons-d5a80a08?mod=mw_rss_topstories",
+        "published": "Thu, 09 Apr 2026 11:20:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "An earnings boom is around the corner, and it could blindside the stock-market bears",
@@ -543,69 +550,59 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "‘Dream coastal retreat’: The late Hulk Hogan’s charming Florida beach cottage listed for $4.5 million—next door to his mansion",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/dream-coastal-retreat-the-late-hulk-hogans-charming-florida-beach-cottage-listed-for-4-5-millionnext-door-to-his-mansion-1c326712?mod=mw_rss_topstories",
-        "published": "Thu, 09 Apr 2026 09:04:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.0,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 761538,
+        "volume_24h": 699620,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will Ron DeSantis win the 2028 US Presidential Election?",
-        "volume_24h": 662439,
+        "volume_24h": 660140,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 642702,
+        "volume_24h": 642377,
         "yes_price": 0.35,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 642475,
+        "volume_24h": 633856,
         "yes_price": 0.3,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 570501,
+        "volume_24h": 576636,
         "yes_price": 0.16,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 455809,
+        "volume_24h": 453725,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "JD Vance diplomatic meeting with Iran by April 10?",
-        "volume_24h": 428993,
-        "yes_price": 0.27,
+        "volume_24h": 426799,
+        "yes_price": 0.34,
         "category": "finance"
       },
       {
         "title": "Will UAE strike Iran by April 30?",
-        "volume_24h": 422949,
+        "volume_24h": 421949,
         "yes_price": 0.15,
         "category": "finance"
       }
