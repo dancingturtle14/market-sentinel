@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T03:40:39Z",
+  "updated_at": "2026-04-09T03:50:39Z",
   "crypto": {
     "fear_greed": {
       "value": 14,
@@ -11,78 +11,90 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 70935,
-        "change_24h": -0.63,
-        "market_cap": 1419766312849,
-        "volume_24h": 40302020079
+        "price_usd": 70924,
+        "change_24h": -0.53,
+        "market_cap": 1418801814039,
+        "volume_24h": 40659727782
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2179.79,
-        "change_24h": -2.57,
-        "market_cap": 263103166552,
-        "volume_24h": 18440436814
+        "price_usd": 2178.59,
+        "change_24h": -2.49,
+        "market_cap": 262869902026,
+        "volume_24h": 19348217172
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 600.6,
-        "change_24h": -2.43,
-        "market_cap": 81913795319,
-        "volume_24h": 1146068826
+        "price_usd": 600.45,
+        "change_24h": -2.09,
+        "market_cap": 81863887005,
+        "volume_24h": 1143583466
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.33,
-        "change_24h": -2.94,
-        "market_cap": 81749030212,
-        "volume_24h": 2431150421
+        "change_24h": -2.87,
+        "market_cap": 81742483135,
+        "volume_24h": 2513904742
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.06,
-        "change_24h": -3.01,
-        "market_cap": 47103587244,
-        "volume_24h": 3507002279
+        "price_usd": 82.07,
+        "change_24h": -2.84,
+        "market_cap": 47104663880,
+        "volume_24h": 3511947963
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.091597,
-        "change_24h": -3.16,
-        "market_cap": 14083760464,
-        "volume_24h": 1291048169
+        "price_usd": 0.091557,
+        "change_24h": -3.14,
+        "market_cap": 14079095695,
+        "volume_24h": 1292836834
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.249507,
-        "change_24h": -4.42,
-        "market_cap": 9202032660,
-        "volume_24h": 389946851
+        "price_usd": 0.249196,
+        "change_24h": -4.37,
+        "market_cap": 9196049719,
+        "volume_24h": 388321952
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.76,
-        "change_24h": -4.7,
-        "market_cap": 6370981882,
-        "volume_24h": 339286349
+        "price_usd": 8.74,
+        "change_24h": -4.77,
+        "market_cap": 6361191603,
+        "volume_24h": 339023238
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.04,
-        "change_24h": -4.46,
-        "market_cap": 3902906208,
-        "volume_24h": 313858923
+        "price_usd": 9.03,
+        "change_24h": -4.28,
+        "market_cap": 3897990460,
+        "volume_24h": 313105002
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Bitcoin gets its first working prototype of quantum-resistant wallet rescue tool",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/04/09/bitcoin-gets-first-working-prototype-of-quantum-resistant-wallet-rescue-tool",
+        "published": "Thu, 09 Apr 2026 03:40:44 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
       {
         "title": "Morgan Stanley’s bitcoin ETF draws $34 million on day one",
         "source": "CoinDesk",
@@ -92,7 +104,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -104,7 +116,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -114,7 +126,7 @@
         "published": "Wed, 08 Apr 2026 17:16:52 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -123,9 +135,9 @@
         "url": "https://www.coindesk.com/policy/2026/04/08/south-korea-proposes-cryptocurrency-law-with-bank-style-rules-for-stablecoins",
         "published": "Wed, 08 Apr 2026 16:28:54 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
       },
       {
         "title": "The Protocol: Bernstein says quantum threat to Bitcoin is real but manageable",
@@ -135,9 +147,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
       },
       {
         "title": "Crypto Long & Short: Asia’s digital asset crackdown: accountability gets personal",
@@ -178,17 +190,7 @@
         "published": "Wed, 08 Apr 2026 14:56:21 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "RWA network Pharos lands a $1 billion valuation in $44M funding round ahead of mainnet debut",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/04/08/pharos-raises-usd44-million-in-series-a-to-power-real-world-asset-tokenization",
-        "published": "Wed, 08 Apr 2026 14:40:53 +0000",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -200,7 +202,7 @@
           "UNI"
         ],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.1,
         "color": "yellow"
       },
       {
@@ -212,7 +214,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -232,7 +234,7 @@
         "published": "Wed, 08 Apr 2026 21:52:02 +0100",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.3,
         "color": "red"
       },
       {
@@ -243,26 +245,32 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.1,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.3,
-      "label": "Bullish",
-      "color": "green"
+      "score": 0.22,
+      "label": "Neutral",
+      "color": "yellow"
     },
     "polymarket": [
       {
+        "title": "Will the price of Bitcoin be above $68,000 on April 9?",
+        "volume_24h": 141343,
+        "yes_price": 0.98,
+        "category": "crypto"
+      },
+      {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 122109,
+        "volume_24h": 122165,
         "yes_price": 0.04,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 106282,
+        "volume_24h": 102678,
         "yes_price": 0.2,
         "category": "crypto"
       },
@@ -274,32 +282,26 @@
       },
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 9?",
-        "volume_24h": 97730,
-        "yes_price": 0.15,
+        "volume_24h": 99556,
+        "yes_price": 0.14,
         "category": "crypto"
       },
       {
         "title": "Will MegaETH launch a token by June 30, 2026?",
         "volume_24h": 97444,
-        "yes_price": 0.74,
+        "yes_price": 0.73,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on April 9?",
-        "volume_24h": 96518,
-        "yes_price": 0.34,
+        "volume_24h": 96961,
+        "yes_price": 0.32,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $65,000 in April?",
         "volume_24h": 93257,
         "yes_price": 0.45,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 90171,
-        "yes_price": 0.56,
         "category": "crypto"
       }
     ],
@@ -310,11 +312,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: Market sentiment is uncertain, with no dominant trend, and limited data from subreddits and top mentions."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 4 bullish vs 4 bearish signals detected across crypto news data."
+      "summary": "Mixed: 3 bullish vs 4 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -556,50 +558,50 @@
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 1168802,
+        "volume_24h": 1167201,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 1052168,
+        "volume_24h": 1051477,
         "yes_price": 0.33,
         "category": "finance"
       },
       {
         "title": "Will Ron DeSantis win the 2028 US Presidential Election?",
-        "volume_24h": 671374,
+        "volume_24h": 675507,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 630870,
-        "yes_price": 0.34,
+        "volume_24h": 632163,
+        "yes_price": 0.33,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 581077,
+        "volume_24h": 574957,
         "yes_price": 0.16,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 458217,
+        "volume_24h": 457167,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will UAE strike Iran by April 30?",
-        "volume_24h": 422683,
-        "yes_price": 0.18,
+        "volume_24h": 422952,
+        "yes_price": 0.15,
         "category": "finance"
       },
       {
         "title": "Israel x Hezbollah ceasefire by April 30, 2026?",
-        "volume_24h": 410505,
-        "yes_price": 0.31,
+        "volume_24h": 410335,
+        "yes_price": 0.32,
         "category": "finance"
       }
     ],
@@ -629,7 +631,7 @@
       "high_3m": 47.67,
       "low_3m": 46.46,
       "week52_high": 48.89,
-      "week52_low": 45.75,
+      "week52_low": 42.33,
       "rsi": 62.2,
       "div_yield": 7.35,
       "last_div": null,
@@ -661,7 +663,7 @@
       "high_3m": 40.5,
       "low_3m": 38.36,
       "week52_high": 41.1,
-      "week52_low": 36.52,
+      "week52_low": 35.08,
       "rsi": 57.0,
       "div_yield": 10.98,
       "last_div": null,
@@ -693,7 +695,7 @@
       "high_3m": 58.37,
       "low_3m": 53.23,
       "week52_high": 60.14,
-      "week52_low": 47.14,
+      "week52_low": 45.15,
       "rsi": 54.9,
       "div_yield": 11.11,
       "last_div": null,
@@ -725,7 +727,7 @@
       "high_3m": 31.59,
       "low_3m": 28.26,
       "week52_high": 31.95,
-      "week52_low": 24.31,
+      "week52_low": 23.87,
       "rsi": 65.0,
       "div_yield": 3.44,
       "last_div": null,
@@ -757,7 +759,7 @@
       "high_3m": 260.4,
       "low_3m": 229.87,
       "week52_high": 262.234,
-      "week52_low": 176.19,
+      "week52_low": 168.815,
       "rsi": 55.7,
       "div_yield": 53.0,
       "last_div": null,
