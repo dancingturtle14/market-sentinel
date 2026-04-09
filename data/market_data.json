@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T13:10:38Z",
+  "updated_at": "2026-04-09T13:20:45Z",
   "crypto": {
     "fear_greed": {
       "value": 14,
@@ -11,78 +11,151 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71132,
-        "change_24h": -2.03,
-        "market_cap": 1423483659258,
-        "volume_24h": 34538314677
+        "price_usd": 71126,
+        "change_24h": -1.84,
+        "market_cap": 1423340771313,
+        "volume_24h": 34302187659
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2178.31,
-        "change_24h": -3.67,
-        "market_cap": 263163605050,
-        "volume_24h": 15577054084
+        "price_usd": 2178.14,
+        "change_24h": -3.51,
+        "market_cap": 262813409423,
+        "volume_24h": 15675266395
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 602.53,
-        "change_24h": -1.9,
-        "market_cap": 82239263216,
-        "volume_24h": 1009329896
+        "price_usd": 602.43,
+        "change_24h": -1.73,
+        "market_cap": 82157679128,
+        "volume_24h": 988385958
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.33,
-        "change_24h": -3.92,
-        "market_cap": 81731584748,
-        "volume_24h": 2432529986
+        "change_24h": -4.02,
+        "market_cap": 81735937086,
+        "volume_24h": 2404574047
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.2,
-        "change_24h": -2.77,
-        "market_cap": 47212986278,
-        "volume_24h": 3051132668
+        "price_usd": 82.19,
+        "change_24h": -2.89,
+        "market_cap": 47185929843,
+        "volume_24h": 2978410941
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.091535,
-        "change_24h": -3.52,
-        "market_cap": 14070143863,
-        "volume_24h": 1192939553
+        "price_usd": 0.091412,
+        "change_24h": -3.54,
+        "market_cap": 14048662930,
+        "volume_24h": 1169027648
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.250909,
-        "change_24h": -3.09,
-        "market_cap": 9258412346,
-        "volume_24h": 339224050
+        "price_usd": 0.250511,
+        "change_24h": -3.31,
+        "market_cap": 9246170876,
+        "volume_24h": 334142885
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.79,
-        "change_24h": -4.8,
-        "market_cap": 6394341473,
-        "volume_24h": 343789269
+        "price_usd": 8.78,
+        "change_24h": -4.97,
+        "market_cap": 6385123934,
+        "volume_24h": 343216445
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.1,
-        "change_24h": -3.36,
-        "market_cap": 3926786860,
-        "volume_24h": 235945868
+        "price_usd": 9.09,
+        "change_24h": -3.35,
+        "market_cap": 3927127172,
+        "volume_24h": 230859837
       }
     ],
-    "top_mentioned": [],
+    "top_mentioned": [
+      {
+        "symbol": "BTC",
+        "mentions": 28,
+        "price_usd": 71126,
+        "change_24h": -1.84
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 21,
+        "price_usd": 82.19,
+        "change_24h": -2.89
+      },
+      {
+        "symbol": "ETH",
+        "mentions": 6,
+        "price_usd": 2178.14,
+        "change_24h": -3.51
+      },
+      {
+        "symbol": "BNB",
+        "mentions": 0,
+        "price_usd": 602.43,
+        "change_24h": -1.73
+      },
+      {
+        "symbol": "XRP",
+        "mentions": 0,
+        "price_usd": 1.33,
+        "change_24h": -4.02
+      },
+      {
+        "symbol": "ADA",
+        "mentions": 0,
+        "price_usd": 0.250511,
+        "change_24h": -3.31
+      },
+      {
+        "symbol": "DOGE",
+        "mentions": 0,
+        "price_usd": 0.091412,
+        "change_24h": -3.54
+      },
+      {
+        "symbol": "AVAX",
+        "mentions": 0,
+        "price_usd": 9.09,
+        "change_24h": -3.35
+      },
+      {
+        "symbol": "LINK",
+        "mentions": 0,
+        "price_usd": 8.78,
+        "change_24h": -4.97
+      },
+      {
+        "symbol": "TON",
+        "mentions": 0,
+        "price_usd": null,
+        "change_24h": null
+      }
+    ],
     "news": [
+      {
+        "title": "CoinDesk 20 performance update: Bitcoin (BTC) trades flat as index declines",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/04/09/coindesk-20-performance-update-bitcoin-btc-trades-flat-as-index-declines",
+        "published": "Thu, 09 Apr 2026 13:14:50 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Banks are treading carefully on stablecoins despite market growth, S&P Global says",
         "source": "CoinDesk",
@@ -90,7 +163,7 @@
         "published": "Thu, 09 Apr 2026 12:35:23 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.0,
         "color": "yellow"
       },
       {
@@ -100,7 +173,7 @@
         "published": "Thu, 09 Apr 2026 12:19:55 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -110,7 +183,7 @@
         "published": "Thu, 09 Apr 2026 12:00:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -120,7 +193,7 @@
         "published": "Thu, 09 Apr 2026 11:30:40 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -1.0,
         "color": "red"
       },
       {
@@ -132,7 +205,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -154,7 +227,7 @@
         "published": "Thu, 09 Apr 2026 09:50:36 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.1,
+        "score": 0.0,
         "color": "yellow"
       },
       {
@@ -175,31 +248,9 @@
         "url": "https://www.coindesk.com/policy/2026/04/09/crypto-payments-to-pass-strait-of-hormuz-is-the-next-logical-step-for-iran-s-sanctions-skirting-trade-network",
         "published": "Thu, 09 Apr 2026 08:32:18 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
-      },
-      {
-        "title": "Everyone’s awaiting U.S. inflation figures, but bitcoin traders couldn’t care less",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/09/everyone-s-awaiting-u-s-inflation-figures-but-bitcoin-traders-couldn-t-care-less",
-        "published": "Thu, 09 Apr 2026 08:22:28 +0000",
-        "assets": [
-          "BTC"
-        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "North Korean cyber spies are no longer just remote threats",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/north-korean-cyber-spies-not-just-remote-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 14:05:36 +0100",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.6,
-        "color": "red"
       },
       {
         "title": "Bitcoin Depot discloses $3.7M BTC theft in cybersecurity breach",
@@ -210,7 +261,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -220,7 +271,7 @@
         "published": "Thu, 09 Apr 2026 13:03:16 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.4,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -230,7 +281,7 @@
         "published": "Thu, 09 Apr 2026 13:00:00 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -242,49 +293,67 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.5,
         "color": "green"
+      },
+      {
+        "title": "Bhutan moves a further $23M in Bitcoin as holdings drop by 70%",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bhutan-offloads-a-further-23m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 11:39:46 +0100",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": 0.093,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 9?",
-        "volume_24h": 207975,
+        "volume_24h": 207834,
         "yes_price": 0.12,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on April 9?",
-        "volume_24h": 170734,
-        "yes_price": 0.41,
+        "volume_24h": 171893,
+        "yes_price": 0.35,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 9?",
-        "volume_24h": 159567,
-        "yes_price": 0.94,
+        "volume_24h": 159995,
+        "yes_price": 0.92,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 122559,
+        "volume_24h": 120925,
         "yes_price": 0.17,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 114281,
+        "volume_24h": 113440,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
+        "title": "Will the price of Bitcoin be between $70,000 and $72,000 on April 9?",
+        "volume_24h": 106223,
+        "yes_price": 0.81,
+        "category": "crypto"
+      },
+      {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 107667,
+        "volume_24h": 105909,
         "yes_price": 0.42,
         "category": "crypto"
       },
@@ -293,26 +362,116 @@
         "volume_24h": 100516,
         "yes_price": 0.2,
         "category": "crypto"
-      },
-      {
-        "title": "SpaceX IPO closing market cap above $3T",
-        "volume_24h": 99752,
-        "yes_price": 0.17,
-        "category": "crypto"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bearish",
       "summary": "Bearish: 0 bullish vs 1 bearish signals detected across crypto prediction markets data."
     },
-    "reddit": [],
+    "reddit": [
+      {
+        "subreddit": "r/CryptoCurrency",
+        "mentions": {
+          "BTC": 9,
+          "ETH": 2,
+          "SOL": 0,
+          "BNB": 0,
+          "XRP": 0,
+          "ADA": 0,
+          "DOGE": 0,
+          "AVAX": 0,
+          "LINK": 0,
+          "TON": 0
+        },
+        "activity_score": 100,
+        "top_post": "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1sfbmxf/daily_crypto_discussion_april_7_2026_gmt0/",
+        "top_post_score": 0
+      },
+      {
+        "subreddit": "r/Bitcoin",
+        "mentions": {
+          "BTC": 13,
+          "ETH": 0,
+          "SOL": 0,
+          "BNB": 0,
+          "XRP": 0,
+          "ADA": 0,
+          "DOGE": 0,
+          "AVAX": 0,
+          "LINK": 0,
+          "TON": 0
+        },
+        "activity_score": 100,
+        "top_post": "Bitcoin Newcomers FAQ - Please read!",
+        "top_post_url": "https://www.reddit.com/r/Bitcoin/comments/1o7jt3m/bitcoin_newcomers_faq_please_read/",
+        "top_post_score": 0
+      },
+      {
+        "subreddit": "r/ethereum",
+        "mentions": {
+          "ETH": 4,
+          "BTC": 1,
+          "SOL": 0,
+          "BNB": 0,
+          "XRP": 0,
+          "ADA": 0,
+          "DOGE": 0,
+          "AVAX": 0,
+          "LINK": 0,
+          "TON": 0
+        },
+        "activity_score": 100,
+        "top_post": "Glamsterdam Gas Repricing: share your feedback in the stakeholder survey",
+        "top_post_url": "https://www.reddit.com/r/ethereum/comments/1r8pk7s/glamsterdam_gas_repricing_share_your_feedback_in/",
+        "top_post_score": 0
+      },
+      {
+        "subreddit": "r/solana",
+        "mentions": {
+          "SOL": 21,
+          "BTC": 0,
+          "ETH": 0,
+          "BNB": 0,
+          "XRP": 0,
+          "ADA": 0,
+          "DOGE": 0,
+          "AVAX": 0,
+          "LINK": 0,
+          "TON": 0
+        },
+        "activity_score": 100,
+        "top_post": "Welcome to /r/Solana - Read This To Get Started",
+        "top_post_url": "https://www.reddit.com/r/solana/comments/1jmghap/welcome_to_rsolana_read_this_to_get_started/",
+        "top_post_score": 0
+      },
+      {
+        "subreddit": "r/CryptoMarkets",
+        "mentions": {
+          "BTC": 5,
+          "ETH": 0,
+          "SOL": 0,
+          "BNB": 0,
+          "XRP": 0,
+          "ADA": 0,
+          "DOGE": 0,
+          "AVAX": 0,
+          "LINK": 0,
+          "TON": 0
+        },
+        "activity_score": 100,
+        "top_post": "Daily Crypto Discussion - April 8, 2026",
+        "top_post_url": "https://www.reddit.com/r/CryptoMarkets/comments/1sfs6mj/daily_crypto_discussion_april_8_2026/",
+        "top_post_score": 0
+      }
+    ],
     "reddit_summary": {
       "outlook": "Mixed",
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 2 bearish signals detected across crypto news data."
+      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -391,7 +550,68 @@
         "change_24h": -0.05
       }
     ],
-    "top_mentioned": [],
+    "top_mentioned": [
+      {
+        "symbol": "SPY",
+        "mentions": 8,
+        "price_usd": null,
+        "change_24h": null
+      },
+      {
+        "symbol": "QQQ",
+        "mentions": 4,
+        "price_usd": null,
+        "change_24h": null
+      },
+      {
+        "symbol": "META",
+        "mentions": 3,
+        "price_usd": 612.42,
+        "change_24h": 6.5
+      },
+      {
+        "symbol": "GOOGL",
+        "mentions": 3,
+        "price_usd": 317.32,
+        "change_24h": 3.88
+      },
+      {
+        "symbol": "TSLA",
+        "mentions": 2,
+        "price_usd": 343.25,
+        "change_24h": -0.98
+      },
+      {
+        "symbol": "AMZN",
+        "mentions": 1,
+        "price_usd": 221.25,
+        "change_24h": 3.5
+      },
+      {
+        "symbol": "NVDA",
+        "mentions": 1,
+        "price_usd": 182.08,
+        "change_24h": 2.23
+      },
+      {
+        "symbol": "MSFT",
+        "mentions": 1,
+        "price_usd": 374.33,
+        "change_24h": 0.55
+      },
+      {
+        "symbol": "AMD",
+        "mentions": 1,
+        "price_usd": 231.82,
+        "change_24h": 4.64
+      },
+      {
+        "symbol": "AAPL",
+        "mentions": 0,
+        "price_usd": 258.9,
+        "change_24h": 2.13
+      }
+    ],
     "news": [
       {
         "title": "Oil prices rise to nearly $100 after Iran accuses U.S. of breaching ceasefire deal",
@@ -414,22 +634,22 @@
         "color": "yellow"
       },
       {
-        "title": "Inflation gauge held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
+        "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
-        "published": "Thu, 09 Apr 2026 13:07:19 GMT",
+        "published": "Thu, 09 Apr 2026 13:13:15 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "Google expands partnership with Intel for AI chips",
+        "title": "Amazon CEO Jassy defends $200 billion AI spend: \"We're not going to be conservative\"",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/google-expands-partnership-with-intel-for-ai-chips-.html",
-        "published": "Thu, 09 Apr 2026 13:00:01 GMT",
+        "url": "https://www.cnbc.com/2026/04/09/amazon-ceo-andy-jassy-ai-spending.html",
+        "published": "Thu, 09 Apr 2026 13:13:45 GMT",
         "assets": [
-          "GOOGL"
+          "AMZN"
         ],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -439,8 +659,20 @@
         "title": "American Airlines makes bag fees even more expensive for basic economy tickets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/09/american-airlines-bag-fees-basic-economy.html",
-        "published": "Thu, 09 Apr 2026 13:00:01 GMT",
+        "published": "Thu, 09 Apr 2026 13:11:00 GMT",
         "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Google expands partnership with Intel for AI chips",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/09/google-expands-partnership-with-intel-for-ai-chips-.html",
+        "published": "Thu, 09 Apr 2026 13:00:01 GMT",
+        "assets": [
+          "GOOGL"
+        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -458,30 +690,20 @@
         "color": "green"
       },
       {
-        "title": "As millions lose weight on GLP-1s, they're starting to turn to retailers to refresh their wardrobes",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/weight-loss-pills-glp-1s-stitch-fix-apparel-retailers.html",
-        "published": "Thu, 09 Apr 2026 12:48:30 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Volatility is the 'new norm' for government bonds as interest rate uncertainty sees yields whipsaw",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/us-iran-ceasefire-interest-rates-bank-of-england-ecb-europe-bond-markets-risk-volatility-inflation.html",
-        "published": "Thu, 09 Apr 2026 12:55:51 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Constellation Brands, U.S. maker of Modelo and Corona, withdraws 2028 guidance due to uncertainty",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/constellation-brands-stz-q4-2026-earnings.html",
         "published": "Thu, 09 Apr 2026 13:05:03 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Britain to call for toll-free Strait of Hormuz, says Lebanon must be part of Iran ceasefire",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/09/uk-cooper-iran-war-strait-of-hormuz-tolls-lebanon-israel-ceasefire.html",
+        "published": "Thu, 09 Apr 2026 09:04:03 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -558,58 +780,154 @@
     "polymarket": [
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 700894,
-        "yes_price": 0.3,
+        "volume_24h": 678796,
+        "yes_price": 0.32,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 656182,
+        "volume_24h": 652390,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 630688,
+        "volume_24h": 631949,
         "yes_price": 0.16,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 576424,
+        "volume_24h": 572616,
         "yes_price": 0.35,
         "category": "finance"
       },
       {
         "title": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-        "volume_24h": 445939,
+        "volume_24h": 445515,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "JD Vance diplomatic meeting with Iran by April 10?",
-        "volume_24h": 424564,
+        "volume_24h": 424837,
         "yes_price": 0.22,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 412281,
+        "volume_24h": 413209,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
-        "title": "Israel x Hezbollah ceasefire by April 30, 2026?",
-        "volume_24h": 380021,
-        "yes_price": 0.33,
+        "title": "Kharg Island no longer under Iranian control by April 30?",
+        "volume_24h": 402487,
+        "yes_price": 0.09,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across finance prediction markets data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 1 bullish vs 1 bearish signals detected across finance prediction markets data."
     },
-    "reddit": [],
+    "reddit": [
+      {
+        "subreddit": "r/wallstreetbets",
+        "mentions": {
+          "META": 2,
+          "GOOGL": 1,
+          "AMZN": 1,
+          "QQQ": 1,
+          "NVDA": 0,
+          "TSLA": 0,
+          "AAPL": 0,
+          "MSFT": 0,
+          "AMD": 0,
+          "PLTR": 0
+        },
+        "activity_score": 100,
+        "top_post": "Daily Discussion Thread for April 09, 2026",
+        "top_post_url": "https://www.reddit.com/r/wallstreetbets/comments/1sgmkqy/daily_discussion_thread_for_april_09_2026/",
+        "top_post_score": 0
+      },
+      {
+        "subreddit": "r/stocks",
+        "mentions": {
+          "GOOGL": 2,
+          "SPY": 2,
+          "NVDA": 1,
+          "TSLA": 1,
+          "META": 1,
+          "AMD": 1,
+          "QQQ": 1,
+          "AAPL": 0,
+          "MSFT": 0,
+          "AMZN": 0
+        },
+        "activity_score": 100,
+        "top_post": "Rate My Portfolio - r/Stocks Quarterly Thread March 2026",
+        "top_post_url": "https://www.reddit.com/r/stocks/comments/1rhtjtk/rate_my_portfolio_rstocks_quarterly_thread_march/",
+        "top_post_score": 0
+      },
+      {
+        "subreddit": "r/investing",
+        "mentions": {
+          "QQQ": 2,
+          "MSFT": 1,
+          "SPY": 1,
+          "NVDA": 0,
+          "TSLA": 0,
+          "AAPL": 0,
+          "GOOGL": 0,
+          "AMZN": 0,
+          "META": 0,
+          "AMD": 0
+        },
+        "activity_score": 100,
+        "top_post": "Daily General Discussion and Advice Thread - April 08, 2026",
+        "top_post_url": "https://www.reddit.com/r/investing/comments/1sfmi0f/daily_general_discussion_and_advice_thread_april/",
+        "top_post_score": 0
+      },
+      {
+        "subreddit": "r/StockMarket",
+        "mentions": {
+          "TSLA": 1,
+          "SPY": 1,
+          "NVDA": 0,
+          "AAPL": 0,
+          "MSFT": 0,
+          "GOOGL": 0,
+          "AMZN": 0,
+          "META": 0,
+          "AMD": 0,
+          "PLTR": 0
+        },
+        "activity_score": 100,
+        "top_post": "Rate My Portfolio - r/StockMarket Quarterly Thread April 2026",
+        "top_post_url": "https://www.reddit.com/r/StockMarket/comments/1s9f595/rate_my_portfolio_rstockmarket_quarterly_thread/",
+        "top_post_score": 0
+      },
+      {
+        "subreddit": "r/options",
+        "mentions": {
+          "SPY": 4,
+          "NVDA": 0,
+          "TSLA": 0,
+          "AAPL": 0,
+          "MSFT": 0,
+          "GOOGL": 0,
+          "AMZN": 0,
+          "META": 0,
+          "AMD": 0,
+          "PLTR": 0
+        },
+        "activity_score": 100,
+        "top_post": "Options Questions Safe Haven periodic megathread | April 6 2026",
+        "top_post_url": "https://www.reddit.com/r/options/comments/1se13ex/options_questions_safe_haven_periodic_megathread/",
+        "top_post_score": 0
+      }
+    ],
     "reddit_summary": {
       "outlook": "Mixed",
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
