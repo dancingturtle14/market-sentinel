@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T09:20:44Z",
+  "updated_at": "2026-04-09T09:31:12Z",
   "crypto": {
     "fear_greed": {
       "value": 14,
@@ -11,87 +11,99 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71384,
-        "change_24h": -0.59,
-        "market_cap": 1428636638306,
-        "volume_24h": 37212150690
+        "price_usd": 71274,
+        "change_24h": -0.62,
+        "market_cap": 1426351253830,
+        "volume_24h": 36543724291
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2185.93,
-        "change_24h": -3.12,
-        "market_cap": 263823431215,
-        "volume_24h": 16400418282
+        "price_usd": 2184.24,
+        "change_24h": -3.0,
+        "market_cap": 263533928908,
+        "volume_24h": 16501847956
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.34,
-        "change_24h": -3.39,
-        "market_cap": 82078256721,
-        "volume_24h": 2511420002
+        "change_24h": -3.33,
+        "market_cap": 81985691134,
+        "volume_24h": 2434991202
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 601.62,
-        "change_24h": -2.01,
-        "market_cap": 82024803898,
-        "volume_24h": 937675891
+        "price_usd": 601.25,
+        "change_24h": -1.93,
+        "market_cap": 81937266599,
+        "volume_24h": 1051159531
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.39,
-        "change_24h": -2.83,
-        "market_cap": 47299739508,
-        "volume_24h": 3217622976
+        "price_usd": 82.48,
+        "change_24h": -2.65,
+        "market_cap": 47327038637,
+        "volume_24h": 3211663646
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.091577,
-        "change_24h": -3.33,
-        "market_cap": 14080393491,
-        "volume_24h": 1358080925
+        "price_usd": 0.091588,
+        "change_24h": -3.16,
+        "market_cap": 14081891960,
+        "volume_24h": 1338296718
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.250338,
-        "change_24h": -3.86,
-        "market_cap": 9233372753,
-        "volume_24h": 366611944
+        "price_usd": 0.250447,
+        "change_24h": -3.69,
+        "market_cap": 9236400356,
+        "volume_24h": 361929163
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 8.77,
-        "change_24h": -5.21,
-        "market_cap": 6375853996,
-        "volume_24h": 340519001
+        "change_24h": -5.02,
+        "market_cap": 6376503540,
+        "volume_24h": 342276414
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 9.1,
-        "change_24h": -3.02,
-        "market_cap": 3926258962,
-        "volume_24h": 264257481
+        "change_24h": -2.99,
+        "market_cap": 3930320846,
+        "volume_24h": 261411042
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Bithumb moves to seize assets over mistaken $8 million bitcoin dispute",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/04/09/bithumb-moves-to-seize-assets-over-mistaken-usd8-million-bitcoin-dispute",
+        "published": "Thu, 09 Apr 2026 09:28:29 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
+      },
       {
         "title": "Iran's crypto tanker tolls are the latest step in its sanctions‑busting trade network",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/policy/2026/04/09/crypto-payments-to-pass-strait-of-hormuz-is-the-next-logical-step-for-iran-s-sanctions-skirting-trade-network",
         "published": "Thu, 09 Apr 2026 08:32:18 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Everyone’s awaiting U.S. inflation figures, but bitcoin traders couldn’t care less",
@@ -101,8 +113,20 @@
         "assets": [
           "BTC"
         ],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
+      {
+        "title": "The ‘bottom is in’: Why Tom Lee says the Iran ceasefire is the starting gun for a massive bitcoin rally",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/09/fundstrat-s-tom-lee-says-the-bottom-is-in-for-stocks-paving-a-bull-case-for-bitcoin-and-ether",
+        "published": "Thu, 09 Apr 2026 07:42:38 +0000",
+        "assets": [
+          "BTC"
+        ],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -111,9 +135,9 @@
         "url": "https://www.coindesk.com/policy/2026/04/09/cftc-presses-case-that-sports-betting-is-finance-seeks-to-block-arizona-enforcement",
         "published": "Thu, 09 Apr 2026 06:29:54 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "XRP slips 4% as selling pressure builds despite ETF inflows",
@@ -163,7 +187,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -179,28 +203,6 @@
         "color": "green"
       },
       {
-        "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown",
-        "published": "Wed, 08 Apr 2026 18:35:47 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
-      },
-      {
-        "title": "Yuga Labs settles Bored Ape NFT lawsuit, ending fight over alleged copycat tokens",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/04/08/yuga-labs-settles-bored-ape-nft-lawsuit-ending-fight-over-alleged-copycat-tokens",
-        "published": "Wed, 08 Apr 2026 17:16:52 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Bithumb launches legal action to recover 7 Bitcoin from payout error",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/bithumb-legal-action-recover-7-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -208,9 +210,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Yuga Labs settles lawsuit against artists accused of copying its NFTs",
@@ -229,7 +231,7 @@
         "published": "Thu, 09 Apr 2026 07:13:49 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -239,7 +241,7 @@
         "published": "Thu, 09 Apr 2026 07:12:45 +0100",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.4,
+        "score": -0.3,
         "color": "red"
       },
       {
@@ -254,38 +256,38 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.06,
+      "score": -0.08,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 9?",
-        "volume_24h": 146245,
-        "yes_price": 0.2,
+        "volume_24h": 151394,
+        "yes_price": 0.18,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on April 9?",
-        "volume_24h": 135104,
-        "yes_price": 0.51,
+        "volume_24h": 137795,
+        "yes_price": 0.49,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 108590,
+        "volume_24h": 110694,
         "yes_price": 0.2,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 108083,
-        "yes_price": 0.17,
+        "volume_24h": 108030,
+        "yes_price": 0.18,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 9?",
-        "volume_24h": 103657,
+        "volume_24h": 106774,
         "yes_price": 0.94,
         "category": "crypto"
       },
@@ -315,11 +317,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Sentiment is unclear due to lack of data on top mentioned topics and subreddits."
+      "summary": "Mixed: Discussion lacks clear direction, with no dominant sentiment or specific numbers mentioned, and no notable names or subreddits referenced."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 1 bullish vs 4 bearish signals detected across crypto news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 3 bullish vs 4 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -337,12 +339,12 @@
         "change_24h": 2.85
       },
       "vix": {
-        "value": 21.58,
-        "change_24h": 2.57
+        "value": 21.39,
+        "change_24h": 1.66
       }
     },
     "market_mood": {
-      "score": 0.621,
+      "score": 0.667,
       "label": "Bullish",
       "color": "green"
     },
@@ -431,10 +433,20 @@
         "color": "green"
       },
       {
-        "title": "From war to weather: A 'super El Niño' event poses fresh risks to global food costs",
+        "title": "Constellation Brands, U.S. maker of Modelo and Corona, withdraws 2028 guidance due to uncertainty",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/el-nino-food-risks-iran-war-fertilizer-weather.html",
-        "published": "Thu, 09 Apr 2026 05:01:10 GMT",
+        "url": "https://www.cnbc.com/2026/04/08/constellation-brands-stz-q4-2026-earnings.html",
+        "published": "Wed, 08 Apr 2026 22:48:45 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Rep. Ritchie Torres calls for probe into futures trades placed ahead of March pause on Iran hostilities",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/08/iran-ceasefire-futures-markets-ritchie-torrres.html",
+        "published": "Wed, 08 Apr 2026 20:25:05 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -451,54 +463,44 @@
         "color": "yellow"
       },
       {
-        "title": "U.S. Treasury yields steady ahead of key U.S. inflation data releases",
+        "title": "Pirro's Powell probe faces a difficult road to appeal, former prosecutors say",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/us-treasury-yields-steady-ahead-of-key-us-inflation-data-releases.html",
-        "published": "Thu, 09 Apr 2026 08:58:42 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Inside India newsletter: Tariffs and Iran war threaten India's $100 billion garments export goal",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/inside-india-newsletter-tariffs-iran-war-india-massive-garments-industry.html",
-        "published": "Thu, 09 Apr 2026 02:27:31 GMT",
+        "url": "https://www.cnbc.com/2026/04/08/fed-jeanine-pirro-fed-jerome-powell-appeal-kevin-warsh.html",
+        "published": "Wed, 08 Apr 2026 19:50:27 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "The U.S. housing markets where million-dollar listings are standard",
+        "title": "From war to weather: A 'super El Niño' event poses fresh risks to global food costs",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/08/us-housing-markets-million-dollar-listing.html",
-        "published": "Wed, 08 Apr 2026 14:52:04 GMT",
+        "url": "https://www.cnbc.com/2026/04/09/el-nino-food-risks-iran-war-fertilizer-weather.html",
+        "published": "Thu, 09 Apr 2026 05:01:10 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "How to save money on flights as airlines raise prices",
+        "title": "Trump wants Strait of Hormuz open 'without limitation, including tolls' during Iran ceasefire: White House",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/08/iran-war-airlines-prices-airfare-flights-how-to-save-money.html",
-        "published": "Wed, 08 Apr 2026 23:01:24 GMT",
+        "url": "https://www.cnbc.com/2026/04/08/trump-iran-ceasefire-strait-of-hormuz-toll.html",
+        "published": "Wed, 08 Apr 2026 20:57:29 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Asia-Pacific markets decline as investors assess fragile Iran-U.S. ceasefire deal",
+        "title": "‘Weeks, if not months’: Strait of Hormuz tanker traffic won't normalize anytime soon",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/09/asia-pacific-markets-us-iran-negotiations-.html",
-        "published": "Thu, 09 Apr 2026 08:02:22 GMT",
+        "url": "https://www.cnbc.com/2026/04/09/tankers-return-to-hormuz-ceasefire-disruption-to-last-weeks.html",
+        "published": "Thu, 09 Apr 2026 08:53:16 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "‘I plan to exit corporate life’: I’m 50 and have $400,000. My wife is a teacher. Can I retire at 55?",
@@ -554,56 +556,56 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.0,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 1049245,
+        "volume_24h": 1050800,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 800395,
+        "volume_24h": 799012,
         "yes_price": 0.32,
         "category": "finance"
       },
       {
         "title": "Will Ron DeSantis win the 2028 US Presidential Election?",
-        "volume_24h": 667993,
+        "volume_24h": 664930,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 652872,
+        "volume_24h": 653418,
         "yes_price": 0.33,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 568352,
+        "volume_24h": 567346,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Will UAE strike Iran by April 30?",
-        "volume_24h": 479041,
-        "yes_price": 0.11,
+        "volume_24h": 479064,
+        "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "JD Vance diplomatic meeting with Iran by April 10?",
-        "volume_24h": 418529,
+        "volume_24h": 418928,
         "yes_price": 0.22,
         "category": "finance"
       },
       {
         "title": "Will China invade Taiwan by June 30, 2026?",
-        "volume_24h": 385126,
+        "volume_24h": 383743,
         "yes_price": 0.03,
         "category": "finance"
       }
@@ -618,8 +620,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 3 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 3 bullish vs 1 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
