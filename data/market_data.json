@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T09:50:34Z",
+  "updated_at": "2026-04-09T10:00:43Z",
   "crypto": {
     "fear_greed": {
       "value": 14,
@@ -11,78 +11,88 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71338,
-        "change_24h": -0.48,
-        "market_cap": 1427167167534,
-        "volume_24h": 36696046483
+        "price_usd": 71516,
+        "change_24h": -0.24,
+        "market_cap": 1431194464312,
+        "volume_24h": 37391157264
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2187.37,
-        "change_24h": -2.77,
-        "market_cap": 263888059087,
-        "volume_24h": 17257843039
+        "price_usd": 2193.91,
+        "change_24h": -2.48,
+        "market_cap": 264784591279,
+        "volume_24h": 17065110185
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 601.8,
-        "change_24h": -1.62,
-        "market_cap": 82044955680,
-        "volume_24h": 812777074
+        "price_usd": 602.59,
+        "change_24h": -1.51,
+        "market_cap": 82165755025,
+        "volume_24h": 1066617936
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.34,
-        "change_24h": -3.24,
-        "market_cap": 82003947256,
-        "volume_24h": 2424869006
+        "change_24h": -3.13,
+        "market_cap": 82145636641,
+        "volume_24h": 2495728435
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.25,
-        "change_24h": -2.86,
-        "market_cap": 47240343131,
-        "volume_24h": 3222643018
+        "price_usd": 82.54,
+        "change_24h": -2.51,
+        "market_cap": 47381487329,
+        "volume_24h": 3234212680
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.091626,
-        "change_24h": -3.29,
-        "market_cap": 14075535752,
-        "volume_24h": 1324243910
+        "price_usd": 0.091976,
+        "change_24h": -2.95,
+        "market_cap": 14140628674,
+        "volume_24h": 1350081480
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.251097,
-        "change_24h": -3.14,
-        "market_cap": 9251569214,
-        "volume_24h": 361502141
+        "price_usd": 0.251687,
+        "change_24h": -2.96,
+        "market_cap": 9286385546,
+        "volume_24h": 361974862
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.76,
-        "change_24h": -4.91,
-        "market_cap": 6369724522,
-        "volume_24h": 343677123
+        "price_usd": 8.79,
+        "change_24h": -4.63,
+        "market_cap": 6389553197,
+        "volume_24h": 348696663
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.1,
-        "change_24h": -2.76,
-        "market_cap": 3929420714,
-        "volume_24h": 260390888
+        "price_usd": 9.13,
+        "change_24h": -2.54,
+        "market_cap": 3938613071,
+        "volume_24h": 260178233
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Strategy’s STRC sees one of its highest volume days, with just one penny of volatility",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/09/strategy-s-strc-sees-one-of-its-highest-volume-days-with-just-one-penny-of-volatility",
+        "published": "Thu, 09 Apr 2026 09:50:36 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
       {
         "title": "Bithumb moves to seize assets over mistaken $8 million bitcoin dispute",
         "source": "CoinDesk",
@@ -101,9 +111,9 @@
         "url": "https://www.coindesk.com/policy/2026/04/09/crypto-payments-to-pass-strait-of-hormuz-is-the-next-logical-step-for-iran-s-sanctions-skirting-trade-network",
         "published": "Thu, 09 Apr 2026 08:32:18 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
       },
       {
         "title": "Everyone’s awaiting U.S. inflation figures, but bitcoin traders couldn’t care less",
@@ -114,7 +124,7 @@
           "BTC"
         ],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.0,
         "color": "yellow"
       },
       {
@@ -187,31 +197,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
-      },
-      {
-        "title": "Morgan Stanley’s bitcoin ETF draws $34 million on day one",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-draws-usd34-million-on-day-one",
-        "published": "Wed, 08 Apr 2026 20:51:31 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.9,
-        "color": "green"
-      },
-      {
-        "title": "Morgan Stanley Bitcoin ETF trails BlackRock with $30M in first-day inflows",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/morgan-stanley-bitcoin-etf-trails-blackrock-with-30m-in-first-day-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 10:21:29 +0100",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.6,
         "color": "green"
       },
       {
@@ -221,7 +207,7 @@
         "published": "Thu, 09 Apr 2026 10:01:38 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.3,
+        "score": 0.4,
         "color": "green"
       },
       {
@@ -253,43 +239,47 @@
         "published": "Thu, 09 Apr 2026 07:13:49 +0100",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.7,
         "color": "green"
+      },
+      {
+        "title": "Anthropic loses early appeal over Pentagon ‘supply chain risk’ label",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/anthropic-loses-bid-pause-pentagon-supply-chain-risk-designation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 07:12:45 +0100",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.3,
+        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": 0.067,
+      "score": 0.0,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 9?",
-        "volume_24h": 153357,
-        "yes_price": 0.17,
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin Up or Down on April 9?",
-        "volume_24h": 138912,
-        "yes_price": 0.46,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $60,000 in April?",
-        "volume_24h": 110694,
+        "volume_24h": 155821,
         "yes_price": 0.2,
         "category": "crypto"
       },
       {
+        "title": "Bitcoin Up or Down on April 9?",
+        "volume_24h": 138989,
+        "yes_price": 0.56,
+        "category": "crypto"
+      },
+      {
         "title": "Will the price of Bitcoin be above $70,000 on April 9?",
-        "volume_24h": 108627,
-        "yes_price": 0.93,
+        "volume_24h": 111900,
+        "yes_price": 0.94,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 108374,
+        "volume_24h": 108501,
         "yes_price": 0.17,
         "category": "crypto"
       },
@@ -310,6 +300,12 @@
         "volume_24h": 96222,
         "yes_price": 0.73,
         "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $65,000 in April?",
+        "volume_24h": 91671,
+        "yes_price": 0.42,
+        "category": "crypto"
       }
     ],
     "polymarket_summary": {
@@ -319,11 +315,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: No specific data is available to determine market sentiment, with no top mentions or subreddits provided."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 3 bullish vs 4 bearish signals detected across crypto news data."
+      "summary": "Mixed: 3 bullish vs 3 bearish signals detected across crypto news data."
     }
   },
   "stocks": {
@@ -341,12 +337,12 @@
         "change_24h": 2.85
       },
       "vix": {
-        "value": 21.45,
-        "change_24h": 1.95
+        "value": 21.46,
+        "change_24h": 2.0
       }
     },
     "market_mood": {
-      "score": 0.652,
+      "score": 0.65,
       "label": "Bullish",
       "color": "green"
     },
@@ -455,6 +451,16 @@
         "color": "yellow"
       },
       {
+        "title": "OpenAI will allocate IPO shares to retail investors as it preps for debut, CFO says",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html",
+        "published": "Wed, 08 Apr 2026 23:16:15 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Pirro's Powell probe faces a difficult road to appeal, former prosecutors say",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/fed-jeanine-pirro-fed-jerome-powell-appeal-kevin-warsh.html",
@@ -465,20 +471,10 @@
         "color": "yellow"
       },
       {
-        "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
+        "title": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
-        "published": "Wed, 08 Apr 2026 23:52:04 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "OpenAI will allocate IPO shares to retail investors as it preps for debut, CFO says",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html",
-        "published": "Wed, 08 Apr 2026 23:16:15 GMT",
+        "url": "https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html",
+        "published": "Thu, 09 Apr 2026 09:26:43 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -565,49 +561,49 @@
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 1047308,
+        "volume_24h": 885826,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 770524,
-        "yes_price": 0.32,
+        "volume_24h": 697458,
+        "yes_price": 0.3,
         "category": "finance"
       },
       {
         "title": "Will Ron DeSantis win the 2028 US Presidential Election?",
-        "volume_24h": 663045,
+        "volume_24h": 661523,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 649742,
+        "volume_24h": 649604,
         "yes_price": 0.33,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 566443,
+        "volume_24h": 574295,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Will UAE strike Iran by April 30?",
-        "volume_24h": 480758,
+        "volume_24h": 480664,
         "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "JD Vance diplomatic meeting with Iran by April 10?",
-        "volume_24h": 419036,
-        "yes_price": 0.23,
+        "volume_24h": 418375,
+        "yes_price": 0.21,
         "category": "finance"
       },
       {
         "title": "Will China invade Taiwan by June 30, 2026?",
-        "volume_24h": 382097,
+        "volume_24h": 381781,
         "yes_price": 0.03,
         "category": "finance"
       }
