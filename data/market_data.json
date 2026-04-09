@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T21:30:52Z",
+  "updated_at": "2026-04-09T21:40:43Z",
   "crypto": {
     "fear_greed": {
       "value": 14,
@@ -11,130 +11,130 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 72200,
-        "change_24h": 0.78,
-        "market_cap": 1446644835784,
-        "volume_24h": 37190199949
+        "price_usd": 72227,
+        "change_24h": 0.87,
+        "market_cap": 1445484500682,
+        "volume_24h": 36966104647
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2210.15,
-        "change_24h": -0.39,
-        "market_cap": 266894983607,
-        "volume_24h": 16736685219
+        "price_usd": 2209.01,
+        "change_24h": -0.38,
+        "market_cap": 266606763519,
+        "volume_24h": 15995860893
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.35,
-        "change_24h": -0.29,
-        "market_cap": 83070125703,
-        "volume_24h": 2512728619
+        "change_24h": -0.06,
+        "market_cap": 83025702608,
+        "volume_24h": 2433904111
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 608.12,
-        "change_24h": 0.21,
-        "market_cap": 82956956339,
-        "volume_24h": 969593327
+        "price_usd": 607.47,
+        "change_24h": 0.05,
+        "market_cap": 82838480553,
+        "volume_24h": 962690303
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 84.32,
-        "change_24h": 1.08,
-        "market_cap": 48434065700,
-        "volume_24h": 3308966045
+        "price_usd": 84.27,
+        "change_24h": 1.04,
+        "market_cap": 48408114386,
+        "volume_24h": 3315236508
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.093834,
-        "change_24h": 0.35,
-        "market_cap": 14436637965,
-        "volume_24h": 1330895473
+        "price_usd": 0.093807,
+        "change_24h": 0.14,
+        "market_cap": 14423411863,
+        "volume_24h": 1331281684
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.256535,
-        "change_24h": 1.1,
-        "market_cap": 9467778357,
-        "volume_24h": 324445634
+        "price_usd": 0.256169,
+        "change_24h": 0.72,
+        "market_cap": 9447282859,
+        "volume_24h": 332763160
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 9.03,
-        "change_24h": 0.18,
-        "market_cap": 6568529306,
-        "volume_24h": 384399741
+        "change_24h": 0.2,
+        "market_cap": 6568243942,
+        "volume_24h": 386523021
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 9.34,
-        "change_24h": 1.76,
-        "market_cap": 4034576558,
-        "volume_24h": 252399541
+        "change_24h": 1.49,
+        "market_cap": 4032194668,
+        "volume_24h": 251599979
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 29,
-        "price_usd": 72200,
-        "change_24h": 0.78
+        "price_usd": 72227,
+        "change_24h": 0.87
       },
       {
         "symbol": "SOL",
         "mentions": 22,
-        "price_usd": 84.32,
-        "change_24h": 1.08
+        "price_usd": 84.27,
+        "change_24h": 1.04
       },
       {
         "symbol": "ETH",
         "mentions": 6,
-        "price_usd": 2210.15,
-        "change_24h": -0.39
+        "price_usd": 2209.01,
+        "change_24h": -0.38
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 608.12,
-        "change_24h": 0.21
+        "price_usd": 607.47,
+        "change_24h": 0.05
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.35,
-        "change_24h": -0.29
+        "change_24h": -0.06
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.256535,
-        "change_24h": 1.1
+        "price_usd": 0.256169,
+        "change_24h": 0.72
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.093834,
-        "change_24h": 0.35
+        "price_usd": 0.093807,
+        "change_24h": 0.14
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
         "price_usd": 9.34,
-        "change_24h": 1.76
+        "change_24h": 1.49
       },
       {
         "symbol": "LINK",
         "mentions": 0,
         "price_usd": 9.03,
-        "change_24h": 0.18
+        "change_24h": 0.2
       },
       {
         "symbol": "TON",
@@ -152,9 +152,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.333,
+        "color": "red"
       },
       {
         "title": "These 3 crypto stocks could actually beat bitcoin ETFs, says TD Cowen",
@@ -165,7 +165,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -174,9 +174,9 @@
         "url": "https://www.coindesk.com/markets/2026/04/09/kalshi-now-controls-89-of-the-u-s-prediction-market-as-regulated-trading-takes-over",
         "published": "Thu, 09 Apr 2026 18:36:05 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Securitize names ex-SEC official Brett Redfearn as president ahead of public listing",
@@ -184,9 +184,9 @@
         "url": "https://www.coindesk.com/business/2026/04/09/securitize-names-ex-sec-official-president-ahead-of-public-listing",
         "published": "Thu, 09 Apr 2026 17:06:14 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Potential buyers are circling Winklevoss-backed crypto exchange Gemini",
@@ -194,9 +194,9 @@
         "url": "https://www.coindesk.com/business/2026/04/02/potential-buyers-are-circling-winklevoss-backed-crypto-exchange-gemini",
         "published": "Thu, 09 Apr 2026 17:05:40 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": -0.2,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "U.S. Treasury to loop in crypto sector on hacker warnings shared with traditional firms",
@@ -204,9 +204,9 @@
         "url": "https://www.coindesk.com/policy/2026/04/09/u-s-treasury-to-loop-in-crypto-sector-on-hacker-warnings-shared-with-traditional-firms",
         "published": "Thu, 09 Apr 2026 17:05:19 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Bitcoin shoots above $72,000 as optimism grows over Middle East ceasefire",
@@ -216,9 +216,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Crypto for Advisors: Crypto’s Performance Q1",
@@ -236,9 +236,9 @@
         "url": "https://www.coindesk.com/business/2026/04/09/stablecoin-volumes-to-reach-usd719t-by-2035-as-generational-wealth-shift-speeds-up-crypto-adoption",
         "published": "Thu, 09 Apr 2026 14:57:10 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.9,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Tom Lee's Bitmine uplists to NYSE, expands buyback authorization to $4 billion",
@@ -247,8 +247,18 @@
         "published": "Thu, 09 Apr 2026 14:50:48 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 1.0,
         "color": "green"
+      },
+      {
+        "title": "Circle stock sinks 10% amid analyst downgrade, Drift Protocol probe",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/circle-stock-downgrade-drift-exploit-impact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 22:06:16 +0100",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "ETH valuation metric hits level not seen since 2022: Is rally to $2.5K next?",
@@ -259,7 +269,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -268,9 +278,9 @@
         "url": "https://cointelegraph.com/news/us-lawmakers-questions-donald-trump-memecoin-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Thu, 09 Apr 2026 20:56:16 +0100",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "CoreWeave’s $8.5B loan shows how AI is replacing crypto mining finance",
@@ -278,9 +288,9 @@
         "url": "https://cointelegraph.com/news/coreweave-8-5b-ai-loan-shift-crypto-mining-to-computefi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Thu, 09 Apr 2026 20:42:22 +0100",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Pyth Network looks to disrupt data hegemony with new marketplace",
@@ -288,69 +298,56 @@
         "url": "https://cointelegraph.com/news/pyth-network-looks-to-disrupt-data-hegemony-with-new-marketplace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Thu, 09 Apr 2026 20:32:57 +0100",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
-      },
-      {
-        "title": "Old Bitcoin whales sold $271M in BTC: Is the crypto rally at stake?",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/old-bitcoin-whales-sold-dollar271m-in-btc-is-the-crypto-rally-at-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 19:41:24 +0100",
-        "assets": [
-          "BTC",
-          "SOL"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.6,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.293,
+      "score": 0.044,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 260737,
+        "volume_24h": 260711,
         "yes_price": 0.23,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 136676,
-        "yes_price": 0.03,
-        "category": "crypto"
-      },
-      {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 134788,
+        "volume_24h": 135301,
         "yes_price": 0.69,
         "category": "crypto"
       },
       {
+        "title": "Will Bitcoin dip to $50,000 in April?",
+        "volume_24h": 131567,
+        "yes_price": 0.03,
+        "category": "crypto"
+      },
+      {
         "title": "Will Bitcoin reach $90,000 in April?",
-        "volume_24h": 125655,
+        "volume_24h": 125821,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $74,000 on April 10?",
-        "volume_24h": 121773,
+        "volume_24h": 120182,
         "yes_price": 0.1,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 11?",
-        "volume_24h": 86679,
-        "yes_price": 0.55,
+        "volume_24h": 86785,
+        "yes_price": 0.56,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $55,000 in April?",
-        "volume_24h": 80145,
+        "volume_24h": 80310,
         "yes_price": 0.04,
         "category": "crypto"
       },
@@ -463,16 +460,16 @@
       }
     ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "outlook": "Bullish",
+      "summary": "Bullish: BTC leads with 29 mentions, driving high activity in r/CryptoCurrency, r/Bitcoin, and r/ethereum, all at 100/100."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 3 bullish vs 4 bearish signals detected across crypto news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 3 bullish vs 5 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 136,
+      "active_threads": 138,
       "mentions": {
         "BTC": 22,
         "XRP": 9,
@@ -489,49 +486,49 @@
         "name": "Zcash",
         "rank": 19,
         "score": 0,
-        "change_24h": 16.87
+        "change_24h": 16.56
       },
       {
         "symbol": "TAO",
         "name": "Bittensor",
         "rank": 33,
         "score": 1,
-        "change_24h": 2.65
+        "change_24h": 2.21
       },
       {
         "symbol": "SIREN",
         "name": "Siren",
         "rank": 99,
         "score": 2,
-        "change_24h": 25.85
+        "change_24h": 25.74
       },
       {
         "symbol": "MON",
         "name": "Monad",
         "rank": 119,
         "score": 3,
-        "change_24h": 5.26
+        "change_24h": 5.72
       },
       {
         "symbol": "FARTCOIN",
         "name": "Fartcoin",
         "rank": 175,
         "score": 4,
-        "change_24h": -14.6
+        "change_24h": -14.57
       },
       {
         "symbol": "HYPE",
         "name": "Hyperliquid",
         "rank": 13,
         "score": 5,
-        "change_24h": 1.8
+        "change_24h": 1.5
       },
       {
-        "symbol": "RAVE",
-        "name": "RaveDAO",
-        "rank": 196,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 107,
         "score": 6,
-        "change_24h": 117.03
+        "change_24h": 1.12
       }
     ]
   },
@@ -837,50 +834,50 @@
     "polymarket": [
       {
         "title": "Russia x Ukraine ceasefire by April 30, 2026?",
-        "volume_24h": 1229516,
+        "volume_24h": 1338073,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 984313,
+        "volume_24h": 998230,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 848842,
+        "volume_24h": 849641,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 760965,
+        "volume_24h": 759798,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
-        "title": "Trump announces end of military operations against Iran by April 30th?",
-        "volume_24h": 574681,
-        "yes_price": 0.39,
-        "category": "finance"
-      },
-      {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 574355,
+        "volume_24h": 574350,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
-        "title": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-        "volume_24h": 515875,
-        "yes_price": 0.02,
+        "title": "Trump announces end of military operations against Iran by April 30th?",
+        "volume_24h": 572309,
+        "yes_price": 0.4,
         "category": "finance"
       },
       {
         "title": "Trump announces end of military operations against Iran by April 15th?",
-        "volume_24h": 484581,
-        "yes_price": 0.13,
+        "volume_24h": 533867,
+        "yes_price": 0.1,
+        "category": "finance"
+      },
+      {
+        "title": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
+        "volume_24h": 521299,
+        "yes_price": 0.02,
         "category": "finance"
       }
     ],
@@ -1006,7 +1003,7 @@
       "high_3m": 47.67,
       "low_3m": 46.46,
       "week52_high": 48.89,
-      "week52_low": 45.75,
+      "week52_low": 42.33,
       "rsi": 61.1,
       "div_yield": 7.35,
       "last_div": null,
@@ -1038,7 +1035,7 @@
       "high_3m": 40.5,
       "low_3m": 38.36,
       "week52_high": 41.1,
-      "week52_low": 36.52,
+      "week52_low": 35.08,
       "rsi": 60.2,
       "div_yield": 10.98,
       "last_div": null,
@@ -1070,7 +1067,7 @@
       "high_3m": 58.37,
       "low_3m": 53.23,
       "week52_high": 60.14,
-      "week52_low": 47.14,
+      "week52_low": 45.15,
       "rsi": 57.8,
       "div_yield": 11.11,
       "last_div": null,
@@ -1102,7 +1099,7 @@
       "high_3m": 31.59,
       "low_3m": 28.26,
       "week52_high": 31.95,
-      "week52_low": 24.31,
+      "week52_low": 23.87,
       "rsi": 66.3,
       "div_yield": 3.44,
       "last_div": null,
@@ -1134,7 +1131,7 @@
       "high_3m": 260.4,
       "low_3m": 229.87,
       "week52_high": 262.234,
-      "week52_low": 176.19,
+      "week52_low": 168.815,
       "rsi": 58.4,
       "div_yield": 53.0,
       "last_div": null,
