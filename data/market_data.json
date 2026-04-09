@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T11:40:35Z",
+  "updated_at": "2026-04-09T11:51:07Z",
   "crypto": {
     "fear_greed": {
       "value": 14,
@@ -11,74 +11,74 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71150,
-        "change_24h": -0.52,
-        "market_cap": 1423542031360,
-        "volume_24h": 37698270056
+        "price_usd": 71200,
+        "change_24h": -0.69,
+        "market_cap": 1424294908911,
+        "volume_24h": 37103996098
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2181.1,
-        "change_24h": -2.71,
-        "market_cap": 263133907820,
-        "volume_24h": 17450497428
+        "price_usd": 2182.06,
+        "change_24h": -2.93,
+        "market_cap": 263221609919,
+        "volume_24h": 16466787382
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 601.67,
-        "change_24h": -1.61,
-        "market_cap": 82034023391,
-        "volume_24h": 1077619748
+        "price_usd": 602.24,
+        "change_24h": -1.67,
+        "market_cap": 82056406651,
+        "volume_24h": 1074068992
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.33,
-        "change_24h": -3.2,
-        "market_cap": 81591127475,
-        "volume_24h": 2501065620
+        "change_24h": -3.55,
+        "market_cap": 81547496677,
+        "volume_24h": 2502867959
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.19,
-        "change_24h": -2.45,
-        "market_cap": 47183167292,
-        "volume_24h": 3179602441
+        "price_usd": 82.29,
+        "change_24h": -2.58,
+        "market_cap": 47222102588,
+        "volume_24h": 3141431677
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.091662,
-        "change_24h": -2.47,
-        "market_cap": 14092989451,
-        "volume_24h": 1229623578
+        "price_usd": 0.091664,
+        "change_24h": -2.76,
+        "market_cap": 14090104153,
+        "volume_24h": 1222646590
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.250777,
-        "change_24h": -2.68,
-        "market_cap": 9249359137,
-        "volume_24h": 355039745
+        "price_usd": 0.250681,
+        "change_24h": -2.53,
+        "market_cap": 9246508434,
+        "volume_24h": 350601067
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 8.76,
-        "change_24h": -4.84,
-        "market_cap": 6366710208,
-        "volume_24h": 348247252
+        "change_24h": -4.57,
+        "market_cap": 6373522398,
+        "volume_24h": 349468627
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.06,
-        "change_24h": -2.86,
-        "market_cap": 3913564484,
-        "volume_24h": 253694876
+        "price_usd": 9.08,
+        "change_24h": -2.26,
+        "market_cap": 3920775874,
+        "volume_24h": 252200997
       }
     ],
     "top_mentioned": [],
@@ -198,6 +198,18 @@
         "color": "yellow"
       },
       {
+        "title": "Bitcoin analysts say this must happen for BTC price to ‘continue rising’",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-analysts-say-this-must-happen-for-btc-price-to-continue-rising?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 09 Apr 2026 11:46:35 +0100",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
+      {
         "title": "Bhutan moves a further $23M in Bitcoin as holdings drop by 70%",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/bhutan-offloads-a-further-23m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -206,7 +218,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -226,7 +238,7 @@
         "published": "Thu, 09 Apr 2026 10:58:19 +0100",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -238,66 +250,50 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
-      },
-      {
-        "title": "Dubai clarifies token issuance rules for RWAs and stablecoins",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/dubai-vara-clarifies-token-issuance-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Apr 2026 10:01:38 +0100",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.8,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.1,
+      "score": 0.113,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be above $72,000 on April 9?",
-        "volume_24h": 179382,
+        "volume_24h": 180561,
         "yes_price": 0.12,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on April 9?",
-        "volume_24h": 157820,
-        "yes_price": 0.39,
+        "volume_24h": 157968,
+        "yes_price": 0.41,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on April 9?",
-        "volume_24h": 127122,
+        "volume_24h": 128491,
         "yes_price": 0.92,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 109800,
+        "volume_24h": 111551,
         "yes_price": 0.17,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 108774,
+        "volume_24h": 108906,
         "yes_price": 0.41,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 103654,
+        "volume_24h": 103728,
         "yes_price": 0.03,
-        "category": "crypto"
-      },
-      {
-        "title": "SpaceX IPO closing market cap above $3T",
-        "volume_24h": 101453,
-        "yes_price": 0.17,
         "category": "crypto"
       },
       {
@@ -305,16 +301,22 @@
         "volume_24h": 100519,
         "yes_price": 0.2,
         "category": "crypto"
+      },
+      {
+        "title": "SpaceX IPO closing market cap above $3T",
+        "volume_24h": 100153,
+        "yes_price": 0.17,
+        "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across crypto prediction markets data."
+      "outlook": "Mixed",
+      "summary": "Mixed: Market sentiment is mixed, showing strong conviction (92%) Bitcoin will stay above $70,000 on April 9, with low fear of a crash (3% for $50,000 BTC, 20% for $1,800 Ethereum). However, there's limited belief (12%) Bitcoin will exceed $72,000 or reach $80,000 (17%) in April, alongside moderate concern (41%) about a dip to $65,000."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: Sentiment is unclear due to lack of data on top mentioned topics and subreddits."
     },
     "news_summary": {
       "outlook": "Mixed",
@@ -462,14 +464,14 @@
         "color": "yellow"
       },
       {
-        "title": "Pirro's Powell probe faces a difficult road to appeal, former prosecutors say",
+        "title": "Family offices piled into oil after capital dried up. The recent rally has made for big gains",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/08/fed-jeanine-pirro-fed-jerome-powell-appeal-kevin-warsh.html",
-        "published": "Wed, 08 Apr 2026 19:50:27 GMT",
+        "url": "https://www.cnbc.com/2026/04/09/family-offices-gains-opportunistic-bets-on-oil.html",
+        "published": "Thu, 09 Apr 2026 11:47:27 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "‘Weeks, if not months’: Strait of Hormuz tanker traffic won't normalize anytime soon",
@@ -492,10 +494,10 @@
         "color": "yellow"
       },
       {
-        "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
+        "title": "Pirro's Powell probe faces a difficult road to appeal, former prosecutors say",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
-        "published": "Wed, 08 Apr 2026 23:52:04 GMT",
+        "url": "https://www.cnbc.com/2026/04/08/fed-jeanine-pirro-fed-jerome-powell-appeal-kevin-warsh.html",
+        "published": "Wed, 08 Apr 2026 19:50:27 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -553,57 +555,57 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.067,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 686840,
+        "volume_24h": 676744,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will Ron DeSantis win the 2028 US Presidential Election?",
-        "volume_24h": 661941,
+        "volume_24h": 661845,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-        "volume_24h": 641426,
-        "yes_price": 0.36,
+        "volume_24h": 631227,
+        "yes_price": 0.35,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 626822,
-        "yes_price": 0.32,
+        "volume_24h": 627028,
+        "yes_price": 0.29,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 575813,
+        "volume_24h": 573655,
         "yes_price": 0.16,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 453039,
+        "volume_24h": 453030,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "JD Vance diplomatic meeting with Iran by April 10?",
-        "volume_24h": 426894,
-        "yes_price": 0.35,
+        "volume_24h": 427061,
+        "yes_price": 0.27,
         "category": "finance"
       },
       {
-        "title": "Will UAE strike Iran by April 30?",
-        "volume_24h": 412826,
-        "yes_price": 0.15,
+        "title": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
+        "volume_24h": 415471,
+        "yes_price": 0.02,
         "category": "finance"
       }
     ],
@@ -618,7 +620,7 @@
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 2 bullish vs 0 bearish signals detected across stock/finance news data."
+      "summary": "Bullish: 3 bullish vs 0 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
