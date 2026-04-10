@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T00:07:39Z",
+  "updated_at": "2026-04-10T00:11:03Z",
   "crypto": {
     "fear_greed": {
       "value": 16,
@@ -11,130 +11,130 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 71828,
+        "price_usd": 71785,
         "change_24h": 1.08,
         "market_cap": 1437128667668,
-        "volume_24h": 39211868737
+        "volume_24h": 39484610232
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2189.78,
-        "change_24h": -0.07,
+        "price_usd": 2187.35,
+        "change_24h": -0.19,
         "market_cap": 264172050810,
-        "volume_24h": 17204030287
+        "volume_24h": 17292788678
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.34,
-        "change_24h": 0.17,
+        "change_24h": 0.21,
         "market_cap": 82498795251,
-        "volume_24h": 2573785937
+        "volume_24h": 2574488075
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 602.66,
-        "change_24h": 0.26,
+        "price_usd": 602.21,
+        "change_24h": 0.19,
         "market_cap": 82233701411,
-        "volume_24h": 991786370
+        "volume_24h": 1002535792
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 83.24,
-        "change_24h": 0.8,
+        "price_usd": 83.2,
+        "change_24h": 0.74,
         "market_cap": 47836386151,
-        "volume_24h": 3521140699
+        "volume_24h": 3523953359
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.092524,
-        "change_24h": 0.24,
+        "price_usd": 0.092457,
+        "change_24h": 0.12,
         "market_cap": 14223006767,
-        "volume_24h": 1382458264
+        "volume_24h": 1383068833
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.254059,
-        "change_24h": 1.55,
+        "price_usd": 0.253944,
+        "change_24h": 1.46,
         "market_cap": 9378172463,
-        "volume_24h": 324947074
+        "volume_24h": 322956230
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.95,
-        "change_24h": 1.2,
+        "price_usd": 8.94,
+        "change_24h": 1.01,
         "market_cap": 6501765445,
-        "volume_24h": 388145127
+        "volume_24h": 388902548
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 9.37,
-        "change_24h": 3.72,
+        "change_24h": 3.69,
         "market_cap": 4047045101,
-        "volume_24h": 302241579
+        "volume_24h": 301975143
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 29,
-        "price_usd": 71828,
+        "mentions": 28,
+        "price_usd": 71785,
         "change_24h": 1.08
       },
       {
         "symbol": "SOL",
         "mentions": 22,
-        "price_usd": 83.24,
-        "change_24h": 0.8
+        "price_usd": 83.2,
+        "change_24h": 0.74
       },
       {
         "symbol": "ETH",
         "mentions": 6,
-        "price_usd": 2189.78,
-        "change_24h": -0.07
+        "price_usd": 2187.35,
+        "change_24h": -0.19
+      },
+      {
+        "symbol": "DOGE",
+        "mentions": 1,
+        "price_usd": 0.092457,
+        "change_24h": 0.12
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 602.66,
-        "change_24h": 0.26
+        "price_usd": 602.21,
+        "change_24h": 0.19
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.34,
-        "change_24h": 0.17
+        "change_24h": 0.21
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.254059,
-        "change_24h": 1.55
-      },
-      {
-        "symbol": "DOGE",
-        "mentions": 0,
-        "price_usd": 0.092524,
-        "change_24h": 0.24
+        "price_usd": 0.253944,
+        "change_24h": 1.46
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
         "price_usd": 9.37,
-        "change_24h": 3.72
+        "change_24h": 3.69
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 8.95,
-        "change_24h": 1.2
+        "price_usd": 8.94,
+        "change_24h": 1.01
       },
       {
         "symbol": "TON",
@@ -153,7 +153,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.333,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -165,7 +165,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.75,
         "color": "green"
       },
       {
@@ -174,9 +174,9 @@
         "url": "https://www.coindesk.com/markets/2026/04/09/kalshi-now-controls-89-of-the-u-s-prediction-market-as-regulated-trading-takes-over",
         "published": "Thu, 09 Apr 2026 18:36:05 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.75,
+        "color": "green"
       },
       {
         "title": "Securitize names ex-SEC official Brett Redfearn as president ahead of public listing",
@@ -184,9 +184,9 @@
         "url": "https://www.coindesk.com/business/2026/04/09/securitize-names-ex-sec-official-president-ahead-of-public-listing",
         "published": "Thu, 09 Apr 2026 17:06:14 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 0.75,
+        "color": "green"
       },
       {
         "title": "Potential buyers are circling Winklevoss-backed crypto exchange Gemini",
@@ -194,9 +194,9 @@
         "url": "https://www.coindesk.com/business/2026/04/02/potential-buyers-are-circling-winklevoss-backed-crypto-exchange-gemini",
         "published": "Thu, 09 Apr 2026 17:05:40 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": -0.25,
+        "color": "yellow"
       },
       {
         "title": "U.S. Treasury to loop in crypto sector on hacker warnings shared with traditional firms",
@@ -204,9 +204,9 @@
         "url": "https://www.coindesk.com/policy/2026/04/09/u-s-treasury-to-loop-in-crypto-sector-on-hacker-warnings-shared-with-traditional-firms",
         "published": "Thu, 09 Apr 2026 17:05:19 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Bitcoin shoots above $72,000 as optimism grows over Middle East ceasefire",
@@ -216,9 +216,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Crypto for Advisors: Crypto’s Performance Q1",
@@ -236,9 +236,9 @@
         "url": "https://www.coindesk.com/business/2026/04/09/stablecoin-volumes-to-reach-usd719t-by-2035-as-generational-wealth-shift-speeds-up-crypto-adoption",
         "published": "Thu, 09 Apr 2026 14:57:10 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Tom Lee's Bitmine uplists to NYSE, expands buyback authorization to $4 billion",
@@ -266,9 +266,9 @@
         "url": "https://cointelegraph.com/news/sec-official-securitize-president-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Thu, 09 Apr 2026 22:32:21 +0100",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.75,
+        "color": "green"
       },
       {
         "title": "Bitcoin rally extends toward $73K despite concerning US economic data",
@@ -288,9 +288,9 @@
         "url": "https://cointelegraph.com/news/us-treasury-cybersecurity-intel-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Thu, 09 Apr 2026 22:19:29 +0100",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Circle stock sinks 10% amid analyst downgrade, Drift Protocol probe",
@@ -304,9 +304,9 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.044,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": 0.417,
+      "label": "Bullish",
+      "color": "green"
     },
     "polymarket": [
       {
@@ -317,62 +317,62 @@
       },
       {
         "title": "Will Bitcoin reach $75,000 in April?",
-        "volume_24h": 132216,
+        "volume_24h": 132341,
         "yes_price": 0.64,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $74,000 on April 10?",
-        "volume_24h": 128809,
+        "volume_24h": 128802,
         "yes_price": 0.05,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $90,000 in April?",
-        "volume_24h": 125209,
+        "volume_24h": 125208,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in April?",
-        "volume_24h": 106273,
+        "volume_24h": 106360,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on April 10?",
-        "volume_24h": 103888,
+        "volume_24h": 104220,
         "yes_price": 0.34,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $55,000 in April?",
-        "volume_24h": 90639,
+        "volume_24h": 90637,
         "yes_price": 0.06,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Bitcoin be above $72,000 on April 11?",
-        "volume_24h": 89595,
-        "yes_price": 0.47,
+        "title": "Bitcoin Up or Down - April 9, 8:05PM-8:10PM ET",
+        "volume_24h": 89831,
+        "yes_price": 0.28,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: Bitcoin market sentiment is moderately bullish for April. A significant 64% expect Bitcoin to reach $75,000, and 21% predict $80,000. However, expectations for immediate price surges are lower, with only 5% for BTC above $74,000 on April 10. Dip predictions for $50,000 or $55,000 remain very low at 3-6%."
+      "summary": "Bullish: Bitcoin sentiment is moderately positive for April, with 64% expecting $75,000. Confidence in significant dips to $50,000 or $55,000 is extremely low (3% and 6%). However, extreme upside like $90,000 is only 3%, and reaching $74,000 by April 10 is very unlikely at 5%, tempering short-term enthusiasm."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 8,
+          "BTC": 7,
           "ETH": 2,
+          "DOGE": 1,
           "SOL": 0,
           "BNB": 0,
           "XRP": 0,
           "ADA": 0,
-          "DOGE": 0,
           "AVAX": 0,
           "LINK": 0,
           "TON": 0
@@ -464,14 +464,14 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: Bitcoin tops $72,000, but downgrades and regulatory concerns weigh on Circle, Bullish, and Gemini, with 89% of the US prediction market controlled by Kalshi."
+      "outlook": "Bearish",
+      "summary": "Bearish: 3 bullish vs 5 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 140,
+      "active_threads": 138,
       "mentions": {
-        "BTC": 24,
+        "BTC": 25,
         "XRP": 9,
         "BNB": 2
       },
@@ -832,49 +832,49 @@
     "polymarket": [
       {
         "title": "Russia x Ukraine ceasefire by April 30, 2026?",
-        "volume_24h": 1502725,
+        "volume_24h": 1506038,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by April 30?",
-        "volume_24h": 1143477,
+        "volume_24h": 1145241,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 15?",
-        "volume_24h": 860643,
+        "volume_24h": 860741,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will Gavin Newsom win the 2028 US Presidential Election?",
-        "volume_24h": 777605,
+        "volume_24h": 789120,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Trump announces end of military operations against Iran by April 15th?",
-        "volume_24h": 580787,
+        "volume_24h": 581168,
         "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 570009,
+        "volume_24h": 570002,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Trump announces end of military operations against Iran by April 30th?",
-        "volume_24h": 558408,
+        "volume_24h": 556093,
         "yes_price": 0.42,
         "category": "finance"
       },
       {
         "title": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-        "volume_24h": 518960,
+        "volume_24h": 519416,
         "yes_price": 0.02,
         "category": "finance"
       }
