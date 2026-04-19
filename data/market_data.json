@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-04-18T23:55:24Z",
+  "updated_at": "2026-04-19T06:19:23Z",
   "crypto": {
     "fear_greed": {
-      "value": 26,
+      "value": 27,
       "label": "Fear",
-      "previous_value": 21,
-      "previous_label": "Extreme Fear"
+      "previous_value": 26,
+      "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 75736,
-        "change_24h": -1.8,
-        "market_cap": 1516244015952,
-        "volume_24h": 66291663350
+        "price_usd": 75356,
+        "change_24h": -2.35,
+        "market_cap": 1510933866888,
+        "volume_24h": 48226667255
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2352.19,
-        "change_24h": -2.85,
-        "market_cap": 283912367103,
-        "volume_24h": 13408588670
+        "price_usd": 2327.08,
+        "change_24h": -3.4,
+        "market_cap": 281412107454,
+        "volume_24h": 14231033038
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.43,
-        "change_24h": -2.88,
-        "market_cap": 88328831862,
-        "volume_24h": 2438190773
+        "price_usd": 1.42,
+        "change_24h": -3.29,
+        "market_cap": 87905310421,
+        "volume_24h": 2434490569
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 630.45,
-        "change_24h": -1.99,
-        "market_cap": 85001784016,
-        "volume_24h": 1060259663
+        "price_usd": 620.99,
+        "change_24h": -3.8,
+        "market_cap": 83881751653,
+        "volume_24h": 960953190
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 86.22,
-        "change_24h": -2.94,
-        "market_cap": 49612227774,
-        "volume_24h": 2774863248
+        "price_usd": 85.27,
+        "change_24h": -3.63,
+        "market_cap": 49164851264,
+        "volume_24h": 2773927206
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.094977,
-        "change_24h": -4.57,
-        "market_cap": 14615893644,
-        "volume_24h": 1502688306
+        "price_usd": 0.094662,
+        "change_24h": -4.07,
+        "market_cap": 14581124054,
+        "volume_24h": 1437307970
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.249684,
-        "change_24h": -3.53,
-        "market_cap": 9227292041,
-        "volume_24h": 379054317
+        "price_usd": 0.246735,
+        "change_24h": -4.41,
+        "market_cap": 9127314338,
+        "volume_24h": 365739442
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.3,
-        "change_24h": -3.35,
-        "market_cap": 6761431563,
-        "volume_24h": 318307496
+        "price_usd": 9.18,
+        "change_24h": -4.56,
+        "market_cap": 6682649671,
+        "volume_24h": 344650762
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.34,
-        "change_24h": -4.04,
-        "market_cap": 4035298957,
-        "volume_24h": 258801926
+        "price_usd": 9.25,
+        "change_24h": -4.6,
+        "market_cap": 3994730504,
+        "volume_24h": 260684782
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 29,
-        "price_usd": 75736,
-        "change_24h": -1.8
+        "mentions": 31,
+        "price_usd": 75356,
+        "change_24h": -2.35
       },
       {
         "symbol": "SOL",
         "mentions": 16,
-        "price_usd": 86.22,
-        "change_24h": -2.94
+        "price_usd": 85.27,
+        "change_24h": -3.63
       },
       {
         "symbol": "ETH",
-        "mentions": 6,
-        "price_usd": 2352.19,
-        "change_24h": -2.85
+        "mentions": 7,
+        "price_usd": 2327.08,
+        "change_24h": -3.4
       },
       {
         "symbol": "XRP",
         "mentions": 3,
-        "price_usd": 1.43,
-        "change_24h": -2.88
+        "price_usd": 1.42,
+        "change_24h": -3.29
       },
       {
         "symbol": "LINK",
         "mentions": 1,
-        "price_usd": 9.3,
-        "change_24h": -3.35
+        "price_usd": 9.18,
+        "change_24h": -4.56
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 630.45,
-        "change_24h": -1.99
+        "price_usd": 620.99,
+        "change_24h": -3.8
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.249684,
-        "change_24h": -3.53
+        "price_usd": 0.246735,
+        "change_24h": -4.41
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.094977,
-        "change_24h": -4.57
+        "price_usd": 0.094662,
+        "change_24h": -4.07
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.34,
-        "change_24h": -4.04
+        "price_usd": 9.25,
+        "change_24h": -4.6
       },
       {
         "symbol": "TON",
@@ -259,6 +259,36 @@
         "color": "yellow"
       },
       {
+        "title": "Charles Schwab, Citadel Securities weigh entering prediction markets",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/charles-schwab-citadel-securities-weighing-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 19 Apr 2026 06:38:54 +0100",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Caitlyn Jenner escapes memecoin lawsuit as judge says token not a security",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/caitlyn-jenner-escapes-memecoin-lawsuit-judge-says-token-not-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 19 Apr 2026 04:12:32 +0100",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Warren claims SEC’s Atkins likely misled Congress over enforcement data",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/warren-claims-sec-atkins-likely-misled-congress-over-enforcement-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 19 Apr 2026 01:50:04 +0100",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Here’s what happened in crypto today",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -277,42 +307,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Solana futures open interest rose by 20% this week: Is $100 SOL next?",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 18 Apr 2026 21:40:06 +0100",
-        "assets": [
-          "SOL"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin mining difficulty falls, but projected to rise in next adjustment",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-falls-rise-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 18 Apr 2026 21:02:42 +0100",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Iran views BTC as a strategic asset, but USDt still dominates oil tolls: BPI",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/iran-btc-strategic-usdt-dominate-oil-tolls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 18 Apr 2026 19:27:35 +0100",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -323,50 +317,50 @@
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 141907,
+        "volume_24h": 140442,
         "yes_price": 0.36,
         "category": "crypto"
       },
       {
-        "title": "Solana Up or Down - April 18, 4:00PM-8:00PM ET",
-        "volume_24h": 139213,
-        "yes_price": 0.8,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $85,000 in April?",
-        "volume_24h": 96135,
-        "yes_price": 0.08,
-        "category": "crypto"
-      },
-      {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 90067,
+        "volume_24h": 121286,
         "yes_price": 0.12,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $74,000 on April 19?",
-        "volume_24h": 86321,
-        "yes_price": 0.94,
+        "volume_24h": 116516,
+        "yes_price": 0.95,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $85,000 in April?",
+        "volume_24h": 91405,
+        "yes_price": 0.07,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $76,000 on April 19?",
-        "volume_24h": 72012,
-        "yes_price": 0.4,
+        "volume_24h": 90122,
+        "yes_price": 0.21,
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin Up or Down - April 19, 2:00AM-2:15AM ET",
+        "volume_24h": 58087,
+        "yes_price": 0.07,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $90,000 in April?",
-        "volume_24h": 68669,
-        "yes_price": 0.03,
+        "volume_24h": 52874,
+        "yes_price": 0.02,
         "category": "crypto"
       },
       {
-        "title": "MegaETH market cap (FDV) >$2B one day after launch?",
-        "volume_24h": 66694,
-        "yes_price": 0.27,
+        "title": "Will the price of Bitcoin be above $78,000 on April 20?",
+        "volume_24h": 47145,
+        "yes_price": 0.1,
         "category": "crypto"
       }
     ],
@@ -378,8 +372,8 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 7,
-          "ETH": 2,
+          "BTC": 6,
+          "ETH": 3,
           "SOL": 0,
           "BNB": 0,
           "XRP": 0,
@@ -397,7 +391,7 @@
       {
         "subreddit": "r/Bitcoin",
         "mentions": {
-          "BTC": 15,
+          "BTC": 18,
           "ETH": 0,
           "SOL": 0,
           "BNB": 0,
@@ -481,14 +475,14 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 145,
+      "active_threads": 153,
       "mentions": {
-        "BTC": 24,
+        "BTC": 25,
         "XRP": 24,
-        "ETH": 4
+        "ETH": 5
       },
-      "bullish_hits": 89,
-      "bearish_hits": 61,
+      "bullish_hits": 91,
+      "bearish_hits": 62,
       "bullish_pct": 59,
       "top_coin": "BTC"
     },
@@ -496,51 +490,51 @@
       {
         "symbol": "RAVE",
         "name": "RaveDAO",
-        "rank": 83,
+        "rank": 109,
         "score": 0,
-        "change_24h": -86.82
+        "change_24h": -93.42
       },
       {
         "symbol": "ASTEROID",
         "name": "Asteroid Shiba",
-        "rank": 259,
+        "rank": 206,
         "score": 1,
-        "change_24h": 405.88
+        "change_24h": 765.9
       },
       {
         "symbol": "AAVE",
         "name": "Aave",
-        "rank": 53,
+        "rank": 56,
         "score": 2,
-        "change_24h": -11.4
+        "change_24h": -19.25
+      },
+      {
+        "symbol": "ZRO",
+        "name": "LayerZero",
+        "rank": 119,
+        "score": 3,
+        "change_24h": -20.33
       },
       {
         "symbol": "SIREN",
         "name": "Siren",
-        "rank": 100,
-        "score": 3,
-        "change_24h": 9.93
-      },
-      {
-        "symbol": "PEPE",
-        "name": "Pepe",
-        "rank": 52,
+        "rank": 104,
         "score": 4,
-        "change_24h": -4.65
+        "change_24h": -7.05
       },
       {
-        "symbol": "AGETH",
-        "name": "Kelp Gain",
-        "rank": 761,
+        "symbol": "ORDI",
+        "name": "ORDI",
+        "rank": 310,
         "score": 5,
-        "change_24h": -24.22
+        "change_24h": -24.96
       },
       {
-        "symbol": "KERNEL",
-        "name": "KernelDAO",
-        "rank": 786,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 106,
         "score": 6,
-        "change_24h": -1.2
+        "change_24h": -7.87
       }
     ]
   },
@@ -623,13 +617,7 @@
     "top_mentioned": [
       {
         "symbol": "SPY",
-        "mentions": 6,
-        "price_usd": null,
-        "change_24h": null
-      },
-      {
-        "symbol": "QQQ",
-        "mentions": 3,
+        "mentions": 5,
         "price_usd": null,
         "change_24h": null
       },
@@ -638,6 +626,12 @@
         "mentions": 2,
         "price_usd": 422.79,
         "change_24h": 0.6
+      },
+      {
+        "symbol": "QQQ",
+        "mentions": 2,
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "META",
@@ -650,6 +644,12 @@
         "mentions": 1,
         "price_usd": null,
         "change_24h": null
+      },
+      {
+        "symbol": "NVDA",
+        "mentions": 1,
+        "price_usd": 201.68,
+        "change_24h": 1.68
       },
       {
         "symbol": "TSLA",
@@ -668,12 +668,6 @@
         "mentions": 1,
         "price_usd": 250.56,
         "change_24h": 0.34
-      },
-      {
-        "symbol": "NVDA",
-        "mentions": 0,
-        "price_usd": 201.68,
-        "change_24h": 1.68
       },
       {
         "symbol": "AAPL",
@@ -846,50 +840,50 @@
     "polymarket": [
       {
         "title": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-        "volume_24h": 2299530,
+        "volume_24h": 1476436,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by April 22, 2026?",
-        "volume_24h": 1300009,
-        "yes_price": 0.2,
+        "volume_24h": 1294994,
+        "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by April 30?",
-        "volume_24h": 820447,
+        "volume_24h": 924508,
         "yes_price": 0.05,
         "category": "finance"
       },
       {
-        "title": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
-        "volume_24h": 767793,
-        "yes_price": 0.23,
+        "title": "Will the U.S. invade Iran before 2027?",
+        "volume_24h": 743790,
+        "yes_price": 0.33,
         "category": "finance"
       },
       {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 716499,
-        "yes_price": 0.34,
+        "title": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+        "volume_24h": 675717,
+        "yes_price": 0.22,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by May 31?",
-        "volume_24h": 544336,
+        "volume_24h": 525126,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
-        "title": "US x Iran permanent peace deal by April 30, 2026?",
-        "volume_24h": 475070,
-        "yes_price": 0.4,
+        "title": "Will the Iranian regime fall by June 30?",
+        "volume_24h": 500275,
+        "yes_price": 0.07,
         "category": "finance"
       },
       {
-        "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 417447,
-        "yes_price": 0.09,
+        "title": "US x Iran permanent peace deal by April 30, 2026?",
+        "volume_24h": 465329,
+        "yes_price": 0.39,
         "category": "finance"
       }
     ],
@@ -920,7 +914,6 @@
       {
         "subreddit": "r/stocks",
         "mentions": {
-          "SPY": 1,
           "NVDA": 0,
           "TSLA": 0,
           "AAPL": 0,
@@ -929,7 +922,8 @@
           "AMZN": 0,
           "META": 0,
           "AMD": 0,
-          "PLTR": 0
+          "PLTR": 0,
+          "GME": 0
         },
         "activity_score": 100,
         "top_post": "Rate My Portfolio - r/Stocks Quarterly Thread March 2026",
@@ -939,16 +933,16 @@
       {
         "subreddit": "r/investing",
         "mentions": {
+          "NVDA": 1,
           "MSFT": 1,
-          "QQQ": 1,
-          "NVDA": 0,
           "TSLA": 0,
           "AAPL": 0,
           "GOOGL": 0,
           "AMZN": 0,
           "META": 0,
           "AMD": 0,
-          "PLTR": 0
+          "PLTR": 0,
+          "GME": 0
         },
         "activity_score": 100,
         "top_post": "Daily General Discussion and Advice Thread - April 18, 2026",
