@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T07:09:09Z",
+  "updated_at": "2026-04-26T10:12:17Z",
   "crypto": {
     "fear_greed": {
       "value": 33,
@@ -11,94 +11,94 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 78017,
-        "change_24h": 0.68,
-        "market_cap": 1562011898613,
-        "volume_24h": 17048106632
+        "price_usd": 78046,
+        "change_24h": 0.34,
+        "market_cap": 1561315954754,
+        "volume_24h": 17270714845
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2329.7,
-        "change_24h": 0.63,
-        "market_cap": 281256304257,
-        "volume_24h": 6587295227
+        "price_usd": 2335.64,
+        "change_24h": 0.67,
+        "market_cap": 281933288675,
+        "volume_24h": 7407919151
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.43,
-        "change_24h": -0.29,
-        "market_cap": 88049608124,
-        "volume_24h": 782264003
+        "change_24h": -0.46,
+        "market_cap": 88058912122,
+        "volume_24h": 1109840955
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 631.28,
-        "change_24h": -0.97,
-        "market_cap": 85092119686,
-        "volume_24h": 678345838
+        "price_usd": 631.74,
+        "change_24h": -0.95,
+        "market_cap": 85176269348,
+        "volume_24h": 709805984
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 86.48,
-        "change_24h": 0.16,
-        "market_cap": 49805529193,
-        "volume_24h": 1822944228
+        "price_usd": 86.58,
+        "change_24h": -0.06,
+        "market_cap": 49828769253,
+        "volume_24h": 1758195105
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.09848,
-        "change_24h": 0.06,
-        "market_cap": 15169897915,
-        "volume_24h": 834043279
+        "price_usd": 0.098557,
+        "change_24h": -0.01,
+        "market_cap": 15170991651,
+        "volume_24h": 795294656
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.251268,
-        "change_24h": 0.1,
-        "market_cap": 9290522446,
-        "volume_24h": 238615084
+        "price_usd": 0.25233,
+        "change_24h": -0.47,
+        "market_cap": 9322302595,
+        "volume_24h": 260872642
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.4,
-        "change_24h": -0.1,
-        "market_cap": 6835440995,
-        "volume_24h": 147047628
+        "price_usd": 9.44,
+        "change_24h": 0.09,
+        "market_cap": 6860200645,
+        "volume_24h": 153134703
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.41,
-        "change_24h": -0.44,
-        "market_cap": 4061650636,
-        "volume_24h": 114336331
+        "price_usd": 9.44,
+        "change_24h": -0.37,
+        "market_cap": 4076477786,
+        "volume_24h": 118662354
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 33,
-        "price_usd": 78017,
-        "change_24h": 0.68
+        "price_usd": 78046,
+        "change_24h": 0.34
       },
       {
         "symbol": "ETH",
         "mentions": 12,
-        "price_usd": 2329.7,
-        "change_24h": 0.63
+        "price_usd": 2335.64,
+        "change_24h": 0.67
       },
       {
         "symbol": "SOL",
         "mentions": 10,
-        "price_usd": 86.48,
-        "change_24h": 0.16
+        "price_usd": 86.58,
+        "change_24h": -0.06
       },
       {
         "symbol": "LTC",
@@ -115,44 +115,56 @@
       {
         "symbol": "BNB",
         "mentions": 1,
-        "price_usd": 631.28,
-        "change_24h": -0.97
+        "price_usd": 631.74,
+        "change_24h": -0.95
       },
       {
         "symbol": "XRP",
         "mentions": 1,
         "price_usd": 1.43,
-        "change_24h": -0.29
-      },
-      {
-        "symbol": "DOGE",
-        "mentions": 1,
-        "price_usd": 0.09848,
-        "change_24h": 0.06
+        "change_24h": -0.46
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.251268,
-        "change_24h": 0.1
+        "price_usd": 0.25233,
+        "change_24h": -0.47
+      },
+      {
+        "symbol": "DOGE",
+        "mentions": 0,
+        "price_usd": 0.098557,
+        "change_24h": -0.01
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.41,
-        "change_24h": -0.44
+        "price_usd": 9.44,
+        "change_24h": -0.37
       }
     ],
     "news": [
+      {
+        "title": "Litecoin says 13-block reorg was not a 'zero-day' attack, GitHub commit history shows otherwise",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/04/26/litecoin-says-its-13-block-reorg-was-not-a-zero-day-but-github-commit-history-shows-otherwise",
+        "published": "Sun, 26 Apr 2026 08:34:37 +0000",
+        "assets": [
+          "LTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Crypto is built for AI agents, not humans, says Alchemy's CEO",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/tech/2026/04/25/crypto-is-built-for-ai-agents-not-humans-says-alchemy-s-ceo",
         "published": "Sat, 25 Apr 2026 19:00:00 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
@@ -162,9 +174,9 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "BlackRock’s bitcoin ETF just hit a massive milestone that proves crypto is now a mainstream bet",
@@ -175,9 +187,9 @@
           "BTC",
           "TON"
         ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "How Anthropic’s Mythos model is forcing the crypto industry to rethink everything about security",
@@ -187,9 +199,9 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
@@ -212,7 +224,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -223,9 +235,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 0.4,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Europe’s banks are going all in on crypto",
@@ -233,9 +245,9 @@
         "url": "https://www.coindesk.com/opinion/2026/04/25/europe-s-banks-are-going-all-in-on-crypto",
         "published": "Sat, 25 Apr 2026 13:30:00 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Coinbase’s Jesse Pollak says AI agents are the next big wave for crypto payments",
@@ -243,21 +255,19 @@
         "url": "https://www.coindesk.com/tech/2026/04/25/coinbase-s-jesse-pollak-says-ai-agents-are-the-next-big-wave-for-crypto-payments",
         "published": "Sat, 25 Apr 2026 13:00:00 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
-        "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
-        "published": "Sat, 25 Apr 2026 10:00:00 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "title": "Trump’s official memecoin extends slide as he hosts exclusive investor gala",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/trump-s-official-memecoin-extends-slide-even-as-he-hosts-exclusive-investor-gala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 26 Apr 2026 08:58:23 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
@@ -265,9 +275,9 @@
         "url": "https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Sat, 25 Apr 2026 22:05:44 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.6,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Bitcoiners cast doubt on the US military's understanding of the network",
@@ -277,9 +287,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -297,81 +307,69 @@
         "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Sat, 25 Apr 2026 14:03:17 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.6,
-        "color": "green"
-      },
-      {
-        "title": "Bitcoin traders eye $73K next as weekly trend line holds price hostage",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-traders-eye-73k-next-weekly-trend-line-holds-price-hostage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 25 Apr 2026 12:22:17 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.9,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.233,
+      "score": 0.0,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
+        "title": "Will Bitcoin dip to $65,000 in April?",
+        "volume_24h": 878859,
+        "yes_price": 0.03,
+        "category": "crypto"
+      },
+      {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 355263,
-        "yes_price": 0.5,
+        "volume_24h": 352342,
+        "yes_price": 0.49,
         "category": "crypto"
       },
       {
         "title": "MegaETH market cap (FDV) >$1B one day after launch?",
-        "volume_24h": 210631,
-        "yes_price": 0.85,
+        "volume_24h": 245316,
+        "yes_price": 0.88,
         "category": "crypto"
       },
       {
         "title": "Will XRP dip to $1.00 in April?",
-        "volume_24h": 134639,
-        "yes_price": 0.03,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $80,000 April 20-26?",
-        "volume_24h": 79949,
-        "yes_price": 0.12,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $85,000 in April?",
-        "volume_24h": 78806,
-        "yes_price": 0.04,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the price of Bitcoin be above $80,000 on April 26?",
-        "volume_24h": 77721,
-        "yes_price": 0.03,
-        "category": "crypto"
-      },
-      {
-        "title": "MegaETH market cap (FDV) >$2B one day after launch?",
-        "volume_24h": 73144,
-        "yes_price": 0.26,
+        "volume_24h": 102549,
+        "yes_price": 0.02,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on April 26?",
-        "volume_24h": 72057,
-        "yes_price": 0.85,
+        "volume_24h": 89157,
+        "yes_price": 0.91,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be above $78,000 on April 26?",
+        "volume_24h": 86345,
+        "yes_price": 0.49,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $80,000 April 20-26?",
+        "volume_24h": 80739,
+        "yes_price": 0.09,
+        "category": "crypto"
+      },
+      {
+        "title": "MegaETH market cap (FDV) >$1.5B one day after launch?",
+        "volume_24h": 67645,
+        "yes_price": 0.54,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: While MegaETH shows strong bullish sentiment with an 85% chance for >$1B FDV and XRP is expected to hold above $1.00 (3% dip chance), Bitcoin faces near-term skepticism. The probability of BTC reaching $80,000 by April 20-26 is only 12%, with just 4% for $85,000 in April, indicating resistance to aggressive gains."
+      "outlook": "Bearish",
+      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across crypto prediction markets data."
     },
     "reddit": [
       {
@@ -456,12 +454,12 @@
           "BTC": 9,
           "BNB": 1,
           "XRP": 1,
-          "DOGE": 1,
           "TON": 1,
           "LTC": 1,
           "ETH": 0,
           "SOL": 0,
           "ADA": 0,
+          "DOGE": 0,
           "AVAX": 0
         },
         "activity_score": 100,
@@ -472,74 +470,74 @@
     ],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Market sentiment is highly engaged, evidenced by 100/100 activity across r/CryptoCurrency, r/Bitcoin, and r/ethereum. BTC dominates discussions with 33 mentions, followed by ETH (12) and SOL (10), indicating strong interest in major assets, but specific directional sentiment remains unclear from the provided data."
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: Sentiment is predominantly bullish, fueled by BlackRock’s Bitcoin ETF hitting a massive mainstream milestone and Europe's banks 'going all in'. Donald Trump champions crypto legislation at events featuring Mike Tyson, Tether CEO, and Cathie Wood. Alchemy's CEO posits crypto is built for AI agents, suggesting future growth, despite minor security concerns from Anthropic's Mythos model and a temporary Bitcoin dip linked to Trump's Iran-talks trip."
+      "outlook": "Mixed",
+      "summary": "Mixed: 2 bullish vs 2 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 154,
+      "active_threads": 156,
       "mentions": {
         "BTC": 23,
-        "XRP": 18,
-        "ETH": 4
+        "XRP": 20,
+        "ETH": 5
       },
-      "bullish_hits": 114,
-      "bearish_hits": 49,
-      "bullish_pct": 70,
+      "bullish_hits": 115,
+      "bearish_hits": 47,
+      "bullish_pct": 71,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
         "symbol": "ORCA",
         "name": "Orca",
-        "rank": 306,
+        "rank": 273,
         "score": 0,
-        "change_24h": 67.0
+        "change_24h": 87.41
+      },
+      {
+        "symbol": "ULTIMA",
+        "name": "Ultima",
+        "rank": 261,
+        "score": 1,
+        "change_24h": -0.2
+      },
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 97,
+        "score": 2,
+        "change_24h": 3.05
+      },
+      {
+        "symbol": "CHIP",
+        "name": "USD.AI",
+        "rank": 229,
+        "score": 3,
+        "change_24h": -10.28
       },
       {
         "symbol": "RAVE",
         "name": "RaveDAO",
         "rank": 167,
-        "score": 1,
-        "change_24h": -1.88
+        "score": 4,
+        "change_24h": -1.86
       },
       {
-        "symbol": "CHIP",
-        "name": "USD.AI",
-        "rank": 230,
-        "score": 2,
-        "change_24h": -11.7
+        "symbol": "INJ",
+        "name": "Injective",
+        "rank": 122,
+        "score": 5,
+        "change_24h": 3.4
       },
       {
         "symbol": "ASTEROID",
         "name": "Asteroid Shiba",
-        "rank": 227,
-        "score": 3,
-        "change_24h": 12.58
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 99,
-        "score": 4,
-        "change_24h": 0.62
-      },
-      {
-        "symbol": "ENSO",
-        "name": "Enso",
-        "rank": 821,
-        "score": 5,
-        "change_24h": 37.19
-      },
-      {
-        "symbol": "BSB",
-        "name": "Block Street",
-        "rank": 211,
+        "rank": 216,
         "score": 6,
-        "change_24h": 63.4
+        "change_24h": 24.69
       }
     ]
   },
@@ -634,7 +632,7 @@
       },
       {
         "symbol": "QQQ",
-        "mentions": 5,
+        "mentions": 4,
         "price_usd": null,
         "change_24h": null
       },
@@ -651,6 +649,12 @@
         "change_24h": 2.41
       },
       {
+        "symbol": "AAPL",
+        "mentions": 2,
+        "price_usd": 271.06,
+        "change_24h": -0.87
+      },
+      {
         "symbol": "SPY",
         "mentions": 2,
         "price_usd": null,
@@ -661,12 +665,6 @@
         "mentions": 0,
         "price_usd": 376.3,
         "change_24h": 0.69
-      },
-      {
-        "symbol": "AAPL",
-        "mentions": 0,
-        "price_usd": 271.06,
-        "change_24h": -0.87
       },
       {
         "symbol": "MSFT",
@@ -688,19 +686,19 @@
         "url": "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
         "published": "Sun, 26 Apr 2026 06:35:25 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
-        "published": "Sat, 25 Apr 2026 19:33:33 GMT",
+        "published": "Sun, 26 Apr 2026 10:02:18 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
@@ -708,9 +706,9 @@
         "url": "https://www.cnbc.com/2026/04/24/will-he-stay-or-will-he-go-with-criminal-probe-over-fed-chair-powell-faces-big-decision.html",
         "published": "Fri, 24 Apr 2026 19:19:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
@@ -718,9 +716,9 @@
         "url": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
         "published": "Sat, 25 Apr 2026 12:43:39 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Berkshire attracts interest as it slips further behind the S&P 500",
@@ -730,9 +728,9 @@
         "assets": [
           "SPY"
         ],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "From car and phone to tractor owners, a populist wave is rising to end the 'captive' repair economy",
@@ -740,9 +738,19 @@
         "url": "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
         "published": "Sat, 25 Apr 2026 14:17:59 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Pirro could reopen Fed probe at any time, Democratic senators warn",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/24/fed-powell-pirro-elizabeth-warren-durbin.html",
+        "published": "Fri, 24 Apr 2026 22:02:04 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Forgotten no more: Generation X is driving beauty sales",
@@ -750,9 +758,9 @@
         "url": "https://www.cnbc.com/2026/04/25/generation-x-beauty-sales.html",
         "published": "Sat, 25 Apr 2026 12:00:01 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.7,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "We tried out xAI's Grok chatbot while driving a Tesla in NYC. Here's what happened.",
@@ -767,24 +775,14 @@
         "color": "yellow"
       },
       {
-        "title": "Pirro could reopen Fed probe at any time, Democratic senators warn",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/24/fed-powell-pirro-elizabeth-warren-durbin.html",
-        "published": "Fri, 24 Apr 2026 22:02:04 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
-      },
-      {
         "title": "This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/25/crude-oil-freight-tanker-strait-hormuz-iran-war-energy-stocks.html",
         "published": "Sat, 25 Apr 2026 11:53:07 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "White House Correspondents’ dinner has morphed into a ‘Hollywoodified’ weekend of nonstop parties. Even Grindr is hosting.",
@@ -802,9 +800,9 @@
         "url": "https://www.marketwatch.com/story/when-dentists-start-getting-cold-calls-about-private-credit-you-know-the-fad-has-peaked-67f1ef78?mod=mw_rss_topstories",
         "published": "Sat, 25 Apr 2026 18:44:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
@@ -812,9 +810,9 @@
         "url": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
         "published": "Sat, 25 Apr 2026 18:28:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "What Apple investors need to know about the next steps for the company and its new CEO",
@@ -840,63 +838,63 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.26,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "US x Iran permanent peace deal by April 30, 2026?",
-        "volume_24h": 1830458,
+        "volume_24h": 1840781,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "US x Iran diplomatic meeting by April 30, 2026?",
-        "volume_24h": 938141,
-        "yes_price": 0.18,
+        "volume_24h": 1048966,
+        "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by May 31?",
-        "volume_24h": 855226,
+        "volume_24h": 851021,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by May 31, 2026?",
-        "volume_24h": 666919,
+        "volume_24h": 637401,
         "yes_price": 0.3,
         "category": "finance"
       },
       {
         "title": "Trump announces end of military operations against Iran by April 30th?",
-        "volume_24h": 638108,
+        "volume_24h": 626947,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
+        "title": "Will Rafael López Aliaga win the 2026 Peruvian presidential election?",
+        "volume_24h": 584668,
+        "yes_price": 0.02,
+        "category": "finance"
+      },
+      {
         "title": "Israel x Hezbollah Ceasefire extended by April 26, 2026?",
-        "volume_24h": 445008,
-        "yes_price": 0.23,
+        "volume_24h": 456455,
+        "yes_price": 0.24,
         "category": "finance"
       },
       {
         "title": "US x Iran diplomatic meeting by April 28, 2026?",
-        "volume_24h": 421916,
-        "yes_price": 0.07,
-        "category": "finance"
-      },
-      {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 364672,
-        "yes_price": 0.34,
+        "volume_24h": 431420,
+        "yes_price": 0.06,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: Low probabilities for US-Iran peace deals (3-30%) and diplomatic meetings (7-18%) indicate skepticism, with only $1.8 million in volume for a permanent peace deal by April 30."
+      "outlook": "Mixed",
+      "summary": "Mixed: 1 bullish vs 1 bearish signals detected across finance prediction markets data."
     },
     "reddit": [
       {
@@ -923,10 +921,10 @@
         "mentions": {
           "GOOGL": 4,
           "NVDA": 1,
+          "AAPL": 1,
           "AMD": 1,
           "QQQ": 1,
           "TSLA": 0,
-          "AAPL": 0,
           "MSFT": 0,
           "AMZN": 0,
           "META": 0,
@@ -940,20 +938,20 @@
       {
         "subreddit": "r/investing",
         "mentions": {
-          "QQQ": 1,
+          "AAPL": 1,
           "NVDA": 0,
           "TSLA": 0,
-          "AAPL": 0,
           "MSFT": 0,
           "GOOGL": 0,
           "AMZN": 0,
           "META": 0,
           "AMD": 0,
-          "PLTR": 0
+          "PLTR": 0,
+          "GME": 0
         },
         "activity_score": 100,
-        "top_post": "Daily General Discussion and Advice Thread - April 25, 2026",
-        "top_post_url": "https://www.reddit.com/r/investing/comments/1sv60mu/daily_general_discussion_and_advice_thread_april/",
+        "top_post": "Daily General Discussion and Advice Thread - April 26, 2026",
+        "top_post_url": "https://www.reddit.com/r/investing/comments/1sw1f32/daily_general_discussion_and_advice_thread_april/",
         "top_post_score": 0
       },
       {
@@ -996,12 +994,12 @@
       }
     ],
     "reddit_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: NVDA and GOOGL are favored, with 6 and 5 mentions, respectively, indicating strong interest in tech stocks, particularly among 100/100 active users on r/wallstreetbets, r/stocks, and r/investing."
+      "outlook": "Mixed",
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: Sentiment is predominantly negative due to geopolitical tensions stemming from Trump's actions cancelling the Pakistan envoy trip for Iran negotiations, political instability with a White House shooting, and uncertainty surrounding Fed Chair Powell's future. The AI talent war sees executives jumping to OpenAI, while Berkshire Hathaway slips behind the S&P 500. A populist 'repair economy' wave also looms, though Generation X drives some beauty sales."
+      "outlook": "Bullish",
+      "summary": "Bullish: 2 bullish vs 0 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
