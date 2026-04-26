@@ -1,104 +1,110 @@
 {
-  "updated_at": "2026-04-25T22:04:54Z",
+  "updated_at": "2026-04-26T00:08:01Z",
   "crypto": {
     "fear_greed": {
-      "value": 31,
+      "value": 33,
       "label": "Fear",
-      "previous_value": 39,
+      "previous_value": 31,
       "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 77526,
-        "change_24h": -0.09,
-        "market_cap": 1552096945381,
-        "volume_24h": 18301742945
+        "price_usd": 77569,
+        "change_24h": 0.12,
+        "market_cap": 1553691951756,
+        "volume_24h": 17388352647
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2316.11,
-        "change_24h": 0.02,
-        "market_cap": 279497536341,
-        "volume_24h": 6223421539
+        "price_usd": 2318.73,
+        "change_24h": 0.16,
+        "market_cap": 279811165652,
+        "volume_24h": 7123690069
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.42,
-        "change_24h": -1.11,
-        "market_cap": 87770451887,
-        "volume_24h": 770201126
+        "change_24h": -0.78,
+        "market_cap": 87749696737,
+        "volume_24h": 1033392203
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 629.38,
-        "change_24h": -1.32,
-        "market_cap": 84843031343,
-        "volume_24h": 651264762
+        "price_usd": 628.62,
+        "change_24h": -1.19,
+        "market_cap": 84737120037,
+        "volume_24h": 652206661
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 85.92,
-        "change_24h": -0.67,
-        "market_cap": 49467749044,
-        "volume_24h": 1665021781
+        "price_usd": 86.13,
+        "change_24h": -0.09,
+        "market_cap": 49606609444,
+        "volume_24h": 1628769278
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.097897,
-        "change_24h": -0.69,
-        "market_cap": 15084743148,
-        "volume_24h": 891633170
+        "price_usd": 0.097908,
+        "change_24h": -0.47,
+        "market_cap": 15084101999,
+        "volume_24h": 834617666
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.249507,
-        "change_24h": -0.81,
-        "market_cap": 9221510162,
-        "volume_24h": 284970750
+        "price_usd": 0.249922,
+        "change_24h": -0.16,
+        "market_cap": 9240672332,
+        "volume_24h": 282474652
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.33,
-        "change_24h": -0.76,
-        "market_cap": 6781148724,
-        "volume_24h": 144106050
+        "price_usd": 9.34,
+        "change_24h": -0.38,
+        "market_cap": 6794806441,
+        "volume_24h": 143515827
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.33,
-        "change_24h": -1.28,
-        "market_cap": 4027558337,
-        "volume_24h": 128827303
+        "price_usd": 9.36,
+        "change_24h": -0.51,
+        "market_cap": 4040331393,
+        "volume_24h": 125312840
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 36,
-        "price_usd": 77526,
-        "change_24h": -0.09
+        "mentions": 32,
+        "price_usd": 77569,
+        "change_24h": 0.12
       },
       {
         "symbol": "ETH",
-        "mentions": 15,
-        "price_usd": 2316.11,
-        "change_24h": 0.02
+        "mentions": 14,
+        "price_usd": 2318.73,
+        "change_24h": 0.16
       },
       {
         "symbol": "SOL",
-        "mentions": 9,
-        "price_usd": 85.92,
-        "change_24h": -0.67
+        "mentions": 11,
+        "price_usd": 86.13,
+        "change_24h": -0.09
+      },
+      {
+        "symbol": "LTC",
+        "mentions": 2,
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "TON",
@@ -109,38 +115,32 @@
       {
         "symbol": "BNB",
         "mentions": 1,
-        "price_usd": 629.38,
-        "change_24h": -1.32
+        "price_usd": 628.62,
+        "change_24h": -1.19
       },
       {
         "symbol": "XRP",
         "mentions": 1,
         "price_usd": 1.42,
-        "change_24h": -1.11
+        "change_24h": -0.78
       },
       {
         "symbol": "DOGE",
         "mentions": 1,
-        "price_usd": 0.097897,
-        "change_24h": -0.69
+        "price_usd": 0.097908,
+        "change_24h": -0.47
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.249507,
-        "change_24h": -0.81
+        "price_usd": 0.249922,
+        "change_24h": -0.16
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.33,
-        "change_24h": -1.28
-      },
-      {
-        "symbol": "LINK",
-        "mentions": 0,
-        "price_usd": 9.33,
-        "change_24h": -0.76
+        "price_usd": 9.36,
+        "change_24h": -0.51
       }
     ],
     "news": [
@@ -260,6 +260,16 @@
         "color": "yellow"
       },
       {
+        "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 25 Apr 2026 22:05:44 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Bitcoiners cast doubt on the US military's understanding of the network",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/bitcoiners-cast-doubt-us-military-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -302,16 +312,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Kalshi, Polymarket among 27 prediction platforms banned in Brazil",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/kalshi-polymarket-among-27-prediction-platforms-banned-in-brazil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 25 Apr 2026 10:51:27 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -322,50 +322,50 @@
     "polymarket": [
       {
         "title": "Will Bitcoin dip to $65,000 in April?",
-        "volume_24h": 1122755,
+        "volume_24h": 1136399,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 419563,
-        "yes_price": 0.41,
+        "volume_24h": 369645,
+        "yes_price": 0.45,
         "category": "crypto"
       },
       {
         "title": "MegaETH market cap (FDV) >$1B one day after launch?",
-        "volume_24h": 229920,
-        "yes_price": 0.84,
+        "volume_24h": 230518,
+        "yes_price": 0.85,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $85,000 in April?",
-        "volume_24h": 187934,
-        "yes_price": 0.03,
+        "volume_24h": 170198,
+        "yes_price": 0.04,
         "category": "crypto"
       },
       {
         "title": "Will XRP dip to $1.00 in April?",
-        "volume_24h": 143911,
+        "volume_24h": 122656,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $76,000 on April 26?",
-        "volume_24h": 122483,
-        "yes_price": 0.93,
+        "volume_24h": 119760,
+        "yes_price": 0.95,
         "category": "crypto"
       },
       {
         "title": "MegaETH market cap (FDV) >$2B one day after launch?",
-        "volume_24h": 102141,
+        "volume_24h": 101265,
         "yes_price": 0.27,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Ethereum be above $2,400 on April 26?",
-        "volume_24h": 62112,
-        "yes_price": 0.02,
+        "title": "MegaETH market cap (FDV) >$1.5B one day after launch?",
+        "volume_24h": 68473,
+        "yes_price": 0.54,
         "category": "crypto"
       }
     ],
@@ -377,26 +377,26 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 6,
-          "ETH": 4,
+          "BTC": 5,
+          "ETH": 2,
+          "LTC": 1,
           "SOL": 0,
           "BNB": 0,
           "XRP": 0,
           "ADA": 0,
           "DOGE": 0,
           "AVAX": 0,
-          "LINK": 0,
-          "TON": 0
+          "LINK": 0
         },
         "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - April 24, 2026 (GMT+0)",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1suv314/daily_crypto_discussion_april_24_2026_gmt0/",
+        "top_post": "Daily Crypto Discussion - April 25, 2026 (GMT+0)",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1svqok6/daily_crypto_discussion_april_25_2026_gmt0/",
         "top_post_score": 0
       },
       {
         "subreddit": "r/Bitcoin",
         "mentions": {
-          "BTC": 20,
+          "BTC": 19,
           "TON": 1,
           "ETH": 0,
           "SOL": 0,
@@ -415,7 +415,7 @@
       {
         "subreddit": "r/ethereum",
         "mentions": {
-          "ETH": 9,
+          "ETH": 10,
           "BTC": 0,
           "SOL": 0,
           "BNB": 0,
@@ -434,7 +434,7 @@
       {
         "subreddit": "r/solana",
         "mentions": {
-          "SOL": 9,
+          "SOL": 11,
           "ETH": 1,
           "BTC": 0,
           "BNB": 0,
@@ -453,16 +453,16 @@
       {
         "subreddit": "r/CryptoMarkets",
         "mentions": {
-          "BTC": 10,
+          "BTC": 8,
           "ETH": 1,
           "BNB": 1,
           "XRP": 1,
           "DOGE": 1,
           "TON": 1,
+          "LTC": 1,
           "SOL": 0,
           "ADA": 0,
-          "AVAX": 0,
-          "LINK": 0
+          "AVAX": 0
         },
         "activity_score": 100,
         "top_post": "Daily Crypto Discussion - April 25, 2026",
@@ -480,66 +480,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 149,
+      "active_threads": 153,
       "mentions": {
-        "BTC": 22,
+        "BTC": 24,
         "XRP": 18,
         "ETH": 3
       },
       "bullish_hits": 111,
-      "bearish_hits": 51,
-      "bullish_pct": 69,
+      "bearish_hits": 52,
+      "bullish_pct": 68,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
+        "symbol": "ULTIMA",
+        "name": "Ultima",
+        "rank": 261,
+        "score": 0,
+        "change_24h": -1.16
+      },
+      {
         "symbol": "TRUMP",
         "name": "Official Trump",
         "rank": 92,
-        "score": 0,
-        "change_24h": -11.42
+        "score": 1,
+        "change_24h": -10.79
       },
       {
-        "symbol": "HYPER",
-        "name": "Hyperlane",
-        "rank": 438,
-        "score": 1,
-        "change_24h": 71.82
+        "symbol": "CHIP",
+        "name": "USD.AI",
+        "rank": 224,
+        "score": 2,
+        "change_24h": -16.19
+      },
+      {
+        "symbol": "AXS",
+        "name": "Axie Infinity",
+        "rank": 154,
+        "score": 3,
+        "change_24h": 37.7
+      },
+      {
+        "symbol": "RAVE",
+        "name": "RaveDAO",
+        "rank": 166,
+        "score": 4,
+        "change_24h": 2.76
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 99,
-        "score": 2,
-        "change_24h": 1.11
-      },
-      {
-        "symbol": "ULTIMA",
-        "name": "Ultima",
-        "rank": 260,
-        "score": 3,
-        "change_24h": -0.3
-      },
-      {
-        "symbol": "BSB",
-        "name": "Block Street",
-        "rank": 219,
-        "score": 4,
-        "change_24h": 65.23
-      },
-      {
-        "symbol": "LTC",
-        "name": "Litecoin",
-        "rank": 25,
         "score": 5,
-        "change_24h": -1.04
+        "change_24h": 2.84
       },
       {
-        "symbol": "RAVE",
-        "name": "RaveDAO",
-        "rank": 165,
+        "symbol": "APE",
+        "name": "ApeCoin",
+        "rank": 214,
         "score": 6,
-        "change_24h": -0.51
+        "change_24h": -12.29
       }
     ]
   },
@@ -850,50 +850,50 @@
     "polymarket": [
       {
         "title": "US x Iran permanent peace deal by April 30, 2026?",
-        "volume_24h": 1948409,
+        "volume_24h": 1899236,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "US x Iran diplomatic meeting by April 30, 2026?",
-        "volume_24h": 986401,
-        "yes_price": 0.21,
+        "volume_24h": 971913,
+        "yes_price": 0.2,
         "category": "finance"
       },
       {
         "title": "US x Iran diplomatic meeting by April 27, 2026?",
-        "volume_24h": 829167,
+        "volume_24h": 838640,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by May 31?",
-        "volume_24h": 741855,
+        "volume_24h": 767460,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by May 31, 2026?",
-        "volume_24h": 638734,
-        "yes_price": 0.33,
+        "volume_24h": 659589,
+        "yes_price": 0.3,
         "category": "finance"
       },
       {
         "title": "Trump announces end of military operations against Iran by April 30th?",
-        "volume_24h": 547843,
+        "volume_24h": 544937,
         "yes_price": 0.05,
         "category": "finance"
       },
       {
         "title": "Will Rafael López Aliaga win the 2026 Peruvian presidential election?",
-        "volume_24h": 518423,
+        "volume_24h": 509491,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "US x Iran diplomatic meeting by April 28, 2026?",
-        "volume_24h": 465875,
-        "yes_price": 0.09,
+        "volume_24h": 462431,
+        "yes_price": 0.07,
         "category": "finance"
       }
     ],
