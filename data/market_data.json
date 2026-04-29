@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-04-28T20:50:34Z",
+  "updated_at": "2026-04-29T00:09:46Z",
   "crypto": {
     "fear_greed": {
-      "value": 33,
+      "value": 26,
       "label": "Fear",
-      "previous_value": 47,
-      "previous_label": "Neutral"
+      "previous_value": 33,
+      "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 76419,
-        "change_24h": -0.7,
-        "market_cap": 1529857772013,
-        "volume_24h": 33344839894
+        "price_usd": 76326,
+        "change_24h": -1.27,
+        "market_cap": 1528484641331,
+        "volume_24h": 32703414336
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2297.31,
-        "change_24h": 0.25,
-        "market_cap": 277105960308,
-        "volume_24h": 12852342587
+        "price_usd": 2288.97,
+        "change_24h": -0.63,
+        "market_cap": 276323276377,
+        "volume_24h": 11994263287
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.38,
-        "change_24h": -0.76,
-        "market_cap": 85287213996,
-        "volume_24h": 1753828069
+        "change_24h": -1.31,
+        "market_cap": 85155868418,
+        "volume_24h": 1697302049
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 624.01,
-        "change_24h": 0.02,
-        "market_cap": 84106513068,
-        "volume_24h": 758411651
+        "price_usd": 624.68,
+        "change_24h": -0.31,
+        "market_cap": 84168205891,
+        "volume_24h": 733781234
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 83.81,
-        "change_24h": -0.56,
-        "market_cap": 48270163559,
-        "volume_24h": 2451335122
+        "price_usd": 84.11,
+        "change_24h": -0.7,
+        "market_cap": 48398128711,
+        "volume_24h": 2506575477
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.09967,
-        "change_24h": 1.61,
-        "market_cap": 15353640139,
-        "volume_24h": 1611070633
+        "price_usd": 0.099457,
+        "change_24h": 0.66,
+        "market_cap": 15316670251,
+        "volume_24h": 1686685488
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.247364,
-        "change_24h": 0.54,
-        "market_cap": 9142943280,
-        "volume_24h": 259093494
+        "price_usd": 0.246644,
+        "change_24h": -0.63,
+        "market_cap": 9122707113,
+        "volume_24h": 253371278
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.27,
-        "change_24h": 0.49,
-        "market_cap": 6737797122,
-        "volume_24h": 177996152
+        "price_usd": 9.25,
+        "change_24h": -0.72,
+        "market_cap": 6719881167,
+        "volume_24h": 177931080
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.18,
-        "change_24h": -0.03,
-        "market_cap": 3962207612,
-        "volume_24h": 157481914
+        "price_usd": 9.17,
+        "change_24h": -0.92,
+        "market_cap": 3959190396,
+        "volume_24h": 150917313
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 31,
-        "price_usd": 76419,
-        "change_24h": -0.7
+        "mentions": 28,
+        "price_usd": 76326,
+        "change_24h": -1.27
       },
       {
         "symbol": "SOL",
-        "mentions": 25,
-        "price_usd": 83.81,
-        "change_24h": -0.56
+        "mentions": 23,
+        "price_usd": 84.11,
+        "change_24h": -0.7
       },
       {
         "symbol": "ETH",
         "mentions": 13,
-        "price_usd": 2297.31,
-        "change_24h": 0.25
+        "price_usd": 2288.97,
+        "change_24h": -0.63
       },
       {
         "symbol": "BNB",
         "mentions": 1,
-        "price_usd": 624.01,
-        "change_24h": 0.02
+        "price_usd": 624.68,
+        "change_24h": -0.31
       },
       {
         "symbol": "XRP",
         "mentions": 1,
         "price_usd": 1.38,
-        "change_24h": -0.76
+        "change_24h": -1.31
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.247364,
-        "change_24h": 0.54
+        "price_usd": 0.246644,
+        "change_24h": -0.63
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.09967,
-        "change_24h": 1.61
+        "price_usd": 0.099457,
+        "change_24h": 0.66
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.18,
-        "change_24h": -0.03
+        "price_usd": 9.17,
+        "change_24h": -0.92
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 9.27,
-        "change_24h": 0.49
+        "price_usd": 9.25,
+        "change_24h": -0.72
       },
       {
         "symbol": "TON",
@@ -145,14 +145,14 @@
     ],
     "news": [
       {
-        "title": "Robinhood stock shrugs off a 47% crash in crypto revenue thanks to a massive surge in event betting",
+        "title": "Robinhood stock falls 8% after big earnings miss due to weak crypto trading revenue",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting",
         "published": "Tue, 28 Apr 2026 20:28:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks",
@@ -275,6 +275,16 @@
         "color": "yellow"
       },
       {
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 28 Apr 2026 17:44:00 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Canaan, Tether deepen partnership on immersion-cooled mining systems",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/canaan-tether-mining-hardware-modular-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -297,69 +307,59 @@
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "BitMart x EAT Trade-to-Feed competition to pay out $4.4m USDT to traders in May 2026",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/press-releases/bitmart-x-eat-trade-to-feed-competition-to-pay-out-44m-usdt-to-traders-in-may-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 28 Apr 2026 15:45:04 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.267,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": -0.333,
+      "label": "Bearish",
+      "color": "red"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in April?",
-        "volume_24h": 808016,
+        "volume_24h": 816966,
         "yes_price": 0.1,
         "category": "crypto"
       },
       {
         "title": "Will MegaETH launch a token by April 30, 2026?",
-        "volume_24h": 403441,
+        "volume_24h": 386384,
         "yes_price": 0.97,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $75,000 in April?",
-        "volume_24h": 313629,
-        "yes_price": 0.49,
+        "volume_24h": 281507,
+        "yes_price": 0.54,
         "category": "crypto"
       },
       {
         "title": "MegaETH market cap (FDV) >$2B one day after launch?",
-        "volume_24h": 217514,
+        "volume_24h": 234666,
         "yes_price": 0.3,
         "category": "crypto"
       },
       {
         "title": "MegaETH market cap (FDV) >$800M one day after launch?",
-        "volume_24h": 194159,
+        "volume_24h": 193701,
         "yes_price": 0.94,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $70,000 in April?",
-        "volume_24h": 168116,
+        "volume_24h": 181847,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "MegaETH market cap (FDV) >$600M one day after launch?",
-        "volume_24h": 164195,
+        "volume_24h": 166366,
         "yes_price": 0.98,
         "category": "crypto"
       },
       {
         "title": "MegaETH market cap (FDV) >$1B one day after launch?",
-        "volume_24h": 150948,
+        "volume_24h": 160636,
         "yes_price": 0.89,
         "category": "crypto"
       }
@@ -372,9 +372,9 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 8,
+          "BTC": 6,
           "ETH": 2,
-          "SOL": 2,
+          "SOL": 1,
           "BNB": 1,
           "XRP": 0,
           "ADA": 0,
@@ -384,14 +384,14 @@
           "TON": 0
         },
         "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - April 27, 2026 (GMT+0)",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1sxjpb2/daily_crypto_discussion_april_27_2026_gmt0/",
+        "top_post": "Daily Crypto Discussion - April 28, 2026 (GMT+0)",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1syh6b1/daily_crypto_discussion_april_28_2026_gmt0/",
         "top_post_score": 0
       },
       {
         "subreddit": "r/Bitcoin",
         "mentions": {
-          "BTC": 18,
+          "BTC": 16,
           "ETH": 0,
           "SOL": 0,
           "BNB": 0,
@@ -429,7 +429,7 @@
       {
         "subreddit": "r/solana",
         "mentions": {
-          "SOL": 22,
+          "SOL": 21,
           "BTC": 0,
           "ETH": 0,
           "BNB": 0,
@@ -448,7 +448,7 @@
       {
         "subreddit": "r/CryptoMarkets",
         "mentions": {
-          "BTC": 5,
+          "BTC": 6,
           "SOL": 1,
           "XRP": 1,
           "ETH": 0,
@@ -471,18 +471,18 @@
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 1 bullish vs 4 bearish signals detected across crypto news data."
+      "summary": "Bearish: 0 bullish vs 5 bearish signals detected across crypto news data."
     },
     "fourchain": {
-      "thread_count": 201,
-      "active_threads": 143,
+      "thread_count": 200,
+      "active_threads": 144,
       "mentions": {
-        "BTC": 16,
+        "BTC": 12,
         "XRP": 12,
-        "BNB": 1
+        "ETH": 1
       },
-      "bullish_hits": 89,
-      "bearish_hits": 55,
+      "bullish_hits": 95,
+      "bearish_hits": 57,
       "bullish_pct": 62,
       "top_coin": "BTC"
     },
@@ -490,51 +490,51 @@
       {
         "symbol": "PROS",
         "name": "Pharos",
-        "rank": 232,
+        "rank": 249,
         "score": 0,
-        "change_24h": -9.71
+        "change_24h": -11.24
       },
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 87,
+        "symbol": "BIO",
+        "name": "Bio Protocol",
+        "rank": 342,
         "score": 1,
-        "change_24h": 5.43
+        "change_24h": 28.88
       },
       {
-        "symbol": "TAO",
-        "name": "Bittensor",
-        "rank": 37,
+        "symbol": "PUMP",
+        "name": "Pump.fun",
+        "rank": 66,
         "score": 2,
-        "change_24h": 4.22
+        "change_24h": 7.2
       },
       {
-        "symbol": "MON",
-        "name": "Monad",
-        "rank": 128,
+        "symbol": "LUNC",
+        "name": "Terra Luna Classic",
+        "rank": 123,
         "score": 3,
-        "change_24h": -3.84
+        "change_24h": -3.13
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "PI",
+        "name": "Pi Network",
+        "rank": 45,
         "score": 4,
-        "change_24h": -0.71
+        "change_24h": 6.21
       },
       {
-        "symbol": "ONDO",
-        "name": "Ondo",
-        "rank": 62,
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "rank": 2,
         "score": 5,
-        "change_24h": 0.89
+        "change_24h": -0.55
       },
       {
-        "symbol": "AAVE",
-        "name": "Aave",
-        "rank": 54,
+        "symbol": "RAVE",
+        "name": "RaveDAO",
+        "rank": 174,
         "score": 6,
-        "change_24h": 0.57
+        "change_24h": -1.09
       }
     ]
   },
@@ -640,6 +640,12 @@
         "change_24h": null
       },
       {
+        "symbol": "PLTR",
+        "mentions": 1,
+        "price_usd": 141.18,
+        "change_24h": -1.34
+      },
+      {
         "symbol": "NVDA",
         "mentions": 1,
         "price_usd": 213.17,
@@ -668,20 +674,34 @@
         "mentions": 1,
         "price_usd": 671.34,
         "change_24h": -1.07
-      },
-      {
-        "symbol": "PLTR",
-        "mentions": 0,
-        "price_usd": 141.18,
-        "change_24h": -1.34
       }
     ],
     "news": [
       {
-        "title": "Starbucks raises full-year outlook after earnings, revenue top estimates",
+        "title": "UAE's shock OPEC exit: What it means for the oil cartel's future and for crude prices",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html",
-        "published": "Tue, 28 Apr 2026 20:14:17 GMT",
+        "url": "https://www.cnbc.com/2026/04/28/oil-uae-opec-saudi-arabia.html",
+        "published": "Tue, 28 Apr 2026 19:17:44 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
+        "published": "Tue, 28 Apr 2026 20:15:32 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Asia markets set to open mixed after OPEC shock, tech jitters drag Wall Street stocks",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/29/asia-markets-nikkei-225-kospi-hang-seng-index.html",
+        "published": "Tue, 28 Apr 2026 23:49:27 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -698,64 +718,34 @@
         "color": "red"
       },
       {
-        "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
-        "published": "Tue, 28 Apr 2026 20:15:32 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "UAE's shock OPEC exit: What it means for the oil cartel's future and for crude prices",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/28/oil-uae-opec-saudi-arabia.html",
-        "published": "Tue, 28 Apr 2026 19:17:44 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "FCC launches review of Disney broadcast licenses years ahead of schedule",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/28/fcc-begins-review-of-disney-broadcast-licenses-years-ahead-of-schedule.html",
-        "published": "Tue, 28 Apr 2026 20:17:21 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Ex-FBI Director James Comey charged with threatening Trump's life in ‘8647’ post",
+        "title": "James Comey charged with threatening Trump's life in ‘8647’ seashell post",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/28/james-comey-indicted-trump-seashell-8647.html",
-        "published": "Tue, 28 Apr 2026 20:15:04 GMT",
+        "published": "Tue, 28 Apr 2026 22:17:07 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Trump White House ballroom unlikely to get WHCD buy-in — or end president's off-site events, critics say",
+        "title": "Starbucks raises full-year outlook as turnaround takes hold — despite higher gas prices",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/28/trump-white-house-ballroom-whcd.html",
-        "published": "Tue, 28 Apr 2026 20:02:57 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "U.S. is 'being humiliated by Iran,' says Germany's Merz, as Europe's patience wanes",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/28/us-humiliated-germany-merz-europe-iran-war-energy-prices-fuel.html",
-        "published": "Tue, 28 Apr 2026 16:39:02 GMT",
+        "url": "https://www.cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html",
+        "published": "Tue, 28 Apr 2026 21:31:31 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "DHS shutdown: Congressional dysfunction imperils pay for TSA, Secret Service",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/28/dhs-tsa-shutdown-congress.html",
+        "published": "Tue, 28 Apr 2026 22:49:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "U.S. airlines are hiking fares — and travelers keep booking",
@@ -778,50 +768,62 @@
         "color": "yellow"
       },
       {
-        "title": "These two countries are the most likely to leave OPEC’s orbit next",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/these-two-countries-are-the-most-likely-to-leave-opecs-orbit-next-991b6823?mod=mw_rss_topstories",
-        "published": "Tue, 28 Apr 2026 20:41:00 GMT",
+        "title": "Pharma bets a little-known form of cholesterol will underpin its next blockbuster heart drugs",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/27/lpa-drugs-from-novartis-amgen-and-eli-lilly-aim-to-prevent-heart-attacks.html",
+        "published": "Mon, 27 Apr 2026 19:28:58 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "‘I’m not interested in long-term care insurance’: I’d like to retire at 55. How much will I have to pay for healthcare?",
+        "title": "Starbucks is seeing a resurgence, thanks to younger and lower-income customers",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/im-not-interested-in-long-term-care-insurance-id-like-to-retire-at-55-how-much-will-i-have-to-pay-for-healthcare-a4659d9b?mod=mw_rss_topstories",
-        "published": "Tue, 28 Apr 2026 20:40:00 GMT",
+        "url": "https://www.marketwatch.com/story/starbucks-is-getting-customers-back-into-its-stores-faster-than-expected-f4ee80ab?mod=mw_rss_topstories",
+        "published": "Tue, 28 Apr 2026 22:54:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       },
       {
-        "title": "Trump’s fight with Jimmy Kimmel escalates as the FCC puts ABC under review",
+        "title": "The stock market’s comeback from the Iran-inspired selloff hasn’t been as powerful as you might think",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/trumps-fight-with-jimmy-kimmel-escalates-as-the-fcc-puts-abc-under-review-597e1dbd?mod=mw_rss_topstories",
-        "published": "Tue, 28 Apr 2026 20:23:00 GMT",
+        "url": "https://www.marketwatch.com/story/the-stock-markets-comeback-from-the-iran-inspired-selloff-hasnt-been-as-powerful-as-you-might-think-6138bbec?mod=mw_rss_topstories",
+        "published": "Tue, 28 Apr 2026 22:31:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "It’s time for a Microsoft ‘reset.’ Here’s what investors should focus on now.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/its-time-for-a-microsoft-reset-heres-what-investors-should-focus-on-now-a5d9e334?mod=mw_rss_topstories",
+        "published": "Tue, 28 Apr 2026 22:20:00 GMT",
+        "assets": [
+          "MSFT"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "These two countries are the most likely to leave OPEC’s orbit next",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/these-two-countries-are-the-most-likely-to-leave-opecs-orbit-next-991b6823?mod=mw_rss_topstories",
+        "published": "Tue, 28 Apr 2026 22:17:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "U.A.E. is leaving OPEC but will still need to exercise caution as it increases oil production",
+        "title": "Bloom Energy is riding the AI wave with a major lift from Oracle",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/u-a-e-is-leaving-opec-but-will-still-need-to-exercise-caution-as-it-increases-oil-production-0979cd87?mod=mw_rss_topstories",
-        "published": "Tue, 28 Apr 2026 20:17:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "‘I hope to retire early’: I’m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/i-hope-to-retire-early-im-56-and-have-80-in-a-traditional-ira-and-20-in-a-roth-am-i-in-trouble-8ec58195?mod=mw_rss_topstories",
-        "published": "Tue, 28 Apr 2026 20:11:00 GMT",
+        "url": "https://www.marketwatch.com/story/bloom-energy-is-riding-the-ai-wave-with-a-major-lift-from-oracle-200109b4?mod=mw_rss_topstories",
+        "published": "Tue, 28 Apr 2026 22:16:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -829,45 +831,39 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.067,
+      "score": -0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Trump announces end of military operations against Iran by April 30th?",
-        "volume_24h": 2659253,
+        "volume_24h": 2829945,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall by May 31?",
-        "volume_24h": 2409858,
+        "volume_24h": 2483160,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by May 31, 2026?",
-        "volume_24h": 1368322,
+        "volume_24h": 1350341,
         "yes_price": 0.29,
         "category": "finance"
       },
       {
-        "title": "Will Finland win Eurovision 2026?",
-        "volume_24h": 409214,
-        "yes_price": 0.35,
-        "category": "finance"
-      },
-      {
         "title": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?",
-        "volume_24h": 363861,
-        "yes_price": 0.59,
+        "volume_24h": 418291,
+        "yes_price": 0.57,
         "category": "finance"
       },
       {
-        "title": "US x Iran diplomatic meeting by April 30, 2026?",
-        "volume_24h": 351542,
-        "yes_price": 0.02,
+        "title": "Will Finland win Eurovision 2026?",
+        "volume_24h": 407968,
+        "yes_price": 0.35,
         "category": "finance"
       },
       {
@@ -877,8 +873,14 @@
         "category": "finance"
       },
       {
+        "title": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by April 30, 2026?",
+        "volume_24h": 320339,
+        "yes_price": 0.06,
+        "category": "finance"
+      },
+      {
         "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 324283,
+        "volume_24h": 318986,
         "yes_price": 0.07,
         "category": "finance"
       }
@@ -893,13 +895,13 @@
         "mentions": {
           "GOOGL": 1,
           "AMD": 1,
+          "PLTR": 1,
           "NVDA": 0,
           "TSLA": 0,
           "AAPL": 0,
           "MSFT": 0,
           "AMZN": 0,
           "META": 0,
-          "PLTR": 0,
           "GME": 0
         },
         "activity_score": 100,
@@ -989,8 +991,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 2 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 0 bullish vs 3 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
