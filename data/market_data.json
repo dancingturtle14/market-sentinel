@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-05-08T22:31:54Z",
+  "updated_at": "2026-05-09T00:02:06Z",
   "crypto": {
     "fear_greed": {
       "value": 38,
       "label": "Fear",
-      "previous_value": 47,
-      "previous_label": "Neutral"
+      "previous_value": 38,
+      "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 80330,
-        "change_24h": 0.51,
-        "market_cap": 1608871697528,
-        "volume_24h": 34238614801
+        "price_usd": 80190,
+        "change_24h": 0.21,
+        "market_cap": 1605915122496,
+        "volume_24h": 34527143792
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2312.74,
-        "change_24h": 1.09,
-        "market_cap": 279194021181,
-        "volume_24h": 18334532533
-      },
-      {
-        "symbol": "BNB",
-        "name": "BNB",
-        "price_usd": 650.78,
-        "change_24h": 2.3,
-        "market_cap": 87757452352,
-        "volume_24h": 899867995
+        "price_usd": 2306.88,
+        "change_24h": 0.65,
+        "market_cap": 278406370404,
+        "volume_24h": 18403766280
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.42,
-        "change_24h": 2.53,
-        "market_cap": 87741087058,
-        "volume_24h": 1496064601
+        "change_24h": 2.24,
+        "market_cap": 87643548046,
+        "volume_24h": 1491636568
+      },
+      {
+        "symbol": "BNB",
+        "name": "BNB",
+        "price_usd": 649.38,
+        "change_24h": 1.94,
+        "market_cap": 87475618814,
+        "volume_24h": 883593671
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 92.42,
-        "change_24h": 4.95,
-        "market_cap": 53382198777,
-        "volume_24h": 3601353433
+        "price_usd": 91.97,
+        "change_24h": 3.98,
+        "market_cap": 53095202286,
+        "volume_24h": 3618152045
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.109355,
-        "change_24h": 1.5,
-        "market_cap": 16844492090,
-        "volume_24h": 1183631415
+        "price_usd": 0.109479,
+        "change_24h": 1.47,
+        "market_cap": 16873701041,
+        "volume_24h": 1165711976
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.275498,
-        "change_24h": 5.2,
-        "market_cap": 10201591717,
-        "volume_24h": 399137961
+        "price_usd": 0.273344,
+        "change_24h": 4.06,
+        "market_cap": 10106089274,
+        "volume_24h": 392778656
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 10.35,
-        "change_24h": 5.05,
-        "market_cap": 7530645252,
-        "volume_24h": 511180436
+        "price_usd": 10.34,
+        "change_24h": 4.99,
+        "market_cap": 7518360371,
+        "volume_24h": 526330586
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.95,
-        "change_24h": 5.16,
-        "market_cap": 4296799171,
-        "volume_24h": 284129898
+        "price_usd": 9.9,
+        "change_24h": 4.18,
+        "market_cap": 4274105718,
+        "volume_24h": 289317044
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 23,
-        "price_usd": 80330,
-        "change_24h": 0.51
+        "price_usd": 80190,
+        "change_24h": 0.21
       },
       {
         "symbol": "SOL",
         "mentions": 16,
-        "price_usd": 92.42,
-        "change_24h": 4.95
+        "price_usd": 91.97,
+        "change_24h": 3.98
       },
       {
         "symbol": "ETH",
-        "mentions": 6,
-        "price_usd": 2312.74,
-        "change_24h": 1.09
+        "mentions": 7,
+        "price_usd": 2306.88,
+        "change_24h": 0.65
       },
       {
         "symbol": "BNB",
         "mentions": 1,
-        "price_usd": 650.78,
-        "change_24h": 2.3
+        "price_usd": 649.38,
+        "change_24h": 1.94
       },
       {
         "symbol": "XRP",
         "mentions": 1,
         "price_usd": 1.42,
-        "change_24h": 2.53
+        "change_24h": 2.24
       },
       {
         "symbol": "LINK",
         "mentions": 1,
-        "price_usd": 10.35,
-        "change_24h": 5.05
+        "price_usd": 10.34,
+        "change_24h": 4.99
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.275498,
-        "change_24h": 5.2
+        "price_usd": 0.273344,
+        "change_24h": 4.06
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.109355,
-        "change_24h": 1.5
+        "price_usd": 0.109479,
+        "change_24h": 1.47
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.95,
-        "change_24h": 5.16
+        "price_usd": 9.9,
+        "change_24h": 4.18
       },
       {
         "symbol": "TON",
@@ -144,6 +144,16 @@
       }
     ],
     "news": [
+      {
+        "title": "Senate Banking Committee plans to hold key market structure hearing on Thursday",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/05/08/senate-banking-committee-plans-to-hold-key-market-structure-hearing-on-thursday",
+        "published": "Fri, 08 May 2026 23:20:00 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
         "source": "CoinDesk",
@@ -240,14 +250,14 @@
         "color": "yellow"
       },
       {
-        "title": "U.S. added 115K jobs in April, nearly doubling expectations",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/05/07/u-s-added-115k-jobs-in-april-nearly-doubling-expectations",
-        "published": "Fri, 08 May 2026 12:33:42 +0000",
+        "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 08 May 2026 22:43:32 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Estonia's FSA issues investor warning about Zondacrypto",
@@ -300,72 +310,60 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Exodus launches AI agent-focused stablecoin on Solana",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 08 May 2026 18:38:02 +0000",
-        "assets": [
-          "SOL"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.133,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "MicroStrategy sells any Bitcoin by May 31, 2026?",
-        "volume_24h": 142569,
-        "yes_price": 0.42,
+        "volume_24h": 148295,
+        "yes_price": 0.36,
         "category": "crypto"
       },
       {
         "title": "MicroStrategy sells any Bitcoin by June 30, 2026?",
-        "volume_24h": 124553,
-        "yes_price": 0.63,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $65,000 in May?",
-        "volume_24h": 89300,
-        "yes_price": 0.07,
+        "volume_24h": 115414,
+        "yes_price": 0.6,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $82,000 on May 9?",
-        "volume_24h": 88963,
-        "yes_price": 0.05,
+        "volume_24h": 107534,
+        "yes_price": 0.02,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in May?",
-        "volume_24h": 84978,
-        "yes_price": 0.04,
+        "volume_24h": 106295,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
-        "title": "MicroStrategy sells any Bitcoin by December 31, 2026?",
-        "volume_24h": 61142,
-        "yes_price": 0.82,
+        "title": "Will Bitcoin dip to $65,000 in May?",
+        "volume_24h": 88325,
+        "yes_price": 0.07,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $80,000 on May 9?",
-        "volume_24h": 59758,
-        "yes_price": 0.72,
+        "volume_24h": 68698,
+        "yes_price": 0.65,
+        "category": "crypto"
+      },
+      {
+        "title": "MicroStrategy sells any Bitcoin by December 31, 2026?",
+        "volume_24h": 61866,
+        "yes_price": 0.82,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $79,000 on May 8?",
-        "volume_24h": 56337,
-        "yes_price": 0.04,
+        "volume_24h": 61728,
+        "yes_price": 0.03,
         "category": "crypto"
       }
     ],
@@ -378,8 +376,8 @@
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 4,
+          "ETH": 1,
           "BNB": 1,
-          "ETH": 0,
           "SOL": 0,
           "XRP": 0,
           "ADA": 0,
@@ -389,8 +387,8 @@
           "TON": 0
         },
         "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - May 7, 2026 (GMT+0)",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1t6qe2o/daily_crypto_discussion_may_7_2026_gmt0/",
+        "top_post": "Daily Crypto Discussion - May 8, 2026 (GMT+0)",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1t7nkn0/daily_crypto_discussion_may_8_2026_gmt0/",
         "top_post_score": 0
       },
       {
@@ -476,70 +474,70 @@
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 6 bullish vs 3 bearish signals detected across crypto news data."
+      "summary": "Bullish: 6 bullish vs 2 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 137,
+      "active_threads": 134,
       "mentions": {
-        "BTC": 25,
+        "BTC": 26,
         "XRP": 14,
         "ETH": 3
       },
       "bullish_hits": 102,
-      "bearish_hits": 56,
-      "bullish_pct": 65,
+      "bearish_hits": 53,
+      "bullish_pct": 66,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "ONDO",
-        "name": "Ondo",
-        "rank": 45,
+        "symbol": "DAG",
+        "name": "Constellation",
+        "rank": 317,
         "score": 0,
-        "change_24h": 28.68
+        "change_24h": 156.56
+      },
+      {
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "rank": 14,
+        "score": 1,
+        "change_24h": 7.15
       },
       {
         "symbol": "WOJAK",
         "name": "wojak",
-        "rank": 674,
-        "score": 1,
-        "change_24h": 6.64
+        "rank": 665,
+        "score": 2,
+        "change_24h": 11.66
       },
       {
         "symbol": "ICP",
         "name": "Internet Computer",
         "rank": 47,
-        "score": 2,
-        "change_24h": 18.96
+        "score": 3,
+        "change_24h": 16.31
       },
       {
-        "symbol": "SUI",
-        "name": "Sui",
-        "rank": 28,
-        "score": 3,
-        "change_24h": 6.58
+        "symbol": "ONDO",
+        "name": "Ondo",
+        "rank": 45,
+        "score": 4,
+        "change_24h": 27.48
+      },
+      {
+        "symbol": "BILL",
+        "name": "Billions Network",
+        "rank": 176,
+        "score": 5,
+        "change_24h": 40.85
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 89,
-        "score": 4,
-        "change_24h": 2.75
-      },
-      {
-        "symbol": "CHIP",
-        "name": "USD.AI",
-        "rank": 238,
-        "score": 5,
-        "change_24h": 29.42
-      },
-      {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
         "score": 6,
-        "change_24h": 0.63
+        "change_24h": 1.6
       }
     ]
   },
@@ -627,16 +625,16 @@
         "change_24h": 2.05
       },
       {
+        "symbol": "GOOGL",
+        "mentions": 3,
+        "price_usd": 400.8,
+        "change_24h": 0.71
+      },
+      {
         "symbol": "NVDA",
         "mentions": 2,
         "price_usd": 215.2,
         "change_24h": 1.75
-      },
-      {
-        "symbol": "GOOGL",
-        "mentions": 2,
-        "price_usd": 400.8,
-        "change_24h": 0.71
       },
       {
         "symbol": "AMZN",
@@ -847,21 +845,15 @@
     },
     "polymarket": [
       {
-        "title": "US x Iran permanent peace deal by May 31, 2026?",
-        "volume_24h": 1010126,
-        "yes_price": 0.35,
-        "category": "finance"
-      },
-      {
         "title": "US x Iran permanent peace deal by May 15, 2026?",
-        "volume_24h": 893925,
+        "volume_24h": 894779,
         "yes_price": 0.18,
         "category": "finance"
       },
       {
-        "title": "US obtains Iranian enriched uranium by May 31?",
-        "volume_24h": 340448,
-        "yes_price": 0.06,
+        "title": "US x Iran permanent peace deal by May 31, 2026?",
+        "volume_24h": 851637,
+        "yes_price": 0.35,
         "category": "finance"
       },
       {
@@ -871,33 +863,39 @@
         "category": "finance"
       },
       {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 295593,
-        "yes_price": 0.21,
-        "category": "finance"
-      },
-      {
-        "title": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-        "volume_24h": 283396,
-        "yes_price": 0.97,
+        "title": "US obtains Iranian enriched uranium by May 31?",
+        "volume_24h": 306919,
+        "yes_price": 0.06,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by May 11, 2026?",
-        "volume_24h": 255994,
-        "yes_price": 0.07,
+        "volume_24h": 296317,
+        "yes_price": 0.06,
         "category": "finance"
       },
       {
-        "title": "US x Iran permanent peace deal by June 30, 2026?",
-        "volume_24h": 248453,
-        "yes_price": 0.54,
+        "title": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+        "volume_24h": 286374,
+        "yes_price": 0.97,
+        "category": "finance"
+      },
+      {
+        "title": "Will the U.S. invade Iran before 2027?",
+        "volume_24h": 279457,
+        "yes_price": 0.21,
+        "category": "finance"
+      },
+      {
+        "title": "Will Trump visit China by May 15?",
+        "volume_24h": 233928,
+        "yes_price": 0.91,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: The market signals high confidence in economic predictability, with 97% expecting no Fed rate change post-June 2026. Major global geopolitical risks are low, indicated by a 7% chance of China invading Taiwan by end-2026. Diplomatic engagement is likely, as Trump is 91% expected to visit China. However, regional instability persists, with US-Iran peace prospects low (6-35%) and a 21% chance of a US invasion before 2027."
     },
     "reddit": [
       {
@@ -942,10 +940,10 @@
         "subreddit": "r/investing",
         "mentions": {
           "AAPL": 1,
+          "GOOGL": 1,
           "NVDA": 0,
           "TSLA": 0,
           "MSFT": 0,
-          "GOOGL": 0,
           "AMZN": 0,
           "META": 0,
           "AMD": 0,
