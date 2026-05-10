@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-09T23:58:38Z",
+  "updated_at": "2026-05-10T04:06:31Z",
   "crypto": {
     "fear_greed": {
-      "value": 38,
-      "label": "Fear",
+      "value": 47,
+      "label": "Neutral",
       "previous_value": 38,
       "previous_label": "Fear"
     },
@@ -11,136 +11,136 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 80681,
-        "change_24h": 0.61,
-        "market_cap": 1615764072277,
-        "volume_24h": 19141179078
+        "price_usd": 80748,
+        "change_24h": 0.18,
+        "market_cap": 1617169981875,
+        "volume_24h": 19009101043
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2327.02,
-        "change_24h": 0.88,
-        "market_cap": 280886350444,
-        "volume_24h": 10727649336
+        "price_usd": 2326.91,
+        "change_24h": 0.2,
+        "market_cap": 280821081019,
+        "volume_24h": 10500467456
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.42,
-        "change_24h": 0.13,
-        "market_cap": 87774970149,
-        "volume_24h": 1214358108
+        "change_24h": -1.21,
+        "market_cap": 87513445442,
+        "volume_24h": 1163496732
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 649.85,
-        "change_24h": 0.13,
-        "market_cap": 87587381150,
-        "volume_24h": 756809482
+        "price_usd": 647.67,
+        "change_24h": -1.18,
+        "market_cap": 87294972440,
+        "volume_24h": 729699954
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 93.16,
-        "change_24h": 1.31,
-        "market_cap": 53802113928,
-        "volume_24h": 2789673204
+        "price_usd": 93.3,
+        "change_24h": -0.46,
+        "market_cap": 53890901395,
+        "volume_24h": 2483635388
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.10873,
-        "change_24h": -0.67,
-        "market_cap": 16762658751,
-        "volume_24h": 746657975
+        "price_usd": 0.108441,
+        "change_24h": -1.87,
+        "market_cap": 16718964456,
+        "volume_24h": 692454259
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.270842,
-        "change_24h": -0.9,
-        "market_cap": 10015620511,
-        "volume_24h": 279032008
+        "price_usd": 0.269964,
+        "change_24h": -2.45,
+        "market_cap": 9985572568,
+        "volume_24h": 255713980
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 10.37,
-        "change_24h": 0.33,
-        "market_cap": 7542272259,
-        "volume_24h": 319777032
+        "price_usd": 10.35,
+        "change_24h": -2.21,
+        "market_cap": 7527453173,
+        "volume_24h": 236511302
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.95,
-        "change_24h": 0.5,
-        "market_cap": 4295614039,
-        "volume_24h": 210273429
+        "price_usd": 9.9,
+        "change_24h": -0.92,
+        "market_cap": 4276444859,
+        "volume_24h": 180131918
       }
     ],
     "top_mentioned": [
       {
-        "symbol": "SOL",
-        "mentions": 16,
-        "price_usd": 93.16,
-        "change_24h": 1.31
+        "symbol": "BTC",
+        "mentions": 18,
+        "price_usd": 80748,
+        "change_24h": 0.18
       },
       {
-        "symbol": "BTC",
-        "mentions": 15,
-        "price_usd": 80681,
-        "change_24h": 0.61
+        "symbol": "SOL",
+        "mentions": 14,
+        "price_usd": 93.3,
+        "change_24h": -0.46
       },
       {
         "symbol": "ETH",
-        "mentions": 8,
-        "price_usd": 2327.02,
-        "change_24h": 0.88
+        "mentions": 7,
+        "price_usd": 2326.91,
+        "change_24h": 0.2
       },
       {
         "symbol": "BNB",
         "mentions": 1,
-        "price_usd": 649.85,
-        "change_24h": 0.13
+        "price_usd": 647.67,
+        "change_24h": -1.18
+      },
+      {
+        "symbol": "TON",
+        "mentions": 1,
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.42,
-        "change_24h": 0.13
+        "change_24h": -1.21
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.270842,
-        "change_24h": -0.9
+        "price_usd": 0.269964,
+        "change_24h": -2.45
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.10873,
-        "change_24h": -0.67
+        "price_usd": 0.108441,
+        "change_24h": -1.87
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.95,
-        "change_24h": 0.5
+        "price_usd": 9.9,
+        "change_24h": -0.92
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 10.37,
-        "change_24h": 0.33
-      },
-      {
-        "symbol": "TON",
-        "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 10.35,
+        "change_24h": -2.21
       }
     ],
     "news": [
@@ -253,6 +253,16 @@
         "color": "green"
       },
       {
+        "title": "CZ says crypto exchange rivals opposed his pardon bid",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 10 May 2026 00:17:23 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
+      },
+      {
         "title": "7 major Bitcoin mining pools join Stratum V2, working group",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -272,9 +282,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": -0.2,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.3,
+        "color": "red"
       },
       {
         "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
@@ -295,82 +305,72 @@
         "sentiment": "Neutral",
         "score": 0.1,
         "color": "yellow"
-      },
-      {
-        "title": "Why a 2017 Linux bug is now a major concern for the crypto industry",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 09 May 2026 15:30:00 +0000",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": 0.187,
+      "score": 0.213,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "MicroStrategy sells any Bitcoin by May 31, 2026?",
-        "volume_24h": 174562,
+        "volume_24h": 166440,
         "yes_price": 0.41,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin reach $95,000 in May?",
-        "volume_24h": 100048,
-        "yes_price": 0.06,
-        "category": "crypto"
-      },
-      {
         "title": "Will the price of Bitcoin be above $82,000 on May 10?",
-        "volume_24h": 81448,
-        "yes_price": 0.04,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $60,000 in May?",
-        "volume_24h": 65441,
+        "volume_24h": 119136,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
+        "title": "Will Bitcoin reach $95,000 in May?",
+        "volume_24h": 91400,
+        "yes_price": 0.06,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be above $80,000 on May 10?",
+        "volume_24h": 76991,
+        "yes_price": 0.9,
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin Up or Down on May 10?",
+        "volume_24h": 65975,
+        "yes_price": 0.69,
+        "category": "crypto"
+      },
+      {
         "title": "MicroStrategy sells any Bitcoin by June 30, 2026?",
-        "volume_24h": 64381,
+        "volume_24h": 64575,
         "yes_price": 0.73,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $84,000 May 4-10?",
-        "volume_24h": 63000,
-        "yes_price": 0.03,
+        "volume_24h": 61282,
+        "yes_price": 0.02,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $70,000 in May?",
-        "volume_24h": 57914,
-        "yes_price": 0.14,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $100,000 in May?",
-        "volume_24h": 54195,
+        "title": "Will Bitcoin dip to $60,000 in May?",
+        "volume_24h": 58416,
         "yes_price": 0.03,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across crypto prediction markets data."
+      "summary": "Bearish: 0 bullish vs 2 bearish signals detected across crypto prediction markets data."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 1,
+          "BTC": 3,
           "ETH": 1,
           "BNB": 1,
           "SOL": 0,
@@ -389,7 +389,7 @@
       {
         "subreddit": "r/Bitcoin",
         "mentions": {
-          "BTC": 14,
+          "BTC": 15,
           "ETH": 0,
           "SOL": 0,
           "BNB": 0,
@@ -408,7 +408,7 @@
       {
         "subreddit": "r/ethereum",
         "mentions": {
-          "ETH": 5,
+          "ETH": 4,
           "BTC": 0,
           "SOL": 0,
           "BNB": 0,
@@ -427,7 +427,7 @@
       {
         "subreddit": "r/solana",
         "mentions": {
-          "SOL": 15,
+          "SOL": 13,
           "ETH": 1,
           "BTC": 0,
           "BNB": 0,
@@ -448,14 +448,14 @@
         "mentions": {
           "ETH": 1,
           "SOL": 1,
+          "TON": 1,
           "BTC": 0,
           "BNB": 0,
           "XRP": 0,
           "ADA": 0,
           "DOGE": 0,
           "AVAX": 0,
-          "LINK": 0,
-          "TON": 0
+          "LINK": 0
         },
         "activity_score": 100,
         "top_post": "Daily Crypto Discussion - May 9, 2026",
@@ -473,66 +473,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 150,
+      "active_threads": 154,
       "mentions": {
-        "BTC": 33,
-        "XRP": 16,
-        "ETH": 3
+        "BTC": 30,
+        "XRP": 15,
+        "ETH": 2
       },
-      "bullish_hits": 112,
-      "bearish_hits": 51,
-      "bullish_pct": 69,
+      "bullish_hits": 111,
+      "bearish_hits": 48,
+      "bullish_pct": 70,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
+        "symbol": "TROLL",
+        "name": "TROLL",
+        "rank": 327,
+        "score": 0,
+        "change_24h": 76.85
+      },
+      {
         "symbol": "WOJAK",
         "name": "wojak",
-        "rank": 664,
-        "score": 0,
-        "change_24h": 0.39
+        "rank": 628,
+        "score": 1,
+        "change_24h": 13.85
       },
       {
         "symbol": "BILL",
         "name": "Billions Network",
-        "rank": 157,
-        "score": 1,
-        "change_24h": 30.07
+        "rank": 164,
+        "score": 2,
+        "change_24h": 25.53
       },
       {
-        "symbol": "AERO",
-        "name": "Aerodrome Finance",
-        "rank": 113,
-        "score": 2,
-        "change_24h": 10.97
+        "symbol": "ICP",
+        "name": "Internet Computer",
+        "rank": 47,
+        "score": 3,
+        "change_24h": -8.5
+      },
+      {
+        "symbol": "VVV",
+        "name": "Venice Token",
+        "rank": 88,
+        "score": 4,
+        "change_24h": -3.77
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 89,
-        "score": 3,
-        "change_24h": 1.75
-      },
-      {
-        "symbol": "VVV",
-        "name": "Venice Token",
-        "rank": 86,
-        "score": 4,
-        "change_24h": 17.75
-      },
-      {
-        "symbol": "BIO",
-        "name": "Bio Protocol",
-        "rank": 266,
         "score": 5,
-        "change_24h": 9.31
+        "change_24h": -1.37
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "MON",
+        "name": "Monad",
+        "rank": 122,
         "score": 6,
-        "change_24h": 0.63
+        "change_24h": -0.97
       }
     ]
   },
@@ -614,31 +614,31 @@
     ],
     "top_mentioned": [
       {
-        "symbol": "AAPL",
-        "mentions": 5,
-        "price_usd": 293.32,
-        "change_24h": 2.05
-      },
-      {
         "symbol": "AMD",
         "mentions": 5,
         "price_usd": 455.19,
         "change_24h": 11.44
       },
       {
+        "symbol": "AAPL",
+        "mentions": 4,
+        "price_usd": 293.32,
+        "change_24h": 2.05
+      },
+      {
         "symbol": "GOOGL",
-        "mentions": 2,
+        "mentions": 3,
         "price_usd": 400.8,
         "change_24h": 0.71
       },
       {
-        "symbol": "SPY",
-        "mentions": 2,
+        "symbol": "QQQ",
+        "mentions": 3,
         "price_usd": null,
         "change_24h": null
       },
       {
-        "symbol": "QQQ",
+        "symbol": "SPY",
         "mentions": 2,
         "price_usd": null,
         "change_24h": null
@@ -778,6 +778,16 @@
         "color": "yellow"
       },
       {
+        "title": "The most prestigious role in AI has no job description",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
+        "published": "Sun, 10 May 2026 01:32:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories",
@@ -816,52 +826,36 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "These long-distance couples are mourning the airline America loved to hate",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/spirits-cheap-flights-kept-long-distance-relationships-alive-now-these-couples-are-scrambling-to-stay-connected-ca7e4745?mod=mw_rss_topstories",
-        "published": "Sat, 09 May 2026 19:11:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.0,
+      "score": -0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "US x Iran permanent peace deal by May 31, 2026?",
-        "volume_24h": 1040861,
-        "yes_price": 0.28,
-        "category": "finance"
-      },
-      {
         "title": "US x Iran permanent peace deal by May 15, 2026?",
-        "volume_24h": 1029444,
-        "yes_price": 0.16,
+        "volume_24h": 1058119,
+        "yes_price": 0.14,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by May 11, 2026?",
-        "volume_24h": 755335,
+        "volume_24h": 770817,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
-        "title": "Will Trump visit China by May 15?",
-        "volume_24h": 361644,
-        "yes_price": 0.9,
+        "title": "US x Iran permanent peace deal by May 31, 2026?",
+        "volume_24h": 630166,
+        "yes_price": 0.28,
         "category": "finance"
       },
       {
-        "title": "US x Iran permanent peace deal by May 13, 2026?",
-        "volume_24h": 338911,
-        "yes_price": 0.1,
+        "title": "Will Trump visit China by May 15?",
+        "volume_24h": 358584,
+        "yes_price": 0.91,
         "category": "finance"
       },
       {
@@ -871,15 +865,21 @@
         "category": "finance"
       },
       {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 318394,
-        "yes_price": 0.21,
+        "title": "US x Iran permanent peace deal by May 13, 2026?",
+        "volume_24h": 286597,
+        "yes_price": 0.09,
         "category": "finance"
       },
       {
-        "title": "US x Iran permanent peace deal by June 30, 2026?",
-        "volume_24h": 316667,
-        "yes_price": 0.51,
+        "title": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+        "volume_24h": 246813,
+        "yes_price": 0.97,
+        "category": "finance"
+      },
+      {
+        "title": "US obtains Iranian enriched uranium by May 31?",
+        "volume_24h": 208568,
+        "yes_price": 0.06,
         "category": "finance"
       }
     ],
@@ -891,16 +891,16 @@
       {
         "subreddit": "r/wallstreetbets",
         "mentions": {
-          "AAPL": 1,
-          "GOOGL": 1,
+          "GOOGL": 2,
+          "QQQ": 1,
           "NVDA": 0,
           "TSLA": 0,
+          "AAPL": 0,
           "MSFT": 0,
           "AMZN": 0,
           "META": 0,
           "AMD": 0,
-          "PLTR": 0,
-          "GME": 0
+          "PLTR": 0
         },
         "activity_score": 100,
         "top_post": "Weekly Earnings Thread 5/11 - 5/15",
