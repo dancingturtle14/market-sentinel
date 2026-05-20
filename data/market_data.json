@@ -1,122 +1,122 @@
 {
-  "updated_at": "2026-05-19T22:46:41Z",
+  "updated_at": "2026-05-20T00:13:54Z",
   "crypto": {
     "fear_greed": {
-      "value": 25,
-      "label": "Extreme Fear",
-      "previous_value": 28,
-      "previous_label": "Fear"
+      "value": 27,
+      "label": "Fear",
+      "previous_value": 25,
+      "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 76688,
-        "change_24h": -0.33,
-        "market_cap": 1536076903910,
-        "volume_24h": 28951548749
+        "price_usd": 76580,
+        "change_24h": -0.64,
+        "market_cap": 1535298527625,
+        "volume_24h": 28666202604
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2105.82,
+        "price_usd": 2105.9,
         "change_24h": -1.2,
-        "market_cap": 254092304345,
-        "volume_24h": 11150862968
+        "market_cap": 254350497649,
+        "volume_24h": 11921070446
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 638.41,
-        "change_24h": -0.85,
-        "market_cap": 86035139695,
-        "volume_24h": 585204456
+        "price_usd": 638.31,
+        "change_24h": -0.93,
+        "market_cap": 86081416344,
+        "volume_24h": 606467269
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.36,
-        "change_24h": -2.35,
-        "market_cap": 83865290924,
-        "volume_24h": 1675850409
+        "change_24h": -2.37,
+        "market_cap": 84104163057,
+        "volume_24h": 1800291135
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 84.11,
-        "change_24h": -1.43,
-        "market_cap": 48601113150,
-        "volume_24h": 1948362831
+        "price_usd": 84.12,
+        "change_24h": -1.58,
+        "market_cap": 48636725146,
+        "volume_24h": 2000770605
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.102819,
-        "change_24h": -1.89,
-        "market_cap": 15863257047,
-        "volume_24h": 582829749
+        "price_usd": 0.102665,
+        "change_24h": -2.02,
+        "market_cap": 15866575044,
+        "volume_24h": 596740558
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.24783,
-        "change_24h": -1.54,
-        "market_cap": 9171390308,
-        "volume_24h": 269119906
+        "price_usd": 0.247742,
+        "change_24h": -1.7,
+        "market_cap": 9171299785,
+        "volume_24h": 271385821
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.45,
-        "change_24h": -1.16,
-        "market_cap": 6871284240,
-        "volume_24h": 325802935
+        "price_usd": 9.42,
+        "change_24h": -2.05,
+        "market_cap": 6856504485,
+        "volume_24h": 331511878
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.08,
-        "change_24h": -1.52,
-        "market_cap": 3918932538,
-        "volume_24h": 131157395
+        "price_usd": 9.09,
+        "change_24h": -1.78,
+        "market_cap": 3926757650,
+        "volume_24h": 136492413
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 34,
-        "price_usd": 76688,
-        "change_24h": -0.33
+        "mentions": 32,
+        "price_usd": 76580,
+        "change_24h": -0.64
       },
       {
         "symbol": "SOL",
         "mentions": 15,
-        "price_usd": 84.11,
-        "change_24h": -1.43
+        "price_usd": 84.12,
+        "change_24h": -1.58
       },
       {
         "symbol": "ETH",
         "mentions": 9,
-        "price_usd": 2105.82,
+        "price_usd": 2105.9,
         "change_24h": -1.2
       },
       {
         "symbol": "XRP",
         "mentions": 3,
         "price_usd": 1.36,
-        "change_24h": -2.35
+        "change_24h": -2.37
       },
       {
         "symbol": "LINK",
         "mentions": 2,
-        "price_usd": 9.45,
-        "change_24h": -1.16
+        "price_usd": 9.42,
+        "change_24h": -2.05
       },
       {
         "symbol": "DOGE",
         "mentions": 1,
-        "price_usd": 0.102819,
-        "change_24h": -1.89
+        "price_usd": 0.102665,
+        "change_24h": -2.02
       },
       {
         "symbol": "UNI",
@@ -127,23 +127,33 @@
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 638.41,
-        "change_24h": -0.85
+        "price_usd": 638.31,
+        "change_24h": -0.93
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.24783,
-        "change_24h": -1.54
+        "price_usd": 0.247742,
+        "change_24h": -1.7
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.08,
-        "change_24h": -1.52
+        "price_usd": 9.09,
+        "change_24h": -1.78
       }
     ],
     "news": [
+      {
+        "title": "Trump orders government, Fed to review crypto firms' access to payment rails",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails",
+        "published": "Tue, 19 May 2026 22:54:08 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says",
         "source": "CoinDesk",
@@ -247,16 +257,6 @@
         "color": "yellow"
       },
       {
-        "title": "21Shares says Hyperliquid ETF demand shows appetite for 24/7 trading",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/news-analysis/2026/05/19/21shares-says-hyperliquid-etf-demand-shows-appetite-for-24-7-trading",
-        "published": "Tue, 19 May 2026 15:01:23 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Bernstein: Bitcoin miners becoming critical suppliers in AI infrastructure",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/bernstein-bitcoin-miners-gain-strategic-role-in-ai-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -319,13 +319,13 @@
     "polymarket": [
       {
         "title": "MicroStrategy sells any Bitcoin by May 31, 2026?",
-        "volume_24h": 331812,
+        "volume_24h": 332566,
         "yes_price": 0.34,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $85,000 in May?",
-        "volume_24h": 201716,
+        "volume_24h": 202594,
         "yes_price": 0.09,
         "category": "crypto"
       }
@@ -338,7 +338,7 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 9,
+          "BTC": 8,
           "ETH": 2,
           "SOL": 0,
           "BNB": 0,
@@ -350,14 +350,14 @@
           "TON": 0
         },
         "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - May 18, 2026 (GMT+0)",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1th4hhu/daily_crypto_discussion_may_18_2026_gmt0/",
+        "top_post": "Daily Crypto Discussion - May 19, 2026 (GMT+0)",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ti3e1v/daily_crypto_discussion_may_19_2026_gmt0/",
         "top_post_score": 0
       },
       {
         "subreddit": "r/Bitcoin",
         "mentions": {
-          "BTC": 20,
+          "BTC": 19,
           "ETH": 0,
           "SOL": 0,
           "BNB": 0,
@@ -441,66 +441,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 142,
+      "active_threads": 140,
       "mentions": {
         "BTC": 18,
         "XRP": 14,
-        "ETH": 3
+        "ETH": 2
       },
-      "bullish_hits": 100,
-      "bearish_hits": 45,
-      "bullish_pct": 69,
+      "bullish_hits": 99,
+      "bearish_hits": 46,
+      "bullish_pct": 68,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "ZEST",
-        "name": "Zest Protocol",
-        "rank": 859,
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 12,
         "score": 0,
-        "change_24h": 83.03
+        "change_24h": 0.31
+      },
+      {
+        "symbol": "LIT",
+        "name": "Lighter",
+        "rank": 155,
+        "score": 1,
+        "change_24h": 19.94
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
-        "rank": 98,
-        "score": 1,
-        "change_24h": 0.88
+        "rank": 97,
+        "score": 2,
+        "change_24h": 1.23
       },
       {
         "symbol": "VVV",
         "name": "Venice Token",
         "rank": 81,
-        "score": 2,
-        "change_24h": 14.47
-      },
-      {
-        "symbol": "LIT",
-        "name": "Lighter",
-        "rank": 160,
         "score": 3,
-        "change_24h": 18.65
+        "change_24h": 10.34
       },
       {
-        "symbol": "HYPE",
-        "name": "Hyperliquid",
-        "rank": 12,
+        "symbol": "ZEST",
+        "name": "Zest Protocol",
+        "rank": 860,
         "score": 4,
-        "change_24h": 1.49
+        "change_24h": 87.43
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
         "score": 5,
-        "change_24h": -0.39
+        "change_24h": -0.16
       },
       {
-        "symbol": "DRV",
-        "name": "Derive",
-        "rank": 336,
+        "symbol": "MEGA",
+        "name": "MegaETH",
+        "rank": 304,
         "score": 6,
-        "change_24h": 4.21
+        "change_24h": -5.47
       }
     ]
   },
@@ -583,7 +583,7 @@
     "top_mentioned": [
       {
         "symbol": "NVDA",
-        "mentions": 9,
+        "mentions": 7,
         "price_usd": 220.61,
         "change_24h": -0.77
       },
@@ -654,10 +654,10 @@
         "color": "yellow"
       },
       {
-        "title": "SpaceX picks Goldman Sachs to lead record-breaking IPO, sources say",
+        "title": "SpaceX picks Goldman Sachs for lead left position on record-breaking IPO, sources say",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/19/spacex-picks-goldman-sachs-to-lead-record-breaking-ipo-sources-say.html",
-        "published": "Tue, 19 May 2026 22:41:40 GMT",
+        "published": "Tue, 19 May 2026 23:20:10 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -679,7 +679,7 @@
         "title": "Senate advances measure to end military action in Iran in rebuke to Trump",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/19/senate-advances-measure-to-end-military-action-in-iran-in-rebuke-to-trump.html",
-        "published": "Tue, 19 May 2026 22:19:38 GMT",
+        "published": "Tue, 19 May 2026 22:57:28 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -696,42 +696,20 @@
         "color": "yellow"
       },
       {
-        "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis",
+        "title": "Asia stocks slide as bond selloff deepens and Iran tensions linger",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html",
-        "published": "Tue, 19 May 2026 21:14:40 GMT",
+        "url": "https://www.cnbc.com/2026/05/20/asia-pacific-markets-today-live-updates-treasury-yields-nikkei-225-kospi-hang-seng-nifty.html",
+        "published": "Wed, 20 May 2026 00:12:13 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Mortgage rates surge to highest level since July",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/19/mortgage-rates-closing-in-on-7percent.html",
-        "published": "Tue, 19 May 2026 20:06:10 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Google gives first glimpse of new AI glasses ahead of fall launch",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/19/google-gives-first-glimpse-of-new-ai-glasses-ahead-of-fall-launch-.html",
-        "published": "Tue, 19 May 2026 20:10:21 GMT",
-        "assets": [
-          "GOOGL"
-        ],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "Trump says it's not a 'war.' Insurers with money on the line say it is",
+        "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/19/trump-says-its-not-a-war-insurers-with-money-on-the-line-say-it-is.html",
-        "published": "Tue, 19 May 2026 15:51:26 GMT",
+        "url": "https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html",
+        "published": "Tue, 19 May 2026 21:14:40 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -748,6 +726,58 @@
         "color": "yellow"
       },
       {
+        "title": "2026 CNBC Disruptor 50: See the full list of companies, rankings, and a new leader in the AI race",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-rankings-full-list-companies.html",
+        "published": "Tue, 19 May 2026 10:00:01 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "New data boosts our confidence in Lilly's obesity pill. Plus, Google's new AI features",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/19/new-data-boosts-our-confidence-in-lillys-obesity-pill-plus-googles-new-ai-.html",
+        "published": "Tue, 19 May 2026 18:38:37 GMT",
+        "assets": [
+          "GOOGL"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "My late mother’s bank account is $2,000 short. Can the bank legally refuse to provide her final statement?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/my-late-mothers-bank-account-is-2-000-short-can-the-bank-legally-refuse-to-provide-her-final-statement-973ac0fe?mod=mw_rss_topstories",
+        "published": "Wed, 20 May 2026 00:04:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "I’m selling my $1 million Maui home. Will my agent charge me less than a 6% commission?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
+        "published": "Wed, 20 May 2026 00:01:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Are businesses passing on higher energy costs to their customers? Fed minutes may have the answer.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/are-businesses-passing-on-higher-energy-costs-to-their-customers-these-fed-minutes-have-the-answer-44df2ee4?mod=mw_rss_topstories",
+        "published": "Tue, 19 May 2026 23:56:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Buckle up for $120 oil changes. Why car care is about to get more expensive.",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/buckle-up-for-120-oil-changes-why-car-care-is-about-to-get-more-expensive-c542615c?mod=mw_rss_topstories",
@@ -758,7 +788,7 @@
         "color": "yellow"
       },
       {
-        "title": "These charts offer a warning to the next generation — a new era of higher Treasury yields may be coming",
+        "title": "These charts offer a warning: A new era of higher Treasury yields may be coming",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/these-charts-offer-a-warning-to-the-next-generation-a-new-era-of-higher-rates-may-be-coming-ee913d36?mod=mw_rss_topstories",
         "published": "Tue, 19 May 2026 21:46:00 GMT",
@@ -766,74 +796,42 @@
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "Here’s why Astera Labs’ stock just staged a big gain",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/heres-why-astera-labs-stock-just-staged-a-big-gain-ddb2139b?mod=mw_rss_topstories",
-        "published": "Tue, 19 May 2026 21:31:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "CoreWeave’s stock falls as new Google cloud venture may signal more competition ahead",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/coreweaves-stock-falls-as-new-google-cloud-venture-may-signal-more-competition-ahead-7bd7fb30?mod=mw_rss_topstories",
-        "published": "Tue, 19 May 2026 20:41:00 GMT",
-        "assets": [
-          "GOOGL"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Home Depot says its sales are healthy, but here’s where customers are holding back",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/home-depots-stock-rises-as-the-full-year-outlook-was-kept-intact-a-relief-for-worried-investors-75cdfb7c?mod=mw_rss_topstories",
-        "published": "Tue, 19 May 2026 20:35:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
+      "score": -0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "US x Iran permanent peace deal by May 31, 2026?",
-        "volume_24h": 1069224,
+        "volume_24h": 1121249,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Iran closes its airspace by May 21?",
-        "volume_24h": 1030141,
-        "yes_price": 0.18,
-        "category": "finance"
-      },
-      {
-        "title": "US obtains Iranian enriched uranium by May 31?",
-        "volume_24h": 607628,
-        "yes_price": 0.06,
-        "category": "finance"
-      },
-      {
-        "title": "Iran closes its airspace by May 24?",
-        "volume_24h": 483807,
-        "yes_price": 0.35,
+        "volume_24h": 1026023,
+        "yes_price": 0.15,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by May 22, 2026?",
-        "volume_24h": 460667,
-        "yes_price": 0.02,
+        "volume_24h": 627221,
+        "yes_price": 0.03,
+        "category": "finance"
+      },
+      {
+        "title": "Iran closes its airspace by May 24?",
+        "volume_24h": 609536,
+        "yes_price": 0.33,
+        "category": "finance"
+      },
+      {
+        "title": "US obtains Iranian enriched uranium by May 31?",
+        "volume_24h": 596250,
+        "yes_price": 0.06,
         "category": "finance"
       },
       {
@@ -844,26 +842,26 @@
       },
       {
         "title": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-        "volume_24h": 313683,
+        "volume_24h": 314453,
         "yes_price": 0.98,
         "category": "finance"
       },
       {
-        "title": "Kharg Island no longer under Iranian control by May 31?",
-        "volume_24h": 227272,
-        "yes_price": 0.05,
+        "title": "US x Iran diplomatic meeting by May 31, 2026?",
+        "volume_24h": 231785,
+        "yes_price": 0.14,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 1 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
     },
     "reddit": [
       {
         "subreddit": "r/wallstreetbets",
         "mentions": {
-          "NVDA": 5,
+          "NVDA": 3,
           "GOOGL": 1,
           "TSLA": 0,
           "AAPL": 0,
@@ -961,8 +959,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 2 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 0 bullish vs 3 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
