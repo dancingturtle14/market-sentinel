@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T12:02:54Z",
+  "updated_at": "2026-05-23T14:11:44Z",
   "crypto": {
     "fear_greed": {
       "value": 28,
@@ -11,94 +11,100 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 74705,
-        "change_24h": -3.38,
-        "market_cap": 1496781055813,
-        "volume_24h": 32677110700
+        "price_usd": 75136,
+        "change_24h": -2.4,
+        "market_cap": 1504494794534,
+        "volume_24h": 59362783203
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2029.2,
-        "change_24h": -4.62,
-        "market_cap": 244941700121,
-        "volume_24h": 14544505826
+        "price_usd": 2042.07,
+        "change_24h": -3.78,
+        "market_cap": 246413601644,
+        "volume_24h": 15728864442
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 639.62,
-        "change_24h": -2.65,
-        "market_cap": 86213037132,
-        "volume_24h": 823919631
+        "price_usd": 642.46,
+        "change_24h": -2.88,
+        "market_cap": 86514448587,
+        "volume_24h": 2143571324
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.32,
-        "change_24h": -2.66,
-        "market_cap": 81870770969,
-        "volume_24h": 1994229331
+        "price_usd": 1.33,
+        "change_24h": -1.87,
+        "market_cap": 82292984926,
+        "volume_24h": 3275376503
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.23,
-        "change_24h": -5.69,
-        "market_cap": 47530388989,
-        "volume_24h": 3206802443
+        "price_usd": 83.15,
+        "change_24h": -4.49,
+        "market_cap": 48086606363,
+        "volume_24h": 4273386327
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.099167,
-        "change_24h": -6.64,
-        "market_cap": 15313066353,
-        "volume_24h": 1093229451
+        "price_usd": 0.100363,
+        "change_24h": -5.26,
+        "market_cap": 15481940955,
+        "volume_24h": 2477404081
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.237955,
-        "change_24h": -5.64,
-        "market_cap": 8804864079,
-        "volume_24h": 496806548
+        "price_usd": 0.240719,
+        "change_24h": -4.23,
+        "market_cap": 8888746618,
+        "volume_24h": 1264553893
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.18,
-        "change_24h": -7.09,
-        "market_cap": 6673445943,
-        "volume_24h": 398676844
+        "price_usd": 9.25,
+        "change_24h": -6.68,
+        "market_cap": 6725371675,
+        "volume_24h": 957841421
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.89,
-        "change_24h": -6.56,
-        "market_cap": 3839543824,
-        "volume_24h": 234822556
+        "price_usd": 9.02,
+        "change_24h": -5.05,
+        "market_cap": 3889639025,
+        "volume_24h": 954451936
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 31,
-        "price_usd": 74705,
-        "change_24h": -3.38
+        "mentions": 30,
+        "price_usd": 75136,
+        "change_24h": -2.4
       },
       {
         "symbol": "SOL",
-        "mentions": 17,
-        "price_usd": 82.23,
-        "change_24h": -5.69
+        "mentions": 16,
+        "price_usd": 83.15,
+        "change_24h": -4.49
       },
       {
         "symbol": "ETH",
-        "mentions": 4,
-        "price_usd": 2029.2,
-        "change_24h": -4.62
+        "mentions": 6,
+        "price_usd": 2042.07,
+        "change_24h": -3.78
+      },
+      {
+        "symbol": "XRP",
+        "mentions": 3,
+        "price_usd": 1.33,
+        "change_24h": -1.87
       },
       {
         "symbol": "UNI",
@@ -107,43 +113,47 @@
         "change_24h": null
       },
       {
-        "symbol": "AVAX",
-        "mentions": 2,
-        "price_usd": 8.89,
-        "change_24h": -6.56
+        "symbol": "ADA",
+        "mentions": 1,
+        "price_usd": 0.240719,
+        "change_24h": -4.23
       },
       {
         "symbol": "BNB",
-        "mentions": 1,
-        "price_usd": 639.62,
-        "change_24h": -2.65
-      },
-      {
-        "symbol": "XRP",
-        "mentions": 1,
-        "price_usd": 1.32,
-        "change_24h": -2.66
-      },
-      {
-        "symbol": "ADA",
-        "mentions": 1,
-        "price_usd": 0.237955,
-        "change_24h": -5.64
+        "mentions": 0,
+        "price_usd": 642.46,
+        "change_24h": -2.88
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.099167,
-        "change_24h": -6.64
+        "price_usd": 0.100363,
+        "change_24h": -5.26
+      },
+      {
+        "symbol": "AVAX",
+        "mentions": 0,
+        "price_usd": 9.02,
+        "change_24h": -5.05
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 9.18,
-        "change_24h": -7.09
+        "price_usd": 9.25,
+        "change_24h": -6.68
       }
     ],
     "news": [
+      {
+        "title": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
+        "published": "Sat, 23 May 2026 13:00:00 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
       {
         "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
         "source": "CoinDesk",
@@ -152,9 +162,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
@@ -164,9 +174,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
@@ -175,7 +185,7 @@
         "published": "Fri, 22 May 2026 19:40:15 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -184,9 +194,9 @@
         "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
         "published": "Fri, 22 May 2026 18:20:32 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Why Minnesota is empowering local banks to fight Wall Street for crypto revenue",
@@ -194,9 +204,9 @@
         "url": "https://www.coindesk.com/business/2026/05/22/why-minnesota-is-empowering-local-banks-to-fight-wall-street-for-crypto-revenue",
         "published": "Fri, 22 May 2026 17:53:41 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Tom Emmer brushes off law enforcement concerns over Clarity Act",
@@ -204,9 +214,9 @@
         "url": "https://www.coindesk.com/policy/2026/05/22/tom-emmer-brushes-off-law-enforcement-concerns-over-clarity-act",
         "published": "Fri, 22 May 2026 16:30:55 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
@@ -214,9 +224,9 @@
         "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
         "published": "Fri, 22 May 2026 15:27:40 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "The agentic CFO in your pocket",
@@ -241,10 +251,22 @@
         "color": "yellow"
       },
       {
-        "title": "IREN co-founder says AI’s biggest bottleneck is infrastructure, not chips",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips",
-        "published": "Fri, 22 May 2026 13:20:22 +0000",
+        "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 23 May 2026 14:03:36 +0000",
+        "assets": [
+          "LINK"
+        ],
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 23 May 2026 14:02:22 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -257,7 +279,7 @@
         "published": "Sat, 23 May 2026 10:56:00 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -268,9 +290,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment",
@@ -281,78 +303,54 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 23 May 2026 04:24:09 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Ethereum is still a good long-term buy, according data: Analyst",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 23 May 2026 00:29:18 +0000",
-        "assets": [
-          "ETH"
-        ],
-        "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.5,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": -0.2,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin dip to $65,000 in May?",
-        "volume_24h": 430001,
-        "yes_price": 0.05,
+        "volume_24h": 472770,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Bitcoin be above $74,000 on May 23?",
-        "volume_24h": 370947,
-        "yes_price": 0.94,
+        "title": "Will Bitcoin reach $85,000 in May?",
+        "volume_24h": 385328,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $70,000 in May?",
-        "volume_24h": 301072,
-        "yes_price": 0.26,
+        "volume_24h": 372963,
+        "yes_price": 0.18,
         "category": "crypto"
       },
       {
-        "title": "MicroStrategy sells any Bitcoin by May 31, 2026?",
-        "volume_24h": 294527,
-        "yes_price": 0.12,
+        "title": "Will the price of Bitcoin be above $76,000 on May 23?",
+        "volume_24h": 313634,
+        "yes_price": 0.02,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across crypto prediction markets data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 9,
-          "ETH": 1,
+          "ETH": 2,
           "SOL": 1,
-          "BNB": 1,
-          "XRP": 0,
+          "XRP": 1,
+          "BNB": 0,
           "ADA": 0,
           "DOGE": 0,
           "AVAX": 0,
@@ -405,7 +403,7 @@
       {
         "subreddit": "r/solana",
         "mentions": {
-          "SOL": 15,
+          "SOL": 14,
           "UNI": 2,
           "ADA": 1,
           "BTC": 0,
@@ -424,20 +422,20 @@
       {
         "subreddit": "r/CryptoMarkets",
         "mentions": {
-          "BTC": 3,
-          "AVAX": 2,
+          "BTC": 2,
+          "XRP": 2,
+          "ETH": 1,
           "SOL": 1,
-          "XRP": 1,
-          "ETH": 0,
           "BNB": 0,
           "ADA": 0,
           "DOGE": 0,
+          "AVAX": 0,
           "LINK": 0,
           "TON": 0
         },
         "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - May 22, 2026",
-        "top_post_url": "https://www.reddit.com/r/CryptoMarkets/comments/1tkibmn/daily_crypto_discussion_may_22_2026/",
+        "top_post": "Daily Crypto Discussion - May 23, 2026",
+        "top_post_url": "https://www.reddit.com/r/CryptoMarkets/comments/1tlfvuw/daily_crypto_discussion_may_23_2026/",
         "top_post_score": 0
       }
     ],
@@ -447,70 +445,70 @@
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 3 bearish signals detected across crypto news data."
+      "summary": "Bearish: 1 bullish vs 3 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 145,
+      "active_threads": 146,
       "mentions": {
-        "BTC": 30,
-        "XRP": 14,
-        "ETH": 8
+        "BTC": 29,
+        "ETH": 8,
+        "XRP": 8
       },
-      "bullish_hits": 103,
-      "bearish_hits": 59,
+      "bullish_hits": 102,
+      "bearish_hits": 57,
       "bullish_pct": 64,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
+        "symbol": "ERG",
+        "name": "Ergo",
+        "rank": 821,
+        "score": 0,
+        "change_24h": -2.07
+      },
+      {
         "symbol": "UDS",
         "name": "Undeads Games",
-        "rank": 195,
-        "score": 0,
-        "change_24h": -0.13
+        "rank": 196,
+        "score": 1,
+        "change_24h": -0.2
       },
       {
         "symbol": "HYPE",
         "name": "Hyperliquid",
         "rank": 11,
-        "score": 1,
-        "change_24h": -8.68
-      },
-      {
-        "symbol": "NEAR",
-        "name": "NEAR Protocol",
-        "rank": 37,
         "score": 2,
-        "change_24h": -7.52
+        "change_24h": -10.31
       },
       {
-        "symbol": "SOL",
-        "name": "Solana",
-        "rank": 7,
+        "symbol": "VVV",
+        "name": "Venice Token",
+        "rank": 79,
         "score": 3,
-        "change_24h": -5.62
+        "change_24h": -8.92
       },
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 98,
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "rank": 13,
         "score": 4,
-        "change_24h": -10.08
+        "change_24h": -8.2
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
         "score": 5,
-        "change_24h": -3.37
+        "change_24h": -2.5
       },
       {
-        "symbol": "NEX",
-        "name": "Nexus",
-        "rank": 165,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 99,
         "score": 6,
-        "change_24h": -3.72
+        "change_24h": -9.41
       }
     ]
   },
@@ -593,7 +591,7 @@
     "top_mentioned": [
       {
         "symbol": "NVDA",
-        "mentions": 11,
+        "mentions": 10,
         "price_usd": 215.33,
         "change_24h": -1.9
       },
@@ -654,14 +652,24 @@
     ],
     "news": [
       {
-        "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
+        "title": "Spirit's collapse, high fuel prices test limits of summer vacation spending",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
-        "published": "Fri, 22 May 2026 18:23:49 GMT",
+        "url": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html",
+        "published": "Sat, 23 May 2026 14:01:03 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html",
+        "published": "Sat, 23 May 2026 12:32:36 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "SpaceX launches Starship test flight on second try",
@@ -674,10 +682,10 @@
         "color": "yellow"
       },
       {
-        "title": "Tulsi Gabbard resigning as Trump's intelligence chief",
+        "title": "Lingering mysteries from Berkshire's portfolio update",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html",
-        "published": "Fri, 22 May 2026 22:05:04 GMT",
+        "url": "https://www.cnbc.com/2026/05/23/lingering-mysteries-from-berkshires-portfolio-update.html",
+        "published": "Sat, 23 May 2026 12:59:47 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -694,44 +702,14 @@
         "color": "yellow"
       },
       {
-        "title": "New lawsuits against Trump's DOJ 'lawfare' fund",
+        "title": "‘Blue dot fever’? What's really behind a tricky summer dynamic for live music",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
-        "published": "Fri, 22 May 2026 21:02:52 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Trump skipping wedding of son Donald Jr. to Bettina Anderson",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/trump-wedding-donald-bettina-anderson-bahamas.html",
-        "published": "Fri, 22 May 2026 21:04:00 GMT",
+        "url": "https://www.cnbc.com/2026/05/23/concert-ticket-prices-live-music-demand.html",
+        "published": "Sat, 23 May 2026 12:00:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html",
-        "published": "Fri, 22 May 2026 20:52:39 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Wall Street thinks IMAX is ripe for a sale. Here's who could buy it",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/imax-sale-talks-potential-buyers-wall-street-analysts.html",
-        "published": "Fri, 22 May 2026 16:26:26 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
       },
       {
         "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
@@ -744,62 +722,80 @@
         "color": "yellow"
       },
       {
-        "title": "Donald Trump Jr.-backed 'Steroid Olympics' are happening on Sunday. Here's what to expect",
+        "title": "Millennials spend $252 on an average date, BMO finds — and social media is spiraling over 'date-flation'",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/enhanced-games-performance-enhancing-drugs.html",
-        "published": "Fri, 22 May 2026 11:51:23 GMT",
+        "url": "https://www.cnbc.com/2026/05/23/date-flation-average-millennial-date-costs-252.html",
+        "published": "Sat, 23 May 2026 13:30:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Nvidia poured $18.6 billion into venture-capital investments in just three months. Where does the cash trail lead?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories",
-        "published": "Fri, 22 May 2026 23:55:00 GMT",
-        "assets": [
-          "NVDA"
-        ],
+        "title": "New lawsuits against Trump's DOJ 'lawfare' fund",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
+        "published": "Fri, 22 May 2026 21:02:52 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Tulsi Gabbard resigning as Trump's intelligence chief",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html",
+        "published": "Fri, 22 May 2026 22:05:04 GMT",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Consumer sentiment sinks to an all-time low. Is this about Democrats’ distaste for Trump?",
+        "title": "The bond market just flipped the script on investors — Wall Street is acting like nothing’s wrong",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/consumer-sentiment-sinks-to-an-all-time-low-is-it-just-because-of-democrats-anger-at-trump-91efde1d?mod=mw_rss_topstories",
-        "published": "Fri, 22 May 2026 23:43:00 GMT",
+        "url": "https://www.marketwatch.com/story/the-bond-market-just-flipped-the-script-on-investors-wall-street-is-acting-like-nothings-wrong-f321cc5b?mod=mw_rss_topstories",
+        "published": "Sat, 23 May 2026 14:01:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Annuity payouts are the highest they’ve been in years. Thanks, inflation.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/annuity-payouts-are-the-highest-theyve-been-in-years-thanks-inflation-d4d3f565?mod=mw_rss_topstories",
+        "published": "Sat, 23 May 2026 13:49:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "This 2008 ‘train wreck’ oil scenario could unfold if Hormuz isn’t opened by end of August",
+        "title": "These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
-        "published": "Fri, 22 May 2026 23:15:00 GMT",
+        "url": "https://www.marketwatch.com/story/these-cybersecurity-stocks-are-poised-for-rapid-growth-through-2028-and-some-of-them-are-cheap-right-now-cf924a36?mod=mw_rss_topstories",
+        "published": "Sat, 23 May 2026 13:00:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Kevin Warsh’s Fed isn’t cutting interest rates any time soon. But a hike isn’t yet on the table, either.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/kevin-warshs-fed-isnt-cutting-interest-rates-any-time-soon-but-a-hike-isnt-yet-on-the-table-either-aee28c06?mod=mw_rss_topstories",
+        "published": "Sat, 23 May 2026 13:00:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "I’m selling my $1 million home. Will my agent really charge less than a 6% commission?",
+        "title": "Stocks tend to sink during the summer before midterm elections. Will history repeat itself?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
-        "published": "Fri, 22 May 2026 21:45:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Worried about private credit? Stay away from this even riskier investment right now.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/worried-about-private-credit-stay-away-from-this-even-riskier-investment-right-now-bfb79b43?mod=mw_rss_topstories",
-        "published": "Fri, 22 May 2026 20:56:00 GMT",
+        "url": "https://www.marketwatch.com/story/stocks-tend-to-sink-during-the-summer-before-midterm-elections-will-history-repeat-itself-74e5dcc7?mod=mw_rss_topstories",
+        "published": "Sat, 23 May 2026 13:00:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
@@ -807,63 +803,63 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
+      "score": -0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Iran closes its airspace by May 24?",
-        "volume_24h": 4722859,
-        "yes_price": 0.31,
+        "volume_24h": 5073807,
+        "yes_price": 0.24,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by May 31, 2026?",
-        "volume_24h": 4504409,
-        "yes_price": 0.14,
+        "volume_24h": 4499695,
+        "yes_price": 0.23,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by May 26, 2026?",
-        "volume_24h": 1364986,
-        "yes_price": 0.07,
+        "volume_24h": 1542017,
+        "yes_price": 0.15,
         "category": "finance"
       },
       {
         "title": "Will the Iran ceasefire continue through May 24?",
-        "volume_24h": 1166186,
-        "yes_price": 0.76,
+        "volume_24h": 1204583,
+        "yes_price": 0.79,
         "category": "finance"
       },
       {
         "title": "Iran closes its airspace by May 31?",
-        "volume_24h": 1042204,
-        "yes_price": 0.5,
+        "volume_24h": 1046720,
+        "yes_price": 0.49,
         "category": "finance"
       },
       {
         "title": "Iran closes its airspace by May 27?",
-        "volume_24h": 727007,
-        "yes_price": 0.4,
+        "volume_24h": 755183,
+        "yes_price": 0.37,
         "category": "finance"
       },
       {
         "title": "US obtains Iranian enriched uranium by May 31?",
-        "volume_24h": 714659,
-        "yes_price": 0.04,
+        "volume_24h": 663265,
+        "yes_price": 0.03,
         "category": "finance"
       },
       {
-        "title": "Will the Iranian regime fall by June 30?",
-        "volume_24h": 661720,
-        "yes_price": 0.04,
+        "title": "Will the Iran ceasefire continue through May 23?",
+        "volume_24h": 645555,
+        "yes_price": 0.93,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across finance prediction markets data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
     },
     "reddit": [
       {
@@ -945,7 +941,7 @@
       {
         "subreddit": "r/options",
         "mentions": {
-          "NVDA": 2,
+          "NVDA": 1,
           "TSLA": 1,
           "AAPL": 1,
           "QQQ": 1,
@@ -967,8 +963,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 3 bullish vs 0 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 0 bullish vs 3 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
