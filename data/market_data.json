@@ -1,104 +1,104 @@
 {
-  "updated_at": "2026-05-29T22:53:35Z",
+  "updated_at": "2026-05-30T00:14:36Z",
   "crypto": {
     "fear_greed": {
       "value": 23,
       "label": "Extreme Fear",
-      "previous_value": 22,
+      "previous_value": 23,
       "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 73337,
-        "change_24h": -0.11,
-        "market_cap": 1470515928359,
-        "volume_24h": 36092100959
+        "price_usd": 73416,
+        "change_24h": -0.29,
+        "market_cap": 1470285947490,
+        "volume_24h": 35478698856
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2009.37,
-        "change_24h": 0.21,
-        "market_cap": 242724489013,
-        "volume_24h": 14140631618
+        "price_usd": 2012.58,
+        "change_24h": 0.02,
+        "market_cap": 242802235968,
+        "volume_24h": 14156160983
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 641.65,
-        "change_24h": 0.51,
-        "market_cap": 86532695963,
-        "volume_24h": 698420590
+        "price_usd": 643.44,
+        "change_24h": 0.83,
+        "market_cap": 86648504588,
+        "volume_24h": 698234656
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.32,
-        "change_24h": 0.43,
-        "market_cap": 81730888263,
-        "volume_24h": 1936955052
+        "price_usd": 1.33,
+        "change_24h": 0.8,
+        "market_cap": 82252755108,
+        "volume_24h": 1964339449
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 81.77,
-        "change_24h": -0.19,
-        "market_cap": 47326419506,
-        "volume_24h": 2395546018
+        "price_usd": 82.01,
+        "change_24h": -0.13,
+        "market_cap": 47384469968,
+        "volume_24h": 2418080496
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.099596,
-        "change_24h": 0.29,
-        "market_cap": 15397265120,
-        "volume_24h": 645799481
+        "price_usd": 0.099559,
+        "change_24h": -0.09,
+        "market_cap": 15362629555,
+        "volume_24h": 649291838
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.232801,
-        "change_24h": -0.53,
-        "market_cap": 8652193931,
-        "volume_24h": 313309436
+        "price_usd": 0.232979,
+        "change_24h": -0.75,
+        "market_cap": 8640415803,
+        "volume_24h": 323773025
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.97,
-        "change_24h": -0.08,
-        "market_cap": 6526711994,
-        "volume_24h": 245861755
+        "price_usd": 9.03,
+        "change_24h": 0.06,
+        "market_cap": 6552467604,
+        "volume_24h": 252234735
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.81,
-        "change_24h": -1.06,
-        "market_cap": 3802679254,
-        "volume_24h": 158166328
+        "price_usd": 8.82,
+        "change_24h": -1.2,
+        "market_cap": 3802338651,
+        "volume_24h": 162802929
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 26,
-        "price_usd": 73337,
-        "change_24h": -0.11
+        "mentions": 25,
+        "price_usd": 73416,
+        "change_24h": -0.29
       },
       {
         "symbol": "ETH",
         "mentions": 16,
-        "price_usd": 2009.37,
-        "change_24h": 0.21
+        "price_usd": 2012.58,
+        "change_24h": 0.02
       },
       {
         "symbol": "SOL",
         "mentions": 16,
-        "price_usd": 81.77,
-        "change_24h": -0.19
+        "price_usd": 82.01,
+        "change_24h": -0.13
       },
       {
         "symbol": "DOT",
@@ -109,38 +109,38 @@
       {
         "symbol": "XRP",
         "mentions": 1,
-        "price_usd": 1.32,
-        "change_24h": 0.43
+        "price_usd": 1.33,
+        "change_24h": 0.8
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 641.65,
-        "change_24h": 0.51
+        "price_usd": 643.44,
+        "change_24h": 0.83
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.232801,
-        "change_24h": -0.53
+        "price_usd": 0.232979,
+        "change_24h": -0.75
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.099596,
-        "change_24h": 0.29
+        "price_usd": 0.099559,
+        "change_24h": -0.09
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 8.81,
-        "change_24h": -1.06
+        "price_usd": 8.82,
+        "change_24h": -1.2
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 8.97,
-        "change_24h": -0.08
+        "price_usd": 9.03,
+        "change_24h": 0.06
       }
     ],
     "news": [
@@ -247,6 +247,28 @@
         "color": "yellow"
       },
       {
+        "title": "Bitcoin dip buyers place $500M in bids as $70K retest looms",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-place-350m-in-bids-as-70k-retest-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 29 May 2026 22:45:33 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/cftc-reverse-settlement-gemini-unusual-former-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 29 May 2026 22:28:10 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "CFTC backs crypto perpetual contracts, issues advisory on 24/7 trading",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/cftc-crypto-perpetual-contracts-trading-advisory?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -275,58 +297,30 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-plums-new-six-week-lows-as-analyst-eyes-btc-price-dip-end-at-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 29 May 2026 17:03:12 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Ex-Celsius CEO files motion to vacate sentence after lawyers withdraw",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/celsius-alex-mashinsky-motion-vacate-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 29 May 2026 16:58:50 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.133,
+      "score": -0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "MicroStrategy sells any Bitcoin by May 31, 2026?",
-        "volume_24h": 803054,
-        "yes_price": 0.29,
+        "volume_24h": 999446,
+        "yes_price": 0.26,
         "category": "crypto"
       },
       {
         "title": "MicroStrategy sells any Bitcoin by June 30, 2026?",
-        "volume_24h": 386749,
-        "yes_price": 0.72,
+        "volume_24h": 414805,
+        "yes_price": 0.67,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $70,000 in May?",
-        "volume_24h": 242108,
-        "yes_price": 0.04,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $72,500 in May?",
-        "volume_24h": 237159,
-        "yes_price": 0.4,
+        "volume_24h": 259327,
+        "yes_price": 0.05,
         "category": "crypto"
       }
     ],
@@ -350,8 +344,8 @@
           "LINK": 0
         },
         "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - May 28, 2026 (GMT+0)",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1tqjhve/daily_crypto_discussion_may_28_2026_gmt0/",
+        "top_post": "Daily Crypto Discussion - May 29, 2026 (GMT+0)",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1trikw9/daily_crypto_discussion_may_29_2026_gmt0/",
         "top_post_score": 0
       },
       {
@@ -414,7 +408,7 @@
       {
         "subreddit": "r/CryptoMarkets",
         "mentions": {
-          "BTC": 5,
+          "BTC": 4,
           "ETH": 2,
           "SOL": 1,
           "XRP": 1,
@@ -437,19 +431,19 @@
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Bitcoin's two-month winning streak is at risk, with Bittensor (TAO) dropping 4%, and the Clarity Act potentially risking regulation without oversight, according to a Brookings Fellow."
+      "summary": "Bearish: 0 bullish vs 4 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 134,
+      "active_threads": 137,
       "mentions": {
         "BTC": 26,
         "ETH": 8,
         "XRP": 7
       },
-      "bullish_hits": 99,
-      "bearish_hits": 64,
-      "bullish_pct": 61,
+      "bullish_hits": 98,
+      "bearish_hits": 66,
+      "bullish_pct": 60,
       "top_coin": "BTC"
     },
     "cg_trending": [
@@ -458,49 +452,49 @@
         "name": "Bonk",
         "rank": 109,
         "score": 0,
-        "change_24h": -0.25
-      },
-      {
-        "symbol": "HYPE",
-        "name": "Hyperliquid",
-        "rank": 11,
-        "score": 1,
-        "change_24h": 5.63
+        "change_24h": -0.21
       },
       {
         "symbol": "APT",
         "name": "Aptos",
         "rank": 82,
-        "score": 2,
-        "change_24h": 0.19
+        "score": 1,
+        "change_24h": -0.54
       },
       {
         "symbol": "XLM",
         "name": "Stellar",
-        "rank": 17,
+        "rank": 16,
+        "score": 2,
+        "change_24h": 26.07
+      },
+      {
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 11,
         "score": 3,
-        "change_24h": 20.16
+        "change_24h": 4.48
+      },
+      {
+        "symbol": "LAB",
+        "name": "LAB",
+        "rank": 108,
+        "score": 4,
+        "change_24h": 47.21
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 106,
-        "score": 4,
-        "change_24h": 2.33
-      },
-      {
-        "symbol": "NEAR",
-        "name": "NEAR Protocol",
-        "rank": 33,
         "score": 5,
-        "change_24h": -2.09
+        "change_24h": 2.23
       },
       {
-        "symbol": "ALLO",
-        "name": "Allora",
-        "rank": 441,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 6,
-        "change_24h": 58.18
+        "change_24h": -0.24
       }
     ]
   },
@@ -582,16 +576,22 @@
     ],
     "top_mentioned": [
       {
-        "symbol": "QQQ",
+        "symbol": "NVDA",
+        "mentions": 3,
+        "price_usd": 211.14,
+        "change_24h": -1.45
+      },
+      {
+        "symbol": "SPY",
         "mentions": 3,
         "price_usd": null,
         "change_24h": null
       },
       {
-        "symbol": "NVDA",
-        "mentions": 2,
-        "price_usd": 211.14,
-        "change_24h": -1.45
+        "symbol": "QQQ",
+        "mentions": 3,
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "MSFT",
@@ -606,22 +606,10 @@
         "change_24h": -1.43
       },
       {
-        "symbol": "SPY",
-        "mentions": 2,
-        "price_usd": null,
-        "change_24h": null
-      },
-      {
         "symbol": "GOOGL",
         "mentions": 1,
         "price_usd": 380.34,
         "change_24h": -2.51
-      },
-      {
-        "symbol": "AMZN",
-        "mentions": 1,
-        "price_usd": 270.64,
-        "change_24h": -1.23
       },
       {
         "symbol": "AMD",
@@ -634,6 +622,12 @@
         "mentions": 0,
         "price_usd": 312.06,
         "change_24h": -0.14
+      },
+      {
+        "symbol": "AMZN",
+        "mentions": 0,
+        "price_usd": 270.64,
+        "change_24h": -1.23
       },
       {
         "symbol": "META",
@@ -704,10 +698,10 @@
         "color": "yellow"
       },
       {
-        "title": "Trump can't rename Kennedy Center or close it for renovation for now, judge says",
+        "title": "Trump's name must be removed from Kennedy Center, judge rules",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/29/trump-kennedy-center-judge-beatty.html",
-        "published": "Fri, 29 May 2026 21:29:19 GMT",
+        "published": "Sat, 30 May 2026 00:13:16 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -802,50 +796,50 @@
     "polymarket": [
       {
         "title": "US x Iran permanent peace deal by May 31, 2026?",
-        "volume_24h": 8833898,
-        "yes_price": 0.07,
+        "volume_24h": 9167472,
+        "yes_price": 0.06,
         "category": "finance"
       },
       {
         "title": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?",
-        "volume_24h": 2194423,
-        "yes_price": 0.28,
-        "category": "finance"
-      },
-      {
-        "title": "US announces new Iran agreement/ceasefire extension by May 31?",
-        "volume_24h": 1351270,
-        "yes_price": 0.26,
+        "volume_24h": 2250054,
+        "yes_price": 0.27,
         "category": "finance"
       },
       {
         "title": "US announces new Iran agreement/ceasefire extension by May 29?",
-        "volume_24h": 1216382,
-        "yes_price": 0.04,
+        "volume_24h": 1360609,
+        "yes_price": 0.03,
+        "category": "finance"
+      },
+      {
+        "title": "US announces new Iran agreement/ceasefire extension by May 31?",
+        "volume_24h": 1333172,
+        "yes_price": 0.23,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by June 7, 2026?",
-        "volume_24h": 916287,
+        "volume_24h": 876775,
         "yes_price": 0.18,
         "category": "finance"
       },
       {
         "title": "US-Iran nuclear deal by May 31?",
-        "volume_24h": 861390,
-        "yes_price": 0.08,
+        "volume_24h": 866229,
+        "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by June 30, 2026?",
-        "volume_24h": 597666,
-        "yes_price": 0.36,
+        "volume_24h": 576607,
+        "yes_price": 0.35,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by June 15, 2026?",
-        "volume_24h": 528466,
-        "yes_price": 0.27,
+        "volume_24h": 544328,
+        "yes_price": 0.24,
         "category": "finance"
       }
     ],
@@ -857,8 +851,8 @@
       {
         "subreddit": "r/wallstreetbets",
         "mentions": {
-          "NVDA": 1,
           "MSFT": 1,
+          "NVDA": 0,
           "TSLA": 0,
           "AAPL": 0,
           "GOOGL": 0,
@@ -876,10 +870,10 @@
       {
         "subreddit": "r/stocks",
         "mentions": {
-          "NVDA": 1,
+          "NVDA": 2,
+          "SPY": 2,
           "GOOGL": 1,
           "AMD": 1,
-          "SPY": 1,
           "TSLA": 0,
           "AAPL": 0,
           "MSFT": 0,
@@ -895,13 +889,13 @@
       {
         "subreddit": "r/investing",
         "mentions": {
-          "AMZN": 1,
+          "NVDA": 1,
           "QQQ": 1,
-          "NVDA": 0,
           "TSLA": 0,
           "AAPL": 0,
           "MSFT": 0,
           "GOOGL": 0,
+          "AMZN": 0,
           "META": 0,
           "AMD": 0,
           "PLTR": 0
