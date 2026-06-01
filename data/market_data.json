@@ -1,110 +1,104 @@
 {
-  "updated_at": "2026-05-31T23:09:19Z",
+  "updated_at": "2026-06-01T01:41:37Z",
   "crypto": {
     "fear_greed": {
-      "value": 28,
+      "value": 29,
       "label": "Fear",
-      "previous_value": 23,
-      "previous_label": "Extreme Fear"
+      "previous_value": 28,
+      "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 73920,
-        "change_24h": 0.09,
-        "market_cap": 1481419257238,
-        "volume_24h": 16916612364
+        "price_usd": 73507,
+        "change_24h": -0.65,
+        "market_cap": 1473150112218,
+        "volume_24h": 16832392248
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2014.84,
-        "change_24h": -0.36,
-        "market_cap": 243207731629,
-        "volume_24h": 8202331806
+        "price_usd": 2001.93,
+        "change_24h": -1.22,
+        "market_cap": 241684058920,
+        "volume_24h": 9228794036
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 709.48,
-        "change_24h": -1.2,
-        "market_cap": 95658429346,
-        "volume_24h": 2430828050
+        "price_usd": 705.56,
+        "change_24h": -2.62,
+        "market_cap": 95021971400,
+        "volume_24h": 2399871308
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.34,
-        "change_24h": -0.28,
-        "market_cap": 82856039191,
-        "volume_24h": 1165764426
+        "price_usd": 1.33,
+        "change_24h": -1.06,
+        "market_cap": 82267164870,
+        "volume_24h": 1157760853
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 82.62,
-        "change_24h": 0.01,
-        "market_cap": 47820010081,
-        "volume_24h": 1335528673
+        "price_usd": 82.19,
+        "change_24h": -1.0,
+        "market_cap": 47542018785,
+        "volume_24h": 1435054563
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.100526,
-        "change_24h": -0.09,
-        "market_cap": 15527503134,
-        "volume_24h": 502383789
+        "price_usd": 0.100382,
+        "change_24h": -0.57,
+        "market_cap": 15510546309,
+        "volume_24h": 524124014
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.23588,
-        "change_24h": -0.02,
-        "market_cap": 8760675225,
-        "volume_24h": 270653814
+        "price_usd": 0.234612,
+        "change_24h": -0.97,
+        "market_cap": 8716070564,
+        "volume_24h": 308866044
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.17,
-        "change_24h": -0.2,
-        "market_cap": 6667142142,
-        "volume_24h": 192227360
+        "price_usd": 9.11,
+        "change_24h": -1.55,
+        "market_cap": 6622883214,
+        "volume_24h": 196740441
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.98,
-        "change_24h": 0.49,
-        "market_cap": 3877038196,
-        "volume_24h": 152084866
+        "price_usd": 8.95,
+        "change_24h": -0.31,
+        "market_cap": 3865880689,
+        "volume_24h": 155021771
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 25,
-        "price_usd": 73920,
-        "change_24h": 0.09
+        "price_usd": 73507,
+        "change_24h": -0.65
       },
       {
         "symbol": "SOL",
-        "mentions": 20,
-        "price_usd": 82.62,
-        "change_24h": 0.01
+        "mentions": 19,
+        "price_usd": 82.19,
+        "change_24h": -1.0
       },
       {
         "symbol": "ETH",
         "mentions": 7,
-        "price_usd": 2014.84,
-        "change_24h": -0.36
-      },
-      {
-        "symbol": "ADA",
-        "mentions": 1,
-        "price_usd": 0.23588,
-        "change_24h": -0.02
+        "price_usd": 2001.93,
+        "change_24h": -1.22
       },
       {
         "symbol": "ATOM",
@@ -121,29 +115,45 @@
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 709.48,
-        "change_24h": -1.2
+        "price_usd": 705.56,
+        "change_24h": -2.62
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.34,
-        "change_24h": -0.28
+        "price_usd": 1.33,
+        "change_24h": -1.06
+      },
+      {
+        "symbol": "ADA",
+        "mentions": 0,
+        "price_usd": 0.234612,
+        "change_24h": -0.97
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.100526,
-        "change_24h": -0.09
+        "price_usd": 0.100382,
+        "change_24h": -0.57
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 8.98,
-        "change_24h": 0.49
+        "price_usd": 8.95,
+        "change_24h": -0.31
       }
     ],
     "news": [
+      {
+        "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
+        "published": "Sun, 31 May 2026 23:30:00 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
       {
         "title": "A massive $1.26 billion sale of BlackRock’s IBIT was likely a rapid exit by a large investor",
         "source": "CoinDesk",
@@ -151,7 +161,7 @@
         "published": "Sun, 31 May 2026 19:41:51 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -1.0,
         "color": "red"
       },
       {
@@ -161,7 +171,7 @@
         "published": "Sun, 31 May 2026 18:30:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.0,
         "color": "yellow"
       },
       {
@@ -171,7 +181,7 @@
         "published": "Sun, 31 May 2026 17:00:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -181,7 +191,7 @@
         "published": "Sun, 31 May 2026 15:00:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -193,7 +203,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -205,7 +215,7 @@
           "XRP"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -215,7 +225,7 @@
         "published": "Sat, 30 May 2026 17:27:34 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -1.0,
         "color": "red"
       },
       {
@@ -225,7 +235,7 @@
         "published": "Sat, 30 May 2026 15:50:37 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.7,
+        "score": -1.0,
         "color": "red"
       },
       {
@@ -235,18 +245,8 @@
         "published": "Sat, 30 May 2026 15:00:00 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.6,
+        "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "When the market is bad, we build: Inside Binance’s bold 2030 master plan",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/05/26/when-the-market-is-bad-we-build-inside-binance-s-bold-2030-master-plan",
-        "published": "Sat, 30 May 2026 13:00:00 +0000",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.9,
-        "color": "green"
       },
       {
         "title": "US, UK central bankers offer contrary views on stablecoins",
@@ -267,7 +267,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -277,7 +277,7 @@
         "published": "Sun, 31 May 2026 17:40:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.4,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -288,9 +288,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -304,21 +304,21 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.127,
+      "score": 0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "MicroStrategy sells any Bitcoin by June 30, 2026?",
-        "volume_24h": 825467,
-        "yes_price": 0.73,
+        "volume_24h": 895096,
+        "yes_price": 0.76,
         "category": "crypto"
       },
       {
         "title": "MicroStrategy sells any Bitcoin by May 31, 2026?",
-        "volume_24h": 604808,
-        "yes_price": 0.17,
+        "volume_24h": 633246,
+        "yes_price": 0.12,
         "category": "crypto"
       }
     ],
@@ -331,12 +331,12 @@
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 2,
-          "ADA": 1,
+          "SOL": 1,
           "ATOM": 1,
           "ETH": 0,
-          "SOL": 0,
           "BNB": 0,
           "XRP": 0,
+          "ADA": 0,
           "DOGE": 0,
           "AVAX": 0,
           "LINK": 0
@@ -387,7 +387,7 @@
       {
         "subreddit": "r/solana",
         "mentions": {
-          "SOL": 19,
+          "SOL": 17,
           "BTC": 1,
           "MATIC": 1,
           "ETH": 0,
@@ -433,14 +433,14 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 143,
+      "active_threads": 149,
       "mentions": {
-        "BTC": 32,
+        "BTC": 33,
         "XRP": 8,
-        "ETH": 5
+        "ETH": 6
       },
-      "bullish_hits": 80,
-      "bearish_hits": 65,
+      "bullish_hits": 83,
+      "bearish_hits": 67,
       "bullish_pct": 55,
       "top_coin": "BTC"
     },
@@ -450,49 +450,49 @@
         "name": "Bonk",
         "rank": 110,
         "score": 0,
-        "change_24h": 2.08
-      },
-      {
-        "symbol": "OP",
-        "name": "Optimism",
-        "rank": 162,
-        "score": 1,
-        "change_24h": -1.35
+        "change_24h": 0.97
       },
       {
         "symbol": "KITE",
         "name": "Kite",
-        "rank": 116,
+        "rank": 111,
+        "score": 1,
+        "change_24h": 5.74
+      },
+      {
+        "symbol": "OP",
+        "name": "Optimism",
+        "rank": 164,
         "score": 2,
-        "change_24h": 4.99
+        "change_24h": -2.55
       },
       {
         "symbol": "HYPE",
         "name": "Hyperliquid",
         "rank": 10,
         "score": 3,
-        "change_24h": 7.58
+        "change_24h": 4.93
       },
       {
-        "symbol": "STG",
-        "name": "Stargate Finance",
-        "rank": 507,
+        "symbol": "LAB",
+        "name": "LAB",
+        "rank": 31,
         "score": 4,
-        "change_24h": 70.19
+        "change_24h": 16.53
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
-        "rank": 108,
+        "rank": 109,
         "score": 5,
-        "change_24h": -0.42
+        "change_24h": -2.6
       },
       {
         "symbol": "KNTQ",
         "name": "Kinetiq",
-        "rank": 298,
+        "rank": 293,
         "score": 6,
-        "change_24h": 53.33
+        "change_24h": 51.11
       }
     ]
   },
@@ -636,30 +636,40 @@
     ],
     "news": [
       {
+        "title": "Berkshire Hathaway makes $6.8 billion housing bet with Taylor Morrison deal",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/01/berkshire-hathaway-taylor-morrison-home-acquisition-housing-market.html",
+        "published": "Mon, 01 Jun 2026 00:16:39 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
+        "published": "Sun, 31 May 2026 09:35:52 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Oil jumps 2% as Israel expands Lebanon offensive, rattling ceasefire hopes",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html",
+        "published": "Mon, 01 Jun 2026 00:58:02 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
         "title": "U.S. and Iran still without deal to end war after Trump says he's not in a 'hurry'",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/31/still-no-deal-to-end-us-iran-war-trump-says-hes-not-in-a-hurry.html",
         "published": "Sun, 31 May 2026 16:22:08 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Former Barclays CEO Jes Staley agrees to July 23 interview about Jeffrey Epstein by Oversight panel",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/31/jes-staley-jeffrey-epstein-interview-house-jpmorgan-chase-barclays.html",
-        "published": "Sun, 31 May 2026 15:53:27 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Why Trump reversed course to fast-track psychedelic drugs for mental healthcare",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/31/why-trump-is-encouraging-psychedelics-for-mental-health.html",
-        "published": "Sun, 31 May 2026 12:00:02 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -676,20 +686,20 @@
         "color": "green"
       },
       {
-        "title": "Disney is poised to ramp its already booming advertising business. Rita Ferro is behind the push",
+        "title": "South Korea stocks hit fresh high amid mixed regional trade despite Trump's Iran deal caution",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/31/disney-advertising-rita-ferro.html",
-        "published": "Sun, 31 May 2026 10:00:01 GMT",
+        "url": "https://www.cnbc.com/2026/06/01/asia-markets-nikkei-225-kospi-hang-seng-index.html",
+        "published": "Mon, 01 Jun 2026 00:29:18 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "A hotly debated lung cancer drug cut the risk of death by 34% in a late-stage trial in China",
+        "title": "Former Barclays CEO Jes Staley agrees to July 23 interview about Jeffrey Epstein by Oversight panel",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html",
-        "published": "Sun, 31 May 2026 12:00:02 GMT",
+        "url": "https://www.cnbc.com/2026/05/31/jes-staley-jeffrey-epstein-interview-house-jpmorgan-chase-barclays.html",
+        "published": "Sun, 31 May 2026 15:53:27 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -716,20 +726,50 @@
         "color": "yellow"
       },
       {
-        "title": "In deeply red Oklahoma, minimum wage’s biggest 2026 election cycle fight is about to be decided",
+        "title": "Japanese bond yields are the highest in 40 years. The budget and a 'red flag' from PM Takaichi have markets nervous",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/31/oklahoma-minimum-wage-2026-election-vote-economy-inflation.html",
-        "published": "Sun, 31 May 2026 14:00:42 GMT",
+        "url": "https://www.cnbc.com/2026/06/01/japan-pm-takaichis-budget-remarks-send-red-flag-to-bond-markets.html",
+        "published": "Mon, 01 Jun 2026 00:39:42 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
-        "published": "Sun, 31 May 2026 09:35:52 GMT",
+        "title": "Oil rises, U.S. stock futures flat as Wall Street looks to extend its winning streak",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories",
+        "published": "Mon, 01 Jun 2026 00:50:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
+        "published": "Sun, 31 May 2026 23:35:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
+        "published": "Sun, 31 May 2026 23:14:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "‘It is such a fine line’: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories",
+        "published": "Sun, 31 May 2026 23:10:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -744,88 +784,48 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Oil rises, U.S. stock futures flat as Wall Street looks to extend its winning streak",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories",
-        "published": "Sun, 31 May 2026 22:48:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "The stock index you invest in isn’t always the most important decision. Here’s what matters even more.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
-        "published": "Sun, 31 May 2026 20:08:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Government is now an active investor — and it’s why your portfolio needs ‘home-court advantage’",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories",
-        "published": "Sun, 31 May 2026 20:02:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "It’s not just tech stocks: The broad-based strength of the market right now gives investors reason to stay the course",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/its-not-just-tech-stocks-the-broad-based-strength-of-the-market-right-now-gives-investors-reason-to-stay-the-course-4ef65de3?mod=mw_rss_topstories",
-        "published": "Sun, 31 May 2026 19:12:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.133,
+      "score": 0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "US x Iran permanent peace deal by June 7, 2026?",
-        "volume_24h": 1174279,
-        "yes_price": 0.1,
-        "category": "finance"
-      },
-      {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 467749,
-        "yes_price": 0.15,
+        "volume_24h": 1125912,
+        "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?",
-        "volume_24h": 429216,
-        "yes_price": 0.8,
+        "volume_24h": 468403,
+        "yes_price": 0.81,
         "category": "finance"
       },
       {
-        "title": "US x Iran permanent peace deal by June 15, 2026?",
-        "volume_24h": 413176,
+        "title": "Will the U.S. invade Iran before 2027?",
+        "volume_24h": 458961,
         "yes_price": 0.15,
         "category": "finance"
       },
       {
         "title": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
-        "volume_24h": 377156,
-        "yes_price": 0.21,
+        "volume_24h": 458671,
+        "yes_price": 0.18,
         "category": "finance"
       },
       {
-        "title": "US x Iran permanent peace deal by June 30, 2026?",
-        "volume_24h": 315237,
-        "yes_price": 0.27,
+        "title": "US x Iran permanent peace deal by June 15, 2026?",
+        "volume_24h": 421691,
+        "yes_price": 0.12,
+        "category": "finance"
+      },
+      {
+        "title": "Will Spencer Pratt win the 2026 Los Angeles mayoral election?",
+        "volume_24h": 308496,
+        "yes_price": 0.21,
         "category": "finance"
       }
     ],
@@ -936,7 +936,7 @@
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 3 bullish vs 1 bearish signals detected across stock/finance news data."
+      "summary": "Bullish: 4 bullish vs 0 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
