@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T15:22:31Z",
+  "updated_at": "2026-06-15T19:30:20Z",
   "crypto": {
     "fear_greed": {
       "value": 20,
@@ -11,139 +11,149 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 66661,
-        "change_24h": 4.09,
-        "market_cap": 1334795294476,
-        "volume_24h": 33860612110
+        "price_usd": 66549,
+        "change_24h": 4.38,
+        "market_cap": 1333676115456,
+        "volume_24h": 38719739095
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1817.19,
-        "change_24h": 9.34,
-        "market_cap": 219048309635,
-        "volume_24h": 16464928326
+        "price_usd": 1819.89,
+        "change_24h": 9.31,
+        "market_cap": 219464324386,
+        "volume_24h": 19244676362
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 625.75,
-        "change_24h": 3.19,
-        "market_cap": 84232965909,
-        "volume_24h": 1009199117
+        "price_usd": 620.28,
+        "change_24h": 2.75,
+        "market_cap": 83582450352,
+        "volume_24h": 1092898779
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.25,
-        "change_24h": 10.01,
-        "market_cap": 77342957184,
-        "volume_24h": 2264708247
+        "price_usd": 1.28,
+        "change_24h": 12.5,
+        "market_cap": 79123093684,
+        "volume_24h": 3399352741
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 73.85,
-        "change_24h": 9.64,
-        "market_cap": 42819665728,
-        "volume_24h": 2688858006
+        "price_usd": 74.94,
+        "change_24h": 10.85,
+        "market_cap": 43429175543,
+        "volume_24h": 3380205128
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.089407,
-        "change_24h": 3.85,
-        "market_cap": 13828226542,
-        "volume_24h": 1038497192
+        "price_usd": 0.088954,
+        "change_24h": 2.84,
+        "market_cap": 13758322895,
+        "volume_24h": 1118364825
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.187109,
-        "change_24h": 12.19,
-        "market_cap": 6960794185,
-        "volume_24h": 668522259
+        "price_usd": 0.186096,
+        "change_24h": 11.93,
+        "market_cap": 6918416680,
+        "volume_24h": 743762465
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.44,
-        "change_24h": 7.79,
-        "market_cap": 6137199691,
-        "volume_24h": 291764560
+        "price_usd": 8.41,
+        "change_24h": 7.51,
+        "market_cap": 6112560107,
+        "volume_24h": 325736329
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.94,
-        "change_24h": 6.36,
-        "market_cap": 2997428139,
-        "volume_24h": 238944744
+        "price_usd": 6.92,
+        "change_24h": 7.38,
+        "market_cap": 2984732031,
+        "volume_24h": 264035622
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 7,
-        "price_usd": 66661,
-        "change_24h": 4.09
+        "mentions": 6,
+        "price_usd": 66549,
+        "change_24h": 4.38
       },
       {
         "symbol": "ETH",
-        "mentions": 3,
-        "price_usd": 1817.19,
-        "change_24h": 9.34
-      },
-      {
-        "symbol": "SOL",
-        "mentions": 1,
-        "price_usd": 73.85,
-        "change_24h": 9.64
-      },
-      {
-        "symbol": "BNB",
-        "mentions": 1,
-        "price_usd": 625.75,
-        "change_24h": 3.19
+        "mentions": 4,
+        "price_usd": 1819.89,
+        "change_24h": 9.31
       },
       {
         "symbol": "ADA",
         "mentions": 1,
-        "price_usd": 0.187109,
-        "change_24h": 12.19
+        "price_usd": 0.186096,
+        "change_24h": 11.93
+      },
+      {
+        "symbol": "LTC",
+        "mentions": 1,
+        "price_usd": null,
+        "change_24h": null
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 0,
+        "price_usd": 74.94,
+        "change_24h": 10.85
+      },
+      {
+        "symbol": "BNB",
+        "mentions": 0,
+        "price_usd": 620.28,
+        "change_24h": 2.75
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.25,
-        "change_24h": 10.01
+        "price_usd": 1.28,
+        "change_24h": 12.5
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.089407,
-        "change_24h": 3.85
+        "price_usd": 0.088954,
+        "change_24h": 2.84
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.94,
-        "change_24h": 6.36
+        "price_usd": 6.92,
+        "change_24h": 7.38
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 8.44,
-        "change_24h": 7.79
-      },
-      {
-        "symbol": "TON",
-        "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 8.41,
+        "change_24h": 7.51
       }
     ],
     "news": [
+      {
+        "title": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project",
+        "published": "Mon, 15 Jun 2026 18:14:07 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
       {
         "title": "If America wants to lead in crypto, it must protect the people who build it",
         "source": "CoinDesk",
@@ -173,7 +183,7 @@
         "published": "Mon, 15 Jun 2026 14:07:22 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -185,7 +195,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -219,7 +229,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -231,7 +241,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -240,81 +250,69 @@
         "url": "https://www.coindesk.com/daybook-us/2026/06/15/markets-cheer-u-s-iran-breakthrough-though-middle-east-risks-fed-remain-in-focus",
         "published": "Mon, 15 Jun 2026 11:58:56 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       },
       {
-        "title": "U.S.-Iran deal lifts equities, sends oil lower, while crypto stays wary",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/06/15/u-s-iran-deal-lifts-equities-sends-oil-lower-while-crypto-stays-wary",
-        "published": "Mon, 15 Jun 2026 11:19:01 +0000",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
-      },
-      {
-        "title": "Saylor’s Strategy buys 1,587 BTC for $100M, holdings hit 846.8K",
+        "title": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues",
         "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/strategy-michael-saylor-1587-btc-buy-100-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 15 Jun 2026 13:52:12 +0000",
+        "url": "https://cointelegraph.com/news/bitmine-eth-holdings-near-10b-bear-market-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 15 Jun 2026 18:55:11 +0000",
         "assets": [
-          "BTC"
+          "ETH"
         ],
         "sentiment": "Bullish",
         "score": 0.9,
         "color": "green"
       },
       {
-        "title": "Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered",
+        "title": "Kraken rolls out perpetual futures for US traders through CFTC-regulated venue",
         "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/tokenization-push-defi-assets-trillion-2030-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 15 Jun 2026 13:28:24 +0000",
+        "url": "https://cointelegraph.com/news/kraken-launches-perpetual-futures-for-us-traders-through-cftc-regulated-venue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 15 Jun 2026 18:53:15 +0000",
         "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
+      },
+      {
+        "title": "These Bitcoin charts show how BTC price could hit $100K before October",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/these-bitcoin-charts-show-how-btc-price-could-hit-100k-before-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 15 Jun 2026 16:18:14 +0000",
+        "assets": [
+          "BTC"
+        ],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       },
       {
-        "title": "Can BTC rebound to $69K as oil price plunges? Five things to know in Bitcoin this week",
+        "title": "Bitcoin analysis warns over BTC price rejection as $67K approaches",
         "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/can-btc-rebound-to-69k-as-oil-price-plunges-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 15 Jun 2026 10:14:39 +0000",
+        "url": "https://cointelegraph.com/markets/bitcoin-analysis-warn-over-btc-price-rejection-as-67k-approaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 15 Jun 2026 15:22:18 +0000",
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
-      },
-      {
-        "title": "Japan’s Bitbank cracks down on Polymarket-linked transfers",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bitbank-japan-crackdown-polymarket-linked-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 15 Jun 2026 10:05:29 +0000",
-        "assets": [
-          "LINK"
-        ],
         "sentiment": "Bearish",
-        "score": -0.7,
+        "score": -0.8,
         "color": "red"
       },
       {
-        "title": "Bitcoin nears $66K as Trump says US has peace deal with Iran",
+        "title": "Pudgy Penguins winds down Pudgy Party mobile game",
         "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bitcoin-closes-in-on-66k-as-trump-signals-deal-with-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 15 Jun 2026 06:47:49 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.7,
-        "color": "green"
+        "url": "https://cointelegraph.com/news/pudgy-penguins-winds-down-pudgy-party-mobile-game?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 15 Jun 2026 15:05:14 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.9,
+        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": 0.573,
+      "score": 0.527,
       "label": "Bullish",
       "color": "green"
     },
@@ -327,16 +325,16 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 7,
-          "ETH": 3,
-          "SOL": 1,
-          "BNB": 1,
+          "BTC": 6,
+          "ETH": 4,
           "ADA": 1,
+          "LTC": 1,
+          "SOL": 0,
+          "BNB": 0,
           "XRP": 0,
           "DOGE": 0,
           "AVAX": 0,
-          "LINK": 0,
-          "TON": 0
+          "LINK": 0
         },
         "activity_score": 100,
         "top_post": "Daily Crypto Discussion - June 14, 2026 (GMT+0)",
@@ -346,116 +344,116 @@
     ],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: High r/CryptoCurrency activity (100/100) indicates significant interest in top assets, predominantly BTC (7 mentions) and ETH (3). However, with specific sentiment indicators absent for coins like SOL, BNB, and ADA (1 each), the overall market direction remains ambiguous."
+      "summary": "Mixed: High engagement on r/CryptoCurrency (activity 100/100) indicates significant market interest. However, sentiment remains undefined as discussions heavily focus on top assets like BTC (6 mentions) and ETH (4 mentions). Minor altcoins like ADA and LTC received only 1 mention each, with SOL unmentioned, showing concentrated but not clearly positive or negative sentiment."
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: Overall market sentiment is strongly positive. Bitcoin shows bullish signals, with Brian Armstrong suggesting a $60,000 bottom, and Michael Saylor's Strategy acquiring 1,587 BTC for $100 million. XRP surged 8% past $1.20, and Bittensor (TAO) gained 31.9%. Institutional interest is high with Bitmine adding $136 million in Ether, as Kraken debuts U.S. perpetual futures."
+      "summary": "Bullish: Sentiment is overwhelmingly positive with an analyst declaring 'crypto spring' and Coinbase's Brian Armstrong suggesting Bitcoin bottomed at $60,000. Kraken debuted U.S. perpetual futures, while XRP rocketed 8% above $1.20 and Bittensor (TAO) surged 31.9%. Bitmine added $136 million of Ether, underscoring strong growth despite Hyperliquid losing AI markets."
     },
     "fourchain": {
-      "thread_count": 200,
-      "active_threads": 143,
+      "thread_count": 201,
+      "active_threads": 135,
       "mentions": {
-        "BTC": 17,
-        "XRP": 15,
-        "ETH": 3
+        "BTC": 19,
+        "XRP": 17,
+        "ETH": 5
       },
-      "bullish_hits": 105,
-      "bearish_hits": 53,
-      "bullish_pct": 66,
+      "bullish_hits": 117,
+      "bearish_hits": 58,
+      "bullish_pct": 67,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "JTO",
-        "name": "Jito",
-        "rank": 125,
-        "score": 0,
-        "change_24h": 44.11
-      },
-      {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
-        "rank": 114,
-        "score": 1,
-        "change_24h": 9.88
+        "rank": 111,
+        "score": 0,
+        "change_24h": 12.04
       },
       {
-        "symbol": "HYPE",
-        "name": "Hyperliquid",
-        "rank": 10,
+        "symbol": "SIREN",
+        "name": "Siren",
+        "rank": 588,
+        "score": 1,
+        "change_24h": -35.53
+      },
+      {
+        "symbol": "JTO",
+        "name": "Jito",
+        "rank": 124,
         "score": 2,
-        "change_24h": 12.02
+        "change_24h": 43.49
+      },
+      {
+        "symbol": "NEAR",
+        "name": "NEAR Protocol",
+        "rank": 30,
+        "score": 3,
+        "change_24h": 19.77
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
-        "score": 3,
-        "change_24h": 4.01
-      },
-      {
-        "symbol": "GRAM",
-        "name": "Gram (prev. Toncoin)",
-        "rank": 22,
         "score": 4,
-        "change_24h": 4.2
+        "change_24h": 4.73
       },
       {
-        "symbol": "SIREN",
-        "name": "Siren",
-        "rank": 531,
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "rank": 2,
         "score": 5,
-        "change_24h": -33.66
+        "change_24h": 9.96
       },
       {
-        "symbol": "TAO",
-        "name": "Bittensor",
-        "rank": 40,
+        "symbol": "H",
+        "name": "Humanity",
+        "rank": 115,
         "score": 6,
-        "change_24h": 3.75
+        "change_24h": -21.94
       }
     ]
   },
   "stocks": {
     "indices": {
       "sp500": {
-        "value": 7559.89,
-        "change_24h": 1.73
+        "value": 7554.93,
+        "change_24h": 1.66
       },
       "nasdaq": {
-        "value": 26578.19,
-        "change_24h": 2.66
+        "value": 26618.99,
+        "change_24h": 2.82
       },
       "dow": {
-        "value": 51865.88,
-        "change_24h": 1.3
+        "value": 51765.6,
+        "change_24h": 1.1
       },
       "vix": {
-        "value": 16.24,
-        "change_24h": -8.14
+        "value": 16.12,
+        "change_24h": -8.82
       }
     },
     "market_mood": {
-      "score": 0.879,
+      "score": 0.845,
       "label": "Bullish",
       "color": "green"
     },
     "prices": [
       {
         "symbol": "NVDA",
-        "price_usd": 211.2,
-        "change_24h": 2.93
+        "price_usd": 211.73,
+        "change_24h": 3.19
       },
       {
         "symbol": "TSLA",
-        "price_usd": 409.89,
-        "change_24h": 0.85
+        "price_usd": 409.66,
+        "change_24h": 0.8
       },
       {
         "symbol": "AAPL",
-        "price_usd": 296.42,
-        "change_24h": 1.82
+        "price_usd": 296.48,
+        "change_24h": 1.84
       },
       {
         "symbol": "MSFT",
@@ -464,33 +462,28 @@
       },
       {
         "symbol": "GOOGL",
-        "price_usd": 370.67,
-        "change_24h": 3.05
+        "price_usd": 369.83,
+        "change_24h": 2.82
       },
       {
         "symbol": "AMZN",
-        "price_usd": 246.31,
-        "change_24h": 3.25
+        "price_usd": 245.85,
+        "change_24h": 3.06
       },
       {
         "symbol": "META",
-        "price_usd": 595.26,
-        "change_24h": 4.99
+        "price_usd": 591.25,
+        "change_24h": 4.28
       },
       {
         "symbol": "AMD",
-        "price_usd": 549.97,
-        "change_24h": 7.51
-      },
-      {
-        "symbol": "PLTR",
-        "price_usd": 134.02,
-        "change_24h": 4.71
+        "price_usd": 545.36,
+        "change_24h": 6.61
       },
       {
         "symbol": "COIN",
-        "price_usd": 171.49,
-        "change_24h": 7.33
+        "price_usd": 169.83,
+        "change_24h": 6.29
       }
     ],
     "top_mentioned": [],
@@ -499,31 +492,41 @@
         "title": "SpaceX IPO raises total of $85.7 billion as underwriters exercise 'greenshoe' overallotment option",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-spcx-greenshoe-overallotment.html",
-        "published": "Mon, 15 Jun 2026 14:55:10 GMT",
+        "published": "Mon, 15 Jun 2026 16:41:57 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       },
       {
-        "title": "Vance says 'a lot' of Iran deal details to figure out, but U.S. has 'all the cards'",
+        "title": "Gavin Newsom says Trump ordered DOJ to investigate him and his wife",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/15/vance-iran-deal-negotiations-nuclear.html",
-        "published": "Mon, 15 Jun 2026 14:28:04 GMT",
+        "url": "https://www.cnbc.com/2026/06/15/gavin-newsom-trump-doj-investigation-california.html",
+        "published": "Mon, 15 Jun 2026 19:25:35 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Anthropic to meet with Trump administration over Mythos dispute",
+        "title": "Trump is giving Warsh room to reshape the Fed",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html",
-        "published": "Mon, 15 Jun 2026 15:00:44 GMT",
+        "url": "https://www.cnbc.com/2026/06/15/trump-warsh-fed-reshape.html",
+        "published": "Mon, 15 Jun 2026 18:56:04 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Vance says 'a lot' of Iran deal details to figure out, but U.S. has 'all the cards'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/15/vance-iran-deal-negotiations-nuclear.html",
+        "published": "Mon, 15 Jun 2026 17:09:11 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Fox to buy streaming device maker Roku for $22 billion",
@@ -536,54 +539,34 @@
         "color": "green"
       },
       {
-        "title": "U.S.-Iran deal explained: What we know — and what remains unresolved",
+        "title": "Anthropic to meet with Trump administration over Mythos dispute",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-hormuz-markets.html",
-        "published": "Mon, 15 Jun 2026 15:19:53 GMT",
+        "url": "https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html",
+        "published": "Mon, 15 Jun 2026 18:15:13 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Vance says U.S. expects Strait of Hormuz to be open 'toll free' long term",
+        "title": "Oil tumbles on US-Iran deal framework: How one trader is playing the move",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/15/vp-vance-says-us-expects-strait-of-hormuz-to-be-open-toll-free-long-term.html",
-        "published": "Mon, 15 Jun 2026 14:33:59 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "KFC leans into boneless chicken, new drinks as chain tries to regain market share",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/15/kfc-menu-chicken.html",
-        "published": "Mon, 15 Jun 2026 13:32:06 GMT",
+        "url": "https://www.cnbc.com/2026/06/15/oil-tumbles-on-us-iran-deal-framework-how-one-trader-is-playing-the-move.html",
+        "published": "Mon, 15 Jun 2026 16:38:34 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
+        "title": "Warsh's Fed is likely to hold rates steady — what the leadership change could mean for your money",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html",
-        "published": "Mon, 15 Jun 2026 15:07:23 GMT",
+        "url": "https://www.cnbc.com/2026/06/15/warsh-fed-interest-rates.html",
+        "published": "Mon, 15 Jun 2026 16:37:28 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Ron Baron bought $1 billion of SpaceX shares in IPO, lifting stake to $25 billion",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/15/ron-baron-bought-1-billion-of-spacex-shares-in-ipo-lifting-stake-to-25-billion.html",
-        "published": "Mon, 15 Jun 2026 12:35:57 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Sen. Warren asks Trump if administration plans to raise Social Security retirement age",
@@ -596,123 +579,135 @@
         "color": "yellow"
       },
       {
-        "title": "Rocket Lab’s stock rebounds, as one analyst says the SpaceX-fueled selloff was misguided",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/rocket-labs-stock-rebounds-as-one-analyst-says-the-spacex-fueled-selloff-was-misguided-8cb7f483?mod=mw_rss_topstories",
-        "published": "Mon, 15 Jun 2026 15:11:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000 Social Security now or wait?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-        "published": "Mon, 15 Jun 2026 15:00:00 GMT",
+        "title": "U.S.-Iran deal explained: What we know — and what remains unresolved",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-hormuz-markets.html",
+        "published": "Mon, 15 Jun 2026 16:08:16 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Elon Musk makes sky-high trillion-dollar forecast for SpaceX revenue",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/elon-musk-makes-sky-high-trillion-dollar-forecast-for-spacex-revenue-721db931?mod=mw_rss_topstories",
-        "published": "Mon, 15 Jun 2026 14:58:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Here’s when gas prices will go down now that there’s a deal to end the Iran war",
+        "title": "Here’s when gas prices will come down if the U.S.’s deal to end the Iran war pans out",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories",
-        "published": "Mon, 15 Jun 2026 14:56:00 GMT",
+        "published": "Mon, 15 Jun 2026 19:26:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       },
       {
-        "title": "SpaceX employees now have enough wealth on paper to buy every home in this Texas city",
+        "title": "Micron bulls are getting even more optimistic about memory trends as earnings draw closer",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/spacex-employees-now-have-enough-wealth-on-paper-to-buy-every-home-in-this-texas-city-ce0842be?mod=mw_rss_topstories",
-        "published": "Mon, 15 Jun 2026 14:54:00 GMT",
+        "url": "https://www.marketwatch.com/story/micron-bulls-are-getting-even-more-optimistic-about-memory-trends-as-earnings-draw-closer-834fe6bd?mod=mw_rss_topstories",
+        "published": "Mon, 15 Jun 2026 19:07:00 GMT",
         "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "SpaceX’s stock jumps as the company reveals its IPO has raised another $10.7 billion",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/spacexs-stock-jumps-as-the-company-reveals-its-ipo-has-raised-another-10-7-billion-fc7eaca1?mod=mw_rss_topstories",
+        "published": "Mon, 15 Jun 2026 19:01:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "‘We are comfortable financially’: My husband is in his 60s and has $500,000 life insurance. Is this a good time to cancel?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/we-pay-100-per-month-my-husband-is-in-his-mid-60s-and-has-a-500-000-life-insurance-policy-is-it-time-to-cancel-it-4cc49ffe?mod=mw_rss_topstories",
+        "published": "Mon, 15 Jun 2026 18:57:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "AMD flirts with a $900 billion valuation after beefing up its memory technology",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/amd-flirts-with-a-900-billion-valuation-after-beefing-up-its-memory-technology-2a366bdc?mod=mw_rss_topstories",
+        "published": "Mon, 15 Jun 2026 18:28:00 GMT",
+        "assets": [
+          "AMD"
+        ],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.467,
+      "score": 0.333,
       "label": "Bullish",
       "color": "green"
     },
     "polymarket": [
       {
         "title": "US x Iran permanent peace deal by June 15, 2026?",
-        "volume_24h": 22787694,
-        "yes_price": 0.94,
+        "volume_24h": 22635222,
+        "yes_price": 0.96,
         "category": "finance"
       },
       {
         "title": "US x Iran permanent peace deal by June 30, 2026?",
-        "volume_24h": 5664789,
-        "yes_price": 0.97,
-        "category": "finance"
-      },
-      {
-        "title": "US x Iran permanent peace deal by December 31, 2026?",
-        "volume_24h": 1244998,
-        "yes_price": 0.98,
-        "category": "finance"
-      },
-      {
-        "title": "US x Iran permanent peace deal by July 31, 2026?",
-        "volume_24h": 1156175,
+        "volume_24h": 5691048,
         "yes_price": 0.98,
         "category": "finance"
       },
       {
         "title": "Will IR Iran win on 2026-06-15?",
-        "volume_24h": 1154190,
-        "yes_price": 0.54,
-        "category": "finance"
-      },
-      {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 618236,
-        "yes_price": 0.12,
+        "volume_24h": 1375363,
+        "yes_price": 0.55,
         "category": "finance"
       },
       {
         "title": "Israel x Iran permanent peace deal by June 30, 2026?",
-        "volume_24h": 608139,
-        "yes_price": 0.15,
+        "volume_24h": 834551,
+        "yes_price": 0.11,
         "category": "finance"
       },
       {
-        "title": "US and Iran sign an agreement by June 15, 2026?",
-        "volume_24h": 595574,
-        "yes_price": 0.84,
+        "title": "Will the U.S. invade Iran before 2027?",
+        "volume_24h": 654136,
+        "yes_price": 0.12,
+        "category": "finance"
+      },
+      {
+        "title": " Iran agrees to end enrichment of uranium by June 30?",
+        "volume_24h": 483489,
+        "yes_price": 0.29,
+        "category": "finance"
+      },
+      {
+        "title": "US x Iran diplomatic meeting by June 30, 2026?",
+        "volume_24h": 358949,
+        "yes_price": 0.91,
+        "category": "finance"
+      },
+      {
+        "title": "Will the next diplomatic US-Iran meeting be in Switzerland?",
+        "volume_24h": 310584,
+        "yes_price": 0.63,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: Markets strongly anticipate significant US-Iran de-escalation, with permanent peace deals by late 2026 having 94-98% probabilities and an agreement by June 15, 2026, at 84%. A US invasion before 2027 is unlikely at 12%. However, an Israel-Iran permanent peace deal by June 30, 2026, remains highly improbable at 15%."
+      "outlook": "Mixed",
+      "summary": "Mixed: Sentiment indicates strong expectations for US-Iran de-escalation, with 96-98% forecasting a permanent peace deal by June 2026 and 91% for a diplomatic meeting, possibly in Switzerland (63%). However, market confidence in an Israel-Iran permanent peace deal is extremely low at 11%, and Iran ending uranium enrichment is only 29%. A US invasion of Iran before 2027 has just a 12% chance."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Unable to determine overall market sentiment due to the absence of stock Reddit discussion data. Key information regarding top mentioned entities and subreddit activity is missing, precluding any meaningful analysis or specific reason enumeration required for a concise financial summary."
+      "summary": "Mixed: No stock mentions, subreddits, or specific data points were provided for analysis. Therefore, it's impossible to determine any particular market sentiment, identify top discussed stocks, or quantify reasons for bullish or bearish outlooks based on the given empty dataset."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: Market sentiment is largely positive, driven by significant M&A activity, including Fox's $22 billion acquisition of Roku and Salesforce's $3.6 billion purchase of Fin. SpaceX's IPO successfully raised $85.7 billion, boosting confidence. Geopolitical outlook is stable with the Strait of Hormuz expected to be \"toll-free,\" despite minor bearish signals from Anthropic's dispute or KFC's struggles."
+      "outlook": "Mixed",
+      "summary": "Mixed: Corporate M&A shows strength with SpaceX's IPO raising $85.7 billion and Fox acquiring Roku for $22 billion, indicating bullish activity. However, bearish sentiment emerged in commodities as oil tumbled on news of a US-Iran deal framework. Other news largely held neutral implications for broader markets."
     }
   },
   "portfolio": [
@@ -720,15 +715,15 @@
       "symbol": "BKHY",
       "name": "BlackRock High Yield Bond",
       "type": "Bond Income",
-      "price_usd": 47.62,
-      "change_1d": 0.18,
-      "change_1w": 0.67,
-      "change_1m": 0.86,
-      "high_3m": 47.62,
+      "price_usd": 47.63,
+      "change_1d": 0.21,
+      "change_1w": 0.7,
+      "change_1m": 0.89,
+      "high_3m": 47.63,
       "low_3m": 45.95,
       "week52_high": 48.89,
       "week52_low": 46.84,
-      "rsi": 60.8,
+      "rsi": 61.3,
       "div_yield": 7.38,
       "last_div": null,
       "outlook": {
@@ -742,7 +737,7 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 60.8 — Above neutral, mild upward momentum ↑",
+          "RSI 61.3 — Above neutral, mild upward momentum ↑",
           "5-day momentum +0.7% — consolidating sideways →",
           "1-month return +0.9% — range-bound"
         ]
@@ -752,15 +747,15 @@
       "symbol": "XYLD",
       "name": "Global X S&P 500 Covered Call",
       "type": "Covered Call Income",
-      "price_usd": 40.93,
-      "change_1d": 0.61,
-      "change_1w": 0.96,
-      "change_1m": 1.77,
-      "high_3m": 40.93,
+      "price_usd": 40.94,
+      "change_1d": 0.64,
+      "change_1w": 0.99,
+      "change_1m": 1.8,
+      "high_3m": 40.94,
       "low_3m": 37.65,
       "week52_high": 41.1,
       "week52_low": 38.22,
-      "rsi": 58.2,
+      "rsi": 58.3,
       "div_yield": 10.53,
       "last_div": null,
       "outlook": {
@@ -774,7 +769,7 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 58.2 — Above neutral, mild upward momentum ↑",
+          "RSI 58.3 — Above neutral, mild upward momentum ↑",
           "5-day momentum +1.0% — consolidating sideways →",
           "1-month return +1.8% — range-bound"
         ]
@@ -784,15 +779,15 @@
       "symbol": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium",
       "type": "Equity Income",
-      "price_usd": 61.06,
-      "change_1d": 2.0,
-      "change_1w": 2.4,
-      "change_1m": 2.7,
-      "high_3m": 61.06,
+      "price_usd": 61.12,
+      "change_1d": 2.11,
+      "change_1w": 2.51,
+      "change_1m": 2.81,
+      "high_3m": 61.12,
       "low_3m": 52.21,
       "week52_high": 61.17,
       "week52_low": 52.565,
-      "rsi": 56.2,
+      "rsi": 56.5,
       "div_yield": 10.11,
       "last_div": null,
       "outlook": {
@@ -806,9 +801,9 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 56.2 — Above neutral, mild upward momentum ↑",
-          "5-day momentum +2.4% — short-term buying pressure ↑",
-          "1-month return +2.7% — range-bound"
+          "RSI 56.5 — Above neutral, mild upward momentum ↑",
+          "5-day momentum +2.5% — short-term buying pressure ↑",
+          "1-month return +2.8% — range-bound"
         ]
       }
     },
@@ -816,31 +811,31 @@
       "symbol": "SCHD",
       "name": "Schwab US Dividend Equity",
       "type": "Dividend Growth",
-      "price_usd": 32.76,
-      "change_1d": -0.17,
-      "change_1w": 1.47,
-      "change_1m": 3.03,
+      "price_usd": 32.68,
+      "change_1d": -0.42,
+      "change_1w": 1.21,
+      "change_1m": 2.77,
       "high_3m": 32.83,
       "low_3m": 30.14,
       "week52_high": 32.92,
       "week52_low": 26.16,
-      "rsi": 52.2,
+      "rsi": 50.2,
       "div_yield": 3.25,
       "last_div": null,
       "outlook": {
-        "label": "Bullish",
+        "label": "Mild Bullish",
         "color": "green",
-        "score": 3,
-        "bull_count": 3,
+        "score": 2,
+        "bull_count": 2,
         "bear_count": 0,
         "total": 5,
-        "confidence": "Medium",
+        "confidence": "Low",
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 52.2 — In neutral range (45–55)",
-          "5-day momentum +1.5% — consolidating sideways →",
-          "1-month return +3.0% — sustained uptrend ↑"
+          "RSI 50.2 — In neutral range (45–55)",
+          "5-day momentum +1.2% — consolidating sideways →",
+          "1-month return +2.8% — range-bound"
         ]
       }
     },
@@ -848,10 +843,10 @@
       "symbol": "QQQM",
       "name": "Invesco Nasdaq 100",
       "type": "Growth",
-      "price_usd": 305.81,
-      "change_1d": 2.96,
-      "change_1w": 3.73,
-      "change_1m": 3.19,
+      "price_usd": 305.89,
+      "change_1d": 2.99,
+      "change_1w": 3.76,
+      "change_1m": 3.21,
       "high_3m": 307.23,
       "low_3m": 229.87,
       "week52_high": 308.21,
@@ -871,7 +866,7 @@
           "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
           "RSI 54.5 — In neutral range (45–55)",
-          "5-day momentum +3.7% — short-term buying pressure ↑",
+          "5-day momentum +3.8% — short-term buying pressure ↑",
           "1-month return +3.2% — sustained uptrend ↑"
         ]
       }
