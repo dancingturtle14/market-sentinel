@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T13:12:58Z",
+  "updated_at": "2026-06-21T15:28:37Z",
   "crypto": {
     "fear_greed": {
       "value": 23,
@@ -11,100 +11,88 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 64094,
-        "change_24h": 0.87,
-        "market_cap": 1284798145697,
-        "volume_24h": 17893023810
+        "price_usd": 64142,
+        "change_24h": 0.03,
+        "market_cap": 1285623125704,
+        "volume_24h": 15749216388
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1724.42,
-        "change_24h": 0.04,
-        "market_cap": 208146010307,
-        "volume_24h": 9824827975
+        "price_usd": 1728.69,
+        "change_24h": -0.68,
+        "market_cap": 208610416903,
+        "volume_24h": 8880846367
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 587.28,
-        "change_24h": 0.28,
-        "market_cap": 79057532807,
-        "volume_24h": 484563833
+        "price_usd": 589.34,
+        "change_24h": 0.38,
+        "market_cap": 79392071022,
+        "volume_24h": 438944742
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.14,
+        "price_usd": 1.15,
         "change_24h": -0.19,
-        "market_cap": 70895592220,
-        "volume_24h": 907545097
+        "market_cap": 71229320909,
+        "volume_24h": 749099803
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 73.67,
-        "change_24h": 3.11,
-        "market_cap": 42707843862,
-        "volume_24h": 2218532840
+        "price_usd": 73.95,
+        "change_24h": 2.56,
+        "market_cap": 42909169329,
+        "volume_24h": 2079979255
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.083195,
-        "change_24h": -0.64,
-        "market_cap": 12873759631,
-        "volume_24h": 334845459
+        "price_usd": 0.083385,
+        "change_24h": -0.57,
+        "market_cap": 12904024186,
+        "volume_24h": 298804778
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.161174,
-        "change_24h": -0.79,
-        "market_cap": 5994801094,
-        "volume_24h": 270954262
+        "price_usd": 0.162164,
+        "change_24h": -0.22,
+        "market_cap": 6032537290,
+        "volume_24h": 245310426
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 7.93,
-        "change_24h": 0.17,
-        "market_cap": 5932145302,
-        "volume_24h": 138347926
+        "price_usd": 7.96,
+        "change_24h": -0.15,
+        "market_cap": 5955792057,
+        "volume_24h": 123346487
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.27,
-        "change_24h": 1.93,
-        "market_cap": 2706279472,
-        "volume_24h": 246775814
+        "price_usd": 6.32,
+        "change_24h": 2.93,
+        "market_cap": 2729379827,
+        "volume_24h": 199603115
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 8,
-        "price_usd": 64094,
-        "change_24h": 0.87
-      },
-      {
-        "symbol": "SOL",
-        "mentions": 1,
-        "price_usd": 73.67,
-        "change_24h": 3.11
+        "price_usd": 64142,
+        "change_24h": 0.03
       },
       {
         "symbol": "ADA",
         "mentions": 1,
-        "price_usd": 0.161174,
-        "change_24h": -0.79
-      },
-      {
-        "symbol": "TON",
-        "mentions": 1,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 0.162164,
+        "change_24h": -0.22
       },
       {
         "symbol": "DOT",
@@ -115,32 +103,44 @@
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1724.42,
-        "change_24h": 0.04
+        "price_usd": 1728.69,
+        "change_24h": -0.68
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 0,
+        "price_usd": 73.95,
+        "change_24h": 2.56
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 587.28,
-        "change_24h": 0.28
+        "price_usd": 589.34,
+        "change_24h": 0.38
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.14,
+        "price_usd": 1.15,
         "change_24h": -0.19
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.083195,
-        "change_24h": -0.64
+        "price_usd": 0.083385,
+        "change_24h": -0.57
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.27,
-        "change_24h": 1.93
+        "price_usd": 6.32,
+        "change_24h": 2.93
+      },
+      {
+        "symbol": "LINK",
+        "mentions": 0,
+        "price_usd": 7.96,
+        "change_24h": -0.15
       }
     ],
     "news": [
@@ -153,7 +153,7 @@
           "ETH"
         ],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -1.0,
         "color": "red"
       },
       {
@@ -164,9 +164,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "AI is making crypto security cheaper, faster and harder to ignore",
@@ -207,7 +207,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -256,13 +256,37 @@
         "color": "red"
       },
       {
+        "title": "Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "published": "Sun, 21 Jun 2026 14:50:55 GMT",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "published": "Sun, 21 Jun 2026 14:21:06 GMT",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
         "title": "Dash eyes Philippines as market for crypto payments",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "published": "Sun, 21 Jun 2026 12:25:12 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -286,32 +310,10 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Sun, 21 Jun 2026 04:36:29 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Sun, 21 Jun 2026 04:30:00 GMT",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.113,
+      "score": -0.2,
       "label": "Neutral",
       "color": "yellow"
     },
@@ -325,15 +327,15 @@
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 8,
-          "SOL": 1,
           "ADA": 1,
-          "TON": 1,
           "DOT": 1,
           "ETH": 0,
+          "SOL": 0,
           "BNB": 0,
           "XRP": 0,
           "DOGE": 0,
-          "AVAX": 0
+          "AVAX": 0,
+          "LINK": 0
         },
         "activity_score": 100,
         "top_post": "Daily Crypto Discussion - June 20, 2026 (GMT+0)",
@@ -342,75 +344,75 @@
       }
     ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: Despite high activity (100/100) on r/CryptoCurrency, overall sentiment remains ambiguous. Bitcoin (BTC) dominates discussion with 8 mentions, significantly overshadowing altcoins like SOL, ADA, TON, and DOT (1 mention each). The limited data provides no specific indicators to determine a clear positive or negative market outlook."
+      "outlook": "Bullish",
+      "summary": "Bullish: BTC dominates discussion with 8 mentions, indicating optimism in the market, driven by activity in r/CryptoCurrency with a perfect 100/100 score."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: Bullish momentum from Schwab's entry into prediction markets and Franklin Templeton's proposed dividend-to-Bitcoin ETFs is offset by bearish signals. An Ethereum bot lost $7.5 million, STRC saw a meltdown, and smart-contract/DeFi coins are leading losses as Bitcoin wilts for a fourth day near $64,000, despite AI advancements in security."
+      "outlook": "Bearish",
+      "summary": "Bearish: Overall sentiment is negative as Bitcoin holds near $64,000 amid renewed Hormuz threats and wilts for a fourth straight day, with smart-contract and DeFi coins leading losses. An ironic $7.5 million Ethereum 'sandwich' bot exploit further dampened spirits. Despite bullish developments like Franklin Templeton proposing Bitcoin dividend ETFs and GoMining's Bitcoin payment challenge to Square, current market action points downwards."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 144,
+      "active_threads": 141,
       "mentions": {
-        "BTC": 20,
-        "XRP": 13,
+        "BTC": 21,
+        "XRP": 14,
         "ETH": 3
       },
       "bullish_hits": 73,
-      "bearish_hits": 51,
+      "bearish_hits": 50,
       "bullish_pct": 59,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 113,
+        "score": 0,
+        "change_24h": 1.94
+      },
+      {
         "symbol": "TNSR",
         "name": "Tensor",
-        "rank": 893,
-        "score": 0,
-        "change_24h": 76.78
+        "rank": 930,
+        "score": 1,
+        "change_24h": 62.08
+      },
+      {
+        "symbol": "AERO",
+        "name": "Aerodrome Finance",
+        "rank": 103,
+        "score": 2,
+        "change_24h": 3.74
+      },
+      {
+        "symbol": "LAB",
+        "name": "LAB",
+        "rank": 25,
+        "score": 3,
+        "change_24h": 11.31
       },
       {
         "symbol": "BP",
         "name": "Backpack",
-        "rank": 190,
-        "score": 1,
-        "change_24h": 7.62
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 113,
-        "score": 2,
-        "change_24h": 1.25
-      },
-      {
-        "symbol": "SIREN",
-        "name": "Siren",
-        "rank": 315,
-        "score": 3,
-        "change_24h": -9.72
-      },
-      {
-        "symbol": "SOL",
-        "name": "Solana",
-        "rank": 7,
+        "rank": 186,
         "score": 4,
-        "change_24h": 2.52
-      },
-      {
-        "symbol": "HYPE",
-        "name": "Hyperliquid",
-        "rank": 10,
-        "score": 5,
-        "change_24h": -4.09
+        "change_24h": 17.08
       },
       {
         "symbol": "RE",
         "name": "RE",
-        "rank": 202,
+        "rank": 207,
+        "score": 5,
+        "change_24h": -7.19
+      },
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 6,
-        "change_24h": 0.12
+        "change_24h": -0.02
       }
     ]
   },
@@ -490,24 +492,44 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
-        "published": "Sun, 21 Jun 2026 12:16:26 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
-      },
-      {
         "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
         "published": "Sun, 21 Jun 2026 11:14:02 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": -0.2,
+        "score": 0.2,
         "color": "yellow"
+      },
+      {
+        "title": "No one wants AI data centers on Earth. Do they make sense in space?",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
+        "published": "Sun, 21 Jun 2026 13:33:34 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
+      {
+        "title": "Raising the minimum wage has been a big political winner. Now it's running into resistance",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/21/raise-minimum-wage-inflation-politics.html",
+        "published": "Sun, 21 Jun 2026 14:07:29 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.3,
+        "color": "red"
+      },
+      {
+        "title": "Top Wall Street analysts like these 3 dividend stocks for solid returns",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/21/top-wall-street-analysts-like-these-3-dividend-stocks-for-solid-returns.html",
+        "published": "Sun, 21 Jun 2026 11:19:06 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "AI buildout gives tech investors new reasons to watch bond market",
@@ -520,44 +542,14 @@
         "color": "green"
       },
       {
-        "title": "The budget airline model in the U.S. is running out of runway",
+        "title": "Republicans buy crypto more than Democrats, data shows — what's driving the divide",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
-        "published": "Sat, 20 Jun 2026 15:05:02 GMT",
+        "url": "https://www.cnbc.com/2026/06/21/republicans-democrats-crypto-bitcoin-use.html",
+        "published": "Sun, 21 Jun 2026 13:30:01 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "SNAP restrictions could change what shoppers buy — and food giants are watching",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
-        "published": "Sat, 20 Jun 2026 12:00:01 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
-      },
-      {
-        "title": "Top Wall Street analysts like these 3 dividend stocks for solid returns",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/21/top-wall-street-analysts-like-these-3-dividend-stocks-for-solid-returns.html",
-        "published": "Sun, 21 Jun 2026 11:19:06 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Bitcoin's future as revolutionary as the smartphone, according to CoinDesk",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
-        "published": "Sat, 20 Jun 2026 15:00:01 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.1,
+        "color": "yellow"
       },
       {
         "title": "The best parents and leaders use a 3-step formula to help people handle uncertainty, says Dr. Becky Kennedy",
@@ -580,13 +572,53 @@
         "color": "yellow"
       },
       {
-        "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders",
+        "title": "The budget airline model in the U.S. is running out of runway",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
-        "published": "Fri, 19 Jun 2026 10:47:57 GMT",
+        "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+        "published": "Sat, 20 Jun 2026 15:05:02 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
+      },
+      {
+        "title": "SNAP restrictions could change what shoppers buy — and food giants are watching",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
+        "published": "Sat, 20 Jun 2026 12:00:01 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
+      },
+      {
+        "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+        "published": "Sun, 21 Jun 2026 15:01:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
+        "published": "Sun, 21 Jun 2026 14:00:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Micron’s earnings are a must-watch market event — with profit growth approaching 1,000%",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories",
+        "published": "Sun, 21 Jun 2026 14:00:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -596,7 +628,7 @@
         "published": "Sun, 21 Jun 2026 13:00:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -608,87 +640,57 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 12:10:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 12:09:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "The secret to wellness is simple: Eat this breakfast and work out at the right time",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/the-secret-to-wellness-is-simple-eat-this-breakfast-and-work-out-at-the-right-time-43c696b9?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 12:00:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.22,
+      "score": 0.173,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
-        "volume_24h": 609331,
-        "yes_price": 0.12,
+        "volume_24h": 642758,
+        "yes_price": 0.15,
         "category": "finance"
       },
       {
         "title": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?",
-        "volume_24h": 498829,
-        "yes_price": 0.89,
+        "volume_24h": 514394,
+        "yes_price": 0.85,
         "category": "finance"
       },
       {
         "title": " Iran agrees to end enrichment of uranium by June 30?",
-        "volume_24h": 448132,
+        "volume_24h": 460322,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will IR Iran win on 2026-06-21?",
-        "volume_24h": 288388,
+        "volume_24h": 390954,
         "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "Iran agrees to unrestricted shipping through Hormuz by June 30?",
-        "volume_24h": 236889,
+        "volume_24h": 220296,
         "yes_price": 0.03,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Market sentiment is notably bearish, with extremely low probabilities for Iran to end uranium enrichment (4%) or agree to unrestricted shipping through Hormuz (3%) by June 30, signaling strong skepticism. While Abelardo de la Espriella is highly favored (89%) to win the 2026 Colombian election, contrasting with Ivan Cepeda Castro's 12%, this specific political clarity doesn't offset the broader geopolitical pessimism."
+      "summary": "Bearish: Sentiment is negative, with low confidence in Iran agreements (4% and 3%) and Iranian wins (12%), and high confidence in Abelardo de la Espriella's election win (85%)."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No specific data is available to determine market sentiment, with no top mentions or subreddits provided."
+      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentioned stocks or subreddits provided."
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: Market sentiment is largely positive, driven by U.S.-Iran peace talks easing geopolitical tensions and AI buildout creating new tech investment reasons. Top Wall Street analysts endorse 3 dividend stocks for solid returns, while CoinDesk sees Bitcoin as revolutionary. Countering this are concerns over the budget airline model and SNAP restrictions impacting food giants."
+      "summary": "Bullish: Market sentiment leans positive, primarily driven by strong interest in AI buildout and potential for space-based data centers. Top Wall Street analysts are also recommending 3 dividend stocks for solid returns. A minor headwind is noted with increasing resistance to raising the minimum wage."
     }
   },
   "portfolio": [
