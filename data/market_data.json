@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T07:17:35Z",
+  "updated_at": "2026-06-21T10:54:22Z",
   "crypto": {
     "fear_greed": {
       "value": 23,
@@ -11,88 +11,88 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 64182,
-        "change_24h": 0.83,
-        "market_cap": 1286819428085,
-        "volume_24h": 16264788021
+        "price_usd": 64309,
+        "change_24h": 1.14,
+        "market_cap": 1289502804928,
+        "volume_24h": 16737161054
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1733.43,
-        "change_24h": 0.5,
-        "market_cap": 209195979729,
-        "volume_24h": 8456892194
+        "price_usd": 1731.39,
+        "change_24h": 0.34,
+        "market_cap": 208988410651,
+        "volume_24h": 8843055737
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 589.58,
-        "change_24h": 0.59,
-        "market_cap": 79499370301,
-        "volume_24h": 482764447
+        "price_usd": 589.68,
+        "change_24h": 0.68,
+        "market_cap": 79476264643,
+        "volume_24h": 463575284
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.15,
-        "change_24h": 0.02,
-        "market_cap": 71121496850,
-        "volume_24h": 798252867
+        "change_24h": 0.2,
+        "market_cap": 71385900924,
+        "volume_24h": 881999049
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 73.28,
-        "change_24h": 2.32,
-        "market_cap": 42504157813,
-        "volume_24h": 2022386818
+        "price_usd": 74.01,
+        "change_24h": 3.44,
+        "market_cap": 42950525967,
+        "volume_24h": 2214463091
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.083294,
-        "change_24h": -0.88,
-        "market_cap": 12891557868,
-        "volume_24h": 395635094
+        "price_usd": 0.083328,
+        "change_24h": -0.66,
+        "market_cap": 12894049632,
+        "volume_24h": 354437807
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.160967,
-        "change_24h": -1.34,
-        "market_cap": 5992744745,
-        "volume_24h": 264091752
+        "price_usd": 0.161946,
+        "change_24h": -0.54,
+        "market_cap": 6027000578,
+        "volume_24h": 269151591
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 7.93,
-        "change_24h": -0.47,
-        "market_cap": 5933883477,
-        "volume_24h": 138664638
+        "price_usd": 7.98,
+        "change_24h": 0.38,
+        "market_cap": 5970599862,
+        "volume_24h": 139615275
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.23,
-        "change_24h": 2.87,
-        "market_cap": 2690504105,
-        "volume_24h": 281058040
+        "price_usd": 6.31,
+        "change_24h": 1.88,
+        "market_cap": 2725246095,
+        "volume_24h": 254271430
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 8,
-        "price_usd": 64182,
-        "change_24h": 0.83
+        "price_usd": 64309,
+        "change_24h": 1.14
       },
       {
         "symbol": "SOL",
         "mentions": 1,
-        "price_usd": 73.28,
-        "change_24h": 2.32
+        "price_usd": 74.01,
+        "change_24h": 3.44
       },
       {
         "symbol": "TON",
@@ -109,38 +109,38 @@
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1733.43,
-        "change_24h": 0.5
+        "price_usd": 1731.39,
+        "change_24h": 0.34
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 589.58,
-        "change_24h": 0.59
+        "price_usd": 589.68,
+        "change_24h": 0.68
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.15,
-        "change_24h": 0.02
+        "change_24h": 0.2
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.160967,
-        "change_24h": -1.34
+        "price_usd": 0.161946,
+        "change_24h": -0.54
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.083294,
-        "change_24h": -0.88
+        "price_usd": 0.083328,
+        "change_24h": -0.66
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.23,
-        "change_24h": 2.87
+        "price_usd": 6.31,
+        "change_24h": 1.88
       }
     ],
     "news": [
@@ -153,7 +153,7 @@
           "ETH"
         ],
         "sentiment": "Bearish",
-        "score": -0.7,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -164,9 +164,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "AI is making crypto security cheaper, faster and harder to ignore",
@@ -175,7 +175,7 @@
         "published": "Sat, 20 Jun 2026 15:00:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -195,7 +195,7 @@
         "published": "Fri, 19 Jun 2026 17:51:12 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -207,7 +207,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -256,6 +256,28 @@
         "color": "red"
       },
       {
+        "title": "Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'?",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "published": "Sun, 21 Jun 2026 10:15:57 GMT",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "published": "Sun, 21 Jun 2026 08:54:41 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
         "title": "Here’s what happened in crypto today",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -266,7 +288,7 @@
         "color": "yellow"
       },
       {
-        "title": "Bitcoin ETFs shed a record $6.4B in 30 days amid crypto winter chill",
+        "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "published": "Sun, 21 Jun 2026 04:30:00 GMT",
@@ -286,35 +308,12 @@
           "ETH"
         ],
         "sentiment": "Bearish",
-        "score": -0.7,
+        "score": -0.5,
         "color": "red"
-      },
-      {
-        "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Sat, 20 Jun 2026 19:09:21 GMT",
-        "assets": [
-          "BTC",
-          "LTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.8,
-        "color": "red"
-      },
-      {
-        "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Sat, 20 Jun 2026 14:57:41 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.4,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": -0.26,
+      "score": -0.16,
       "label": "Neutral",
       "color": "yellow"
     },
@@ -346,74 +345,74 @@
     ],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Market sentiment is ambiguous due to the absence of directional indicators. Discussions are heavily focused on BTC (8 mentions), dominating activity on r/CryptoCurrency (100/100). Altcoins SOL, TON, and DOT each received only 1 mention, while ETH had 0, indicating concentrated, yet undefined, interest."
+      "summary": "Mixed: Market sentiment is unclear due to limited data. BTC dominates discussions with 8 mentions, vastly overshadowing SOL, TON, and DOT (1 mention each), and ETH (0 mentions). While r/CryptoCurrency shows high activity (100/100), the *nature* of these discussions isn't provided, preventing a definitive bullish or bearish assessment of overall market direction."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Bitcoin struggles near $64,000, wilting for a 4th day alongside DeFi and smart-contract coins, compounded by a $7.5 million Ethereum bot exploit and Hormuz threats. Yet, strong institutional adoption persists with Franklin Templeton's proposed ETFs converting dividends to Bitcoin and GoMining challenging Square with a Bitcoin payments system, while AI enhances crypto security."
+      "summary": "Mixed: Institutional interest shows with Schwab joining prediction markets and Franklin Templeton proposing dividend-to-Bitcoin ETFs, alongside AI improving security. However, sentiment is tempered by a $7.5 million Ethereum bot exploit, Bitcoin near $64,000 amid geopolitical threats, and smart-contract/DeFi coins leading losses for a fourth day."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 145,
+      "active_threads": 140,
       "mentions": {
-        "BTC": 22,
+        "BTC": 21,
         "XRP": 13,
         "ETH": 3
       },
-      "bullish_hits": 66,
-      "bearish_hits": 53,
-      "bullish_pct": 55,
+      "bullish_hits": 71,
+      "bearish_hits": 51,
+      "bullish_pct": 58,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 113,
+        "symbol": "TNSR",
+        "name": "Tensor",
+        "rank": 908,
         "score": 0,
-        "change_24h": -0.01
+        "change_24h": 69.63
       },
       {
-        "symbol": "BICO",
-        "name": "Biconomy",
-        "rank": 569,
+        "symbol": "BP",
+        "name": "Backpack",
+        "rank": 182,
         "score": 1,
-        "change_24h": 22.06
-      },
-      {
-        "symbol": "MET",
-        "name": "Meteora",
-        "rank": 290,
-        "score": 2,
-        "change_24h": 14.72
+        "change_24h": 22.07
       },
       {
         "symbol": "SIREN",
         "name": "Siren",
-        "rank": 298,
-        "score": 3,
-        "change_24h": 1.59
+        "rank": 317,
+        "score": 2,
+        "change_24h": -9.86
       },
       {
         "symbol": "MSUSD",
         "name": "Main Street USD",
-        "rank": 955,
-        "score": 4,
-        "change_24h": -81.55
+        "rank": 691,
+        "score": 3,
+        "change_24h": -62.17
       },
       {
         "symbol": "SOL",
         "name": "Solana",
         "rank": 7,
-        "score": 5,
-        "change_24h": 1.92
+        "score": 4,
+        "change_24h": 3.72
       },
       {
-        "symbol": "TNSR",
-        "name": "Tensor",
-        "rank": 930,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 113,
+        "score": 5,
+        "change_24h": 1.09
+      },
+      {
+        "symbol": "BICO",
+        "name": "Biconomy",
+        "rank": 552,
         "score": 6,
-        "change_24h": 75.06
+        "change_24h": 23.2
       }
     ]
   },
@@ -490,77 +489,16 @@
         "change_24h": -1.01
       }
     ],
-    "top_mentioned": [
-      {
-        "symbol": "NVDA",
-        "mentions": 0,
-        "price_usd": 210.69,
-        "change_24h": 2.95
-      },
-      {
-        "symbol": "TSLA",
-        "mentions": 0,
-        "price_usd": 400.49,
-        "change_24h": 1.04
-      },
-      {
-        "symbol": "AAPL",
-        "mentions": 0,
-        "price_usd": 298.01,
-        "change_24h": 0.7
-      },
-      {
-        "symbol": "MSFT",
-        "mentions": 0,
-        "price_usd": 379.4,
-        "change_24h": 0.13
-      },
-      {
-        "symbol": "GOOGL",
-        "mentions": 0,
-        "price_usd": 368.03,
-        "change_24h": 1.17
-      },
-      {
-        "symbol": "AMZN",
-        "mentions": 0,
-        "price_usd": 244.39,
-        "change_24h": 2.9
-      },
-      {
-        "symbol": "META",
-        "mentions": 0,
-        "price_usd": 577.22,
-        "change_24h": 1.7
-      },
-      {
-        "symbol": "AMD",
-        "mentions": 0,
-        "price_usd": 537.37,
-        "change_24h": 4.86
-      },
-      {
-        "symbol": "PLTR",
-        "mentions": 0,
-        "price_usd": 128.47,
-        "change_24h": -1.65
-      },
-      {
-        "symbol": "GME",
-        "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
-      }
-    ],
+    "top_mentioned": [],
     "news": [
       {
-        "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
+        "title": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
-        "published": "Sat, 20 Jun 2026 22:59:26 GMT",
+        "published": "Sun, 21 Jun 2026 10:22:45 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -590,7 +528,7 @@
         "published": "Sat, 20 Jun 2026 12:00:01 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -651,9 +589,9 @@
         "url": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
         "published": "Fri, 19 Jun 2026 22:53:09 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.4,
+        "color": "red"
       },
       {
         "title": "‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away",
@@ -702,97 +640,65 @@
         "published": "Sat, 20 Jun 2026 18:28:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.8,
         "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.267,
+      "score": -0.24,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "US x Iran diplomatic meeting by June 21, 2026?",
-        "volume_24h": 969158,
-        "yes_price": 0.98,
+        "title": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
+        "volume_24h": 567466,
+        "yes_price": 0.14,
         "category": "finance"
       },
       {
         "title": " Iran agrees to end enrichment of uranium by June 30?",
-        "volume_24h": 540976,
-        "yes_price": 0.03,
-        "category": "finance"
-      },
-      {
-        "title": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
-        "volume_24h": 536671,
-        "yes_price": 0.15,
+        "volume_24h": 473773,
+        "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?",
-        "volume_24h": 445271,
-        "yes_price": 0.84,
+        "volume_24h": 460445,
+        "yes_price": 0.86,
         "category": "finance"
       },
       {
         "title": "Will China invade Taiwan by end of 2026?",
-        "volume_24h": 259330,
+        "volume_24h": 256425,
         "yes_price": 0.06,
         "category": "finance"
       },
       {
         "title": "Iran agrees to unrestricted shipping through Hormuz by June 30?",
-        "volume_24h": 252841,
+        "volume_24h": 253982,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
-        "title": "Israel x Iran permanent peace deal by June 30, 2026?",
-        "volume_24h": 193684,
-        "yes_price": 0.03,
-        "category": "finance"
-      },
-      {
-        "title": "Will Russia capture all of Stepnohirsk by September 30, 2026?",
-        "volume_24h": 172405,
-        "yes_price": 0.1,
+        "title": "Will IR Iran win on 2026-06-21?",
+        "volume_24h": 216478,
+        "yes_price": 0.12,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: Geopolitical stability shows tentative signs with a 98% probability of a US x Iran diplomatic meeting by June 2026, and low risks of major conflict like China invading Taiwan (6%) or Russia capturing Stepnohirsk (10%). However, market sentiment is pessimistic on key resolutions, with only 3% probability for Iran ending uranium enrichment, unrestricted Hormuz shipping, or an Israel peace deal."
+      "outlook": "Bullish",
+      "summary": "Bullish: Markets anticipate stability, with a low 6% probability for a China-Taiwan invasion. While positive diplomatic shifts like Iran ending enrichment (4%) or agreeing to unrestricted Hormuz shipping (3%) are not expected, a clear political outlook emerges for Colombia with Abelardo de la Espriella leading at 86%."
     },
-    "reddit": [
-      {
-        "subreddit": "r/wallstreetbets",
-        "mentions": {
-          "NVDA": 0,
-          "TSLA": 0,
-          "AAPL": 0,
-          "MSFT": 0,
-          "GOOGL": 0,
-          "AMZN": 0,
-          "META": 0,
-          "AMD": 0,
-          "PLTR": 0,
-          "GME": 0
-        },
-        "activity_score": 100,
-        "top_post": "Weekly Earnings Thread 6/22 - 6/26",
-        "top_post_url": "https://www.reddit.com/r/wallstreetbets/comments/1u9drsx/weekly_earnings_thread_622_626/",
-        "top_post_score": 0
-      }
-    ],
+    "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: High activity on r/wallstreetbets (100/100) indicates significant retail engagement. However, the complete absence (0 mentions) of major tech stocks like NVDA, TSLA, AAPL, MSFT, and GOOGL suggests a lack of concentrated sentiment or discussion around traditional market leaders, creating an unclear directional outlook."
+      "summary": "Mixed: Sentiment cannot be determined due to the absence of specific discussion data, top mentioned entities, subreddits, or numerical references required for analysis. No relevant information was provided to gauge bullish or bearish positions."
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Geopolitical tensions escalated with Iran reportedly closing the Strait of Hormuz. Economic concerns include the struggling U.S. budget airline model, SNAP restrictions impacting food giants, and a memory crisis even threatening Apple. However, bullish drivers exist, such as Bitcoin's future being revolutionary and Musk's SpaceX stake valued over $1 trillion."
+      "summary": "Bearish: Geopolitical tensions rise as Vance talks amid Strait of Hormuz conflict. The US budget airline model struggles, and a memory crisis threatens even Apple. SNAP restrictions loom for food giants, indicating consumer shifts. However, Bitcoin's revolutionary potential and Musk's over $1 trillion SpaceX stake offer specific bullish counterpoints."
     }
   },
   "portfolio": [
