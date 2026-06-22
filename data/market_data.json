@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:11:28Z",
+  "updated_at": "2026-06-22T11:18:57Z",
   "crypto": {
     "fear_greed": {
       "value": 20,
@@ -11,139 +11,184 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 64156,
-        "change_24h": -0.03,
-        "market_cap": 1283556738992,
-        "volume_24h": 16563757352
+        "price_usd": 64212,
+        "change_24h": 0.16,
+        "market_cap": 1287144639880,
+        "volume_24h": 21169168258
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1734.7,
-        "change_24h": 0.28,
-        "market_cap": 209081955929,
-        "volume_24h": 10390925791
+        "price_usd": 1749.66,
+        "change_24h": 1.58,
+        "market_cap": 211144612091,
+        "volume_24h": 13009447191
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 590.1,
-        "change_24h": 0.27,
-        "market_cap": 79460074416,
-        "volume_24h": 491228231
+        "price_usd": 593.44,
+        "change_24h": 0.9,
+        "market_cap": 79985294088,
+        "volume_24h": 504123305
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.13,
-        "change_24h": -0.81,
-        "market_cap": 70304368828,
-        "volume_24h": 1177202793
+        "price_usd": 1.14,
+        "change_24h": -0.29,
+        "market_cap": 70794751821,
+        "volume_24h": 1286748587
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 73.96,
-        "change_24h": 1.07,
-        "market_cap": 42899900071,
-        "volume_24h": 2315379124
+        "price_usd": 73.91,
+        "change_24h": 0.13,
+        "market_cap": 42900070330,
+        "volume_24h": 2236184813
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.083233,
-        "change_24h": -0.06,
-        "market_cap": 12862795535,
-        "volume_24h": 353076210
-      },
-      {
-        "symbol": "ADA",
-        "name": "Cardano",
-        "price_usd": 0.159444,
-        "change_24h": -0.62,
-        "market_cap": 5920200096,
-        "volume_24h": 297649921
+        "price_usd": 0.083879,
+        "change_24h": 0.95,
+        "market_cap": 12982876064,
+        "volume_24h": 346515855
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 7.91,
-        "change_24h": -0.22,
-        "market_cap": 5901571214,
-        "volume_24h": 153735158
+        "price_usd": 8.02,
+        "change_24h": 0.93,
+        "market_cap": 6001471357,
+        "volume_24h": 174269949
+      },
+      {
+        "symbol": "ADA",
+        "name": "Cardano",
+        "price_usd": 0.161038,
+        "change_24h": -0.29,
+        "market_cap": 5992795127,
+        "volume_24h": 303246512
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.28,
-        "change_24h": 0.81,
-        "market_cap": 2705898854,
-        "volume_24h": 176606044
+        "price_usd": 6.3,
+        "change_24h": 0.1,
+        "market_cap": 2722498310,
+        "volume_24h": 162441241
       }
     ],
-    "top_mentioned": [
-      {
-        "symbol": "BTC",
-        "mentions": 6,
-        "price_usd": 64156,
-        "change_24h": -0.03
-      },
-      {
-        "symbol": "DOT",
-        "mentions": 1,
-        "price_usd": null,
-        "change_24h": null
-      },
-      {
-        "symbol": "ETH",
-        "mentions": 0,
-        "price_usd": 1734.7,
-        "change_24h": 0.28
-      },
-      {
-        "symbol": "SOL",
-        "mentions": 0,
-        "price_usd": 73.96,
-        "change_24h": 1.07
-      },
-      {
-        "symbol": "BNB",
-        "mentions": 0,
-        "price_usd": 590.1,
-        "change_24h": 0.27
-      },
-      {
-        "symbol": "XRP",
-        "mentions": 0,
-        "price_usd": 1.13,
-        "change_24h": -0.81
-      },
-      {
-        "symbol": "ADA",
-        "mentions": 0,
-        "price_usd": 0.159444,
-        "change_24h": -0.62
-      },
-      {
-        "symbol": "DOGE",
-        "mentions": 0,
-        "price_usd": 0.083233,
-        "change_24h": -0.06
-      },
-      {
-        "symbol": "AVAX",
-        "mentions": 0,
-        "price_usd": 6.28,
-        "change_24h": 0.81
-      },
-      {
-        "symbol": "LINK",
-        "mentions": 0,
-        "price_usd": 7.91,
-        "change_24h": -0.22
-      }
-    ],
+    "top_mentioned": [],
     "news": [
+      {
+        "title": "As bitcoin, altcoin prices gain, derivatives signal skepticism over a sustained rally",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/06/22/as-bitcoin-altcoin-prices-gain-derivatives-signal-skepticism-over-a-sustained-rally",
+        "published": "Mon, 22 Jun 2026 11:05:38 +0000",
+        "assets": [
+          "BTC",
+          "LTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
+      {
+        "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap",
+        "published": "Mon, 22 Jun 2026 10:48:14 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
+      {
+        "title": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead",
+        "published": "Mon, 22 Jun 2026 10:22:22 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
+        "published": "Mon, 22 Jun 2026 09:23:02 +0000",
+        "assets": [
+          "ETH"
+        ],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
+      },
+      {
+        "title": "Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-price-may-be-headed-to-usd54-000-says-analyst-who-forecast-october-s-all-time-high",
+        "published": "Mon, 22 Jun 2026 09:19:24 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
+      },
+      {
+        "title": "Live markets: Friday's biggest bitcoin options expiry of the year puts $60,000 in focus",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week",
+        "published": "Mon, 22 Jun 2026 07:34:05 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
+      {
+        "title": "Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/06/22/bitcoin-developers-want-to-fix-the-replace-this-transaction-with-a-higher-fee-button-here-s-why",
+        "published": "Mon, 22 Jun 2026 06:19:13 +0000",
+        "assets": [
+          "BTC",
+          "TON"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.1,
+        "color": "yellow"
+      },
+      {
+        "title": "Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-validators-asked-to-fund-projects-with-up-to-10-of-staking-rewards-under-new-proposal",
+        "published": "Mon, 22 Jun 2026 05:43:26 +0000",
+        "assets": [
+          "ETH"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.3,
+        "color": "green"
+      },
+      {
+        "title": "XRP briefly loses $1.14 support before buyers drive sharp rebound",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/06/22/xrp-briefly-loses-usd1-14-support-before-buyers-drive-sharp-rebound",
+        "published": "Mon, 22 Jun 2026 05:17:18 +0000",
+        "assets": [
+          "XRP"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
       {
         "title": "Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally",
         "source": "CoinDesk",
@@ -153,169 +198,64 @@
           "BTC"
         ],
         "sentiment": "Neutral",
-        "score": -0.2,
+        "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Are perps swaps? A quick look at that CME suit: State of Crypto",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
-        "published": "Sun, 21 Jun 2026 18:30:00 +0000",
+        "title": "$1.9M in Fake Bets Drove Polymarket Hype: WSJ",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/371756/1-9m-in-fake-bets-drove-polymarket-hype-wsj",
+        "published": "Mon, 22 Jun 2026 10:53:16 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
+      },
+      {
+        "title": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
+        "published": "Sun, 21 Jun 2026 16:01:03 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
-        "published": "Sun, 21 Jun 2026 07:12:35 +0000",
-        "assets": [
-          "ETH"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.8,
-        "color": "red"
-      },
-      {
-        "title": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
-        "published": "Sun, 21 Jun 2026 06:46:28 +0000",
-        "assets": [
-          "BTC"
-        ],
+        "title": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
+        "published": "Sun, 21 Jun 2026 13:01:03 +0000",
+        "assets": [],
         "sentiment": "Bearish",
         "score": -0.3,
         "color": "red"
       },
       {
-        "title": "AI is making crypto security cheaper, faster and harder to ignore",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
-        "published": "Sat, 20 Jun 2026 15:00:00 +0000",
+        "title": "OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap—Right as Fable 5 Goes Dark",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap",
+        "published": "Sat, 20 Jun 2026 18:01:04 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.7,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
-        "title": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
-        "published": "Sat, 20 Jun 2026 13:00:00 +0000",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj",
-        "published": "Fri, 19 Jun 2026 17:51:12 +0000",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.4,
-        "color": "green"
-      },
-      {
-        "title": "GoMining challenges Jack Dorsey's Square with payments system designed around bitcoin",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin",
-        "published": "Fri, 19 Jun 2026 12:30:00 +0000",
+        "title": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
+        "published": "Sat, 20 Jun 2026 14:59:51 +0000",
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 0.6,
-        "color": "green"
-      },
-      {
-        "title": "Franklin Templeton proposes new ETFs that turn corporate dividends into bitcoin",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin",
-        "published": "Fri, 19 Jun 2026 11:27:59 +0000",
-        "assets": [
-          "BTC",
-          "TON"
-        ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Smart-contract and DeFi coins lead losses as bitcoin wilts for 4th straight day",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/06/19/smart-contract-and-defi-coins-lead-losses-as-bitcoin-wilts-for-4th-straight-day",
-        "published": "Fri, 19 Jun 2026 10:47:03 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.9,
-        "color": "red"
-      },
-      {
-        "title": "Secret Network bridge exploited for $4.7M with ‘infinite mint’ bug",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/secret-network-bridge-exploited-infinite-mint-bug?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Mon, 22 Jun 2026 03:49:49 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Sun, 21 Jun 2026 14:50:55 GMT",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.3,
-        "color": "green"
-      },
-      {
-        "title": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Sun, 21 Jun 2026 14:21:06 GMT",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.9,
-        "color": "red"
-      },
-      {
-        "title": "Dash eyes Philippines as market for crypto payments",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Sun, 21 Jun 2026 12:25:12 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.7,
-        "color": "green"
-      },
-      {
-        "title": "Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'?",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "published": "Sun, 21 Jun 2026 10:15:57 GMT",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.9,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.153,
+      "score": 0.033,
       "label": "Neutral",
       "color": "yellow"
     },
@@ -324,97 +264,77 @@
       "outlook": "Mixed",
       "summary": "Insufficient data to generate a summary."
     },
-    "reddit": [
-      {
-        "subreddit": "r/CryptoCurrency",
-        "mentions": {
-          "BTC": 6,
-          "DOT": 1,
-          "ETH": 0,
-          "SOL": 0,
-          "BNB": 0,
-          "XRP": 0,
-          "ADA": 0,
-          "DOGE": 0,
-          "AVAX": 0,
-          "LINK": 0
-        },
-        "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - June 21, 2026 (GMT+0)",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1uc3w1f/daily_crypto_discussion_june_21_2026_gmt0/",
-        "top_post_score": 0
-      }
-    ],
+    "reddit": [],
     "reddit_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: BTC dominates discussion with 6 mentions, indicating optimism in the market, with high activity on r/CryptoCurrency (100/100)."
+      "outlook": "Mixed",
+      "summary": "Mixed: Unable to determine specific market sentiment as no crypto Reddit discussion data, including top mentions or subreddits, was provided. Consequently, specific reasons, numbers, or names cannot be identified to summarize the overall market sentiment accurately."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Market sentiment is divided, with bullish signs from AI-enhanced security and Schwab's S&P 500 options, but bearish trends from Ethereum's $7.5 million exploit and US-Iran tensions affecting Bitcoin, which holds near $64,000."
+      "summary": "Mixed: Despite an analyst forecasting Bitcoin to $54,000 and the Bank of England setting a $50 billion stablecoin issuance cap, the market faces skepticism from derivatives over a sustained rally. The Taiko Ethereum layer-2 network exploit, which caused its token to dive, adds bearish pressure. Ethereum's proposal for validators to fund projects with up to 10% of staking rewards offers a positive note."
     },
     "fourchain": {
-      "thread_count": 201,
-      "active_threads": 148,
+      "thread_count": 200,
+      "active_threads": 141,
       "mentions": {
-        "BTC": 21,
+        "BTC": 19,
         "XRP": 14,
         "ETH": 2
       },
-      "bullish_hits": 70,
-      "bearish_hits": 52,
-      "bullish_pct": 57,
+      "bullish_hits": 74,
+      "bearish_hits": 51,
+      "bullish_pct": 59,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "AVLT",
-        "name": "Altura Vault Tokens",
-        "rank": 710,
+        "symbol": "ARX",
+        "name": "Arcium",
+        "rank": 291,
         "score": 0,
-        "change_24h": -12.6
+        "change_24h": 17.4
+      },
+      {
+        "symbol": "SYN",
+        "name": "Synapse",
+        "rank": 398,
+        "score": 1,
+        "change_24h": 75.61
+      },
+      {
+        "symbol": "RE",
+        "name": "RE",
+        "rank": 226,
+        "score": 2,
+        "change_24h": -21.73
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 114,
-        "score": 1,
-        "change_24h": -1.14
-      },
-      {
-        "symbol": "MSUSD",
-        "name": "Main Street USD",
-        "rank": 904,
-        "score": 2,
-        "change_24h": 3.82
-      },
-      {
-        "symbol": "AERO",
-        "name": "Aerodrome Finance",
-        "rank": 108,
         "score": 3,
-        "change_24h": -5.91
+        "change_24h": -0.92
+      },
+      {
+        "symbol": "SLX",
+        "name": "Solstice",
+        "rank": 457,
+        "score": 4,
+        "change_24h": 5.57
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
-        "score": 4,
-        "change_24h": -0.32
+        "score": 5,
+        "change_24h": -0.23
       },
       {
         "symbol": "SOL",
         "name": "Solana",
         "rank": 7,
-        "score": 5,
-        "change_24h": 0.48
-      },
-      {
-        "symbol": "EIGEN",
-        "name": "EigenCloud (prev. EigenLayer)",
-        "rank": 163,
         "score": 6,
-        "change_24h": 13.63
+        "change_24h": 0.18
       }
     ]
   },
@@ -494,23 +414,63 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon",
+        "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway closed again",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html",
-        "published": "Mon, 22 Jun 2026 02:17:46 GMT",
+        "url": "https://www.cnbc.com/2026/06/22/strait-of-hormuz-iran-us-shipping-oil.html",
+        "published": "Mon, 22 Jun 2026 09:02:20 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
+        "published": "Mon, 22 Jun 2026 11:14:04 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "UK PM Starmer resigns as Britain faces its seventh leader in 10 years",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/22/keir-starmer-resigns-uk-prime-minister.html",
+        "published": "Mon, 22 Jun 2026 10:50:13 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/22/uhnw-wealth-management-list-cnbc-elite-advisors.html",
+        "published": "Mon, 22 Jun 2026 10:57:44 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 1.0,
         "color": "green"
       },
       {
-        "title": "Brent crude slips as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal",
+        "title": "SpaceX stock drops again after rally following blockbuster IPO",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html",
-        "published": "Mon, 22 Jun 2026 01:47:54 GMT",
+        "url": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
+        "published": "Mon, 22 Jun 2026 10:19:24 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html",
+        "published": "Mon, 22 Jun 2026 07:42:51 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.4,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -520,68 +480,28 @@
         "published": "Mon, 22 Jun 2026 03:45:13 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -1.0,
         "color": "red"
       },
       {
-        "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
+        "title": "Why a 66-year-old water treaty is becoming the latest India-Pakistan flashpoint",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
-        "published": "Sun, 21 Jun 2026 11:14:02 GMT",
+        "url": "https://www.cnbc.com/2026/06/22/india-pakistan-indus-waters-treaty-water-dispute-war-risk.html",
+        "published": "Mon, 22 Jun 2026 07:46:48 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.3,
+        "score": -1.0,
         "color": "red"
       },
       {
-        "title": "Here are 3 big things to watch in the stock market this coming week",
+        "title": "The new arms race in wealth management: Winning the ultra-wealthy",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/21/here-are-3-big-things-to-watch-in-the-stock-market-this-coming-week.html",
-        "published": "Sun, 21 Jun 2026 12:36:03 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Pixar's 'Toy Story 5' lassos biggest opening weekend in franchise history with $160 million haul",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/21/pixar-toy-story-5-box-office-biggest-opening-in-franchise-history-.html",
-        "published": "Sun, 21 Jun 2026 16:06:06 GMT",
+        "url": "https://www.cnbc.com/2026/06/22/wealth-management-firms-compete-for-ultra-wealthy-clients.html",
+        "published": "Mon, 22 Jun 2026 10:00:53 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "No one wants AI data centers on Earth. Do they make sense in space?",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
-        "published": "Sun, 21 Jun 2026 21:22:53 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "The best parents and leaders use a 3-step formula to help people handle uncertainty, says Dr. Becky Kennedy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/21/use-a-3-step-formula-to-help-people-handle-uncertainty-dr-becky-kennedy.html",
-        "published": "Sun, 21 Jun 2026 12:30:02 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "'Fun dads' get 5 things right about parenting that many people forget—'they're worth borrowing' this Father's Day, says expert",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/20/fun-dads-get-5-things-right-about-parenting-that-many-people-forget-says-expert.html",
-        "published": "Sat, 20 Jun 2026 17:35:35 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "Raising the minimum wage has been a big political winner. Now it's running into resistance",
@@ -594,50 +514,50 @@
         "color": "yellow"
       },
       {
-        "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
+        "title": "Starmer says he’s resigning as U.K. prime minister. Here’s what it means for markets.",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 22:41:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 21:22:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
-      },
-      {
-        "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 20:00:00 GMT",
+        "url": "https://www.marketwatch.com/story/starmer-says-hes-resigning-as-u-k-prime-minister-heres-what-it-means-for-markets-f27a70e5?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 10:56:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
+        "title": "A major test is coming for the stock market, and Morgan Stanley warns the Fed won’t rescue investors",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 19:00:00 GMT",
+        "url": "https://www.marketwatch.com/story/a-major-test-is-coming-for-the-stock-market-and-morgan-stanley-warns-the-fed-wont-rescue-investors-2ae93faa?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 10:54:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "I gave my HomeExchange guest a 5-star review. Then I found heat marks all over my dining table. Do I call her out?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 10:15:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "My mother was co-owner of my late grandmother’s bank account. Should she share the money with her siblings?",
+        "title": "I’m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Should I agree?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 16:59:00 GMT",
+        "url": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 09:15:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Zac Efron trades Hollywood for an off-grid ‘Futurecave’ house made of hemp in Australia",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/zac-efron-trades-hollywood-for-an-off-grid-futurecave-house-made-of-hemp-in-australia-eea29a2b?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 09:01:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -645,60 +565,54 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.013,
+      "score": -0.267,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": " Iran agrees to end enrichment of uranium by June 30?",
-        "volume_24h": 289460,
-        "yes_price": 0.04,
-        "category": "finance"
-      },
-      {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 269740,
-        "yes_price": 0.14,
-        "category": "finance"
-      },
-      {
         "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_24h": 263660,
+        "volume_24h": 297893,
         "yes_price": 0.74,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_24h": 218318,
-        "yes_price": 0.24,
+        "volume_24h": 261506,
+        "yes_price": 0.25,
         "category": "finance"
       },
       {
-        "title": "Will Trump agree to Iranian transit fees in the Strait of Hormuz by June 30?",
-        "volume_24h": 186713,
+        "title": "Will the U.S. invade Iran before 2027?",
+        "volume_24h": 236953,
+        "yes_price": 0.14,
+        "category": "finance"
+      },
+      {
+        "title": " Iran agrees to end enrichment of uranium by June 30?",
+        "volume_24h": 210557,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
-        "title": "Will Trump agree to Iranian enrichment of uranium by June 30?",
-        "volume_24h": 169946,
+        "title": "Will Trump agree to Iranian transit fees in the Strait of Hormuz by June 30?",
+        "volume_24h": 185616,
         "yes_price": 0.03,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: Market expects no change in Fed interest rates, with 74% probability, and a 24% chance of a 25 bps increase."
+      "summary": "Bullish: The market anticipates monetary stability, with 74% expecting no Fed interest rate change by July 2026. Geopolitical risks are contained, as a U.S. invasion of Iran before 2027 has only a 14% probability. Prospects for diplomatic solutions like Iran ending enrichment (4%) or Trump agreeing to transit fees (3%) are very low."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentioned stocks or subreddits provided."
+      "summary": "Mixed: Sentiment is undetermined due to the complete absence of specific stock discussion data. There are no top-mentioned stocks, subreddits, numbers, or names available to analyze for bullish or bearish indicators. Consequently, no clear market direction can be established from the provided information."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: Positive U.S.-Iran developments and Pixar's $160 million 'Toy Story 5' opening boost sentiment."
+      "outlook": "Bearish",
+      "summary": "Bearish: Market sentiment is largely negative due to significant geopolitical and political instability. Iran's declaration of the Strait of Hormuz closed, China imposing trade curbs on U.S. firms, and a new India-Pakistan flashpoint escalate global tensions. UK PM Starmer's resignation marks Britain's seventh leader in 10 years, adding political uncertainty. SpaceX stock also dropped. A U.S.-Iran roadmap for peace offers a slight positive."
     }
   },
   "portfolio": [
