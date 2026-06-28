@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-06-27T22:38:19Z",
+  "updated_at": "2026-06-28T00:09:21Z",
   "crypto": {
     "fear_greed": {
-      "value": 15,
+      "value": 18,
       "label": "Extreme Fear",
-      "previous_value": 13,
+      "previous_value": 15,
       "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 60109,
-        "change_24h": 0.43,
-        "market_cap": 1205138869071,
-        "volume_24h": 16018200949
+        "price_usd": 60023,
+        "change_24h": -0.05,
+        "market_cap": 1203373043521,
+        "volume_24h": 16053523358
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1575.1,
-        "change_24h": 0.21,
-        "market_cap": 190025145281,
-        "volume_24h": 5458371748
+        "price_usd": 1572.91,
+        "change_24h": -0.36,
+        "market_cap": 189816435900,
+        "volume_24h": 5958110967
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 557.61,
-        "change_24h": -1.66,
-        "market_cap": 75144750142,
-        "volume_24h": 540122397
+        "price_usd": 556.72,
+        "change_24h": -1.93,
+        "market_cap": 75036591278,
+        "volume_24h": 536333900
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.05,
-        "change_24h": 0.67,
-        "market_cap": 65360077364,
-        "volume_24h": 1232482068
+        "price_usd": 1.047,
+        "change_24h": -0.05,
+        "market_cap": 65181311341,
+        "volume_24h": 1233552887
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 70.78,
-        "change_24h": -1.07,
-        "market_cap": 41081611564,
-        "volume_24h": 1877530068
+        "price_usd": 70.44,
+        "change_24h": -2.31,
+        "market_cap": 40897107626,
+        "volume_24h": 1859107375
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.07455,
-        "change_24h": -1.05,
-        "market_cap": 11543281625,
-        "volume_24h": 408743262
+        "price_usd": 0.074462,
+        "change_24h": -1.73,
+        "market_cap": 11528342471,
+        "volume_24h": 409140872
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 7.3,
-        "change_24h": 0.04,
-        "market_cap": 5458939850,
-        "volume_24h": 128789864
+        "price_usd": 7.29,
+        "change_24h": -0.94,
+        "market_cap": 5451629913,
+        "volume_24h": 125397450
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.144905,
-        "change_24h": -1.38,
-        "market_cap": 5395234171,
-        "volume_24h": 254165936
+        "price_usd": 0.145143,
+        "change_24h": -2.31,
+        "market_cap": 5404818543,
+        "volume_24h": 244462163
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.4,
-        "change_24h": -0.2,
-        "market_cap": 2759981607,
-        "volume_24h": 208294125
+        "price_usd": 6.42,
+        "change_24h": -3.02,
+        "market_cap": 2769918882,
+        "volume_24h": 189203201
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 5,
-        "price_usd": 60109,
-        "change_24h": 0.43
+        "price_usd": 60023,
+        "change_24h": -0.05
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 1575.1,
-        "change_24h": 0.21
+        "price_usd": 1572.91,
+        "change_24h": -0.36
       },
       {
         "symbol": "ADA",
         "mentions": 1,
-        "price_usd": 0.144905,
-        "change_24h": -1.38
+        "price_usd": 0.145143,
+        "change_24h": -2.31
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 70.78,
-        "change_24h": -1.07
+        "price_usd": 70.44,
+        "change_24h": -2.31
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 557.61,
-        "change_24h": -1.66
+        "price_usd": 556.72,
+        "change_24h": -1.93
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.05,
-        "change_24h": 0.67
+        "price_usd": 1.047,
+        "change_24h": -0.05
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.07455,
-        "change_24h": -1.05
+        "price_usd": 0.074462,
+        "change_24h": -1.73
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.4,
-        "change_24h": -0.2
+        "price_usd": 6.42,
+        "change_24h": -3.02
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 7.3,
-        "change_24h": 0.04
+        "price_usd": 7.29,
+        "change_24h": -0.94
       },
       {
         "symbol": "TON",
@@ -321,7 +321,7 @@
     "polymarket": [
       {
         "title": "Will Netherlands win on 2026-06-29?",
-        "volume_24h": 259371,
+        "volume_24h": 259430,
         "yes_price": 0.46,
         "category": "crypto"
       }
@@ -346,8 +346,8 @@
           "TON": 0
         },
         "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - June 26, 2026 (GMT+0)",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1uglwfr/daily_crypto_discussion_june_26_2026_gmt0/",
+        "top_post": "Daily Crypto Discussion - June 27, 2026 (GMT+0)",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1uhgnjy/daily_crypto_discussion_june_27_2026_gmt0/",
         "top_post_score": 0
       }
     ],
@@ -361,66 +361,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 151,
+      "active_threads": 145,
       "mentions": {
-        "BTC": 32,
+        "BTC": 30,
         "XRP": 20,
-        "BNB": 10
+        "BNB": 7
       },
-      "bullish_hits": 82,
-      "bearish_hits": 66,
-      "bullish_pct": 55,
+      "bullish_hits": 90,
+      "bearish_hits": 71,
+      "bullish_pct": 56,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
         "symbol": "DEUS",
         "name": "XMAQUINA",
-        "rank": 894,
+        "rank": 899,
         "score": 0,
-        "change_24h": 33.07
+        "change_24h": 32.57
+      },
+      {
+        "symbol": "VELVET",
+        "name": "Velvet",
+        "rank": 90,
+        "score": 1,
+        "change_24h": 124.26
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 119,
-        "score": 1,
-        "change_24h": 0.48
-      },
-      {
-        "symbol": "VELVET",
-        "name": "Velvet",
-        "rank": 94,
         "score": 2,
-        "change_24h": 106.86
+        "change_24h": -0.43
       },
       {
-        "symbol": "TAO",
-        "name": "Bittensor",
-        "rank": 41,
+        "symbol": "LAB",
+        "name": "LAB",
+        "rank": 22,
         "score": 3,
-        "change_24h": -1.94
+        "change_24h": -15.33
       },
       {
-        "symbol": "SOL",
-        "name": "Solana",
-        "rank": 7,
+        "symbol": "AAVE",
+        "name": "Aave",
+        "rank": 52,
         "score": 4,
-        "change_24h": -1.31
+        "change_24h": -1.19
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
         "score": 5,
-        "change_24h": 0.41
+        "change_24h": -0.07
       },
       {
-        "symbol": "AAVE",
-        "name": "Aave",
-        "rank": 53,
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 10,
         "score": 6,
-        "change_24h": 0.13
+        "change_24h": -4.1
       }
     ]
   },
@@ -519,7 +519,7 @@
         "title": "U.S. military attacks Iranian targets after commercial tanker hit in the Strait of Hormuz",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
-        "published": "Sat, 27 Jun 2026 22:27:11 GMT",
+        "published": "Sat, 27 Jun 2026 22:54:45 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -666,7 +666,7 @@
     "polymarket": [
       {
         "title": "Putin out as President of Russia by December 31, 2026?",
-        "volume_24h": 574243,
+        "volume_24h": 563822,
         "yes_price": 0.12,
         "category": "finance"
       }
@@ -818,31 +818,31 @@
       "symbol": "QQQM",
       "name": "Invesco Nasdaq 100",
       "type": "Growth",
-      "price_usd": 290.95,
-      "change_1d": -1.33,
-      "change_1w": -4.35,
-      "change_1m": -3.03,
+      "price_usd": 294.88,
+      "change_1d": 0.77,
+      "change_1w": -0.79,
+      "change_1m": -1.82,
       "high_3m": 306.87,
       "low_3m": 229.6,
       "week52_high": 308.21,
       "week52_low": 224.19,
-      "rsi": 50.7,
+      "rsi": 43.7,
       "div_yield": 42.0,
       "last_div": null,
       "outlook": {
         "label": "Mild Bearish",
         "color": "red",
-        "score": -2,
+        "score": -1,
         "bull_count": 1,
-        "bear_count": 3,
+        "bear_count": 2,
         "total": 5,
-        "confidence": "Medium",
+        "confidence": "Low",
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 50.7 — In neutral range (45–55)",
-          "5-day momentum -4.3% — short-term selling pressure ↓",
-          "1-month return -3.0% — sustained downtrend ↓"
+          "RSI 43.7 — Below neutral, mild downward pressure ↓",
+          "5-day momentum -0.8% — consolidating sideways →",
+          "1-month return -1.8% — range-bound"
         ]
       }
     }
