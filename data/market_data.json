@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T00:15:55Z",
+  "updated_at": "2026-07-02T04:43:22Z",
   "crypto": {
     "fear_greed": {
       "value": 19,
@@ -7,61 +7,134 @@
       "previous_value": 11,
       "previous_label": "Extreme Fear"
     },
-    "prices": [],
+    "prices": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price_usd": 60706,
+        "change_24h": 2.47,
+        "market_cap": 1217228725232,
+        "volume_24h": 39015589222
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price_usd": 1629.54,
+        "change_24h": 2.21,
+        "market_cap": 196701135964,
+        "volume_24h": 10658994357
+      },
+      {
+        "symbol": "BNB",
+        "name": "BNB",
+        "price_usd": 552.74,
+        "change_24h": 0.32,
+        "market_cap": 74486771558,
+        "volume_24h": 818738790
+      },
+      {
+        "symbol": "XRP",
+        "name": "XRP",
+        "price_usd": 1.061,
+        "change_24h": 1.08,
+        "market_cap": 66059912082,
+        "volume_24h": 1472443899
+      },
+      {
+        "symbol": "SOL",
+        "name": "Solana",
+        "price_usd": 78.04,
+        "change_24h": 3.48,
+        "market_cap": 45342222321,
+        "volume_24h": 3493176040
+      },
+      {
+        "symbol": "DOGE",
+        "name": "Dogecoin",
+        "price_usd": 0.072922,
+        "change_24h": 0.81,
+        "market_cap": 11295217011,
+        "volume_24h": 622710855
+      },
+      {
+        "symbol": "ADA",
+        "name": "Cardano",
+        "price_usd": 0.154833,
+        "change_24h": 2.33,
+        "market_cap": 5768854636,
+        "volume_24h": 515742981
+      },
+      {
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "price_usd": 7.49,
+        "change_24h": 2.73,
+        "market_cap": 5602096113,
+        "volume_24h": 225292831
+      },
+      {
+        "symbol": "AVAX",
+        "name": "Avalanche",
+        "price_usd": 6.7,
+        "change_24h": 0.39,
+        "market_cap": 2892778806,
+        "volume_24h": 195913889
+      }
+    ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 5,
-        "price_usd": null,
-        "change_24h": null
+        "mentions": 4,
+        "price_usd": 60706,
+        "change_24h": 2.47
       },
       {
         "symbol": "ETH",
         "mentions": 3,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 1629.54,
+        "change_24h": 2.21
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 78.04,
+        "change_24h": 3.48
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 552.74,
+        "change_24h": 0.32
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 1.061,
+        "change_24h": 1.08
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 0.154833,
+        "change_24h": 2.33
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 0.072922,
+        "change_24h": 0.81
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 6.7,
+        "change_24h": 0.39
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 7.49,
+        "change_24h": 2.73
       },
       {
         "symbol": "TON",
@@ -80,7 +153,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -90,7 +163,7 @@
         "published": "Wed, 01 Jul 2026 18:25:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -102,7 +175,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -112,7 +185,7 @@
         "published": "Wed, 01 Jul 2026 16:11:50 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -124,7 +197,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -158,7 +231,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.3,
         "color": "green"
       },
       {
@@ -178,7 +251,43 @@
         "published": "Wed, 01 Jul 2026 14:00:00 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.6,
+        "color": "red"
+      },
+      {
+        "title": "Analyst warns BTC could drop further after worst June since 2022",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 02 Jul 2026 03:42:24 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 02 Jul 2026 03:31:39 +0000",
+        "assets": [
+          "UNI"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Trumps’ American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/trumps-american-bitcoin-sinks-ahead-of-reverse-stock-split-to-stay-listed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 02 Jul 2026 02:38:34 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
         "color": "red"
       },
       {
@@ -202,57 +311,36 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "Tradeweb executes real-time tokenized US Treasury transaction on Canton Network",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/tradeweb-executes-real-time-tokenized-us-treasury-transaction-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 01 Jul 2026 20:38:39 +0000",
-        "assets": [
-          "TON"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
-      },
-      {
-        "title": "Bitcoin bounces off 21-month low, but leverage data signals caution: Was $57K the bottom?",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-21-month-low-but-leverage-data-signals-caution-was-57k-the-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 01 Jul 2026 20:27:49 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 01 Jul 2026 20:12:04 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.3,
-      "label": "Bullish",
-      "color": "green"
+      "score": 0.173,
+      "label": "Neutral",
+      "color": "yellow"
     },
-    "polymarket": [],
+    "polymarket": [
+      {
+        "title": "Will the price of Bitcoin be above $62,000 on July 2?",
+        "volume_24h": 143524,
+        "yes_price": 0.1,
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin Up or Down on July 2?",
+        "volume_24h": 130465,
+        "yes_price": 0.77,
+        "category": "crypto"
+      }
+    ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Insufficient data to generate a summary."
+      "outlook": "Bullish",
+      "summary": "Bullish: 77% predict Bitcoin will be up on July 2, with $130,465 volume."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 5,
+          "BTC": 4,
           "ETH": 3,
           "SOL": 0,
           "BNB": 0,
@@ -270,75 +358,75 @@
       }
     ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "outlook": "Bullish",
+      "summary": "Bullish: BTC and ETH dominate discussion with 7 mentions, indicating optimism, in highly active r/CryptoCurrency subreddit with 100/100 activity."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 4 bullish vs 5 bearish signals detected across crypto news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: Ethereum's institutional launch, Robinhood's blockchain expansion, and Bitcoin breaking $60,000 drive optimism, outweighing bearish concerns from Jefferies and a $400 million crypto Ponzi case."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 136,
+      "active_threads": 135,
       "mentions": {
-        "BTC": 26,
-        "XRP": 14,
+        "BTC": 34,
+        "XRP": 7,
         "SOL": 3
       },
-      "bullish_hits": 89,
-      "bearish_hits": 55,
-      "bullish_pct": 62,
+      "bullish_hits": 86,
+      "bearish_hits": 59,
+      "bullish_pct": 59,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
         "symbol": "TAIKO",
         "name": "Taiko",
-        "rank": 427,
+        "rank": 605,
         "score": 0,
-        "change_24h": 231.99
+        "change_24h": 86.91
       },
       {
-        "symbol": "NFP",
-        "name": "NFPrompt",
-        "rank": 836,
+        "symbol": "SOL",
+        "name": "Solana",
+        "rank": 7,
         "score": 1,
-        "change_24h": 511.57
+        "change_24h": 3.66
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 118,
         "score": 2,
-        "change_24h": 1.75
+        "change_24h": -0.07
       },
       {
         "symbol": "GRASS",
         "name": "Grass",
         "rank": 135,
         "score": 3,
-        "change_24h": 2.23
+        "change_24h": 1.01
       },
       {
         "symbol": "LIT",
         "name": "Lighter",
-        "rank": 102,
+        "rank": 101,
         "score": 4,
-        "change_24h": 11.02
+        "change_24h": 9.22
       },
       {
-        "symbol": "ANSEM",
-        "name": "The Black Bull",
-        "rank": 360,
+        "symbol": "VVV",
+        "name": "Venice Token",
+        "rank": 92,
         "score": 5,
-        "change_24h": 10.81
+        "change_24h": 3.15
       },
       {
-        "symbol": "ETH",
-        "name": "Ethereum",
-        "rank": 2,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 6,
-        "change_24h": 2.02
+        "change_24h": 2.57
       }
     ]
   },
@@ -421,14 +509,54 @@
     "top_mentioned": [],
     "news": [
       {
+        "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
+        "published": "Thu, 02 Jul 2026 03:04:59 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
         "title": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html",
         "published": "Wed, 01 Jul 2026 18:55:47 GMT",
         "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
+      },
+      {
+        "title": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html",
+        "published": "Thu, 02 Jul 2026 03:06:14 GMT",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "Oil falls as easing Middle East tensions send Brent to its worst quarter since 2020",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/02/oil-prices-fall-after-us-iran-talks-conclude-in-doha.html",
+        "published": "Thu, 02 Jul 2026 04:01:46 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Shares of BYD and Xiaomi surge as June delivery figures fuel optimism",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/02/china-ev-stocks-xiaomi-byd-june-deliveries-production.html",
+        "published": "Thu, 02 Jul 2026 04:02:35 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Trump got $15,000 in FIFA tickets from Gianni Infantino. Next up: Presenting the World Cup trophy",
@@ -441,54 +569,26 @@
         "color": "yellow"
       },
       {
-        "title": "Trump Accounts for kids launch July 4: What parents need to know",
+        "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
-        "published": "Wed, 01 Jul 2026 12:15:01 GMT",
+        "url": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
+        "published": "Thu, 02 Jul 2026 01:00:01 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
-        "title": "Why Japanese airlines' $400 fuel surcharges are hitting now — and when they will end",
+        "title": "Inside India newsletter: Amazon, Walmart-owned Flipkart get ready to shake up\nIndia's delivery-in-minutes sector",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/02/japan-airlines-increase-fuel-surcharges-despite-falling-jet-fuel-costs.html",
-        "published": "Wed, 01 Jul 2026 23:27:45 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
-      },
-      {
-        "title": "South Korean government discriminated against Coupang, U.S. companies, House report finds",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/01/coupang-south-korea-coupang-house-judiciary.html",
-        "published": "Thu, 02 Jul 2026 00:01:59 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
-      },
-      {
-        "title": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
-        "published": "Wed, 01 Jul 2026 20:12:19 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html",
-        "published": "Wed, 01 Jul 2026 20:40:10 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "url": "https://www.cnbc.com/2026/07/02/india-amazon-walmart-flipkart-quick-commerce.html",
+        "published": "Thu, 02 Jul 2026 00:10:37 GMT",
+        "assets": [
+          "AMZN"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Lamborghini reveals new Urus performance hybrid SUV after ditching EVs",
@@ -506,15 +606,15 @@
         "url": "https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html",
         "published": "Wed, 01 Jul 2026 12:53:23 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
-        "title": "Trump says outside funds 'run my money' after disclosure shows billions in 2025 revenue",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/01/trump-money-financial-disclosure-crypto-billions.html",
-        "published": "Wed, 01 Jul 2026 18:44:13 GMT",
+        "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
+        "published": "Thu, 02 Jul 2026 00:15:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -526,9 +626,9 @@
         "url": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
         "published": "Wed, 01 Jul 2026 23:48:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
@@ -561,69 +661,77 @@
           "META"
         ],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 21:58:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.0,
+      "score": -0.033,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Putin out as President of Russia by December 31, 2026?",
-        "volume_24h": 1040700,
+        "volume_24h": 1093272,
         "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_24h": 639926,
-        "yes_price": 0.8,
+        "volume_24h": 682239,
+        "yes_price": 0.81,
         "category": "finance"
       },
       {
         "title": "Will China invade Taiwan by end of 2026?",
-        "volume_24h": 409443,
+        "volume_24h": 418000,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_24h": 252288,
+        "volume_24h": 269804,
         "yes_price": 0.18,
         "category": "finance"
       },
       {
         "title": "US x Iran diplomatic meeting by July 3, 2026?",
-        "volume_24h": 234157,
+        "volume_24h": 217160,
         "yes_price": 0.04,
+        "category": "finance"
+      },
+      {
+        "title": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+        "volume_24h": 187641,
+        "yes_price": 0.37,
+        "category": "finance"
+      },
+      {
+        "title": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+        "volume_24h": 151111,
+        "yes_price": 0.9,
+        "category": "finance"
+      },
+      {
+        "title": "Will Renan Santos win the 2026 Brazilian presidential election?",
+        "volume_24h": 140219,
+        "yes_price": 0.11,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: NVIDIA, with 90% predicting it will be the largest company by market cap on July 31, and stable Fed rates, with 81% expecting no change after the July meeting."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
+      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentions or subreddits provided."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 2 bullish vs 1 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: Market sentiment is down due to a 7% tumble in Samsung and SK Hynix shares, and oil's worst quarter since 2020, with Brent falling."
     }
   },
   "portfolio": [
@@ -696,30 +804,30 @@
       "name": "JPMorgan Nasdaq Equity Premium",
       "type": "Equity Income",
       "price_usd": 60.2,
-      "change_1d": -2.05,
-      "change_1w": 0.85,
-      "change_1m": -0.82,
-      "high_3m": 61.46,
-      "low_3m": 54.53,
+      "change_1d": -1.02,
+      "change_1w": 1.91,
+      "change_1m": 0.21,
+      "high_3m": 60.82,
+      "low_3m": 53.96,
       "week52_high": 61.72,
       "week52_low": 53.51,
-      "rsi": 59.9,
+      "rsi": 63.5,
       "div_yield": 10.11,
       "last_div": null,
       "outlook": {
         "label": "Bullish",
         "color": "green",
-        "score": 3,
-        "bull_count": 3,
+        "score": 4,
+        "bull_count": 4,
         "bear_count": 0,
         "total": 5,
-        "confidence": "Medium",
+        "confidence": "High",
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 59.9 — Above neutral, mild upward momentum ↑",
-          "5-day momentum +0.9% — consolidating sideways →",
-          "1-month return -0.8% — range-bound"
+          "RSI 63.5 — Above neutral, mild upward momentum ↑",
+          "5-day momentum +1.9% — short-term buying pressure ↑",
+          "1-month return +0.2% — range-bound"
         ]
       }
     },
