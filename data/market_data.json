@@ -1,140 +1,67 @@
 {
-  "updated_at": "2026-07-01T22:49:25Z",
+  "updated_at": "2026-07-02T00:15:55Z",
   "crypto": {
     "fear_greed": {
-      "value": 11,
+      "value": 19,
       "label": "Extreme Fear",
-      "previous_value": 15,
+      "previous_value": 11,
       "previous_label": "Extreme Fear"
     },
-    "prices": [
-      {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "price_usd": 60421,
-        "change_24h": 3.23,
-        "market_cap": 1210941978684,
-        "volume_24h": 37994592201
-      },
-      {
-        "symbol": "ETH",
-        "name": "Ethereum",
-        "price_usd": 1623.1,
-        "change_24h": 3.59,
-        "market_cap": 195789539359,
-        "volume_24h": 11175349289
-      },
-      {
-        "symbol": "BNB",
-        "name": "BNB",
-        "price_usd": 553.41,
-        "change_24h": 1.67,
-        "market_cap": 74567837013,
-        "volume_24h": 836960758
-      },
-      {
-        "symbol": "XRP",
-        "name": "XRP",
-        "price_usd": 1.062,
-        "change_24h": 2.31,
-        "market_cap": 66109978782,
-        "volume_24h": 1666585066
-      },
-      {
-        "symbol": "SOL",
-        "name": "Solana",
-        "price_usd": 77.94,
-        "change_24h": 6.32,
-        "market_cap": 45289199291,
-        "volume_24h": 3587836453
-      },
-      {
-        "symbol": "DOGE",
-        "name": "Dogecoin",
-        "price_usd": 0.073071,
-        "change_24h": 1.68,
-        "market_cap": 11319020651,
-        "volume_24h": 602379862
-      },
-      {
-        "symbol": "ADA",
-        "name": "Cardano",
-        "price_usd": 0.155881,
-        "change_24h": 8.49,
-        "market_cap": 5808845564,
-        "volume_24h": 562872281
-      },
-      {
-        "symbol": "LINK",
-        "name": "Chainlink",
-        "price_usd": 7.45,
-        "change_24h": 3.87,
-        "market_cap": 5573673588,
-        "volume_24h": 205984780
-      },
-      {
-        "symbol": "AVAX",
-        "name": "Avalanche",
-        "price_usd": 6.73,
-        "change_24h": 3.27,
-        "market_cap": 2904511700,
-        "volume_24h": 198446732
-      }
-    ],
+    "prices": [],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 5,
-        "price_usd": 60421,
-        "change_24h": 3.23
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "ETH",
         "mentions": 3,
-        "price_usd": 1623.1,
-        "change_24h": 3.59
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 77.94,
-        "change_24h": 6.32
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 553.41,
-        "change_24h": 1.67
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.062,
-        "change_24h": 2.31
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.155881,
-        "change_24h": 8.49
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.073071,
-        "change_24h": 1.68
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.73,
-        "change_24h": 3.27
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 7.45,
-        "change_24h": 3.87
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "TON",
@@ -337,8 +264,8 @@
           "TON": 0
         },
         "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - June 30, 2026 (GMT+0)",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1uk4hxj/daily_crypto_discussion_june_30_2026_gmt0/",
+        "top_post": "Daily Crypto Discussion - July 1, 2026 (GMT+0)",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ul0yxv/daily_crypto_discussion_july_1_2026_gmt0/",
         "top_post_score": 0
       }
     ],
@@ -352,7 +279,7 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 135,
+      "active_threads": 136,
       "mentions": {
         "BTC": 26,
         "XRP": 14,
@@ -365,53 +292,53 @@
     },
     "cg_trending": [
       {
+        "symbol": "TAIKO",
+        "name": "Taiko",
+        "rank": 427,
+        "score": 0,
+        "change_24h": 231.99
+      },
+      {
         "symbol": "NFP",
         "name": "NFPrompt",
-        "rank": 697,
-        "score": 0,
-        "change_24h": 776.93
+        "rank": 836,
+        "score": 1,
+        "change_24h": 511.57
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 118,
-        "score": 1,
-        "change_24h": 3.56
-      },
-      {
-        "symbol": "LIT",
-        "name": "Lighter",
-        "rank": 101,
         "score": 2,
-        "change_24h": 14.79
-      },
-      {
-        "symbol": "TAIKO",
-        "name": "Taiko",
-        "rank": 464,
-        "score": 3,
-        "change_24h": 195.11
+        "change_24h": 1.75
       },
       {
         "symbol": "GRASS",
         "name": "Grass",
-        "rank": 133,
-        "score": 4,
-        "change_24h": 6.82
+        "rank": 135,
+        "score": 3,
+        "change_24h": 2.23
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
-        "score": 5,
-        "change_24h": 3.18
+        "symbol": "LIT",
+        "name": "Lighter",
+        "rank": 102,
+        "score": 4,
+        "change_24h": 11.02
       },
       {
         "symbol": "ANSEM",
         "name": "The Black Bull",
-        "rank": 371,
+        "rank": 360,
+        "score": 5,
+        "change_24h": 10.81
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "rank": 2,
         "score": 6,
-        "change_24h": 11.94
+        "change_24h": 2.02
       }
     ]
   },
@@ -524,14 +451,34 @@
         "color": "yellow"
       },
       {
+        "title": "Why Japanese airlines' $400 fuel surcharges are hitting now — and when they will end",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/02/japan-airlines-increase-fuel-surcharges-despite-falling-jet-fuel-costs.html",
+        "published": "Wed, 01 Jul 2026 23:27:45 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
+      },
+      {
+        "title": "South Korean government discriminated against Coupang, U.S. companies, House report finds",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/01/coupang-south-korea-coupang-house-judiciary.html",
+        "published": "Thu, 02 Jul 2026 00:01:59 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
+      },
+      {
         "title": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
         "published": "Wed, 01 Jul 2026 20:12:19 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
@@ -544,6 +491,26 @@
         "color": "yellow"
       },
       {
+        "title": "Lamborghini reveals new Urus performance hybrid SUV after ditching EVs",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/01/lamborghini-urus-suv.html",
+        "published": "Wed, 01 Jul 2026 10:13:43 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
+      {
+        "title": "Employers who laid off workers citing AI are already starting to regret it",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html",
+        "published": "Wed, 01 Jul 2026 12:53:23 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
+      {
         "title": "Trump says outside funds 'run my money' after disclosure shows billions in 2025 revenue",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/01/trump-money-financial-disclosure-crypto-billions.html",
@@ -554,40 +521,32 @@
         "color": "yellow"
       },
       {
-        "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
-        "published": "Wed, 01 Jul 2026 20:12:29 GMT",
+        "title": "Opening a ‘Trump account’ for your children? Here is the risk you need to reckon with first.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 23:48:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
-        "title": "Trump administration's limits on student loan forgiveness program are blocked. What to know",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/01/trumps-limits-on-student-loan-forgiveness-program-blocked.html",
-        "published": "Wed, 01 Jul 2026 17:33:46 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 23:11:00 GMT",
+        "assets": [
+          "NVDA"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
-        "title": "Lamborghini reveals new Urus performance hybrid SUV after ditching EVs",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/01/lamborghini-urus-suv.html",
-        "published": "Wed, 01 Jul 2026 10:13:43 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Employers who laid off workers citing AI are already starting to regret it",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html",
-        "published": "Wed, 01 Jul 2026 12:53:23 GMT",
+        "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 23:01:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -602,7 +561,7 @@
           "META"
         ],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -614,66 +573,42 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 21:55:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "ServiceNow and Salesforce shares now look like buys, as ‘Armageddon’ fears are too extreme, analyst says",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 21:54:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 21:51:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
+      "score": 0.0,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Putin out as President of Russia by December 31, 2026?",
-        "volume_24h": 1046116,
+        "volume_24h": 1040700,
         "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_24h": 634851,
+        "volume_24h": 639926,
         "yes_price": 0.8,
         "category": "finance"
       },
       {
         "title": "Will China invade Taiwan by end of 2026?",
-        "volume_24h": 408877,
+        "volume_24h": 409443,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_24h": 250161,
+        "volume_24h": 252288,
         "yes_price": 0.18,
+        "category": "finance"
+      },
+      {
+        "title": "US x Iran diplomatic meeting by July 3, 2026?",
+        "volume_24h": 234157,
+        "yes_price": 0.04,
         "category": "finance"
       }
     ],
@@ -687,8 +622,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock/finance news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 2 bullish vs 1 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
