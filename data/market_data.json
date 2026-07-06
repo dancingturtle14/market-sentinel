@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-07-05T23:09:26Z",
+  "updated_at": "2026-07-06T01:17:11Z",
   "crypto": {
     "fear_greed": {
-      "value": 23,
+      "value": 24,
       "label": "Extreme Fear",
-      "previous_value": 22,
+      "previous_value": 23,
       "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 63738,
-        "change_24h": 0.91,
-        "market_cap": 1278724243044,
-        "volume_24h": 18583249445
+        "price_usd": 63735,
+        "change_24h": 1.4,
+        "market_cap": 1278015206663,
+        "volume_24h": 19291084310
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1793.49,
-        "change_24h": 0.56,
-        "market_cap": 216451677257,
-        "volume_24h": 10838898339
+        "price_usd": 1790.82,
+        "change_24h": 1.44,
+        "market_cap": 216124730042,
+        "volume_24h": 11411484651
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 590.81,
-        "change_24h": 2.57,
-        "market_cap": 79641798873,
-        "volume_24h": 763945692
+        "price_usd": 591.43,
+        "change_24h": 3.46,
+        "market_cap": 79720786291,
+        "volume_24h": 742093626
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.16,
-        "change_24h": -0.11,
-        "market_cap": 72142464877,
-        "volume_24h": 1240452897
+        "change_24h": 1.09,
+        "market_cap": 72038959064,
+        "volume_24h": 1257661356
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 81.74,
-        "change_24h": -0.03,
-        "market_cap": 47506032253,
-        "volume_24h": 1642710428
+        "price_usd": 81.96,
+        "change_24h": 1.29,
+        "market_cap": 47632210614,
+        "volume_24h": 1674683604
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.078362,
-        "change_24h": 0.77,
-        "market_cap": 12144966754,
-        "volume_24h": 543352941
+        "price_usd": 0.078057,
+        "change_24h": 1.36,
+        "market_cap": 12094961611,
+        "volume_24h": 558595651
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.19047,
-        "change_24h": -0.7,
-        "market_cap": 7098133713,
-        "volume_24h": 534215335
+        "price_usd": 0.189492,
+        "change_24h": -1.94,
+        "market_cap": 7060971259,
+        "volume_24h": 506153034
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.1,
-        "change_24h": 1.03,
-        "market_cap": 6056933765,
-        "volume_24h": 129580974
+        "price_usd": 8.11,
+        "change_24h": 1.9,
+        "market_cap": 6067726440,
+        "volume_24h": 131930331
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.95,
-        "change_24h": -0.38,
-        "market_cap": 3000684549,
-        "volume_24h": 146509924
+        "price_usd": 6.91,
+        "change_24h": 0.22,
+        "market_cap": 2983824250,
+        "volume_24h": 144731786
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 6,
-        "price_usd": 63738,
-        "change_24h": 0.91
+        "mentions": 2,
+        "price_usd": 63735,
+        "change_24h": 1.4
       },
       {
         "symbol": "ETH",
-        "mentions": 4,
-        "price_usd": 1793.49,
-        "change_24h": 0.56
-      },
-      {
-        "symbol": "XRP",
-        "mentions": 1,
-        "price_usd": 1.16,
-        "change_24h": -0.11
+        "mentions": 2,
+        "price_usd": 1790.82,
+        "change_24h": 1.44
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 81.74,
-        "change_24h": -0.03
+        "price_usd": 81.96,
+        "change_24h": 1.29
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 590.81,
-        "change_24h": 2.57
+        "price_usd": 591.43,
+        "change_24h": 3.46
+      },
+      {
+        "symbol": "XRP",
+        "mentions": 0,
+        "price_usd": 1.16,
+        "change_24h": 1.09
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.19047,
-        "change_24h": -0.7
+        "price_usd": 0.189492,
+        "change_24h": -1.94
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.078362,
-        "change_24h": 0.77
+        "price_usd": 0.078057,
+        "change_24h": 1.36
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.95,
-        "change_24h": -0.38
+        "price_usd": 6.91,
+        "change_24h": 0.22
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 8.1,
-        "change_24h": 1.03
+        "price_usd": 8.11,
+        "change_24h": 1.9
       },
       {
         "symbol": "TON",
@@ -151,7 +151,7 @@
         "published": "Sun, 05 Jul 2026 18:30:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.1,
         "color": "yellow"
       },
       {
@@ -161,7 +161,7 @@
         "published": "Sun, 05 Jul 2026 15:00:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -171,7 +171,7 @@
         "published": "Sun, 05 Jul 2026 14:00:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -180,9 +180,9 @@
         "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
         "published": "Sun, 05 Jul 2026 13:00:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.3,
+        "color": "green"
       },
       {
         "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
@@ -191,7 +191,7 @@
         "published": "Sun, 05 Jul 2026 13:00:00 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.3,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -213,7 +213,7 @@
         "published": "Sat, 04 Jul 2026 20:00:00 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -225,7 +225,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -236,9 +236,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.1,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
@@ -253,6 +253,18 @@
         "color": "red"
       },
       {
+        "title": "Dubai tops Asian crypto hubs, India isolates banks from crypto: Asia Express",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 05 Jul 2026 23:35:03 +0000",
+        "assets": [
+          "SOL"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/markets/bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -261,7 +273,7 @@
           "BTC"
         ],
         "sentiment": "Neutral",
-        "score": 0.1,
+        "score": -0.2,
         "color": "yellow"
       },
       {
@@ -270,9 +282,9 @@
         "url": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Sun, 05 Jul 2026 11:52:47 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       },
       {
         "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
@@ -283,7 +295,7 @@
           "ETH"
         ],
         "sentiment": "Bearish",
-        "score": -0.7,
+        "score": -1.0,
         "color": "red"
       },
       {
@@ -295,36 +307,24 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 05 Jul 2026 03:50:36 +0000",
-        "assets": [
-          "ETH"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.6,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.093,
+      "score": 0.027,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $64,000 June 29-July 5?",
-        "volume_24h": 152801,
-        "yes_price": 0.76,
+        "volume_24h": 167895,
+        "yes_price": 0.56,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 56% of participants predict Bitcoin will reach $64,000, with $167,895 in volume, indicating a positive market sentiment."
     },
     "reddit": [
       {
@@ -345,46 +345,27 @@
         "top_post": "Daily Crypto Discussion - July 5, 2026 (GMT+0)",
         "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1uog9g8/daily_crypto_discussion_july_5_2026_gmt0/",
         "top_post_score": 0
-      },
-      {
-        "subreddit": "r/CryptoMarkets",
-        "mentions": {
-          "BTC": 4,
-          "ETH": 2,
-          "XRP": 1,
-          "SOL": 0,
-          "BNB": 0,
-          "ADA": 0,
-          "DOGE": 0,
-          "AVAX": 0,
-          "LINK": 0,
-          "TON": 0
-        },
-        "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - July 5, 2026",
-        "top_post_url": "https://www.reddit.com/r/CryptoMarkets/comments/1uo1n1y/daily_crypto_discussion_july_5_2026/",
-        "top_post_score": 0
       }
     ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "outlook": "Bullish",
+      "summary": "Bullish: BTC and ETH dominate discussion with 2 mentions each, indicating optimism, in highly active r/CryptoCurrency subreddit with 100/100 activity."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 3 bullish vs 3 bearish signals detected across crypto news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: The market sentiment is positive, driven by $571 million in Polymarket trades, growing bank interest in stablecoins, and bitcoin jumping above $63,000, with 5 bullish signals outweighing 2 bearish ones."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 144,
+      "active_threads": 137,
       "mentions": {
-        "BTC": 26,
+        "BTC": 27,
         "XRP": 21,
         "BNB": 3
       },
-      "bullish_hits": 78,
-      "bearish_hits": 52,
-      "bullish_pct": 60,
+      "bullish_hits": 76,
+      "bearish_hits": 55,
+      "bullish_pct": 58,
       "top_coin": "BTC"
     },
     "cg_trending": [
@@ -393,49 +374,49 @@
         "name": "The Black Bull",
         "rank": 224,
         "score": 0,
-        "change_24h": -7.91
+        "change_24h": -5.73
       },
       {
         "symbol": "LIT",
         "name": "Lighter",
         "rank": 94,
         "score": 1,
-        "change_24h": 9.22
+        "change_24h": 16.21
       },
       {
-        "symbol": "HYPE",
-        "name": "Hyperliquid",
-        "rank": 10,
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "rank": 20,
         "score": 2,
-        "change_24h": 2.1
+        "change_24h": 1.75
       },
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 114,
+        "symbol": "SOL",
+        "name": "Solana",
+        "rank": 7,
         "score": 3,
-        "change_24h": 1.2
-      },
-      {
-        "symbol": "SUI",
-        "name": "Sui",
-        "rank": 31,
-        "score": 4,
-        "change_24h": -1.06
+        "change_24h": 0.94
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
-        "score": 5,
-        "change_24h": 0.71
+        "score": 4,
+        "change_24h": 1.12
       },
       {
-        "symbol": "MON",
-        "name": "Monad",
-        "rank": 145,
+        "symbol": "SUI",
+        "name": "Sui",
+        "rank": 31,
+        "score": 5,
+        "change_24h": 0.45
+      },
+      {
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 10,
         "score": 6,
-        "change_24h": 2.56
+        "change_24h": 4.6
       }
     ]
   },
@@ -512,7 +493,68 @@
         "change_24h": 3.92
       }
     ],
-    "top_mentioned": [],
+    "top_mentioned": [
+      {
+        "symbol": "GOOGL",
+        "mentions": 1,
+        "price_usd": 359.91,
+        "change_24h": -0.36
+      },
+      {
+        "symbol": "AMZN",
+        "mentions": 1,
+        "price_usd": 242.67,
+        "change_24h": 0.4
+      },
+      {
+        "symbol": "NVDA",
+        "mentions": 0,
+        "price_usd": 194.83,
+        "change_24h": -1.39
+      },
+      {
+        "symbol": "TSLA",
+        "mentions": 0,
+        "price_usd": 393.45,
+        "change_24h": -7.49
+      },
+      {
+        "symbol": "AAPL",
+        "mentions": 0,
+        "price_usd": 308.63,
+        "change_24h": 4.84
+      },
+      {
+        "symbol": "MSFT",
+        "mentions": 0,
+        "price_usd": 390.49,
+        "change_24h": 1.62
+      },
+      {
+        "symbol": "META",
+        "mentions": 0,
+        "price_usd": 582.9,
+        "change_24h": -4.9
+      },
+      {
+        "symbol": "AMD",
+        "mentions": 0,
+        "price_usd": 517.82,
+        "change_24h": -4.26
+      },
+      {
+        "symbol": "PLTR",
+        "mentions": 0,
+        "price_usd": 129.3,
+        "change_24h": 2.84
+      },
+      {
+        "symbol": "GME",
+        "mentions": 0,
+        "price_usd": null,
+        "change_24h": null
+      }
+    ],
     "news": [
       {
         "title": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
@@ -540,9 +582,9 @@
         "url": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
         "published": "Sun, 05 Jul 2026 12:57:45 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "World Cup fans spent anywhere from $2,500 to $150,000 to see matches—they say it was worth it",
@@ -560,9 +602,9 @@
         "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
         "published": "Sat, 04 Jul 2026 12:54:04 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns",
@@ -590,9 +632,19 @@
         "url": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
         "published": "Sat, 04 Jul 2026 09:33:19 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "What caused the pre-holiday chip stock slump and what to do about it",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/05/jim-cramer-what-caused-the-pre-holiday-chip-stock-slump-and-what-to-do-about-it.html",
+        "published": "Sun, 05 Jul 2026 22:31:26 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "5 takeaways from President Donald Trump's interview with CNBC",
@@ -605,20 +657,10 @@
         "color": "yellow"
       },
       {
-        "title": "What caused the pre-holiday chip stock slump and what to do about it",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/05/jim-cramer-what-caused-the-pre-holiday-chip-stock-slump-and-what-to-do-about-it.html",
-        "published": "Sun, 05 Jul 2026 22:31:26 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
-        "published": "Sun, 05 Jul 2026 23:05:00 GMT",
+        "published": "Mon, 06 Jul 2026 00:56:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
@@ -630,9 +672,9 @@
         "url": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories",
         "published": "Sun, 05 Jul 2026 22:30:00 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
@@ -650,9 +692,9 @@
         "url": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
         "published": "Sun, 05 Jul 2026 13:03:00 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month",
@@ -660,42 +702,62 @@
         "url": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
         "published": "Sun, 05 Jul 2026 13:00:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": 0.333,
-      "label": "Bullish",
-      "color": "green"
+      "score": -0.133,
+      "label": "Neutral",
+      "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Putin out as President of Russia by December 31, 2026?",
-        "volume_24h": 523545,
+        "volume_24h": 185931,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Will LeBron James play for the Golden State Warriors in 2026-27?",
-        "volume_24h": 130656,
-        "yes_price": 0.17,
+        "volume_24h": 131044,
+        "yes_price": 0.18,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "summary": "Mixed: Markets show low confidence in Putin's removal (10%) and moderate confidence in LeBron James joining the Golden State Warriors (18%), with volumes at $185,931 and $131,044, respectively."
     },
-    "reddit": [],
+    "reddit": [
+      {
+        "subreddit": "r/wallstreetbets",
+        "mentions": {
+          "GOOGL": 1,
+          "AMZN": 1,
+          "NVDA": 0,
+          "TSLA": 0,
+          "AAPL": 0,
+          "MSFT": 0,
+          "META": 0,
+          "AMD": 0,
+          "PLTR": 0,
+          "GME": 0
+        },
+        "activity_score": 100,
+        "top_post": "What Are Your Moves Tomorrow, July 6, 2026",
+        "top_post_url": "https://www.reddit.com/r/wallstreetbets/comments/1uobx5h/what_are_your_moves_tomorrow_july_6_2026/",
+        "top_post_score": 0
+      }
+    ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
+      "outlook": "Bullish",
+      "summary": "Bullish: High activity on r/wallstreetbets (100/100) with mentions of GOOGL and AMZN, indicating optimism."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 4 bullish vs 0 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: Market sentiment is mixed, as strong government support for AI giants from Macron to Modi and top Wall Street analysts favoring dividend stocks suggest bullish pockets. However, the reported cargo vessel attack in the Red Sea introduces geopolitical and supply chain concerns, tempering overall optimism."
     }
   },
   "portfolio": [
