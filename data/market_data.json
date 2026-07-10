@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-07-09T23:48:33Z",
+  "updated_at": "2026-07-10T03:58:02Z",
   "crypto": {
     "fear_greed": {
-      "value": 22,
+      "value": 23,
       "label": "Extreme Fear",
-      "previous_value": 20,
+      "previous_value": 22,
       "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 63221,
-        "change_24h": 1.63,
-        "market_cap": 1267848203527,
-        "volume_24h": 26770178735
+        "price_usd": 63871,
+        "change_24h": 3.13,
+        "market_cap": 1281065792885,
+        "volume_24h": 27756479669
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1745.24,
-        "change_24h": 0.29,
-        "market_cap": 210622238414,
-        "volume_24h": 7528937698
+        "price_usd": 1773.99,
+        "change_24h": 2.59,
+        "market_cap": 214158707524,
+        "volume_24h": 7354301053
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 568.44,
-        "change_24h": 0.09,
-        "market_cap": 76616322462,
-        "volume_24h": 502264618
+        "price_usd": 574.7,
+        "change_24h": 1.24,
+        "market_cap": 77474819766,
+        "volume_24h": 529601086
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.092,
-        "change_24h": 0.38,
-        "market_cap": 68231038886,
-        "volume_24h": 869391667
+        "price_usd": 1.11,
+        "change_24h": 1.74,
+        "market_cap": 69103505184,
+        "volume_24h": 907717992
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 77.99,
-        "change_24h": 0.58,
-        "market_cap": 45377533650,
-        "volume_24h": 1632420730
+        "price_usd": 78.91,
+        "change_24h": 2.13,
+        "market_cap": 45915637431,
+        "volume_24h": 1630665113
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.072834,
-        "change_24h": 0.91,
-        "market_cap": 11289985296,
-        "volume_24h": 405800032
+        "price_usd": 0.073955,
+        "change_24h": 2.33,
+        "market_cap": 11464670963,
+        "volume_24h": 429657888
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.166461,
-        "change_24h": -0.15,
-        "market_cap": 6203678674,
-        "volume_24h": 284911238
+        "price_usd": 0.167698,
+        "change_24h": 0.82,
+        "market_cap": 6251544444,
+        "volume_24h": 289420212
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 7.73,
-        "change_24h": 1.49,
-        "market_cap": 5782569741,
-        "volume_24h": 144233138
+        "price_usd": 7.9,
+        "change_24h": 3.8,
+        "market_cap": 5911832517,
+        "volume_24h": 152990266
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.68,
-        "change_24h": 3.54,
-        "market_cap": 2886711065,
-        "volume_24h": 170708670
+        "price_usd": 6.77,
+        "change_24h": 4.86,
+        "market_cap": 2924391514,
+        "volume_24h": 169407166
       }
     ],
     "top_mentioned": [
       {
-        "symbol": "BTC",
-        "mentions": 7,
-        "price_usd": 63221,
-        "change_24h": 1.63
-      },
-      {
         "symbol": "ETH",
         "mentions": 5,
-        "price_usd": 1745.24,
-        "change_24h": 0.29
+        "price_usd": 1773.99,
+        "change_24h": 2.59
+      },
+      {
+        "symbol": "BTC",
+        "mentions": 3,
+        "price_usd": 63871,
+        "change_24h": 3.13
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 77.99,
-        "change_24h": 0.58
+        "price_usd": 78.91,
+        "change_24h": 2.13
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 568.44,
-        "change_24h": 0.09
+        "price_usd": 574.7,
+        "change_24h": 1.24
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.092,
-        "change_24h": 0.38
+        "price_usd": 1.11,
+        "change_24h": 1.74
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.166461,
-        "change_24h": -0.15
+        "price_usd": 0.167698,
+        "change_24h": 0.82
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.072834,
-        "change_24h": 0.91
+        "price_usd": 0.073955,
+        "change_24h": 2.33
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.68,
-        "change_24h": 3.54
+        "price_usd": 6.77,
+        "change_24h": 4.86
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 7.73,
-        "change_24h": 1.49
+        "price_usd": 7.9,
+        "change_24h": 3.8
       },
       {
         "symbol": "TON",
@@ -152,9 +152,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
       },
       {
         "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
@@ -162,9 +162,9 @@
         "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
         "published": "Thu, 09 Jul 2026 20:42:49 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
@@ -173,7 +173,7 @@
         "published": "Thu, 09 Jul 2026 20:31:39 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": -0.2,
         "color": "yellow"
       },
       {
@@ -183,7 +183,7 @@
         "published": "Thu, 09 Jul 2026 20:28:51 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -192,9 +192,9 @@
         "url": "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say",
         "published": "Thu, 09 Jul 2026 19:34:24 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
@@ -205,7 +205,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -217,7 +217,7 @@
           "BTC"
         ],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -228,9 +228,9 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Aave rolls out vaults for yield-hungry fintech investors",
@@ -238,9 +238,9 @@
         "url": "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
         "published": "Thu, 09 Jul 2026 13:01:38 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Age verification is the surveillance nobody voted for",
@@ -248,9 +248,31 @@
         "url": "https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for",
         "published": "Thu, 09 Jul 2026 13:00:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.6,
+        "color": "red"
+      },
+      {
+        "title": "Hackers tried to backdoor Injective npm package to steal wallet keys",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 10 Jul 2026 03:07:47 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.9,
+        "color": "red"
+      },
+      {
+        "title": "DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 10 Jul 2026 02:30:44 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       },
       {
         "title": "Coinbase chief legal officer to transition to advisory role on July 31",
@@ -259,7 +281,7 @@
         "published": "Thu, 09 Jul 2026 21:35:12 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": -0.2,
         "color": "yellow"
       },
       {
@@ -269,7 +291,7 @@
         "published": "Thu, 09 Jul 2026 20:19:15 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -281,51 +303,37 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "White House says it received no Democratic response related to SEC, CFTC vacancies",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/white-house-request-cftc-sec-nominations-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Jul 2026 19:48:37 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 09 Jul 2026 19:36:52 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.0,
+      "score": 0.027,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $70,000 in July?",
-        "volume_24h": 138729,
-        "yes_price": 0.21,
+        "volume_24h": 149455,
+        "yes_price": 0.27,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $67,500 in July?",
+        "volume_24h": 108132,
+        "yes_price": 0.51,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: Only 21% of participants predict Bitcoin will reach $70,000 in July, with relatively low volume of $138,729."
+      "outlook": "Mixed",
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 7,
           "ETH": 5,
+          "BTC": 3,
           "SOL": 0,
           "BNB": 0,
           "XRP": 0,
@@ -351,11 +359,11 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 148,
+      "active_threads": 150,
       "mentions": {
-        "XRP": 28,
-        "BTC": 13,
-        "ETH": 6
+        "XRP": 26,
+        "BTC": 12,
+        "ETH": 7
       },
       "bullish_hits": 93,
       "bearish_hits": 41,
@@ -366,51 +374,51 @@
       {
         "symbol": "CASHCAT",
         "name": "Cash Cat",
-        "rank": 251,
+        "rank": 228,
         "score": 0,
-        "change_24h": 2.47
+        "change_24h": 47.99
       },
       {
         "symbol": "ANSEM",
         "name": "The Black Bull",
-        "rank": 274,
+        "rank": 283,
         "score": 1,
-        "change_24h": -16.29
+        "change_24h": -23.18
+      },
+      {
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "rank": 15,
+        "score": 2,
+        "change_24h": 7.65
+      },
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 115,
+        "score": 3,
+        "change_24h": 2.64
       },
       {
         "symbol": "LAB",
         "name": "LAB",
         "rank": 119,
-        "score": 2,
-        "change_24h": -12.13
-      },
-      {
-        "symbol": "ARB",
-        "name": "Arbitrum",
-        "rank": 96,
-        "score": 3,
-        "change_24h": 14.68
-      },
-      {
-        "symbol": "PI",
-        "name": "Pi Network",
-        "rank": 64,
         "score": 4,
-        "change_24h": -4.34
+        "change_24h": -0.34
       },
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 114,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 5,
-        "change_24h": 0.72
+        "change_24h": 3.14
       },
       {
-        "symbol": "HYPE",
-        "name": "Hyperliquid",
-        "rank": 10,
+        "symbol": "MON",
+        "name": "Monad",
+        "rank": 138,
         "score": 6,
-        "change_24h": -0.51
+        "change_24h": 1.12
       }
     ]
   },
@@ -503,13 +511,23 @@
         "color": "yellow"
       },
       {
+        "title": "U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html",
+        "published": "Fri, 10 Jul 2026 02:51:57 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
         "published": "Thu, 09 Jul 2026 19:53:20 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -521,7 +539,7 @@
           "QQQ"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -551,7 +569,7 @@
         "published": "Thu, 09 Jul 2026 20:45:46 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": -0.2,
         "color": "yellow"
       },
       {
@@ -561,38 +579,38 @@
         "published": "Thu, 09 Jul 2026 23:00:10 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
-        "title": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
+        "title": "Why the world’s best-performing stock market this year fell into bear territory",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html",
-        "published": "Thu, 09 Jul 2026 23:38:13 GMT",
+        "url": "https://www.cnbc.com/2026/07/09/kospi-bear-territory-ai-samsung-skhynix-chipmakers.html",
+        "published": "Thu, 09 Jul 2026 08:48:32 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.8,
         "color": "red"
       },
       {
-        "title": "Florida's Palm Beach airport renamed for Trump",
+        "title": "How all 50 U.S. states performed over 20 years of Top States for Business",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html",
-        "published": "Thu, 09 Jul 2026 20:55:37 GMT",
+        "url": "https://www.cnbc.com/2026/07/09/top-states-business-all-time-rankings-since-2007.html",
+        "published": "Thu, 09 Jul 2026 15:06:21 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "These 10 states are best positioned to land AI data center deals despite rising public opposition",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/09/best-states-for-ai-data-centers.html",
-        "published": "Thu, 09 Jul 2026 16:08:40 GMT",
+        "title": "SK Hynix raises $26.5 billion in U.S. offering. What to know about the stock.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 02:38:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Taco Bell is reportedly pulling produce from some stores. Here’s what to know.",
@@ -601,7 +619,7 @@
         "published": "Thu, 09 Jul 2026 22:30:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": -0.2,
         "color": "yellow"
       },
       {
@@ -612,19 +630,9 @@
         "assets": [
           "QQQ"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "SK Hynix is about to hit the U.S. market. Here’s what to know about the deal.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
-        "published": "Thu, 09 Jul 2026 22:07:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
@@ -633,7 +641,7 @@
         "published": "Thu, 09 Jul 2026 22:00:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -643,61 +651,61 @@
         "published": "Thu, 09 Jul 2026 21:52:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
+      "score": -0.02,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_24h": 632500,
+        "volume_24h": 601367,
         "yes_price": 0.84,
         "category": "finance"
       },
       {
         "title": "Will Pete Buttigieg win the 2028 US Presidential Election?",
-        "volume_24h": 261467,
+        "volume_24h": 261806,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will Count Binface win the Clacton by-election?",
-        "volume_24h": 234710,
+        "volume_24h": 225100,
         "yes_price": 0.08,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_24h": 224963,
+        "volume_24h": 203386,
         "yes_price": 0.15,
-        "category": "finance"
-      },
-      {
-        "title": "Iran full airspace closure by July 15?",
-        "volume_24h": 178445,
-        "yes_price": 0.11,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 162343,
-        "yes_price": 0.15,
+        "volume_24h": 152159,
+        "yes_price": 0.17,
+        "category": "finance"
+      },
+      {
+        "title": "Iran full airspace closure by July 15?",
+        "volume_24h": 146369,
+        "yes_price": 0.11,
         "category": "finance"
       },
       {
         "title": "Will the US announce a blockade on Iran by July 31?",
-        "volume_24h": 150238,
-        "yes_price": 0.24,
+        "volume_24h": 136947,
+        "yes_price": 0.2,
         "category": "finance"
       },
       {
         "title": "Putin out as President of Russia by December 31, 2026?",
-        "volume_24h": 113852,
+        "volume_24h": 114105,
         "yes_price": 0.09,
         "category": "finance"
       }
@@ -709,11 +717,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No specific data is available to determine market sentiment, with no top mentions or subreddits provided."
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 1 bullish vs 2 bearish signals detected across stock/finance news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 1 bullish vs 0 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
