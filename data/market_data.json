@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T09:29:07Z",
+  "updated_at": "2026-07-17T11:08:44Z",
   "crypto": {
     "fear_greed": {
       "value": 27,
@@ -11,139 +11,163 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 62900,
-        "change_24h": -1.73,
-        "market_cap": 1261573156504,
-        "volume_24h": 23023700553
+        "price_usd": 63083,
+        "change_24h": -1.56,
+        "market_cap": 1265350612317,
+        "volume_24h": 24899456551
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1830.34,
-        "change_24h": -2.81,
-        "market_cap": 220895031967,
-        "volume_24h": 9844768010
+        "price_usd": 1834.28,
+        "change_24h": -2.67,
+        "market_cap": 221417315769,
+        "volume_24h": 9846271445
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 564.31,
-        "change_24h": -2.2,
-        "market_cap": 75150536619,
-        "volume_24h": 572062349
+        "price_usd": 563.38,
+        "change_24h": -2.23,
+        "market_cap": 75020325484,
+        "volume_24h": 615704671
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.086,
-        "change_24h": -1.64,
-        "market_cap": 67850475522,
-        "volume_24h": 1030860586
+        "price_usd": 1.085,
+        "change_24h": -1.86,
+        "market_cap": 67794766730,
+        "volume_24h": 1031626188
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 74.58,
-        "change_24h": -1.91,
-        "market_cap": 43432202846,
-        "volume_24h": 1529398273
+        "price_usd": 74.7,
+        "change_24h": -1.76,
+        "market_cap": 43515435400,
+        "volume_24h": 1523396903
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.071534,
-        "change_24h": -2.05,
-        "market_cap": 11094784346,
-        "volume_24h": 415056704
+        "price_usd": 0.071878,
+        "change_24h": -1.77,
+        "market_cap": 11149127512,
+        "volume_24h": 423735528
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.2,
-        "change_24h": -2.6,
-        "market_cap": 6129917362,
-        "volume_24h": 206120956
+        "price_usd": 8.18,
+        "change_24h": -2.87,
+        "market_cap": 6121148545,
+        "volume_24h": 215010899
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.160451,
-        "change_24h": -0.91,
-        "market_cap": 5979609297,
-        "volume_24h": 221880227
+        "price_usd": 0.160637,
+        "change_24h": -0.95,
+        "market_cap": 5988860834,
+        "volume_24h": 238204567
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 6.48,
-        "change_24h": -1.62,
-        "market_cap": 2797616533,
-        "volume_24h": 135245201
+        "change_24h": -1.52,
+        "market_cap": 2798984491,
+        "volume_24h": 134458424
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 4,
-        "price_usd": 62900,
-        "change_24h": -1.73
+        "price_usd": 63083,
+        "change_24h": -1.56
+      },
+      {
+        "symbol": "BNB",
+        "mentions": 1,
+        "price_usd": 563.38,
+        "change_24h": -2.23
+      },
+      {
+        "symbol": "MATIC",
+        "mentions": 1,
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1830.34,
-        "change_24h": -2.81
+        "price_usd": 1834.28,
+        "change_24h": -2.67
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 74.58,
-        "change_24h": -1.91
-      },
-      {
-        "symbol": "BNB",
-        "mentions": 0,
-        "price_usd": 564.31,
-        "change_24h": -2.2
+        "price_usd": 74.7,
+        "change_24h": -1.76
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.086,
-        "change_24h": -1.64
+        "price_usd": 1.085,
+        "change_24h": -1.86
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.160451,
-        "change_24h": -0.91
+        "price_usd": 0.160637,
+        "change_24h": -0.95
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.071534,
-        "change_24h": -2.05
+        "price_usd": 0.071878,
+        "change_24h": -1.77
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
         "price_usd": 6.48,
-        "change_24h": -1.62
+        "change_24h": -1.52
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 8.2,
-        "change_24h": -2.6
-      },
-      {
-        "symbol": "TON",
-        "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 8.18,
+        "change_24h": -2.87
       }
     ],
     "news": [
+      {
+        "title": "Live markets: Bitcoin slips to $63,000 as the chip rout goes global",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
+        "published": "Fri, 17 Jul 2026 10:43:57 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
+      },
+      {
+        "title": "Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
+        "published": "Fri, 17 Jul 2026 10:26:06 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
       {
         "title": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
         "source": "CoinDesk",
@@ -152,9 +176,9 @@
         "assets": [
           "BNB"
         ],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
       },
       {
         "title": "Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds",
@@ -178,20 +202,20 @@
           "ETH"
         ],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.7,
         "color": "red"
       },
       {
-        "title": "Bitcoin Ordinals leader proposes a way to bypass data restriction efforts",
+        "title": "DOG Mode vs. BIP-110: Inside the Bitcoin client built to bypass data restrictions",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
         "published": "Fri, 17 Jul 2026 05:32:00 +0000",
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 0.6,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
@@ -236,23 +260,25 @@
         "color": "green"
       },
       {
-        "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-        "published": "Thu, 16 Jul 2026 16:14:30 +0000",
+        "title": "ESMA Adds 14 New CASPs to MiCA Register as Licensing Slows",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 17 Jul 2026 10:29:35 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
       },
       {
-        "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
-        "published": "Thu, 16 Jul 2026 15:26:15 +0000",
-        "assets": [],
+        "title": "Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/bitcoin-bottom-countdown-nears-50-days-after-btc-supply-in-loss-passed-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 17 Jul 2026 09:51:33 +0000",
+        "assets": [
+          "BTC"
+        ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -272,7 +298,7 @@
         "published": "Fri, 17 Jul 2026 08:48:20 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -286,73 +312,57 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 17 Jul 2026 06:05:29 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 17 Jul 2026 05:54:04 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.6,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.113,
+      "score": -0.127,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $70,000 in July?",
-        "volume_24h": 208465,
+        "volume_24h": 215093,
         "yes_price": 0.12,
         "category": "crypto"
       },
       {
+        "title": "Bitcoin Up or Down on July 17?",
+        "volume_24h": 153682,
+        "yes_price": 0.03,
+        "category": "crypto"
+      },
+      {
         "title": "Will Bitcoin reach $67,500 in July?",
-        "volume_24h": 148145,
-        "yes_price": 0.23,
+        "volume_24h": 152342,
+        "yes_price": 0.26,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $62,000 on July 17?",
-        "volume_24h": 132461,
-        "yes_price": 0.91,
+        "volume_24h": 142853,
+        "yes_price": 0.96,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Market sentiment is cautiously optimistic for near-term stability, with a strong 91% probability of Bitcoin being above $62,000 on July 17. However, strong upside conviction is lacking, as probabilities for reaching $67,500 in July are only 23%, and $70,000 a mere 12%."
+      "summary": "Mixed: Market sentiment for Bitcoin indicates strong support around $62,000, with 96% confidence it will remain above this level on July 17. However, expectations for significant upward movement are low, reflected by only 26% for $67,500 and a mere 12% for Bitcoin reaching $70,000 in July. The 3% probability for Bitcoin being 'Up' on July 17 further suggests constrained upside momentum."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 4,
+          "BNB": 1,
+          "MATIC": 1,
           "ETH": 0,
           "SOL": 0,
-          "BNB": 0,
           "XRP": 0,
           "ADA": 0,
           "DOGE": 0,
           "AVAX": 0,
-          "LINK": 0,
-          "TON": 0
+          "LINK": 0
         },
         "activity_score": 100,
         "top_post": "Daily Crypto Discussion - July 16, 2026 (GMT+0)",
@@ -362,74 +372,74 @@
     ],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Sentiment remains unclear despite high market engagement, with r/CryptoCurrency showing 100/100 activity. Discussions are heavily centralized around BTC, which garnered 4 mentions, while other major altcoins like ETH, SOL, BNB, and XRP received no mentions. Specific directional indicators are absent."
+      "summary": "Mixed: High activity (100/100) on r/CryptoCurrency shows strong engagement, with BTC (4 mentions) leading discussions, followed by BNB (1) and MATIC (1). However, specific sentiment for these mentions is absent, preventing a clear directional call despite heightened interest."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: While Bitcoin fell under $63,000 due to geopolitical concerns and Ether dropped twice as hard with HYPE down 10%, several bullish signals emerged. Citadel Securities invested $400 million in Crypto.com, valuing it at $20 billion. T. Rowe Price ($1.9T AUM) launched a multi-token ETF, and Stripe made a $53 billion PayPal bid, balancing bearish sentiment from chaos bets and a hacked Airbnb CEO."
+      "outlook": "Bearish",
+      "summary": "Bearish: Crypto markets are predominantly bearish as Bitcoin slides below $63,000 due to a global chip rout, AI selloff, U.S. strike on Iran, and Trump's comments, with Ether falling twice as hard and HYPE dropping 10%. A $28 million bet also anticipates market chaos. This overshadows T. Rowe Price's ($1.9 trillion AUM) launch of a multi-token crypto ETF."
     },
     "fourchain": {
-      "thread_count": 201,
-      "active_threads": 138,
+      "thread_count": 199,
+      "active_threads": 139,
       "mentions": {
         "BTC": 21,
         "XRP": 14,
         "ETH": 5
       },
-      "bullish_hits": 88,
-      "bearish_hits": 58,
-      "bullish_pct": 60,
+      "bullish_hits": 89,
+      "bearish_hits": 57,
+      "bullish_pct": 61,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "CASHCAT",
-        "name": "Cash Cat",
-        "rank": 385,
+        "symbol": "AERO",
+        "name": "Aerodrome Finance",
+        "rank": 104,
         "score": 0,
-        "change_24h": -39.4
+        "change_24h": 0.79
+      },
+      {
+        "symbol": "ZANO",
+        "name": "Zano",
+        "rank": 199,
+        "score": 1,
+        "change_24h": 0.43
       },
       {
         "symbol": "HYPE",
         "name": "Hyperliquid",
         "rank": 10,
-        "score": 1,
-        "change_24h": -9.28
+        "score": 2,
+        "change_24h": -8.49
       },
       {
         "symbol": "ADI",
         "name": "ADI",
-        "rank": 71,
-        "score": 2,
-        "change_24h": 0.71
+        "rank": 72,
+        "score": 3,
+        "change_24h": 0.1
       },
       {
-        "symbol": "ZANO",
-        "name": "Zano",
-        "rank": 195,
-        "score": 3,
-        "change_24h": 2.07
+        "symbol": "ANSEM",
+        "name": "The Black Bull",
+        "rank": 295,
+        "score": 4,
+        "change_24h": 15.99
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 118,
-        "score": 4,
-        "change_24h": 1.46
-      },
-      {
-        "symbol": "AERO",
-        "name": "Aerodrome Finance",
-        "rank": 105,
         "score": 5,
-        "change_24h": 0.44
+        "change_24h": -0.08
       },
       {
-        "symbol": "LAB",
-        "name": "LAB",
-        "rank": 381,
+        "symbol": "ONDO",
+        "name": "Ondo",
+        "rank": 42,
         "score": 6,
-        "change_24h": -12.34
+        "change_24h": 1.36
       }
     ]
   },
@@ -448,8 +458,8 @@
         "change_24h": -0.2
       },
       "vix": {
-        "value": 18.4,
-        "change_24h": 9.98
+        "value": 18.09,
+        "change_24h": 8.13
       }
     },
     "market_mood": {
@@ -512,23 +522,65 @@
     "top_mentioned": [],
     "news": [
       {
+        "title": "Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/17/iran-war-us-trump-syria-bahrain.html",
+        "published": "Fri, 17 Jul 2026 10:49:50 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+        "published": "Thu, 16 Jul 2026 21:53:56 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
         "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
         "published": "Fri, 17 Jul 2026 08:53:55 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
-        "title": "Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain",
+        "title": "SpaceX falls further in premarket after Starship test flight aborted",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/17/iran-war-us-trump-syria-bahrain.html",
-        "published": "Fri, 17 Jul 2026 08:20:28 GMT",
+        "url": "https://www.cnbc.com/2026/07/17/spacex-stock-starship-test-flight-aborted.html",
+        "published": "Fri, 17 Jul 2026 10:06:32 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+        "published": "Thu, 16 Jul 2026 23:45:16 GMT",
+        "assets": [
+          "MSFT"
+        ],
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
+      },
+      {
+        "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
+        "published": "Fri, 17 Jul 2026 02:24:46 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
         "color": "red"
       },
       {
@@ -542,122 +594,80 @@
         "color": "yellow"
       },
       {
+        "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
+        "published": "Fri, 17 Jul 2026 00:49:45 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Has Nike lost its 'cool' factor? LeBron James weighs in",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/16/nike-cool-factor-lebron-james.html",
+        "published": "Thu, 16 Jul 2026 22:49:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
         "title": "BP, ConocoPhillips to back Iraq with major investments as U.S. seeks to weaken Iran's energy hold",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/17/bp-conocophillips-to-back-iraq-with-major-energy-investment-.html",
         "published": "Fri, 17 Jul 2026 08:10:21 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 1.0,
         "color": "green"
       },
       {
-        "title": "SpaceX aborts Starship test flight, sending stock lower",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
-        "published": "Fri, 17 Jul 2026 00:16:37 GMT",
+        "title": "Ranch dressing and stuffed raccoons: Some of the World Cup’s biggest winners as Spain and Argentina face off in the final",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/ranch-dressing-and-stuffed-raccoons-some-of-the-world-cups-biggest-winners-as-spain-and-argentina-face-off-in-the-final-1cf72d0c?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 11:01:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.9,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
-        "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
-        "published": "Fri, 17 Jul 2026 02:24:46 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
-      },
-      {
-        "title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html",
-        "published": "Fri, 17 Jul 2026 06:16:04 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.3,
-        "color": "green"
-      },
-      {
-        "title": "Oil prices rise as U.S.-Iran hostilities threaten supply through Strait of Hormuz",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html",
-        "published": "Fri, 17 Jul 2026 07:36:10 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
-      },
-      {
-        "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
-        "published": "Thu, 16 Jul 2026 23:45:16 GMT",
-        "assets": [
-          "MSFT"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.6,
-        "color": "red"
-      },
-      {
-        "title": "Fighter jet maker Saab smashes expectations as CEO urges procurement rethink",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/17/saab-stock-earnings-q2-report-defense-sales-orders.html",
-        "published": "Fri, 17 Jul 2026 08:37:34 GMT",
+        "title": "As semiconductor stocks slump, one AI-adjacent sector is thriving — and these are the stocks to buy",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/as-semiconductor-stocks-slump-one-ai-adjacent-sector-is-thriving-and-these-are-the-stocks-to-buy-9c34937c?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 10:51:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       },
       {
-        "title": "Buyer snaps up Josh Duhamel’s $3 million L.A. home as actor embraces his Minnesota ‘doomsday prepper’ cabin",
+        "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/buyer-snaps-up-josh-duhamels-3-million-l-a-home-as-actor-embraces-his-minnesota-doomsday-prepper-cabin-6666879e?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 09:01:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.3,
-        "color": "green"
-      },
-      {
-        "title": "Micron has turned into ‘the most important stock in the market.’ So is it time to worry?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/micron-has-turned-into-the-most-important-stock-in-the-market-so-is-it-time-to-worry-71e335bf?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 02:11:00 GMT",
+        "url": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 10:30:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.1,
+        "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Netflix is getting stingier about its viewing data, and Wall Street isn’t happy",
+        "title": "SpaceX postponed a crucial launch — now its stock is set to slide even further below the IPO price",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 00:14:00 GMT",
+        "url": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 10:05:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -1.0,
         "color": "red"
       },
       {
-        "title": "10 U.S. metro areas where builders are slashing prices on new homes",
+        "title": "Silently freaking out about retirement? Why it may not be as bad as you think.",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/10-u-s-metro-areas-where-builders-are-slashing-prices-on-new-homes-1eb19355?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 00:10:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.8,
-        "color": "red"
-      },
-      {
-        "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
-        "published": "Thu, 16 Jul 2026 23:38:00 GMT",
+        "url": "https://www.marketwatch.com/story/silently-freaking-out-about-retirement-why-it-may-not-be-as-bad-as-you-think-3175d0e1?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 10:00:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
@@ -665,72 +675,72 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.033,
+      "score": -0.233,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 592700,
+        "volume_24h": 579520,
         "yes_price": 0.23,
         "category": "finance"
       },
       {
         "title": "Will LeBron James play for the Golden State Warriors in 2026-27?",
-        "volume_24h": 516313,
+        "volume_24h": 516165,
         "yes_price": 0.32,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_24h": 487081,
+        "volume_24h": 487965,
         "yes_price": 0.96,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_24h": 413461,
+        "volume_24h": 422578,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will Ukraine recapture Crimean territory by December 31, 2026?",
-        "volume_24h": 273200,
+        "volume_24h": 380447,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
-        "title": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-        "volume_24h": 201092,
-        "yes_price": 0.79,
+        "title": "Kharg Island no longer under Iranian control by July 31?",
+        "volume_24h": 205667,
+        "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?",
-        "volume_24h": 189164,
-        "yes_price": 0.14,
+        "volume_24h": 188341,
+        "yes_price": 0.12,
         "category": "finance"
       },
       {
-        "title": "Kharg Island no longer under Iranian control by July 31?",
-        "volume_24h": 178934,
-        "yes_price": 0.03,
+        "title": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+        "volume_24h": 181634,
+        "yes_price": 0.78,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: Markets anticipate significant stability, with 96% predicting no change in Fed interest rates after the July 2026 meeting. Geopolitical risks are low; a U.S. invasion of Iran before 2027 stands at 23%, and Kharg Island remaining under Iranian control is at 97%. Low expectations (14%) for WTI Crude Oil to hit $95 in July further reinforce a stable outlook."
+      "summary": "Bullish: Markets predict stability, with 96% expecting no change in Fed interest rates and 78% expecting Mojtaba Khamenei to remain in power in Iran."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No specific data is available to determine market sentiment, with no top mentioned stocks, subreddits, or numbers provided."
+      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentioned stocks, subreddits, or numbers provided."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: Overall sentiment is mixed. Bullish catalysts include AI advancements from Moonshot AI and China's Xi, alongside BP and ConocoPhillips' major investments in Iraq. Oil prices also rose due to U.S.-Iran hostilities. Conversely, escalating Iran conflicts in Syria and Bahrain, SpaceX's Starship abort, and Trump's 2020 election claims inject significant bearish uncertainty into the market."
+      "outlook": "Bearish",
+      "summary": "Bearish: Geopolitical tensions intensified with Iran expanding attacks to Syria and Bahrain. Tech sector disappointments include Netflix's disappointing earnings forecast, SpaceX's aborted Starship flight, Elon Musk's Memphis AI backlash, and Microsoft's Nadella criticizing Anthropic. Political uncertainty from Trump's 2020 election claims also weighed, despite China's Moonshot AI unveiling a rival Kimi model."
     }
   },
   "portfolio": [
