@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-07-17T23:27:49Z",
+  "updated_at": "2026-07-18T01:00:48Z",
   "crypto": {
     "fear_greed": {
-      "value": 27,
-      "label": "Fear",
-      "previous_value": 25,
-      "previous_label": "Extreme Fear"
+      "value": 25,
+      "label": "Extreme Fear",
+      "previous_value": 27,
+      "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 63904,
-        "change_24h": 0.21,
-        "market_cap": 1281759410415,
-        "volume_24h": 27986780929
+        "price_usd": 63858,
+        "change_24h": 0.07,
+        "market_cap": 1280872082155,
+        "volume_24h": 27655566557
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1838.69,
-        "change_24h": -1.17,
-        "market_cap": 221906823858,
-        "volume_24h": 9538157129
+        "price_usd": 1839.56,
+        "change_24h": -1.29,
+        "market_cap": 222015828420,
+        "volume_24h": 8805930719
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 567.28,
-        "change_24h": -0.81,
-        "market_cap": 75544573438,
-        "volume_24h": 709538143
+        "price_usd": 567.49,
+        "change_24h": -0.99,
+        "market_cap": 75579445686,
+        "volume_24h": 683789311
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.088,
-        "change_24h": 0.24,
-        "market_cap": 67984088667,
-        "volume_24h": 1016592740
+        "change_24h": -0.17,
+        "market_cap": 67995592804,
+        "volume_24h": 979932530
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 74.94,
-        "change_24h": -0.2,
-        "market_cap": 43650487397,
-        "volume_24h": 1597018631
+        "price_usd": 75.03,
+        "change_24h": -0.54,
+        "market_cap": 43709407196,
+        "volume_24h": 1538909490
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.072512,
-        "change_24h": 0.43,
-        "market_cap": 11246064019,
-        "volume_24h": 432208942
+        "price_usd": 0.07248,
+        "change_24h": -0.18,
+        "market_cap": 11243621933,
+        "volume_24h": 424079736
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.166212,
-        "change_24h": 3.68,
-        "market_cap": 6195475868,
-        "volume_24h": 354941157
+        "price_usd": 0.1675,
+        "change_24h": 3.95,
+        "market_cap": 6243924056,
+        "volume_24h": 379328870
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.24,
-        "change_24h": -0.92,
-        "market_cap": 6165951050,
-        "volume_24h": 221703614
+        "price_usd": 8.25,
+        "change_24h": -0.68,
+        "market_cap": 6172586406,
+        "volume_24h": 214016132
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.56,
-        "change_24h": 0.96,
-        "market_cap": 2830635776,
-        "volume_24h": 138248854
+        "price_usd": 6.58,
+        "change_24h": 1.39,
+        "market_cap": 2843077202,
+        "volume_24h": 128389689
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 2,
-        "price_usd": 63904,
-        "change_24h": 0.21
+        "price_usd": 63858,
+        "change_24h": 0.07
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1838.69,
-        "change_24h": -1.17
+        "price_usd": 1839.56,
+        "change_24h": -1.29
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 74.94,
-        "change_24h": -0.2
+        "price_usd": 75.03,
+        "change_24h": -0.54
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 567.28,
-        "change_24h": -0.81
+        "price_usd": 567.49,
+        "change_24h": -0.99
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.088,
-        "change_24h": 0.24
+        "change_24h": -0.17
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.166212,
-        "change_24h": 3.68
+        "price_usd": 0.1675,
+        "change_24h": 3.95
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.072512,
-        "change_24h": 0.43
+        "price_usd": 0.07248,
+        "change_24h": -0.18
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.56,
-        "change_24h": 0.96
+        "price_usd": 6.58,
+        "change_24h": 1.39
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 8.24,
-        "change_24h": -0.92
+        "price_usd": 8.25,
+        "change_24h": -0.68
       },
       {
         "symbol": "TON",
@@ -150,9 +150,9 @@
         "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
         "published": "Fri, 17 Jul 2026 18:00:11 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
@@ -160,9 +160,9 @@
         "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
         "published": "Fri, 17 Jul 2026 17:23:01 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Cardano hands core development to outside teams in decentralization push",
@@ -172,9 +172,9 @@
         "assets": [
           "ADA"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
@@ -182,9 +182,9 @@
         "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
         "published": "Fri, 17 Jul 2026 15:36:39 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
@@ -192,9 +192,9 @@
         "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
         "published": "Fri, 17 Jul 2026 13:46:46 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
@@ -204,9 +204,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "AI frenzy losing steam leaves bitcoin less volatile than South Korean stocks",
@@ -228,9 +228,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto",
@@ -262,9 +262,9 @@
         "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Fri, 17 Jul 2026 21:40:18 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
@@ -272,9 +272,9 @@
         "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Fri, 17 Jul 2026 20:03:32 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Consensys unknowingly outsourced developer work to North Korean",
@@ -282,9 +282,9 @@
         "url": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Fri, 17 Jul 2026 19:33:58 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Crypto Biz: When dollars disappear, stablecoins step in",
@@ -292,9 +292,9 @@
         "url": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Fri, 17 Jul 2026 19:23:53 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
@@ -302,45 +302,39 @@
         "url": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Fri, 17 Jul 2026 16:54:37 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": 0.333,
+      "label": "Bullish",
+      "color": "green"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $70,000 in July?",
-        "volume_24h": 220771,
+        "volume_24h": 221297,
         "yes_price": 0.15,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $67,500 in July?",
-        "volume_24h": 145997,
-        "yes_price": 0.38,
+        "volume_24h": 145556,
+        "yes_price": 0.36,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on July 18?",
-        "volume_24h": 117428,
-        "yes_price": 0.86,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Mirassol FC win on 2026-07-17?",
-        "volume_24h": 113856,
-        "yes_price": 0.72,
+        "volume_24h": 123216,
+        "yes_price": 0.89,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: Bitcoin is expected to rise, with 86% predicting it will be up on July 18 and 38% believing it will reach $67,500 in July, with $220,771 and $145,997 in volume, respectively."
+      "outlook": "Bearish",
+      "summary": "Bearish: Market sentiment for Bitcoin's July performance is bearish, with only 15% confidence in reaching $70,000 and 36% for $67,500. While 89% of market volume ($123,216) anticipates movement for Bitcoin on July 18, this doesn't signal clear upward momentum to hit those monthly price targets."
     },
     "reddit": [
       {
@@ -364,75 +358,75 @@
       }
     ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "outlook": "Bullish",
+      "summary": "Bullish: BTC dominates discussion with 2 mentions, indicating optimism, in highly active r/CryptoCurrency subreddit with 100/100 activity."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 2 bearish signals detected across crypto news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: Stripe, Cardano, Robinhood, and SBI Group drive growth, with Bitcoin returning to $63,000, outweighing bearish sentiments from Polymarket and China's Kimi."
     },
     "fourchain": {
       "thread_count": 201,
       "active_threads": 138,
       "mentions": {
-        "BTC": 18,
-        "XRP": 14,
+        "BTC": 15,
+        "XRP": 13,
         "ETH": 3
       },
-      "bullish_hits": 112,
-      "bearish_hits": 63,
+      "bullish_hits": 111,
+      "bearish_hits": 62,
       "bullish_pct": 64,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "CASHCAT",
-        "name": "Cash Cat",
-        "rank": 350,
-        "score": 0,
-        "change_24h": -6.97
-      },
-      {
         "symbol": "ADI",
         "name": "ADI",
         "rank": 75,
+        "score": 0,
+        "change_24h": -6.59
+      },
+      {
+        "symbol": "CASHCAT",
+        "name": "Cash Cat",
+        "rank": 367,
         "score": 1,
-        "change_24h": -6.4
+        "change_24h": 12.15
       },
       {
-        "symbol": "AERO",
-        "name": "Aerodrome Finance",
-        "rank": 107,
+        "symbol": "AKE",
+        "name": "Akedo",
+        "rank": 600,
         "score": 2,
-        "change_24h": -1.88
-      },
-      {
-        "symbol": "ONDO",
-        "name": "Ondo",
-        "rank": 44,
-        "score": 3,
-        "change_24h": 1.63
-      },
-      {
-        "symbol": "ANSEM",
-        "name": "The Black Bull",
-        "rank": 331,
-        "score": 4,
-        "change_24h": -3.38
+        "change_24h": 58.66
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 118,
-        "score": 5,
-        "change_24h": -3.4
+        "score": 3,
+        "change_24h": -0.91
       },
       {
-        "symbol": "NEAR",
-        "name": "NEAR Protocol",
-        "rank": 36,
+        "symbol": "ONDO",
+        "name": "Ondo",
+        "rank": 43,
+        "score": 4,
+        "change_24h": 1.52
+      },
+      {
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 10,
+        "score": 5,
+        "change_24h": -2.68
+      },
+      {
+        "symbol": "INJ",
+        "name": "Injective",
+        "rank": 102,
         "score": 6,
-        "change_24h": -3.27
+        "change_24h": 7.22
       }
     ]
   },
@@ -520,9 +514,9 @@
         "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
         "published": "Fri, 17 Jul 2026 23:08:24 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
@@ -530,9 +524,9 @@
         "url": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
         "published": "Fri, 17 Jul 2026 13:12:11 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
@@ -540,9 +534,9 @@
         "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
         "published": "Fri, 17 Jul 2026 23:10:07 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Taco Bell says it has removed lettuce linked to cyclosporiasis outbreak from its restaurants",
@@ -550,9 +544,9 @@
         "url": "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html",
         "published": "Fri, 17 Jul 2026 22:16:23 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
@@ -560,9 +554,9 @@
         "url": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
         "published": "Fri, 17 Jul 2026 19:49:17 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
@@ -572,9 +566,9 @@
         "assets": [
           "NVDA"
         ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
@@ -582,9 +576,9 @@
         "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
         "published": "Fri, 17 Jul 2026 20:48:35 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Epstein victims blast Trump attorney general nominee Todd Blanche after meeting",
@@ -632,9 +626,9 @@
         "url": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
         "published": "Fri, 17 Jul 2026 22:55:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
@@ -642,9 +636,9 @@
         "url": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
         "published": "Fri, 17 Jul 2026 22:31:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "The average stock is having a moment as semiconductors struggle. It’s a sign of a healthy market.",
@@ -652,9 +646,9 @@
         "url": "https://www.marketwatch.com/story/the-average-stock-is-having-a-moment-as-semiconductors-struggle-its-a-sign-of-a-healthy-market-0dc01e9a?mod=mw_rss_topstories",
         "published": "Fri, 17 Jul 2026 21:55:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "19 (mostly) tech stocks that have fallen at least 25% in July",
@@ -668,72 +662,72 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": -0.327,
+      "label": "Bearish",
+      "color": "red"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_24h": 656823,
+        "volume_24h": 655091,
         "yes_price": 0.94,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 614125,
+        "volume_24h": 637944,
         "yes_price": 0.28,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_24h": 531017,
+        "volume_24h": 530849,
         "yes_price": 0.05,
         "category": "finance"
       },
       {
         "title": "Will Ukraine recapture Crimean territory by December 31, 2026?",
-        "volume_24h": 361633,
+        "volume_24h": 362001,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by July 31?",
-        "volume_24h": 319024,
-        "yes_price": 0.03,
+        "volume_24h": 330982,
+        "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will the Iranian regime fall before 2027?",
-        "volume_24h": 262830,
+        "volume_24h": 266087,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Will LeBron James play for the Golden State Warriors in 2026-27?",
-        "volume_24h": 217267,
+        "volume_24h": 222640,
         "yes_price": 0.29,
         "category": "finance"
       },
       {
         "title": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-        "volume_24h": 188857,
-        "yes_price": 0.77,
+        "volume_24h": 189547,
+        "yes_price": 0.78,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 1 bullish vs 1 bearish signals detected across finance prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: Market predicts no change in Fed interest rates, with 94% confidence, and Mojtaba Khamenei likely leading Iran, with 78% confidence."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
+      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentions or subreddits provided."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 2 bullish vs 0 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: Multiple negative reports, including Trump's tariff threats and Chinese fraud rings, are impacting market sentiment, with 5 out of 8 reports being bearish."
     }
   },
   "portfolio": [
