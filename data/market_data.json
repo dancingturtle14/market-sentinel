@@ -1,104 +1,104 @@
 {
-  "updated_at": "2026-07-20T23:33:35Z",
+  "updated_at": "2026-07-21T03:27:01Z",
   "crypto": {
     "fear_greed": {
-      "value": 29,
-      "label": "Fear",
-      "previous_value": 28,
+      "value": 25,
+      "label": "Extreme Fear",
+      "previous_value": 29,
       "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 65200,
-        "change_24h": 0.78,
-        "market_cap": 1307814091343,
-        "volume_24h": 32226207176
+        "price_usd": 65410,
+        "change_24h": 1.2,
+        "market_cap": 1312081273167,
+        "volume_24h": 31426162633
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1902.51,
-        "change_24h": 1.71,
-        "market_cap": 229581689757,
-        "volume_24h": 10827591405
+        "price_usd": 1922.7,
+        "change_24h": 2.78,
+        "market_cap": 232037308696,
+        "volume_24h": 11452340666
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 570.68,
-        "change_24h": -0.05,
-        "market_cap": 75990110490,
-        "volume_24h": 587974371
+        "price_usd": 573.95,
+        "change_24h": 0.89,
+        "market_cap": 76430486556,
+        "volume_24h": 580463868
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.11,
-        "change_24h": 1.51,
-        "market_cap": 69495151163,
-        "volume_24h": 1203654987
+        "price_usd": 1.12,
+        "change_24h": 1.99,
+        "market_cap": 70007459812,
+        "volume_24h": 1170331414
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 77.69,
-        "change_24h": 1.82,
-        "market_cap": 45261435784,
-        "volume_24h": 2074463357
+        "price_usd": 78.16,
+        "change_24h": 1.89,
+        "market_cap": 45545463886,
+        "volume_24h": 1903568776
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.072081,
-        "change_24h": -0.28,
-        "market_cap": 11181969192,
-        "volume_24h": 594354147
+        "price_usd": 0.072556,
+        "change_24h": -0.14,
+        "market_cap": 11257470812,
+        "volume_24h": 588442817
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.59,
-        "change_24h": 2.61,
-        "market_cap": 6421752463,
-        "volume_24h": 212985243
+        "price_usd": 8.61,
+        "change_24h": 2.05,
+        "market_cap": 6443208799,
+        "volume_24h": 210219301
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.170814,
-        "change_24h": 2.82,
-        "market_cap": 6366939282,
-        "volume_24h": 334586131
+        "price_usd": 0.170877,
+        "change_24h": 3.18,
+        "market_cap": 6371594091,
+        "volume_24h": 391016197
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.58,
-        "change_24h": 1.97,
-        "market_cap": 2841381396,
-        "volume_24h": 240875864
+        "price_usd": 6.63,
+        "change_24h": 0.52,
+        "market_cap": 2864441114,
+        "volume_24h": 223011003
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 4,
-        "price_usd": 65200,
-        "change_24h": 0.78
+        "price_usd": 65410,
+        "change_24h": 1.2
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 1902.51,
-        "change_24h": 1.71
+        "price_usd": 1922.7,
+        "change_24h": 2.78
       },
       {
         "symbol": "ADA",
         "mentions": 1,
-        "price_usd": 0.170814,
-        "change_24h": 2.82
+        "price_usd": 0.170877,
+        "change_24h": 3.18
       },
       {
         "symbol": "MATIC",
@@ -115,32 +115,32 @@
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 77.69,
-        "change_24h": 1.82
+        "price_usd": 78.16,
+        "change_24h": 1.89
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 570.68,
-        "change_24h": -0.05
+        "price_usd": 573.95,
+        "change_24h": 0.89
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.11,
-        "change_24h": 1.51
+        "price_usd": 1.12,
+        "change_24h": 1.99
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.072081,
-        "change_24h": -0.28
+        "price_usd": 0.072556,
+        "change_24h": -0.14
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.58,
-        "change_24h": 1.97
+        "price_usd": 6.63,
+        "change_24h": 0.52
       }
     ],
     "news": [
@@ -152,9 +152,9 @@
         "assets": [
           "ADA"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Exodus to cut 25% of global workforce in payments shift",
@@ -162,9 +162,9 @@
         "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
         "published": "Mon, 20 Jul 2026 13:53:08 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
@@ -172,9 +172,9 @@
         "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
         "published": "Mon, 20 Jul 2026 13:49:24 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
@@ -184,9 +184,9 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.3,
+        "color": "red"
       },
       {
         "title": "Saylor's Strategy raises cash reserves to $3.2 billion, leaving bitcoin holdings unchanged",
@@ -206,9 +206,9 @@
         "url": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
         "published": "Mon, 20 Jul 2026 12:02:28 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
@@ -218,9 +218,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
@@ -228,9 +228,9 @@
         "url": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
         "published": "Mon, 20 Jul 2026 11:10:07 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Crypto market slips even as equities advance. Pump surges on social-media chatter",
@@ -238,15 +238,45 @@
         "url": "https://www.coindesk.com/markets/2026/07/20/crypto-market-slips-even-as-equities-advance-pump-surges-on-social-media-chatter",
         "published": "Mon, 20 Jul 2026 10:33:14 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
       },
       {
         "title": "Hyperliquid plans to add decentralized prediction markets in upgrade to HIP-4",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
         "published": "Mon, 20 Jul 2026 10:04:25 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
+      },
+      {
+        "title": "Binance & OKX users face $1900 fines in Vietnam, Coinbase in China? Asia Express",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/magazine/binance-users-face-1900-fines-in-vietnam-coinbase-in-china-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 21 Jul 2026 02:42:14 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "London Stock Exchange eyes overnight trading launch in 2027: FT",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/london-stock-exchange-plans-round-the-clock-trading-in-2027-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 21 Jul 2026 01:16:50 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Patrick Witt defers military training as CLARITY heads to Senate",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/patrick-witt-defers-military-training-as-clarity-heads-to-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 21 Jul 2026 00:02:04 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -258,9 +288,9 @@
         "url": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Mon, 20 Jul 2026 21:41:23 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.3,
+        "color": "green"
       },
       {
         "title": "Tether Gold recognized as Accepted Spot Commodity in Abu Dhabi financial center",
@@ -270,79 +300,51 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin defies recent tech stocks sell-off. Are bulls eyeing a $70K rally?",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 20 Jul 2026 21:20:09 +0000",
-        "assets": [
-          "BTC"
-        ],
         "sentiment": "Bullish",
-        "score": 0.333,
+        "score": 0.8,
         "color": "green"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 20 Jul 2026 21:07:27 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 20 Jul 2026 20:27:54 +0000",
-        "assets": [
-          "MATIC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.089,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "Will Bitcoin reach $72,500 in July?",
-        "volume_24h": 121605,
-        "yes_price": 0.07,
-        "category": "crypto"
-      },
-      {
         "title": "Will Ethereum dip to $1,250 by December 31, 2026?",
-        "volume_24h": 118015,
-        "yes_price": 0.26,
+        "volume_24h": 187832,
+        "yes_price": 0.25,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-        "volume_24h": 101465,
-        "yes_price": 0.46,
+        "title": "Will Bitcoin reach $72,500 in July?",
+        "volume_24h": 110527,
+        "yes_price": 0.09,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $57,500 in July?",
+        "volume_24h": 101154,
+        "yes_price": 0.04,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $67,500 in July?",
-        "volume_24h": 90732,
-        "yes_price": 0.56,
+        "volume_24h": 95023,
+        "yes_price": 0.6,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $75,000 in July?",
+        "volume_24h": 88886,
+        "yes_price": 0.03,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: Bitcoin reaching $67,500 in July has 60% yes, with $95,023 volume."
     },
     "reddit": [
       {
@@ -366,75 +368,75 @@
       }
     ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "outlook": "Bullish",
+      "summary": "Bullish: BTC leads with 4 mentions, dominating r/CryptoCurrency with 100/100 activity."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto news data."
+      "summary": "Mixed: Sentiment is divided with bullish catalysts like Cardano's 'Van Rossum' hard fork, Hut 8 and IREN landing billions in AI compute contracts, and Brazil/Bank of Korea advancing tokenization/CBDC with 9 banks by September. However, bearish signals persist, including Exodus cutting 25% of staff, Tom Lee's Bitmine buying $86 million in stock instead of ether, and a looming Bitcoin 'volmageddon'. Saylor's Strategy holds $3.2 billion cash."
     },
     "fourchain": {
       "thread_count": 201,
       "active_threads": 152,
       "mentions": {
-        "BTC": 27,
+        "BTC": 28,
         "XRP": 24,
         "ETH": 8
       },
-      "bullish_hits": 96,
-      "bearish_hits": 46,
-      "bullish_pct": 68,
+      "bullish_hits": 90,
+      "bearish_hits": 45,
+      "bullish_pct": 67,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 115,
+        "symbol": "BNB",
+        "name": "BNB",
+        "rank": 4,
         "score": 0,
-        "change_24h": 4.49
+        "change_24h": 0.75
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "rank": 2,
+        "score": 1,
+        "change_24h": 2.45
+      },
+      {
+        "symbol": "BANK",
+        "name": "Lorenzo Protocol",
+        "rank": 240,
+        "score": 2,
+        "change_24h": 11.06
       },
       {
         "symbol": "ADI",
         "name": "ADI",
         "rank": 74,
-        "score": 1,
-        "change_24h": -0.04
-      },
-      {
-        "symbol": "PUMP",
-        "name": "Pump.fun",
-        "rank": 77,
-        "score": 2,
-        "change_24h": 2.02
-      },
-      {
-        "symbol": "BANK",
-        "name": "Lorenzo Protocol",
-        "rank": 234,
         "score": 3,
-        "change_24h": 26.22
+        "change_24h": -6.6
       },
       {
-        "symbol": "TAO",
-        "name": "Bittensor",
-        "rank": 41,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 4,
-        "change_24h": -1.87
+        "change_24h": 1.07
       },
       {
-        "symbol": "BONK",
-        "name": "Bonk",
-        "rank": 134,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 115,
         "score": 5,
-        "change_24h": 14.21
+        "change_24h": 3.18
       },
       {
-        "symbol": "CASHCAT",
-        "name": "Cash Cat",
-        "rank": 319,
+        "symbol": "AAVE",
+        "name": "Aave",
+        "rank": 55,
         "score": 6,
-        "change_24h": -5.64
+        "change_24h": 2.1
       }
     ]
   },
@@ -517,14 +519,34 @@
     "top_mentioned": [],
     "news": [
       {
+        "title": "Ships shun Strait of Hormuz as renewed fighting strains key oil corridor",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html",
+        "published": "Tue, 21 Jul 2026 02:33:54 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "U.S. condemns China's 'dangerous and aggressive' acts after Philippine sailor injured at disputed shoal",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/21/china-philippines-south-china-sea-disputes-sailor-injured-.html",
+        "published": "Tue, 21 Jul 2026 02:20:51 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
         "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
         "published": "Mon, 20 Jul 2026 22:13:57 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members",
@@ -532,9 +554,9 @@
         "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
         "published": "Mon, 20 Jul 2026 19:04:16 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
@@ -542,9 +564,9 @@
         "url": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html",
         "published": "Mon, 20 Jul 2026 19:42:30 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
@@ -564,9 +586,9 @@
         "url": "https://www.cnbc.com/2026/07/20/paramount-wbd-merger-delay.html",
         "published": "Mon, 20 Jul 2026 19:20:38 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
@@ -574,9 +596,9 @@
         "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
         "published": "Mon, 20 Jul 2026 23:01:01 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Trump administration's head of AI safety agency resigns after 3 months on job",
@@ -584,31 +606,9 @@
         "url": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html",
         "published": "Mon, 20 Jul 2026 20:26:20 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Sen. Darline Graham running for full term to replace late brother Lindsey Graham",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html",
-        "published": "Mon, 20 Jul 2026 18:53:24 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Could ‘The Odyssey’ lead the 'apes' back home to AMC shares?",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/20/could-the-odyssey-lead-the-apes-back-home-to-amc-shares.html",
-        "published": "Mon, 20 Jul 2026 18:05:06 GMT",
-        "assets": [
-          "AMC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "FIFA emerges as the $9 billion winner as the biggest, brashest World Cup ever draws to a close",
@@ -616,9 +616,19 @@
         "url": "https://www.cnbc.com/2026/07/20/world-cup-fifa-football-winner-tournament-spain.html",
         "published": "Mon, 20 Jul 2026 05:45:04 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 00:13:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
@@ -636,9 +646,9 @@
         "url": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
         "published": "Mon, 20 Jul 2026 22:55:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
@@ -658,88 +668,78 @@
         "assets": [
           "NVDA"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 22:00:00 GMT",
-        "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.133,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": -0.433,
+      "label": "Bearish",
+      "color": "red"
     },
     "polymarket": [
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 769713,
+        "volume_24h": 756314,
         "yes_price": 0.27,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_24h": 757263,
+        "volume_24h": 713690,
         "yes_price": 0.93,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_24h": 654347,
+        "volume_24h": 534986,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
+        "title": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+        "volume_24h": 328709,
+        "yes_price": 0.76,
+        "category": "finance"
+      },
+      {
         "title": "Will LeBron James play for the Golden State Warriors in 2026-27?",
-        "volume_24h": 279008,
+        "volume_24h": 275662,
+        "yes_price": 0.11,
+        "category": "finance"
+      },
+      {
+        "title": "US x Iran Effective Ceasefire by July 24?",
+        "volume_24h": 184533,
         "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by July 31?",
-        "volume_24h": 183281,
+        "volume_24h": 181598,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
-        "title": "US x Iran Effective Ceasefire by July 24?",
-        "volume_24h": 162918,
-        "yes_price": 0.12,
-        "category": "finance"
-      },
-      {
-        "title": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-        "volume_24h": 161936,
-        "yes_price": 0.76,
-        "category": "finance"
-      },
-      {
         "title": "US-Iran Final Nuclear Deal by August 18, 2026?",
-        "volume_24h": 137569,
+        "volume_24h": 137492,
         "yes_price": 0.05,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 1 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "outlook": "Mixed",
+      "summary": "Mixed: Markets anticipate significant stability in Fed interest rates by July 2026, with a strong 93% chance of no change. However, substantial geopolitical uncertainty looms with a 27% probability of a U.S. invasion of Iran before 2027, contrasting with low expectations for immediate ceasefires (12%) or nuclear deals (5%). Mojtaba Khamenei is 76% likely to be Iran's head of state."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentioned stocks or subreddits provided."
+      "summary": "Mixed: No specific data is available to determine market sentiment, with no top mentions or subreddits provided."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 3 bullish vs 1 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: Global tensions and trade disputes, including Trump's 50% tariffs on Canadian goods and rising oil prices, weigh on the market, with Jamie Dimon warning of underestimated risks."
     }
   },
   "portfolio": [
@@ -780,30 +780,30 @@
       "name": "Global X S&P 500 Covered Call",
       "type": "Covered Call Income",
       "price_usd": 40.77,
-      "change_1d": -0.92,
-      "change_1w": -0.88,
-      "change_1m": 0.66,
-      "high_3m": 41.31,
-      "low_3m": 39.01,
+      "change_1d": 0.07,
+      "change_1w": 0.12,
+      "change_1m": 1.67,
+      "high_3m": 40.9,
+      "low_3m": 38.62,
       "week52_high": 41.32,
       "week52_low": 38.22,
-      "rsi": 55.1,
+      "rsi": 72.0,
       "div_yield": 9.29,
       "last_div": null,
       "outlook": {
-        "label": "Mild Bullish",
-        "color": "green",
-        "score": 1,
+        "label": "Neutral",
+        "color": "yellow",
+        "score": 0,
         "bull_count": 2,
-        "bear_count": 1,
-        "total": 5,
+        "bear_count": 2,
+        "total": 6,
         "confidence": "Low",
         "reasons": [
-          "Price below 20-day moving average ↓",
+          "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 55.1 — Above neutral, mild upward momentum ↑",
-          "5-day momentum -0.9% — consolidating sideways →",
-          "1-month return +0.7% — range-bound"
+          "RSI 72.0 — Overbought zone, historically signals a pullback ↓",
+          "5-day momentum +0.1% — consolidating sideways →",
+          "1-month return +1.7% — range-bound"
         ]
       }
     },
