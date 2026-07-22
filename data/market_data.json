@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-07-21T23:04:16Z",
+  "updated_at": "2026-07-22T00:57:51Z",
   "crypto": {
     "fear_greed": {
-      "value": 25,
-      "label": "Extreme Fear",
-      "previous_value": 29,
-      "previous_label": "Fear"
+      "value": 33,
+      "label": "Fear",
+      "previous_value": 25,
+      "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 66208,
+        "price_usd": 66609,
         "change_24h": 1.66,
-        "market_cap": 1328561923766,
-        "volume_24h": 30723255027
+        "market_cap": 1335975086493,
+        "volume_24h": 30954201913
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1917.5,
-        "change_24h": 1.18,
-        "market_cap": 231531112688,
-        "volume_24h": 11130417375
+        "price_usd": 1938.05,
+        "change_24h": 1.27,
+        "market_cap": 233869451228,
+        "volume_24h": 10886754629
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 572.11,
-        "change_24h": 0.42,
-        "market_cap": 76199216572,
-        "volume_24h": 595527852
+        "price_usd": 574.46,
+        "change_24h": 0.23,
+        "market_cap": 76493196019,
+        "volume_24h": 620685278
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.14,
-        "change_24h": 2.84,
-        "market_cap": 71264934785,
-        "volume_24h": 1442127697
+        "change_24h": 2.55,
+        "market_cap": 71515242350,
+        "volume_24h": 1475615348
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 77.88,
-        "change_24h": 0.58,
-        "market_cap": 45399684902,
-        "volume_24h": 1508826731
+        "price_usd": 78.41,
+        "change_24h": 0.42,
+        "market_cap": 45694404051,
+        "volume_24h": 1521072019
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.073045,
-        "change_24h": 1.78,
-        "market_cap": 11335483956,
-        "volume_24h": 492424530
+        "price_usd": 0.073645,
+        "change_24h": 1.96,
+        "market_cap": 11427482892,
+        "volume_24h": 497997902
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.62,
-        "change_24h": 0.9,
-        "market_cap": 6448630236,
-        "volume_24h": 226728328
+        "price_usd": 8.71,
+        "change_24h": 1.13,
+        "market_cap": 6512649928,
+        "volume_24h": 222797418
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.172765,
-        "change_24h": 2.05,
-        "market_cap": 6446145298,
-        "volume_24h": 391792764
+        "price_usd": 0.173573,
+        "change_24h": 1.5,
+        "market_cap": 6472146777,
+        "volume_24h": 371680081
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.55,
-        "change_24h": -0.09,
-        "market_cap": 2827100068,
-        "volume_24h": 152345567
+        "price_usd": 6.6,
+        "change_24h": -0.11,
+        "market_cap": 2850147746,
+        "volume_24h": 148818337
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 4,
-        "price_usd": 66208,
+        "price_usd": 66609,
         "change_24h": 1.66
-      },
-      {
-        "symbol": "ETH",
-        "mentions": 1,
-        "price_usd": 1917.5,
-        "change_24h": 1.18
       },
       {
         "symbol": "ADA",
         "mentions": 1,
-        "price_usd": 0.172765,
-        "change_24h": 2.05
+        "price_usd": 0.173573,
+        "change_24h": 1.5
+      },
+      {
+        "symbol": "LINK",
+        "mentions": 1,
+        "price_usd": 8.71,
+        "change_24h": 1.13
+      },
+      {
+        "symbol": "ETH",
+        "mentions": 0,
+        "price_usd": 1938.05,
+        "change_24h": 1.27
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 77.88,
-        "change_24h": 0.58
+        "price_usd": 78.41,
+        "change_24h": 0.42
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 572.11,
-        "change_24h": 0.42
+        "price_usd": 574.46,
+        "change_24h": 0.23
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.14,
-        "change_24h": 2.84
+        "change_24h": 2.55
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.073045,
-        "change_24h": 1.78
+        "price_usd": 0.073645,
+        "change_24h": 1.96
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.55,
-        "change_24h": -0.09
-      },
-      {
-        "symbol": "LINK",
-        "mentions": 0,
-        "price_usd": 8.62,
-        "change_24h": 0.9
+        "price_usd": 6.6,
+        "change_24h": -0.11
       },
       {
         "symbol": "TON",
@@ -150,9 +150,9 @@
         "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
         "published": "Tue, 21 Jul 2026 22:08:10 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
@@ -162,9 +162,9 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
@@ -174,9 +174,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
@@ -186,9 +186,9 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal",
@@ -196,9 +196,9 @@
         "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
         "published": "Tue, 21 Jul 2026 17:54:40 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
@@ -210,7 +210,7 @@
           "SOL"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -222,7 +222,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -231,9 +231,9 @@
         "url": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
         "published": "Tue, 21 Jul 2026 15:19:44 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
       },
       {
         "title": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era",
@@ -241,9 +241,9 @@
         "url": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
         "published": "Tue, 21 Jul 2026 14:27:03 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "MoneyGram's CEO says blockchain works best when customers don't know it's there",
@@ -251,9 +251,9 @@
         "url": "https://www.coindesk.com/tech/2026/07/17/moneygram-s-ceo-says-blockchain-works-best-when-customers-don-t-know-it-s-there",
         "published": "Tue, 21 Jul 2026 13:38:13 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       },
       {
         "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
@@ -261,9 +261,9 @@
         "url": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Tue, 21 Jul 2026 21:36:43 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
@@ -271,9 +271,9 @@
         "url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Tue, 21 Jul 2026 20:59:32 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?",
@@ -305,71 +305,65 @@
         "assets": [
           "UNI"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.3,
+        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": 0.267,
+      "score": 0.16,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $67,500 in July?",
-        "volume_24h": 148392,
-        "yes_price": 0.73,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $75,000 in July?",
-        "volume_24h": 118185,
-        "yes_price": 0.04,
+        "volume_24h": 152078,
+        "yes_price": 0.81,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $67,000 on July 21?",
-        "volume_24h": 116194,
-        "yes_price": 0.12,
+        "volume_24h": 134014,
+        "yes_price": 0.34,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $75,000 in July?",
+        "volume_24h": 115655,
+        "yes_price": 0.04,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $70,000 in July?",
-        "volume_24h": 106265,
-        "yes_price": 0.33,
+        "volume_24h": 108690,
+        "yes_price": 0.38,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $72,500 in July?",
-        "volume_24h": 94606,
-        "yes_price": 0.12,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Ethereum dip to $1,250 by December 31, 2026?",
-        "volume_24h": 86495,
-        "yes_price": 0.23,
+        "volume_24h": 90950,
+        "yes_price": 0.14,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 81% of traders predict Bitcoin will reach $67,500 in July, with $152,078 in volume."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 4,
-          "ETH": 1,
           "ADA": 1,
+          "LINK": 1,
+          "ETH": 0,
           "SOL": 0,
           "BNB": 0,
           "XRP": 0,
           "DOGE": 0,
           "AVAX": 0,
-          "LINK": 0,
           "TON": 0
         },
         "activity_score": 100,
@@ -379,75 +373,75 @@
       }
     ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "outlook": "Bullish",
+      "summary": "Bullish: BTC dominates discussion with 4 mentions, indicating optimism, in highly active r/CryptoCurrency subreddit with 100/100 activity."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 4 bullish vs 0 bearish signals detected across crypto news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: Sentiment is divided with bullish signs from Digital Chamber's lawsuit and Galaxy's $5 million fund, while bearish indicators include Movement Labs' bankruptcy and Russia's $3,800 annual cap."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 146,
+      "active_threads": 142,
       "mentions": {
-        "BTC": 15,
+        "BTC": 16,
         "XRP": 14,
-        "ETH": 9
+        "ETH": 7
       },
-      "bullish_hits": 83,
-      "bearish_hits": 47,
-      "bullish_pct": 64,
+      "bullish_hits": 80,
+      "bearish_hits": 49,
+      "bullish_pct": 62,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
         "symbol": "ERA",
         "name": "Caldera",
-        "rank": 908,
+        "rank": 952,
         "score": 0,
-        "change_24h": 53.32
+        "change_24h": 21.82
+      },
+      {
+        "symbol": "DEXE",
+        "name": "DeXe",
+        "rank": 133,
+        "score": 1,
+        "change_24h": -82.39
+      },
+      {
+        "symbol": "PONS",
+        "name": "Pons",
+        "rank": 553,
+        "score": 2,
+        "change_24h": 102.21
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 114,
-        "score": 1,
-        "change_24h": -0.05
-      },
-      {
-        "symbol": "PONS",
-        "name": "Pons",
-        "rank": 676,
-        "score": 2,
-        "change_24h": 77.84
-      },
-      {
-        "symbol": "DEXE",
-        "name": "DeXe",
-        "rank": 131,
         "score": 3,
-        "change_24h": -81.98
+        "change_24h": -1.0
       },
       {
-        "symbol": "PUMP",
-        "name": "Pump.fun",
-        "rank": 77,
+        "symbol": "ONDO",
+        "name": "Ondo",
+        "rank": 41,
         "score": 4,
-        "change_24h": 0.59
+        "change_24h": 12.36
       },
       {
-        "symbol": "MOVE",
-        "name": "Movement",
-        "rank": 474,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 5,
-        "change_24h": 0.73
+        "change_24h": 1.86
       },
       {
-        "symbol": "TAO",
-        "name": "Bittensor",
-        "rank": 42,
+        "symbol": "XRP",
+        "name": "XRP",
+        "rank": 6,
         "score": 6,
-        "change_24h": 2.36
+        "change_24h": 2.66
       }
     ]
   },
@@ -545,9 +539,9 @@
         "url": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
         "published": "Tue, 21 Jul 2026 20:51:34 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
@@ -555,9 +549,19 @@
         "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
         "published": "Tue, 21 Jul 2026 22:34:35 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
+      },
+      {
+        "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html",
+        "published": "Wed, 22 Jul 2026 00:00:01 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
       },
       {
         "title": "OpenAI appoints two new members to board of directors",
@@ -566,8 +570,18 @@
         "published": "Tue, 21 Jul 2026 21:22:32 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
+      },
+      {
+        "title": "Sony’s 'ironic' PlayStation disc decision upends gamer conventions and threatens a $7 billion resale market",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/22/sonys-playstation-disc-decision-threatens-a-7-billion-resale-market-.html",
+        "published": "Wed, 22 Jul 2026 00:30:24 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
       },
       {
         "title": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations",
@@ -577,9 +591,19 @@
         "assets": [
           "SPY"
         ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Japan exports and imports grow at fastest pace in June since November 2022, beating estimates",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/22/japan-june-exports-trade-data.html",
+        "published": "Wed, 22 Jul 2026 00:36:15 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Prediction markets and their opponents are spending more to influence Congress in 2026",
@@ -592,54 +616,34 @@
         "color": "yellow"
       },
       {
-        "title": "RFK Jr. says cyclospora outbreak is 'under control'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/21/cyclospora-rfk-jr-says-outbreak-is-under-control.html",
-        "published": "Tue, 21 Jul 2026 22:06:30 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
-        "published": "Tue, 21 Jul 2026 20:01:39 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.333,
-        "color": "red"
-      },
-      {
         "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
         "published": "Tue, 21 Jul 2026 10:24:07 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "GM announces new gas-powered Cadillac vehicles amid EV pullback",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/21/gm-new-gas-powered-cadillac.html",
-        "published": "Tue, 21 Jul 2026 15:03:42 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Super Micro’s stock soars as its margins unexpectedly double",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 22:11:00 GMT",
+        "published": "Wed, 22 Jul 2026 00:33:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
+      },
+      {
+        "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 23:56:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "SpaceX’s stock snaps brutal losing streak ahead of key Starship rocket launch",
@@ -647,9 +651,9 @@
         "url": "https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273?mod=mw_rss_topstories",
         "published": "Tue, 21 Jul 2026 20:59:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
@@ -658,7 +662,7 @@
         "published": "Tue, 21 Jul 2026 20:30:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": -0.2,
         "color": "yellow"
       },
       {
@@ -668,87 +672,77 @@
         "published": "Tue, 21 Jul 2026 20:27:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Why Micron and other chip stocks are bouncing back so strongly",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 20:12:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.178,
+      "score": 0.167,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_24h": 1933255,
-        "yes_price": 0.84,
+        "volume_24h": 1950745,
+        "yes_price": 0.85,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_24h": 1236651,
-        "yes_price": 0.15,
+        "volume_24h": 1192603,
+        "yes_price": 0.14,
         "category": "finance"
       },
       {
         "title": "Will LeBron James play for the Golden State Warriors in 2026-27?",
-        "volume_24h": 300865,
-        "yes_price": 0.2,
-        "category": "finance"
-      },
-      {
-        "title": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-        "volume_24h": 286582,
-        "yes_price": 0.73,
+        "volume_24h": 293693,
+        "yes_price": 0.18,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 240928,
+        "volume_24h": 253195,
         "yes_price": 0.28,
         "category": "finance"
       },
       {
+        "title": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+        "volume_24h": 203634,
+        "yes_price": 0.73,
+        "category": "finance"
+      },
+      {
         "title": "Will the Iranian regime fall before 2027?",
-        "volume_24h": 175516,
+        "volume_24h": 182530,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
-        "title": "Will Iran announce withdrawal from MOU negotiations by July 31?",
-        "volume_24h": 140572,
-        "yes_price": 0.09,
+        "title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?",
+        "volume_24h": 162736,
+        "yes_price": 0.45,
         "category": "finance"
       },
       {
-        "title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?",
-        "volume_24h": 135050,
-        "yes_price": 0.45,
+        "title": "Israel x Iran ceasefire continues through July 22?",
+        "volume_24h": 155751,
+        "yes_price": 0.92,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across finance prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: Markets anticipate significant stability, with an 85% probability of no Fed interest rate change by July 2026 and a 92% likelihood of the Israel-Iran ceasefire continuing through July 22. Geopolitical risks are low, as a U.S. invasion of Iran before 2027 is only 28% likely, and WTI Crude hitting $90 in July is 45%."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentioned stocks or subreddits provided."
+      "summary": "Mixed: No specific data is available to determine market sentiment, with no top mentioned stocks or subreddits provided."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 3 bullish vs 4 bearish signals detected across stock/finance news data."
+      "summary": "Mixed: Bullish sentiments from Super Micro's 15% surge and Goldman Sachs' new platform are offset by bearish concerns over Anthropic's AI model, Nike's distributor cuts, and Sony's disc decision, with Japan's export growth beating estimates."
     }
   },
   "portfolio": [
