@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-07-28T22:35:27Z",
+  "updated_at": "2026-07-29T00:03:42Z",
   "crypto": {
     "fear_greed": {
       "value": 29,
       "label": "Fear",
-      "previous_value": 30,
+      "previous_value": 29,
       "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 63798,
-        "change_24h": -1.04,
-        "market_cap": 1280152071989,
-        "volume_24h": 25611189209
+        "price_usd": 63937,
+        "change_24h": 0.4,
+        "market_cap": 1282483059638,
+        "volume_24h": 24126670589
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1915.5,
-        "change_24h": -0.51,
-        "market_cap": 231230136893,
-        "volume_24h": 10609669091
+        "price_usd": 1922.44,
+        "change_24h": 1.7,
+        "market_cap": 231893644635,
+        "volume_24h": 9988745933
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 569.23,
-        "change_24h": -0.31,
-        "market_cap": 75820860717,
-        "volume_24h": 546082787
+        "price_usd": 571.14,
+        "change_24h": 0.98,
+        "market_cap": 76015709587,
+        "volume_24h": 523559579
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.065,
-        "change_24h": -1.4,
-        "market_cap": 66590559302,
-        "volume_24h": 1299145884
+        "price_usd": 1.068,
+        "change_24h": 0.32,
+        "market_cap": 66767957521,
+        "volume_24h": 1192842346
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 73.83,
-        "change_24h": -1.78,
-        "market_cap": 43062333971,
-        "volume_24h": 1837343501
+        "price_usd": 73.78,
+        "change_24h": -0.48,
+        "market_cap": 42990037358,
+        "volume_24h": 1747975314
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.070702,
-        "change_24h": -1.17,
-        "market_cap": 10977390625,
-        "volume_24h": 538195434
+        "price_usd": 0.070854,
+        "change_24h": 0.75,
+        "market_cap": 10988835285,
+        "volume_24h": 507498439
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.41,
-        "change_24h": -1.8,
-        "market_cap": 6289343969,
-        "volume_24h": 218730200
+        "price_usd": 8.44,
+        "change_24h": 0.92,
+        "market_cap": 6311034669,
+        "volume_24h": 197066726
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.162162,
-        "change_24h": 2.53,
-        "market_cap": 6058396728,
-        "volume_24h": 290819443
+        "price_usd": 0.161803,
+        "change_24h": 4.09,
+        "market_cap": 6037313455,
+        "volume_24h": 308146991
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.56,
-        "change_24h": 0.28,
-        "market_cap": 2834441152,
-        "volume_24h": 166263720
+        "price_usd": 6.58,
+        "change_24h": 2.82,
+        "market_cap": 2835749019,
+        "volume_24h": 149453061
       }
     ],
     "top_mentioned": [
       {
         "symbol": "ETH",
         "mentions": 5,
-        "price_usd": 1915.5,
-        "change_24h": -0.51
+        "price_usd": 1922.44,
+        "change_24h": 1.7
       },
       {
         "symbol": "BTC",
         "mentions": 3,
-        "price_usd": 63798,
-        "change_24h": -1.04
+        "price_usd": 63937,
+        "change_24h": 0.4
       },
       {
         "symbol": "BNB",
         "mentions": 1,
-        "price_usd": 569.23,
-        "change_24h": -0.31
+        "price_usd": 571.14,
+        "change_24h": 0.98
       },
       {
         "symbol": "LINK",
         "mentions": 1,
-        "price_usd": 8.41,
-        "change_24h": -1.8
+        "price_usd": 8.44,
+        "change_24h": 0.92
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 73.83,
-        "change_24h": -1.78
+        "price_usd": 73.78,
+        "change_24h": -0.48
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.065,
-        "change_24h": -1.4
+        "price_usd": 1.068,
+        "change_24h": 0.32
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.162162,
-        "change_24h": 2.53
+        "price_usd": 0.161803,
+        "change_24h": 4.09
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.070702,
-        "change_24h": -1.17
+        "price_usd": 0.070854,
+        "change_24h": 0.75
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.56,
-        "change_24h": 0.28
+        "price_usd": 6.58,
+        "change_24h": 2.82
       },
       {
         "symbol": "TON",
@@ -145,6 +145,18 @@
     ],
     "news": [
       {
+        "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
+        "published": "Tue, 28 Jul 2026 23:50:38 +0000",
+        "assets": [
+          "ADA"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
+      },
+      {
         "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
@@ -152,9 +164,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
@@ -163,7 +175,7 @@
         "published": "Tue, 28 Jul 2026 19:44:26 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -172,9 +184,9 @@
         "url": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
         "published": "Tue, 28 Jul 2026 17:23:35 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
@@ -182,9 +194,9 @@
         "url": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
         "published": "Tue, 28 Jul 2026 16:08:19 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
@@ -194,9 +206,9 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
@@ -204,9 +216,9 @@
         "url": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
         "published": "Tue, 28 Jul 2026 14:49:50 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
       },
       {
         "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
@@ -214,9 +226,9 @@
         "url": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
         "published": "Tue, 28 Jul 2026 14:49:01 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.9,
+        "color": "green"
       },
       {
         "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
@@ -224,9 +236,9 @@
         "url": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
         "published": "Tue, 28 Jul 2026 14:35:28 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
@@ -238,20 +250,18 @@
           "ETH",
           "SOL"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.9,
+        "color": "green"
       },
       {
-        "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
-        "published": "Tue, 28 Jul 2026 12:46:05 +0000",
-        "assets": [
-          "BTC"
-        ],
+        "title": "Myanmar parliament passes crypto scam bill with penalties up to life",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 28 Jul 2026 23:27:28 +0000",
+        "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -260,9 +270,9 @@
         "url": "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Tue, 28 Jul 2026 21:57:49 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       },
       {
         "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
@@ -273,9 +283,9 @@
           "ETH",
           "SOL"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.9,
+        "color": "green"
       },
       {
         "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
@@ -283,9 +293,9 @@
         "url": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Tue, 28 Jul 2026 18:47:26 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -296,52 +306,42 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Galaxy, MARA Holdings deepen Texas expansion with land acquisitions",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/galaxy-mara-texas-land-deals-ai-bitcoin-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 28 Jul 2026 18:08:32 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.2,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": 0.44,
+      "label": "Bullish",
+      "color": "green"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin dip to $60,000 in July?",
-        "volume_24h": 214871,
+        "volume_24h": 203728,
         "yes_price": 0.1,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $62,500 in July?",
-        "volume_24h": 171361,
-        "yes_price": 0.47,
+        "volume_24h": 167385,
+        "yes_price": 0.46,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $67,500 in July?",
-        "volume_24h": 140356,
-        "yes_price": 0.1,
+        "volume_24h": 135692,
+        "yes_price": 0.09,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $57,500 in July?",
-        "volume_24h": 120980,
+        "volume_24h": 107734,
         "yes_price": 0.02,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 46% predict Bitcoin will dip to $62,500 in July, with $167,385 in volume."
     },
     "reddit": [
       {
@@ -359,8 +359,8 @@
           "TON": 0
         },
         "activity_score": 100,
-        "top_post": "Daily Crypto Discussion - July 27, 2026 (GMT+0)",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1v8g8w0/daily_crypto_discussion_july_27_2026_gmt0/",
+        "top_post": "Daily Crypto Discussion - July 28, 2026 (GMT+0)",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1v9e6we/daily_crypto_discussion_july_28_2026_gmt0/",
         "top_post_score": 0
       }
     ],
@@ -370,18 +370,18 @@
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Ondo and Russia's moves, such as dropping tokenized assets and outlining strict digital depository rules, may negatively impact the market, with no strongly positive news to counterbalance these developments."
+      "summary": "Bearish: 1 bullish vs 3 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 138,
+      "active_threads": 136,
       "mentions": {
         "XRP": 25,
-        "BTC": 14,
-        "SOL": 1
+        "BTC": 15,
+        "ETH": 1
       },
-      "bullish_hits": 82,
-      "bearish_hits": 51,
+      "bullish_hits": 79,
+      "bearish_hits": 49,
       "bullish_pct": 62,
       "top_coin": "XRP"
     },
@@ -389,51 +389,51 @@
       {
         "symbol": "CSPR",
         "name": "Casper Network",
-        "rank": 637,
+        "rank": 641,
         "score": 0,
-        "change_24h": 9.99
+        "change_24h": 11.7
+      },
+      {
+        "symbol": "ONDO",
+        "name": "Ondo",
+        "rank": 41,
+        "score": 1,
+        "change_24h": 3.33
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 111,
-        "score": 1,
-        "change_24h": -1.59
-      },
-      {
-        "symbol": "COTI",
-        "name": "COTI",
-        "rank": 582,
         "score": 2,
-        "change_24h": -17.87
+        "change_24h": 0.28
       },
       {
-        "symbol": "GRASS",
-        "name": "Grass",
-        "rank": 157,
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 10,
         "score": 3,
-        "change_24h": -9.03
+        "change_24h": -1.55
+      },
+      {
+        "symbol": "XPL",
+        "name": "Plasma",
+        "rank": 148,
+        "score": 4,
+        "change_24h": 5.53
+      },
+      {
+        "symbol": "CASHCAT",
+        "name": "Cash Cat",
+        "rank": 412,
+        "score": 5,
+        "change_24h": 44.02
       },
       {
         "symbol": "LIT",
         "name": "Lighter",
         "rank": 92,
-        "score": 4,
-        "change_24h": 6.58
-      },
-      {
-        "symbol": "ZAMA",
-        "name": "Zama",
-        "rank": 211,
-        "score": 5,
-        "change_24h": 0.12
-      },
-      {
-        "symbol": "SOL",
-        "name": "Solana",
-        "rank": 7,
         "score": 6,
-        "change_24h": -1.76
+        "change_24h": 7.9
       }
     ]
   },
@@ -516,85 +516,31 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
+        "title": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
-        "published": "Tue, 28 Jul 2026 21:44:31 GMT",
+        "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+        "published": "Tue, 28 Jul 2026 23:53:56 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
-        "title": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
+        "title": "SK Hynix second-quarter revenue more than triples — but misses estimates",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
-        "published": "Tue, 28 Jul 2026 18:56:34 GMT",
+        "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+        "published": "Wed, 29 Jul 2026 00:00:33 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
-        "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html",
-        "published": "Tue, 28 Jul 2026 19:03:40 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Senate set to vote on Trump's pick for spy chief, ending Bill Pulte's brief tenure",
+        "title": "Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html",
-        "published": "Tue, 28 Jul 2026 21:05:36 GMT",
-        "assets": [
-          "SPY"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
-        "published": "Tue, 28 Jul 2026 15:59:04 GMT",
+        "published": "Tue, 28 Jul 2026 23:44:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
-        "published": "Tue, 28 Jul 2026 21:14:31 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/28/us-strategic-petroleum-reserve-spr-iran-oil-strait-hormuz.html",
-        "published": "Tue, 28 Jul 2026 18:49:34 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
-        "published": "Tue, 28 Jul 2026 12:38:50 GMT",
-        "assets": [
-          "AAPL"
-        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -615,14 +561,68 @@
         "color": "red"
       },
       {
-        "title": "Senate to set up key vote on Russia sanctions",
+        "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
-        "published": "Tue, 28 Jul 2026 18:17:55 GMT",
+        "url": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
+        "published": "Tue, 28 Jul 2026 22:49:50 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Apple touches $5 trillion market cap for first time",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
+        "published": "Tue, 28 Jul 2026 20:02:50 GMT",
+        "assets": [
+          "AAPL"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
+        "published": "Tue, 28 Jul 2026 18:56:34 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html",
+        "published": "Tue, 28 Jul 2026 19:03:40 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
+        "published": "Tue, 28 Jul 2026 15:59:04 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
+      },
+      {
+        "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
+        "published": "Tue, 28 Jul 2026 12:38:50 GMT",
+        "assets": [
+          "AAPL"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Seagate’s earnings are welcome news for the battered AI trade",
@@ -630,9 +630,9 @@
         "url": "https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f?mod=mw_rss_topstories",
         "published": "Tue, 28 Jul 2026 22:17:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
@@ -640,9 +640,9 @@
         "url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
         "published": "Tue, 28 Jul 2026 22:06:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Micron’s stock sinks toward worst monthly drop in 11 years as China fears escalate",
@@ -660,9 +660,9 @@
         "url": "https://www.marketwatch.com/story/bloom-energy-sees-sales-top-1-billion-as-ai-proves-a-validation-moment-for-fuel-cell-technology-5cb69476?mod=mw_rss_topstories",
         "published": "Tue, 28 Jul 2026 21:17:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
@@ -670,63 +670,63 @@
         "url": "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories",
         "published": "Tue, 28 Jul 2026 21:08:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.133,
+      "score": -0.12,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_24h": 2668401,
-        "yes_price": 0.75,
+        "volume_24h": 2814344,
+        "yes_price": 0.76,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_24h": 2117445,
-        "yes_price": 0.25,
+        "volume_24h": 2180416,
+        "yes_price": 0.24,
         "category": "finance"
       },
       {
         "title": "US x Iran Effective Ceasefire by July 24?",
-        "volume_24h": 379406,
-        "yes_price": 0.2,
-        "category": "finance"
-      },
-      {
-        "title": "Fed rate hike in 2026?",
-        "volume_24h": 217461,
-        "yes_price": 0.78,
-        "category": "finance"
-      },
-      {
-        "title": "US x Iran Effective Ceasefire by July 31?",
-        "volume_24h": 196052,
-        "yes_price": 0.34,
-        "category": "finance"
-      },
-      {
-        "title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?",
-        "volume_24h": 195475,
-        "yes_price": 0.07,
+        "volume_24h": 518633,
+        "yes_price": 0.29,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in July?",
-        "volume_24h": 193157,
+        "volume_24h": 243726,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 188437,
-        "yes_price": 0.23,
+        "volume_24h": 242383,
+        "yes_price": 0.24,
+        "category": "finance"
+      },
+      {
+        "title": "US x Iran Effective Ceasefire by July 31?",
+        "volume_24h": 237211,
+        "yes_price": 0.39,
+        "category": "finance"
+      },
+      {
+        "title": "Fed rate hike in 2026?",
+        "volume_24h": 225761,
+        "yes_price": 0.76,
+        "category": "finance"
+      },
+      {
+        "title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?",
+        "volume_24h": 219174,
+        "yes_price": 0.06,
         "category": "finance"
       }
     ],
@@ -740,8 +740,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 3 bullish vs 0 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 4 bullish vs 3 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
