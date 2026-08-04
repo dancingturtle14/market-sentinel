@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-08-03T23:39:34Z",
+  "updated_at": "2026-08-04T03:21:10Z",
   "crypto": {
     "fear_greed": {
-      "value": 28,
-      "label": "Fear",
-      "previous_value": 27,
+      "value": 25,
+      "label": "Extreme Fear",
+      "previous_value": 28,
       "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 63455,
-        "change_24h": -0.2,
-        "market_cap": 1273580347916,
-        "volume_24h": 25446429179
+        "price_usd": 63646,
+        "change_24h": 1.0,
+        "market_cap": 1277335463224,
+        "volume_24h": 26257042573
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1856.29,
-        "change_24h": -1.9,
-        "market_cap": 224081937985,
-        "volume_24h": 6898220000
+        "price_usd": 1858.33,
+        "change_24h": 0,
+        "market_cap": 224367282334,
+        "volume_24h": 7151596384
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 589.03,
-        "change_24h": -0.1,
-        "market_cap": 78448413658,
-        "volume_24h": 518077486
+        "price_usd": 590.08,
+        "change_24h": 1.2,
+        "market_cap": 78584120035,
+        "volume_24h": 533286794
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.073,
-        "change_24h": -1.1,
-        "market_cap": 67126001734,
-        "volume_24h": 1012861833
+        "price_usd": 1.074,
+        "change_24h": 0.3,
+        "market_cap": 67170008266,
+        "volume_24h": 1005749366
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 73.38,
-        "change_24h": -0.8,
-        "market_cap": 42658226874,
-        "volume_24h": 1402083556
+        "price_usd": 73.47,
+        "change_24h": 1.2,
+        "market_cap": 42711782888,
+        "volume_24h": 1457097180
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.070131,
-        "change_24h": -0.9,
-        "market_cap": 10895780543,
-        "volume_24h": 441867525
+        "price_usd": 0.070248,
+        "change_24h": 0.6,
+        "market_cap": 12017894454,
+        "volume_24h": 440668601
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.193827,
-        "change_24h": 3.0,
-        "market_cap": 7240140852,
-        "volume_24h": 617175542
+        "price_usd": 0.194383,
+        "change_24h": 5.3,
+        "market_cap": 7257911156,
+        "volume_24h": 645242166
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 8.17,
-        "change_24h": -2.4,
-        "market_cap": 6109417065,
-        "volume_24h": 165633408
+        "change_24h": -1.4,
+        "market_cap": 6110886443,
+        "volume_24h": 169512201
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.56,
-        "change_24h": -1.2,
-        "market_cap": 2832715483,
-        "volume_24h": 167731937
+        "price_usd": 6.88,
+        "change_24h": 6.5,
+        "market_cap": 2972961728,
+        "volume_24h": 244163156
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 6,
-        "price_usd": 63455,
-        "change_24h": -0.2
+        "mentions": 7,
+        "price_usd": 63646,
+        "change_24h": 1.0
       },
       {
         "symbol": "ETH",
         "mentions": 2,
-        "price_usd": 1856.29,
-        "change_24h": -1.9
+        "price_usd": 1858.33,
+        "change_24h": 0
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 73.38,
-        "change_24h": -0.8
+        "price_usd": 73.47,
+        "change_24h": 1.2
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 589.03,
-        "change_24h": -0.1
+        "price_usd": 590.08,
+        "change_24h": 1.2
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.073,
-        "change_24h": -1.1
+        "price_usd": 1.074,
+        "change_24h": 0.3
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.193827,
-        "change_24h": 3.0
+        "price_usd": 0.194383,
+        "change_24h": 5.3
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.070131,
-        "change_24h": -0.9
+        "price_usd": 0.070248,
+        "change_24h": 0.6
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.56,
-        "change_24h": -1.2
+        "price_usd": 6.88,
+        "change_24h": 6.5
       },
       {
         "symbol": "LINK",
         "mentions": 0,
         "price_usd": 8.17,
-        "change_24h": -2.4
+        "change_24h": -1.4
       },
       {
         "symbol": "TON",
@@ -150,9 +150,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
         "published": "Mon, 03 Aug 2026 22:17:59 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
       },
       {
         "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
@@ -176,7 +176,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -186,7 +186,7 @@
         "published": "Mon, 03 Aug 2026 13:59:50 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -195,9 +195,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
         "published": "Mon, 03 Aug 2026 13:49:40 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
@@ -205,9 +205,9 @@
         "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
         "published": "Mon, 03 Aug 2026 13:15:46 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
@@ -218,7 +218,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -230,9 +230,9 @@
           "BTC",
           "SOL"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
       },
       {
         "title": "Bitget set to exit Japan, close all remaining positions by year-end",
@@ -240,9 +240,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
         "published": "Mon, 03 Aug 2026 12:03:41 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
       },
       {
         "title": "Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment",
@@ -253,9 +253,49 @@
           "BTC",
           "SOL"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Mastercard completes $1.8B BVNK acquisition in stablecoin push",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 04 Aug 2026 02:58:51 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 04 Aug 2026 02:03:26 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Caleb & Brown expands to UK, betting on untapped crypto demand",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 04 Aug 2026 00:51:32 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
+      },
+      {
+        "title": "Boltz pauses service after wave of AI-assisted hacking attempts",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 04 Aug 2026 00:03:47 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.9,
+        "color": "red"
       },
       {
         "title": "Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report",
@@ -264,104 +304,62 @@
         "published": "Mon, 03 Aug 2026 20:29:47 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 03 Aug 2026 19:52:11 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "FalconX cuts 10% of workforce amid prolonged crypto market slump: Report",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/falconx-workforce-reduction-amid-crypto-market-slump-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 03 Aug 2026 19:44:48 +0000",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 03 Aug 2026 16:46:22 +0000",
-        "assets": [
-          "AVAX"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Mon, 03 Aug 2026 16:13:12 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
+        "score": -0.2,
         "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.0,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": -0.3,
+      "label": "Bearish",
+      "color": "red"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be above $62,000 on August 4?",
-        "volume_24h": 151301,
-        "yes_price": 0.93,
+        "volume_24h": 164379,
+        "yes_price": 0.95,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-        "volume_24h": 81638,
+        "volume_24h": 82139,
         "yes_price": 0.25,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $64,000 on August 4?",
-        "volume_24h": 71230,
-        "yes_price": 0.27,
+        "volume_24h": 77634,
+        "yes_price": 0.34,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in August?",
-        "volume_24h": 67989,
+        "volume_24h": 75432,
         "yes_price": 0.05,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $55,000 in August?",
-        "volume_24h": 67523,
+        "volume_24h": 66176,
         "yes_price": 0.15,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $52,500 in August?",
-        "volume_24h": 63118,
+        "volume_24h": 61996,
         "yes_price": 0.09,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 95% of traders predict Bitcoin will be above $62,000 on August 4, with $164,379 in volume."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 6,
+          "BTC": 7,
           "ETH": 2,
           "SOL": 0,
           "BNB": 0,
@@ -379,75 +377,75 @@
       }
     ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "outlook": "Bullish",
+      "summary": "Bullish: BTC dominates discussion with 7 mentions, indicating optimism in the market, driven by activity in r/CryptoCurrency with a perfect 100/100 score."
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: U.S.-Japan intervention and Morgan Stanley's Circle downgrade weigh on the market, with potential for another leg lower, as seen in Circle's slide and a $105 million bitcoin sale."
+      "summary": "Bearish: Market sentiment is negative due to the FBI agent's crypto theft arrest, U.S.-Japan intervention, and downgrades from Morgan Stanley and Bernstein, with $105 million in bitcoin sold."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 146,
+      "active_threads": 144,
       "mentions": {
-        "BTC": 20,
+        "BTC": 21,
         "XRP": 9,
         "DOGE": 3
       },
-      "bullish_hits": 78,
-      "bearish_hits": 64,
-      "bullish_pct": 55,
+      "bullish_hits": 82,
+      "bearish_hits": 65,
+      "bullish_pct": 56,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
+        "symbol": "GRAM",
+        "name": "Gram (prev. Toncoin)",
+        "rank": 26,
+        "score": 0,
+        "change_24h": -1.17
+      },
+      {
         "symbol": "CASHCAT",
         "name": "Cash Cat",
-        "rank": 358,
-        "score": 0,
-        "change_24h": 40.54
-      },
-      {
-        "symbol": "AKT",
-        "name": "Akash Network",
-        "rank": 189,
+        "rank": 326,
         "score": 1,
-        "change_24h": 14.7
+        "change_24h": 62.59
       },
       {
-        "symbol": "PUMP",
-        "name": "Pump.fun",
-        "rank": 76,
+        "symbol": "ADA",
+        "name": "Cardano",
+        "rank": 16,
         "score": 2,
-        "change_24h": 1.65
-      },
-      {
-        "symbol": "TAO",
-        "name": "Bittensor",
-        "rank": 41,
-        "score": 3,
-        "change_24h": -1.06
+        "change_24h": 4.22
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
-        "rank": 111,
+        "rank": 110,
+        "score": 3,
+        "change_24h": 1.9
+      },
+      {
+        "symbol": "AKT",
+        "name": "Akash Network",
+        "rank": 190,
         "score": 4,
-        "change_24h": -0.09
+        "change_24h": 13.13
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "PEPE",
+        "name": "Pepe",
+        "rank": 58,
         "score": 5,
-        "change_24h": -0.06
+        "change_24h": 2.43
       },
       {
-        "symbol": "ATOM",
-        "name": "Cosmos Hub",
-        "rank": 82,
+        "symbol": "GRVT",
+        "name": "GRVT Token",
+        "rank": 608,
         "score": 6,
-        "change_24h": 7.06
+        "change_24h": 2.65
       }
     ]
   },
@@ -552,14 +550,44 @@
         "color": "green"
       },
       {
+        "title": "AI is helping Grab ship products 3 times faster, CFO says, as company raises forecasts",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html",
+        "published": "Tue, 04 Aug 2026 03:03:18 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
         "title": "Twenty five states sue Trump administration over latest global tariffs",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html",
         "published": "Mon, 03 Aug 2026 20:57:02 GMT",
         "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/03/cnbcs-the-china-connection-newsletter-ai-wins-create-investor-risks.html",
+        "published": "Mon, 03 Aug 2026 23:00:01 GMT",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "India to raise up to $3.3 billion by selling stake in country’s largest life insurer at 10% discount",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/04/india-lic-stake-sale-discount.html",
+        "published": "Tue, 04 Aug 2026 03:00:01 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Analysis: Federal Reserve may be pulled into Bessent’s effort to support Japan’s yen",
@@ -572,44 +600,14 @@
         "color": "yellow"
       },
       {
-        "title": "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/03/cnbcs-the-china-connection-newsletter-ai-wins-create-investor-risks.html",
-        "published": "Mon, 03 Aug 2026 23:00:01 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
         "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
         "published": "Mon, 03 Aug 2026 22:48:18 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
-        "published": "Mon, 03 Aug 2026 13:45:02 GMT",
-        "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.5,
         "color": "red"
-      },
-      {
-        "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
-        "published": "Mon, 03 Aug 2026 17:28:17 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
@@ -626,6 +624,16 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
         "published": "Mon, 03 Aug 2026 16:57:42 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
+      {
+        "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 00:00:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -659,9 +667,9 @@
         "assets": [
           "MSFT"
         ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
@@ -672,85 +680,75 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 22:15:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.067,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": 0.3,
+      "label": "Bullish",
+      "color": "green"
     },
     "polymarket": [
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 747384,
+        "volume_24h": 863877,
         "yes_price": 0.21,
         "category": "finance"
       },
       {
         "title": "US x Iran Effective Ceasefire by July 31?",
-        "volume_24h": 267488,
-        "yes_price": 0.55,
-        "category": "finance"
-      },
-      {
-        "title": "Israel x Iran ceasefire continues through August 9?",
-        "volume_24h": 225230,
-        "yes_price": 0.91,
-        "category": "finance"
-      },
-      {
-        "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 193080,
-        "yes_price": 0.55,
+        "volume_24h": 690948,
+        "yes_price": 0.52,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by August 7, 2026?",
-        "volume_24h": 184622,
-        "yes_price": 0.23,
-        "category": "finance"
-      },
-      {
-        "title": "Will Apple be the largest company in the world by market cap on December 31?",
-        "volume_24h": 172902,
+        "volume_24h": 299363,
         "yes_price": 0.2,
         "category": "finance"
       },
       {
-        "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 148299,
-        "yes_price": 0.42,
+        "title": "Israel x Iran ceasefire continues through August 9?",
+        "volume_24h": 299125,
+        "yes_price": 0.88,
         "category": "finance"
       },
       {
-        "title": "Will WTI Crude Oil (WTI) hit (LOW) $60 in August?",
-        "volume_24h": 124277,
+        "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+        "volume_24h": 179414,
+        "yes_price": 0.55,
+        "category": "finance"
+      },
+      {
+        "title": "Will Apple be the largest company in the world by market cap on December 31?",
+        "volume_24h": 173124,
+        "yes_price": 0.2,
+        "category": "finance"
+      },
+      {
+        "title": "Will the Iranian regime fall before 2027?",
+        "volume_24h": 135118,
+        "yes_price": 0.07,
+        "category": "finance"
+      },
+      {
+        "title": "US-Iran Final Nuclear Deal by August 31, 2026?",
+        "volume_24h": 112398,
         "yes_price": 0.04,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "summary": "Mixed: Geopolitical sentiment leans stable, with an 88% chance of continued Israel-Iran ceasefire and low probabilities for US invasion (21%) or Iran regime fall (7%). However, a hawkish lean is evident, with a 55% chance of a Fed 25 bps rate hike post-September 2026. Apple is unlikely to be the largest company by year-end, at 20%."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
+      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentioned stocks or subreddits provided."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 5 bullish vs 4 bearish signals detected across stock/finance news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: Stocks like Palantir (+12%) and Snap (+8%) soared on strong earnings, while India's $3.3 billion life insurer stake sale and Grab's AI-driven growth also boosted sentiment."
     }
   },
   "portfolio": [
