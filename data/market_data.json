@@ -1,92 +1,92 @@
 {
-  "updated_at": "2026-08-05T23:07:55Z",
+  "updated_at": "2026-08-06T00:53:42Z",
   "crypto": {
     "fear_greed": {
-      "value": 27,
-      "label": "Fear",
-      "previous_value": 25,
-      "previous_label": "Extreme Fear"
+      "value": 25,
+      "label": "Extreme Fear",
+      "previous_value": 27,
+      "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 64557,
-        "change_24h": 0.7,
-        "market_cap": 1295378124875,
-        "volume_24h": 23638024019
+        "price_usd": 64578,
+        "change_24h": 0.6,
+        "market_cap": 1295763802622,
+        "volume_24h": 23137177689
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1904.89,
-        "change_24h": 2.0,
-        "market_cap": 229854820725,
-        "volume_24h": 8770859507
+        "price_usd": 1908.36,
+        "change_24h": 1.8,
+        "market_cap": 230286269747,
+        "volume_24h": 8630608189
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 592.09,
-        "change_24h": -0.2,
-        "market_cap": 78831443866,
-        "volume_24h": 742558724
+        "price_usd": 595.3,
+        "change_24h": 0,
+        "market_cap": 79277125161,
+        "volume_24h": 684561462
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.06,
-        "change_24h": -1.1,
-        "market_cap": 66303824076,
-        "volume_24h": 1015469270
+        "price_usd": 1.062,
+        "change_24h": -1.3,
+        "market_cap": 66379700639,
+        "volume_24h": 999951372
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 73.81,
+        "price_usd": 74.01,
         "change_24h": 0,
-        "market_cap": 42910870985,
-        "volume_24h": 1667354471
+        "market_cap": 43018332508,
+        "volume_24h": 1640407230
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.069869,
-        "change_24h": -0.3,
-        "market_cap": 10857647864,
-        "volume_24h": 388643630
+        "price_usd": 0.069993,
+        "change_24h": -0.4,
+        "market_cap": 10873880829,
+        "volume_24h": 377331554
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.191073,
-        "change_24h": -1.0,
-        "market_cap": 7139506393,
-        "volume_24h": 412513712
+        "price_usd": 0.191026,
+        "change_24h": -0.8,
+        "market_cap": 7134026705,
+        "volume_24h": 407119287
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.13,
-        "change_24h": -0.2,
-        "market_cap": 6082200212,
-        "volume_24h": 141525011
+        "price_usd": 8.16,
+        "change_24h": -0.1,
+        "market_cap": 6104094313,
+        "volume_24h": 139294634
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.64,
-        "change_24h": -0.3,
-        "market_cap": 2867247739,
-        "volume_24h": 169391427
+        "price_usd": 6.65,
+        "change_24h": -0.7,
+        "market_cap": 2872415796,
+        "volume_24h": 165687874
       }
     ],
     "top_mentioned": [
       {
-        "symbol": "BTC",
-        "mentions": 1,
-        "price_usd": 64557,
-        "change_24h": 0.7
+        "symbol": "LTC",
+        "mentions": 2,
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "MATIC",
@@ -95,52 +95,52 @@
         "change_24h": null
       },
       {
-        "symbol": "LTC",
-        "mentions": 1,
-        "price_usd": null,
-        "change_24h": null
+        "symbol": "BTC",
+        "mentions": 0,
+        "price_usd": 64578,
+        "change_24h": 0.6
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1904.89,
-        "change_24h": 2.0
+        "price_usd": 1908.36,
+        "change_24h": 1.8
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 73.81,
+        "price_usd": 74.01,
         "change_24h": 0
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 592.09,
-        "change_24h": -0.2
+        "price_usd": 595.3,
+        "change_24h": 0
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.06,
-        "change_24h": -1.1
+        "price_usd": 1.062,
+        "change_24h": -1.3
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.191073,
-        "change_24h": -1.0
+        "price_usd": 0.191026,
+        "change_24h": -0.8
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.069869,
-        "change_24h": -0.3
+        "price_usd": 0.069993,
+        "change_24h": -0.4
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.64,
-        "change_24h": -0.3
+        "price_usd": 6.65,
+        "change_24h": -0.7
       }
     ],
     "news": [
@@ -152,9 +152,9 @@
         "assets": [
           "DOT"
         ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
       },
       {
         "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
@@ -162,9 +162,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
         "published": "Wed, 05 Aug 2026 18:15:21 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
@@ -175,7 +175,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.3,
         "color": "green"
       },
       {
@@ -199,7 +199,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -208,9 +208,9 @@
         "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
         "published": "Wed, 05 Aug 2026 13:25:04 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       },
       {
         "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
@@ -218,9 +218,9 @@
         "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
         "published": "Wed, 05 Aug 2026 13:00:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.4,
+        "color": "red"
       },
       {
         "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
@@ -231,7 +231,7 @@
           "ADA"
         ],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -240,9 +240,9 @@
         "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
         "published": "Wed, 05 Aug 2026 12:42:19 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "AI agent token once worth $2.4 billion ends with founder calling it dead",
@@ -250,9 +250,19 @@
         "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
         "published": "Wed, 05 Aug 2026 12:28:39 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/block-raises-2026-outlook-on-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 06 Aug 2026 00:22:50 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
@@ -260,9 +270,9 @@
         "url": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 05 Aug 2026 21:15:37 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.3,
+        "color": "red"
       },
       {
         "title": "Senator Lummis still pushing for CLARITY vote before August recess",
@@ -270,9 +280,9 @@
         "url": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 05 Aug 2026 19:18:24 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -290,23 +300,13 @@
         "url": "https://cointelegraph.com/news/marex-digital-prime-tokenet-institutional-crypto-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 05 Aug 2026 18:53:47 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/michigan-house-rep-loses-primary-support-crypto-pac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 05 Aug 2026 16:51:54 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.133,
+      "score": 0.16,
       "label": "Neutral",
       "color": "yellow"
     },
@@ -319,9 +319,9 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 1,
+          "LTC": 2,
           "MATIC": 1,
-          "LTC": 1,
+          "BTC": 0,
           "ETH": 0,
           "SOL": 0,
           "BNB": 0,
@@ -337,16 +337,16 @@
       }
     ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "outlook": "Bullish",
+      "summary": "Bullish: LTC and MATIC are mentioned, with 2 mentions of LTC, indicating optimism, in a highly active r/CryptoCurrency subreddit with 100/100 activity."
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: RedotPay, Coldcard, and STRC's 30% rebound indicate positive market sentiment, with bitcoin price stabilizing."
+      "summary": "Bullish: Multiple factors, including a growing crypto roster in Congress, potential demand for regulated bitcoin, and a 30% rebound in STRC, contribute to a positive market sentiment, with Nomura's Laser Digital also making a notable investment in ZIGChain."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 151,
+      "active_threads": 155,
       "mentions": {
         "BTC": 22,
         "XRP": 9,
@@ -359,53 +359,53 @@
     },
     "cg_trending": [
       {
-        "symbol": "PUMP",
-        "name": "Pump.fun",
-        "rank": 67,
+        "symbol": "BLESS",
+        "name": "Bless",
+        "rank": 441,
         "score": 0,
-        "change_24h": -1.14
+        "change_24h": 139.27
       },
       {
         "symbol": "CASHCAT",
         "name": "Cash Cat",
-        "rank": 227,
+        "rank": 258,
         "score": 1,
-        "change_24h": 57.57
+        "change_24h": 22.85
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
-        "rank": 108,
+        "rank": 107,
         "score": 2,
-        "change_24h": 1.14
+        "change_24h": 4.71
       },
       {
-        "symbol": "VVV",
-        "name": "Venice Token",
-        "rank": 91,
+        "symbol": "GRVT",
+        "name": "GRVT Token",
+        "rank": 593,
         "score": 3,
-        "change_24h": -2.39
+        "change_24h": 7.57
       },
       {
-        "symbol": "PONS",
-        "name": "Pons",
-        "rank": 993,
+        "symbol": "PI",
+        "name": "Pi Network",
+        "rank": 64,
         "score": 4,
-        "change_24h": -26.43
+        "change_24h": 10.06
       },
       {
-        "symbol": "HYPE",
-        "name": "Hyperliquid",
-        "rank": 10,
+        "symbol": "UNI",
+        "name": "Uniswap",
+        "rank": 37,
         "score": 5,
-        "change_24h": 2.8
+        "change_24h": 6.23
       },
       {
-        "symbol": "XMR",
-        "name": "Monero",
-        "rank": 17,
+        "symbol": "HEI",
+        "name": "Heima",
+        "rank": 761,
         "score": 6,
-        "change_24h": 3.63
+        "change_24h": 102.25
       }
     ]
   },
@@ -496,7 +496,7 @@
           "GOOGL"
         ],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -505,9 +505,9 @@
         "url": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
         "published": "Wed, 05 Aug 2026 18:47:59 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
       },
       {
         "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
@@ -516,8 +516,48 @@
         "published": "Wed, 05 Aug 2026 20:36:16 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.3,
         "color": "red"
+      },
+      {
+        "title": "Inside India newsletter: What's behind India’s rush to sell shares in state-owned firms",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/06/india-lic-shares-economy-disinvestment-.html",
+        "published": "Thu, 06 Aug 2026 00:11:08 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.1,
+        "color": "yellow"
+      },
+      {
+        "title": "We're downgrading Honeywell Aerospace after a shockingly bad earnings debut",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/05/were-downgrading-honeywell-aerospace-after-a-shockingly-bad-earnings-debut.html",
+        "published": "Thu, 06 Aug 2026 00:09:36 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
+      },
+      {
+        "title": "Disney weighs free, ad-supported streaming, says it has sold out Super Bowl ad spots",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/05/disney-free-ad-supported-streaming-super-bowl-ads.html",
+        "published": "Wed, 05 Aug 2026 15:25:55 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
+      {
+        "title": "How Disney parks are bucking a travel slowdown",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
+        "published": "Wed, 05 Aug 2026 21:22:36 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       },
       {
         "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
@@ -527,68 +567,28 @@
         "assets": [
           "TSLA"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Jim Cramer says investors should consider buying SpaceX for their kids",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/05/jim-cramer-investors-should-consider-buying-spacex-kids.html",
-        "published": "Wed, 05 Aug 2026 22:40:41 GMT",
+        "published": "Wed, 05 Aug 2026 23:26:03 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
         "title": "Etsy laying off 12% of staff in bid to streamline business, position for growth",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html",
-        "published": "Wed, 05 Aug 2026 21:22:01 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
-        "published": "Wed, 05 Aug 2026 21:55:46 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Disney weighs free, ad-supported streaming, says it has sold out Super Bowl ad spots",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/05/disney-free-ad-supported-streaming-super-bowl-ads.html",
-        "published": "Wed, 05 Aug 2026 15:25:55 GMT",
+        "published": "Wed, 05 Aug 2026 23:20:15 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "How Disney parks are bucking a travel slowdown",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
-        "published": "Wed, 05 Aug 2026 21:22:36 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
-        "published": "Wed, 05 Aug 2026 22:35:26 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
+        "score": -0.2,
         "color": "yellow"
       },
       {
@@ -598,7 +598,7 @@
         "published": "Wed, 05 Aug 2026 22:25:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -607,9 +607,9 @@
         "url": "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories",
         "published": "Wed, 05 Aug 2026 22:19:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.4,
+        "color": "green"
       },
       {
         "title": "Figma’s stock falls as the company’s AI push requires steep investments",
@@ -618,7 +618,7 @@
         "published": "Wed, 05 Aug 2026 22:12:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.4,
         "color": "red"
       },
       {
@@ -628,7 +628,7 @@
         "published": "Wed, 05 Aug 2026 21:28:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.3,
         "color": "red"
       },
       {
@@ -638,77 +638,77 @@
         "published": "Wed, 05 Aug 2026 21:26:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.7,
         "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.2,
+      "score": -0.027,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "US announces end of Iranian blockade by August 7, 2026?",
-        "volume_24h": 567863,
-        "yes_price": 0.38,
+        "volume_24h": 573858,
+        "yes_price": 0.35,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 466694,
+        "volume_24h": 415221,
         "yes_price": 0.15,
         "category": "finance"
       },
       {
         "title": "US x Iran Effective Ceasefire by July 31?",
-        "volume_24h": 339618,
+        "volume_24h": 362100,
         "yes_price": 0.83,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 324166,
+        "volume_24h": 313919,
         "yes_price": 0.45,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 321144,
+        "volume_24h": 274380,
         "yes_price": 0.54,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through August 9?",
-        "volume_24h": 190624,
-        "yes_price": 0.92,
+        "volume_24h": 192717,
+        "yes_price": 0.93,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by August 15, 2026?",
-        "volume_24h": 139600,
-        "yes_price": 0.67,
+        "volume_24h": 138533,
+        "yes_price": 0.66,
         "category": "finance"
       },
       {
         "title": "Kharg Island no longer under Iranian control by August 31?",
-        "volume_24h": 123656,
+        "volume_24h": 123743,
         "yes_price": 0.02,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 1 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "summary": "Bullish: Market sentiment is positive, driven by significant de-escalation of Middle East tensions. US x Iran (83%) and Israel x Iran (93%) ceasefires are highly expected, with a US invasion of Iran before 2027 unlikely (15%). Kharg Island retaining Iranian control (98%) further supports stability. The Fed is also expected to hold rates (54%) after September 2026, favoring no monetary tightening."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
+      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentioned stocks or subreddits provided."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 4 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: Multiple factors, including Google's AI reshuffle, Fed Governor Cook's rate hike warning, and Honeywell Aerospace's poor earnings, weigh on the market, with 3 bearish signals."
     }
   },
   "portfolio": [
