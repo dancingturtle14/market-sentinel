@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T03:54:35Z",
+  "updated_at": "2026-08-07T05:45:47Z",
   "crypto": {
     "fear_greed": {
       "value": 29,
@@ -11,82 +11,82 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 64283,
-        "change_24h": -0.3,
-        "market_cap": 1290146040751,
-        "volume_24h": 18445819593
+        "price_usd": 64210,
+        "change_24h": -0.5,
+        "market_cap": 1288329326818,
+        "volume_24h": 17906640365
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1897.8,
-        "change_24h": -0.2,
-        "market_cap": 229061515589,
-        "volume_24h": 6841304253
+        "price_usd": 1896.53,
+        "change_24h": 0,
+        "market_cap": 228847170790,
+        "volume_24h": 6704747179
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 593.1,
-        "change_24h": -0.1,
-        "market_cap": 78983690191,
-        "volume_24h": 458543634
+        "price_usd": 586.44,
+        "change_24h": -1.2,
+        "market_cap": 78089058857,
+        "volume_24h": 497843599
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.022,
-        "change_24h": -2.2,
-        "market_cap": 63942286485,
-        "volume_24h": 1364179155
+        "price_usd": 1.017,
+        "change_24h": -2.1,
+        "market_cap": 63583256930,
+        "volume_24h": 1415459737
       },
       {
         "symbol": "SOL",
         "name": "Solana",
         "price_usd": 72.63,
-        "change_24h": -1.4,
-        "market_cap": 42274974955,
-        "volume_24h": 1391751920
+        "change_24h": -1.1,
+        "market_cap": 42265004247,
+        "volume_24h": 1355941102
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.069127,
-        "change_24h": -0.6,
-        "market_cap": 10744552408,
-        "volume_24h": 373051385
+        "price_usd": 0.068967,
+        "change_24h": -0.9,
+        "market_cap": 10716908338,
+        "volume_24h": 373649806
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.199597,
-        "change_24h": 4.9,
-        "market_cap": 7455588843,
-        "volume_24h": 752439578
+        "price_usd": 0.200039,
+        "change_24h": 6.9,
+        "market_cap": 7468069011,
+        "volume_24h": 737761347
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.17,
-        "change_24h": 0.8,
-        "market_cap": 6114534922,
-        "volume_24h": 168885194
+        "price_usd": 8.12,
+        "change_24h": 0.2,
+        "market_cap": 6077516155,
+        "volume_24h": 168687183
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.42,
-        "change_24h": -3.1,
-        "market_cap": 2770820954,
-        "volume_24h": 194863455
+        "price_usd": 6.38,
+        "change_24h": -4.2,
+        "market_cap": 2754324984,
+        "volume_24h": 195552942
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 6,
-        "price_usd": 64283,
-        "change_24h": -0.3
+        "price_usd": 64210,
+        "change_24h": -0.5
       },
       {
         "symbol": "MATIC",
@@ -103,47 +103,84 @@
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1897.8,
-        "change_24h": -0.2
+        "price_usd": 1896.53,
+        "change_24h": 0
       },
       {
         "symbol": "SOL",
         "mentions": 0,
         "price_usd": 72.63,
-        "change_24h": -1.4
+        "change_24h": -1.1
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 593.1,
-        "change_24h": -0.1
+        "price_usd": 586.44,
+        "change_24h": -1.2
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.022,
-        "change_24h": -2.2
+        "price_usd": 1.017,
+        "change_24h": -2.1
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.199597,
-        "change_24h": 4.9
+        "price_usd": 0.200039,
+        "change_24h": 6.9
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.069127,
-        "change_24h": -0.6
+        "price_usd": 0.068967,
+        "change_24h": -0.9
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.42,
-        "change_24h": -3.1
+        "price_usd": 6.38,
+        "change_24h": -4.2
       }
     ],
     "news": [
+      {
+        "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
+        "published": "Fri, 07 Aug 2026 04:50:44 +0000",
+        "assets": [
+          "BTC",
+          "LINK"
+        ],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
+      },
+      {
+        "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
+        "published": "Fri, 07 Aug 2026 04:28:17 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
+      },
+      {
+        "title": "XRP leads majors losses as Clarity Act vote slips to September",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
+        "published": "Fri, 07 Aug 2026 04:17:01 +0000",
+        "assets": [
+          "XRP"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
       {
         "title": "Senate won't vote on crypto Clarity Act before its summer break",
         "source": "CoinDesk",
@@ -173,7 +210,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -183,7 +220,7 @@
         "published": "Thu, 06 Aug 2026 15:07:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.1,
         "color": "yellow"
       },
       {
@@ -193,7 +230,7 @@
         "published": "Thu, 06 Aug 2026 12:46:42 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.7,
         "color": "red"
       },
       {
@@ -205,7 +242,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.6,
+        "score": -0.3,
         "color": "red"
       },
       {
@@ -214,44 +251,31 @@
         "url": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
         "published": "Thu, 06 Aug 2026 11:30:00 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
-        "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
-        "published": "Thu, 06 Aug 2026 11:14:47 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
-      },
-      {
-        "title": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
-        "published": "Thu, 06 Aug 2026 10:53:09 +0000",
+        "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 07 Aug 2026 05:24:38 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -0.4,
+        "color": "red"
       },
       {
-        "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
-        "published": "Thu, 06 Aug 2026 10:43:07 +0000",
+        "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 07 Aug 2026 05:04:22 +0000",
         "assets": [
-          "BTC",
           "ETH"
         ],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Bitget explores licensed crypto presence in Bhutan",
@@ -260,11 +284,11 @@
         "published": "Fri, 07 Aug 2026 03:22:26 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.6,
         "color": "green"
       },
       {
-        "title": "US Senate pushes CLARITY Act vote to September: Report",
+        "title": "US Senate pushes CLARITY Act vote to September",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Fri, 07 Aug 2026 02:49:53 +0000",
@@ -284,44 +308,30 @@
         "sentiment": "Bearish",
         "score": -0.9,
         "color": "red"
-      },
-      {
-        "title": "Crypto market maker Wintermute launches US broker-dealer",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 07 Aug 2026 00:09:47 +0000",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
-      },
-      {
-        "title": "Following primary loss, crypto PACs invest $1.5M in 3 US state races",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 06 Aug 2026 21:11:19 +0000",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.3,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": -0.087,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": -0.3,
+      "label": "Bearish",
+      "color": "red"
     },
     "polymarket": [
       {
         "title": "Bitcoin Up or Down on August 7?",
-        "volume_24h": 82111,
-        "yes_price": 0.35,
+        "volume_24h": 91099,
+        "yes_price": 0.28,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $62,500 in August?",
+        "volume_24h": 50856,
+        "yes_price": 0.72,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 65% of participants predict Bitcoin will be down on August 7, outnumbering the 35% who are bullish, with $82,111 in volume."
+      "summary": "Bearish: 72% predict Bitcoin will dip to $62,500 in August, with $50,856 volume, outweighing the 28% expecting it to go up."
     },
     "reddit": [
       {
@@ -346,74 +356,74 @@
     ],
     "reddit_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: BTC dominates discussions with 6 mentions, indicating optimism, in r/CryptoCurrency with high activity (100/100)."
+      "summary": "Bullish: BTC dominates discussion with 6 mentions, indicating optimism, in r/CryptoCurrency with high activity."
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: Sentiment is predominantly bearish due to the Senate not voting on the Crypto Clarity Act, power struggles at Ondo Finance, and JPMorgan reporting stalled Hyperliquid ETF inflows. Further concerns arise from Bitcoin’s risk despite low volatility and Sandisk/Western Digital crashing 10%. Tether's expansion into Saudi Arabia for real estate tokenization provides the sole bullish counterpoint."
+      "summary": "Bearish: Dormant Bitcoin wallet moved $3.2 million, XRP leads losses, and the Senate delayed the crypto Clarity Act vote, while JPMorgan reported stalled Hyperliquid ETF inflows, indicating a negative market sentiment."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 152,
+      "active_threads": 154,
       "mentions": {
-        "BTC": 18,
+        "BTC": 17,
         "XRP": 8,
         "DOGE": 2
       },
-      "bullish_hits": 91,
-      "bearish_hits": 43,
-      "bullish_pct": 68,
+      "bullish_hits": 90,
+      "bearish_hits": 44,
+      "bullish_pct": 67,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "BSB",
-        "name": "Block Street",
-        "rank": 546,
-        "score": 0,
-        "change_24h": 18.04
-      },
-      {
-        "symbol": "KMNO",
-        "name": "Kamino",
-        "rank": 244,
-        "score": 1,
-        "change_24h": 19.47
-      },
-      {
         "symbol": "CASHCAT",
         "name": "Cash Cat",
-        "rank": 279,
+        "rank": 280,
+        "score": 0,
+        "change_24h": -18.01
+      },
+      {
+        "symbol": "BSB",
+        "name": "Block Street",
+        "rank": 532,
+        "score": 1,
+        "change_24h": 20.61
+      },
+      {
+        "symbol": "LIT",
+        "name": "Lighter",
+        "rank": 89,
         "score": 2,
-        "change_24h": -17.89
+        "change_24h": 8.04
+      },
+      {
+        "symbol": "SHIB",
+        "name": "Shiba Inu",
+        "rank": 34,
+        "score": 3,
+        "change_24h": -5.19
+      },
+      {
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 10,
+        "score": 4,
+        "change_24h": -2.2
       },
       {
         "symbol": "STONKBROKER",
         "name": "StonkBroker",
-        "rank": 564,
-        "score": 3,
-        "change_24h": 15.0
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 109,
-        "score": 4,
-        "change_24h": -2.99
-      },
-      {
-        "symbol": "ZBT",
-        "name": "ZEROBASE",
-        "rank": 484,
+        "rank": 613,
         "score": 5,
-        "change_24h": 7.93
+        "change_24h": -0.0
       },
       {
-        "symbol": "ETH",
-        "name": "Ethereum",
-        "rank": 2,
+        "symbol": "KAS",
+        "name": "Kaspa",
+        "rank": 81,
         "score": 6,
-        "change_24h": 0.13
+        "change_24h": -3.07
       }
     ]
   },
@@ -496,14 +506,14 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
+        "title": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
-        "published": "Fri, 07 Aug 2026 02:30:49 GMT",
+        "published": "Fri, 07 Aug 2026 05:27:03 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.2,
+        "color": "yellow"
       },
       {
         "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
@@ -526,10 +536,10 @@
         "color": "yellow"
       },
       {
-        "title": "China's exports jump 23% in July, beating estimates; imports cool",
+        "title": "China's exports growth beats estimates in July, as AI-driven shipments surge",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
-        "published": "Fri, 07 Aug 2026 03:04:54 GMT",
+        "published": "Fri, 07 Aug 2026 04:44:17 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 0.8,
@@ -539,12 +549,34 @@
         "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
-        "published": "Fri, 07 Aug 2026 03:50:12 GMT",
+        "published": "Fri, 07 Aug 2026 04:11:09 GMT",
         "assets": [
           "META"
         ],
         "sentiment": "Bearish",
         "score": -0.8,
+        "color": "red"
+      },
+      {
+        "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
+        "published": "Thu, 06 Aug 2026 23:42:20 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
+      },
+      {
+        "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+        "published": "Fri, 07 Aug 2026 01:28:57 GMT",
+        "assets": [
+          "META"
+        ],
+        "sentiment": "Bearish",
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -556,27 +588,7 @@
           "META"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
-        "published": "Thu, 06 Aug 2026 23:42:20 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
-      },
-      {
-        "title": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
-        "published": "Thu, 06 Aug 2026 22:01:34 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -586,7 +598,7 @@
         "published": "Thu, 06 Aug 2026 17:01:07 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": -0.2,
         "color": "yellow"
       },
       {
@@ -606,7 +618,7 @@
         "published": "Fri, 07 Aug 2026 02:35:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": -0.2,
+        "score": -0.1,
         "color": "yellow"
       },
       {
@@ -636,7 +648,7 @@
         "published": "Fri, 07 Aug 2026 00:31:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -645,78 +657,78 @@
         "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
         "published": "Fri, 07 Aug 2026 00:00:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.207,
+      "score": 0.053,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "US announces end of Iranian blockade by August 7, 2026?",
-        "volume_24h": 625547,
-        "yes_price": 0.21,
+        "volume_24h": 646539,
+        "yes_price": 0.13,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 516362,
+        "volume_24h": 512695,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "US x Iran Effective Ceasefire by July 31?",
-        "volume_24h": 447962,
-        "yes_price": 0.83,
+        "volume_24h": 442571,
+        "yes_price": 0.81,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 391476,
+        "volume_24h": 378639,
         "yes_price": 0.48,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through August 9?",
-        "volume_24h": 185973,
+        "volume_24h": 198626,
         "yes_price": 0.97,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by August 15, 2026?",
-        "volume_24h": 174750,
-        "yes_price": 0.59,
+        "volume_24h": 174342,
+        "yes_price": 0.58,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 154278,
+        "volume_24h": 147182,
         "yes_price": 0.48,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?",
-        "volume_24h": 115774,
-        "yes_price": 0.46,
+        "volume_24h": 145791,
+        "yes_price": 0.47,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: Markets predict a US-Iran ceasefire (83% by July 31), low likelihood of US invasion (17%), and potential end to Iranian blockade (59% by August 15), with stable interest rates (48% no change)."
+      "summary": "Bullish: Markets predict a US-Iran ceasefire (81% by July 31) and no change in Fed interest rates (48% after September 2026 meeting), with 58% expecting the Iranian blockade to end by August 15."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No clear sentiment due to lack of data, with no top mentions or subreddits available for analysis."
+      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentioned stocks or subreddits provided."
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: Market sentiment is largely positive, buoyed by strong corporate results as Airbnb stock soared 9% on earnings. Economic indicators are robust; China's exports jumped 23% and copper hit record highs. Oil prices rose amid Iran's Strait of Hormuz disruption fears. While South Korea saw an investment surge, concerns exist regarding Meta's potential India crisis and ongoing Hormuz traffic issues."
+      "summary": "Bullish: China's exports growth beats estimates, copper jumps to its highest level, and South Korea sees a surge in infant investment accounts, with copper reaching new highs."
     }
   },
   "portfolio": [
@@ -732,7 +744,7 @@
       "low_3m": 46.68,
       "week52_high": 48.89,
       "week52_low": 46.84,
-      "rsi": 43.6,
+      "rsi": 43.5,
       "div_yield": 7.55,
       "last_div": null,
       "outlook": {
@@ -746,7 +758,7 @@
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 43.6 — Below neutral, mild downward pressure ↓",
+          "RSI 43.5 — Below neutral, mild downward pressure ↓",
           "5-day momentum -0.0% — consolidating sideways →",
           "1-month return -0.3% — range-bound"
         ]
