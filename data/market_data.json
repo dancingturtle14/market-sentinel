@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T00:43:14Z",
+  "updated_at": "2026-08-07T03:54:35Z",
   "crypto": {
     "fear_greed": {
       "value": 29,
@@ -11,82 +11,82 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 64218,
-        "change_24h": -0.4,
-        "market_cap": 1288647333907,
-        "volume_24h": 18401166369
+        "price_usd": 64283,
+        "change_24h": -0.3,
+        "market_cap": 1290146040751,
+        "volume_24h": 18445819593
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1899.73,
-        "change_24h": -0.1,
-        "market_cap": 229263459515,
-        "volume_24h": 7017964440
+        "price_usd": 1897.8,
+        "change_24h": -0.2,
+        "market_cap": 229061515589,
+        "volume_24h": 6841304253
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 591.91,
-        "change_24h": 0,
-        "market_cap": 78821429217,
-        "volume_24h": 467956652
+        "price_usd": 593.1,
+        "change_24h": -0.1,
+        "market_cap": 78983690191,
+        "volume_24h": 458543634
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.034,
-        "change_24h": -2.5,
-        "market_cap": 64645122894,
-        "volume_24h": 1444543041
+        "price_usd": 1.022,
+        "change_24h": -2.2,
+        "market_cap": 63942286485,
+        "volume_24h": 1364179155
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 72.55,
-        "change_24h": -1.7,
-        "market_cap": 42228753477,
-        "volume_24h": 1440803039
+        "price_usd": 72.63,
+        "change_24h": -1.4,
+        "market_cap": 42274974955,
+        "volume_24h": 1391751920
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.069037,
-        "change_24h": -1.3,
-        "market_cap": 10727385370,
-        "volume_24h": 377299141
+        "price_usd": 0.069127,
+        "change_24h": -0.6,
+        "market_cap": 10744552408,
+        "volume_24h": 373051385
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.201709,
-        "change_24h": 5.0,
-        "market_cap": 7533297521,
-        "volume_24h": 756867269
+        "price_usd": 0.199597,
+        "change_24h": 4.9,
+        "market_cap": 7455588843,
+        "volume_24h": 752439578
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.18,
-        "change_24h": 0.6,
-        "market_cap": 6122109999,
-        "volume_24h": 168305883
+        "price_usd": 8.17,
+        "change_24h": 0.8,
+        "market_cap": 6114534922,
+        "volume_24h": 168885194
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.41,
+        "price_usd": 6.42,
         "change_24h": -3.1,
-        "market_cap": 2769460432,
-        "volume_24h": 195614528
+        "market_cap": 2770820954,
+        "volume_24h": 194863455
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 6,
-        "price_usd": 64218,
-        "change_24h": -0.4
+        "price_usd": 64283,
+        "change_24h": -0.3
       },
       {
         "symbol": "MATIC",
@@ -103,47 +103,57 @@
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1899.73,
-        "change_24h": -0.1
+        "price_usd": 1897.8,
+        "change_24h": -0.2
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 72.55,
-        "change_24h": -1.7
+        "price_usd": 72.63,
+        "change_24h": -1.4
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 591.91,
-        "change_24h": 0
+        "price_usd": 593.1,
+        "change_24h": -0.1
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.034,
-        "change_24h": -2.5
+        "price_usd": 1.022,
+        "change_24h": -2.2
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.201709,
-        "change_24h": 5.0
+        "price_usd": 0.199597,
+        "change_24h": 4.9
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.069037,
-        "change_24h": -1.3
+        "price_usd": 0.069127,
+        "change_24h": -0.6
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.41,
+        "price_usd": 6.42,
         "change_24h": -3.1
       }
     ],
     "news": [
+      {
+        "title": "Senate won't vote on crypto Clarity Act before its summer break",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
+        "published": "Fri, 07 Aug 2026 02:14:43 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
+      },
       {
         "title": "Power struggle erupts at Ondo Finance after founder’s death",
         "source": "CoinDesk",
@@ -151,7 +161,7 @@
         "published": "Thu, 06 Aug 2026 21:59:33 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -1.0,
         "color": "red"
       },
       {
@@ -163,7 +173,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -183,7 +193,7 @@
         "published": "Thu, 06 Aug 2026 12:46:42 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -195,7 +205,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.3,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -204,9 +214,9 @@
         "url": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
         "published": "Thu, 06 Aug 2026 11:30:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.3,
+        "color": "red"
       },
       {
         "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
@@ -217,7 +227,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.6,
+        "score": -0.7,
         "color": "red"
       },
       {
@@ -227,7 +237,7 @@
         "published": "Thu, 06 Aug 2026 10:53:09 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -244,11 +254,33 @@
         "color": "green"
       },
       {
-        "title": "NFT startup founder charged with misusing funds from $10 million fundraising",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
-        "published": "Thu, 06 Aug 2026 09:19:03 +0000",
+        "title": "Bitget explores licensed crypto presence in Bhutan",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 07 Aug 2026 03:22:26 +0000",
         "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
+      },
+      {
+        "title": "US Senate pushes CLARITY Act vote to September: Report",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 07 Aug 2026 02:49:53 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
+      },
+      {
+        "title": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 07 Aug 2026 02:17:07 +0000",
+        "assets": [
+          "BTC"
+        ],
         "sentiment": "Bearish",
         "score": -0.9,
         "color": "red"
@@ -260,7 +292,7 @@
         "published": "Fri, 07 Aug 2026 00:09:47 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -270,59 +302,26 @@
         "published": "Thu, 06 Aug 2026 21:11:19 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.4,
+        "score": 0.3,
         "color": "green"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 06 Aug 2026 19:31:44 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 06 Aug 2026 18:17:57 +0000",
-        "assets": [
-          "BTC",
-          "LINK"
-        ],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
-      },
-      {
-        "title": "US appellate court mandate affirms Sam Bankman-Fried conviction",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 06 Aug 2026 17:17:34 +0000",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": 0.02,
+      "score": -0.087,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Bitcoin Up or Down on August 7?",
-        "volume_24h": 78886,
-        "yes_price": 0.34,
+        "volume_24h": 82111,
+        "yes_price": 0.35,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 34% of participants predict Bitcoin will be up on August 7, with $78,886 in volume."
+      "outlook": "Bearish",
+      "summary": "Bearish: 65% of participants predict Bitcoin will be down on August 7, outnumbering the 35% who are bullish, with $82,111 in volume."
     },
     "reddit": [
       {
@@ -347,74 +346,74 @@
     ],
     "reddit_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: BTC dominates discussion with 6 mentions, indicating optimism, in r/CryptoCurrency with high activity."
+      "summary": "Bullish: BTC dominates discussions with 6 mentions, indicating optimism, in r/CryptoCurrency with high activity (100/100)."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: Bullish trends emerge with Tether's Saudi Arabia expansion and JPYC's $38 million Series B, while bearish sentiments arise from Ondo Finance's power struggle, stalled Hyperliquid ETF inflows, and low Bitcoin volatility concerns."
+      "outlook": "Bearish",
+      "summary": "Bearish: Sentiment is predominantly bearish due to the Senate not voting on the Crypto Clarity Act, power struggles at Ondo Finance, and JPMorgan reporting stalled Hyperliquid ETF inflows. Further concerns arise from Bitcoin’s risk despite low volatility and Sandisk/Western Digital crashing 10%. Tether's expansion into Saudi Arabia for real estate tokenization provides the sole bullish counterpoint."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 150,
+      "active_threads": 152,
       "mentions": {
         "BTC": 18,
         "XRP": 8,
         "DOGE": 2
       },
-      "bullish_hits": 92,
-      "bearish_hits": 48,
-      "bullish_pct": 66,
+      "bullish_hits": 91,
+      "bearish_hits": 43,
+      "bullish_pct": 68,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
+        "symbol": "BSB",
+        "name": "Block Street",
+        "rank": 546,
+        "score": 0,
+        "change_24h": 18.04
+      },
+      {
+        "symbol": "KMNO",
+        "name": "Kamino",
+        "rank": 244,
+        "score": 1,
+        "change_24h": 19.47
+      },
+      {
         "symbol": "CASHCAT",
         "name": "Cash Cat",
-        "rank": 262,
-        "score": 0,
-        "change_24h": -4.89
+        "rank": 279,
+        "score": 2,
+        "change_24h": -17.89
       },
       {
         "symbol": "STONKBROKER",
         "name": "StonkBroker",
-        "rank": 607,
-        "score": 1,
-        "change_24h": 24.52
-      },
-      {
-        "symbol": "BICO",
-        "name": "Biconomy",
-        "rank": 541,
-        "score": 2,
-        "change_24h": 34.33
+        "rank": 564,
+        "score": 3,
+        "change_24h": 15.0
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
-        "rank": 110,
-        "score": 3,
-        "change_24h": -5.31
-      },
-      {
-        "symbol": "PLUME",
-        "name": "Plume",
-        "rank": 302,
+        "rank": 109,
         "score": 4,
-        "change_24h": 17.55
+        "change_24h": -2.99
       },
       {
-        "symbol": "XRP",
-        "name": "XRP",
-        "rank": 6,
+        "symbol": "ZBT",
+        "name": "ZEROBASE",
+        "rank": 484,
         "score": 5,
-        "change_24h": -2.65
+        "change_24h": 7.93
       },
       {
-        "symbol": "ONDO",
-        "name": "Ondo",
-        "rank": 43,
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "rank": 2,
         "score": 6,
-        "change_24h": -5.05
+        "change_24h": 0.13
       }
     ]
   },
@@ -497,25 +496,23 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "Iran's Hormuz Strait plan reportedly blocks U.S., Israeli ships; U.S. rejects any 'impediments'",
+        "title": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
-        "published": "Thu, 06 Aug 2026 17:45:44 GMT",
+        "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+        "published": "Fri, 07 Aug 2026 02:30:49 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
+      },
+      {
+        "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+        "published": "Fri, 07 Aug 2026 02:08:42 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -0.5,
-        "color": "red"
-      },
-      {
-        "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
-        "published": "Fri, 07 Aug 2026 00:19:02 GMT",
-        "assets": [
-          "META"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.8,
         "color": "red"
       },
       {
@@ -525,8 +522,30 @@
         "published": "Fri, 07 Aug 2026 00:05:26 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.2,
+        "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "China's exports jump 23% in July, beating estimates; imports cool",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+        "published": "Fri, 07 Aug 2026 03:04:54 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
+      },
+      {
+        "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
+        "published": "Fri, 07 Aug 2026 03:50:12 GMT",
+        "assets": [
+          "META"
+        ],
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
       },
       {
         "title": "Copper jumps to its highest level ever. What the metal is telling us",
@@ -537,7 +556,7 @@
           "META"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -547,7 +566,7 @@
         "published": "Thu, 06 Aug 2026 23:42:20 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.7,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -557,18 +576,8 @@
         "published": "Thu, 06 Aug 2026 22:01:34 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "The July jobs numbers are due out Friday. Here's what to expect",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
-        "published": "Thu, 06 Aug 2026 20:15:22 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
@@ -587,18 +596,38 @@
         "published": "Wed, 05 Aug 2026 21:55:46 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.8,
         "color": "green"
       },
       {
-        "title": "Beijing flips the script on the U.S. tech war — and tests the truce weeks before Xi's visit",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/06/us-china-trump-xi-summit-trade-technology-restrictions.html",
-        "published": "Thu, 06 Aug 2026 07:59:32 GMT",
+        "title": "Micron’s stock falls but is spared the worst of the memory-chip selloff",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 02:35:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": -0.2,
+        "color": "yellow"
+      },
+      {
+        "title": "‘He’s never been good with money’: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 02:15:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 02:00:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.",
@@ -607,7 +636,7 @@
         "published": "Fri, 07 Aug 2026 00:31:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.6,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -619,107 +648,75 @@
         "sentiment": "Neutral",
         "score": 0.2,
         "color": "yellow"
-      },
-      {
-        "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 23:31:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.4,
-        "color": "red"
-      },
-      {
-        "title": "As Alphabet burns through cash on AI, it’s turning back to the bond market",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 23:14:00 GMT",
-        "assets": [
-          "GOOGL"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
-      },
-      {
-        "title": "Trade Desk shares tumble on earnings miss and weak outlook",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 22:59:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.7,
-        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.027,
+      "score": 0.207,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "US announces end of Iranian blockade by August 7, 2026?",
-        "volume_24h": 646317,
-        "yes_price": 0.15,
-        "category": "finance"
-      },
-      {
-        "title": "US x Iran Effective Ceasefire by July 31?",
-        "volume_24h": 473222,
-        "yes_price": 0.78,
+        "volume_24h": 625547,
+        "yes_price": 0.21,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 429434,
-        "yes_price": 0.18,
+        "volume_24h": 516362,
+        "yes_price": 0.17,
+        "category": "finance"
+      },
+      {
+        "title": "US x Iran Effective Ceasefire by July 31?",
+        "volume_24h": 447962,
+        "yes_price": 0.83,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 408909,
+        "volume_24h": 391476,
         "yes_price": 0.48,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through August 9?",
-        "volume_24h": 186173,
+        "volume_24h": 185973,
         "yes_price": 0.97,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by August 15, 2026?",
-        "volume_24h": 173077,
-        "yes_price": 0.56,
+        "volume_24h": 174750,
+        "yes_price": 0.59,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 159253,
-        "yes_price": 0.47,
+        "volume_24h": 154278,
+        "yes_price": 0.48,
         "category": "finance"
       },
       {
         "title": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?",
-        "volume_24h": 115412,
-        "yes_price": 0.48,
+        "volume_24h": 115774,
+        "yes_price": 0.46,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: Markets predict a 78% chance of a US-Iran ceasefire by July 31 and a 97% chance of an Israel-Iran ceasefire through August 9, with a 56% chance of the US ending the Iranian blockade by August 15."
+      "summary": "Bullish: Markets predict a US-Iran ceasefire (83% by July 31), low likelihood of US invasion (17%), and potential end to Iranian blockade (59% by August 15), with stable interest rates (48% no change)."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentioned stocks, subreddits, or numbers provided."
+      "summary": "Mixed: No clear sentiment due to lack of data, with no top mentions or subreddits available for analysis."
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: Copper hits its highest level, Airbnb stock soars 9%, and South Korea sees a surge in infant investment accounts, driven by strong earnings and revenue beats."
+      "summary": "Bullish: Market sentiment is largely positive, buoyed by strong corporate results as Airbnb stock soared 9% on earnings. Economic indicators are robust; China's exports jumped 23% and copper hit record highs. Oil prices rose amid Iran's Strait of Hormuz disruption fears. While South Korea saw an investment surge, concerns exist regarding Meta's potential India crisis and ongoing Hormuz traffic issues."
     }
   },
   "portfolio": [
@@ -765,7 +762,7 @@
       "change_1m": 2.43,
       "high_3m": 41.52,
       "low_3m": 39.24,
-      "week52_high": 41.53,
+      "week52_high": 41.57,
       "week52_low": 38.22,
       "rsi": 69.5,
       "div_yield": 9.49,
