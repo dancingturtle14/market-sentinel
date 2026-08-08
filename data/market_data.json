@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T05:04:38Z",
+  "updated_at": "2026-08-08T06:08:40Z",
   "crypto": {
     "fear_greed": {
       "value": 30,
@@ -7,61 +7,134 @@
       "previous_value": 29,
       "previous_label": "Fear"
     },
-    "prices": [],
+    "prices": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price_usd": 64950,
+        "change_24h": 1.2,
+        "market_cap": 1303434386255,
+        "volume_24h": 21367818444
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price_usd": 1916.13,
+        "change_24h": 1.0,
+        "market_cap": 231240638181,
+        "volume_24h": 7463371202
+      },
+      {
+        "symbol": "BNB",
+        "name": "BNB",
+        "price_usd": 592.99,
+        "change_24h": 1.0,
+        "market_cap": 78968723301,
+        "volume_24h": 488679010
+      },
+      {
+        "symbol": "XRP",
+        "name": "XRP",
+        "price_usd": 1.033,
+        "change_24h": 1.1,
+        "market_cap": 64601111297,
+        "volume_24h": 1378135035
+      },
+      {
+        "symbol": "SOL",
+        "name": "Solana",
+        "price_usd": 74.55,
+        "change_24h": 2.6,
+        "market_cap": 43399347587,
+        "volume_24h": 1632367429
+      },
+      {
+        "symbol": "DOGE",
+        "name": "Dogecoin",
+        "price_usd": 0.070184,
+        "change_24h": 1.7,
+        "market_cap": 10908269926,
+        "volume_24h": 414162322
+      },
+      {
+        "symbol": "ADA",
+        "name": "Cardano",
+        "price_usd": 0.200405,
+        "change_24h": 0.4,
+        "market_cap": 7486378904,
+        "volume_24h": 349936506
+      },
+      {
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "price_usd": 8.26,
+        "change_24h": 1.4,
+        "market_cap": 6177109082,
+        "volume_24h": 157448269
+      },
+      {
+        "symbol": "AVAX",
+        "name": "Avalanche",
+        "price_usd": 6.52,
+        "change_24h": 2.1,
+        "market_cap": 2818030875,
+        "volume_24h": 145290781
+      }
+    ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 2,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 64950,
+        "change_24h": 1.2
       },
       {
         "symbol": "BNB",
         "mentions": 1,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 592.99,
+        "change_24h": 1.0
       },
       {
         "symbol": "LINK",
         "mentions": 1,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 8.26,
+        "change_24h": 1.4
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 1916.13,
+        "change_24h": 1.0
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 74.55,
+        "change_24h": 2.6
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 1.033,
+        "change_24h": 1.1
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 0.200405,
+        "change_24h": 0.4
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 0.070184,
+        "change_24h": 1.7
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 6.52,
+        "change_24h": 2.1
       },
       {
         "symbol": "TON",
@@ -92,7 +165,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.7,
         "color": "red"
       },
       {
@@ -114,7 +187,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -124,7 +197,7 @@
         "published": "Fri, 07 Aug 2026 18:42:44 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -134,7 +207,7 @@
         "published": "Fri, 07 Aug 2026 16:53:56 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -144,7 +217,7 @@
         "published": "Fri, 07 Aug 2026 16:32:41 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -156,7 +229,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.6,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -166,7 +239,7 @@
         "published": "Fri, 07 Aug 2026 15:09:07 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -176,7 +249,7 @@
         "published": "Fri, 07 Aug 2026 14:30:25 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.4,
+        "score": 0.6,
         "color": "green"
       },
       {
@@ -186,7 +259,7 @@
         "published": "Sat, 08 Aug 2026 04:11:53 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -196,7 +269,7 @@
         "published": "Fri, 07 Aug 2026 21:39:36 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -208,7 +281,7 @@
           "LINK"
         ],
         "sentiment": "Bearish",
-        "score": -0.9,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -228,38 +301,50 @@
         "published": "Fri, 07 Aug 2026 17:36:45 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.7,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": -0.173,
+      "score": -0.12,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Bitcoin Up or Down on August 8?",
-        "volume_24h": 92446,
-        "yes_price": 0.61,
+        "volume_24h": 95070,
+        "yes_price": 0.6,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $62,500 in August?",
-        "volume_24h": 56020,
+        "volume_24h": 55654,
         "yes_price": 0.61,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $66,000 August 3-9?",
-        "volume_24h": 54044,
-        "yes_price": 0.2,
+        "volume_24h": 50110,
+        "yes_price": 0.18,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Ethereum reach $2,000 August 3-9?",
+        "volume_24h": 45044,
+        "yes_price": 0.04,
+        "category": "crypto"
+      },
+      {
+        "title": "Ethereum Up or Down on August 8?",
+        "volume_24h": 41442,
+        "yes_price": 0.44,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 61% predict a dip to $62,500 and only 20% expect a reach of $66,000, indicating a pessimistic outlook."
+      "summary": "Bearish: Market sentiment leans negative, with 61% expecting Bitcoin to dip to $62,500 in August. Optimism for upward movement is low, as only 18% foresee Bitcoin reaching $66,000 by August 9, and a mere 4% expect Ethereum to hit $2,000 in the same period. While 60% anticipate Bitcoin movement on August 8, the prevailing sentiment points to downward volatility."
     },
     "reddit": [
       {
@@ -284,74 +369,74 @@
     ],
     "reddit_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: BTC and BNB discussions dominate, with 3 total mentions, indicating optimism in top cryptos, amidst high activity on r/CryptoCurrency (100/100)."
+      "summary": "Bullish: BTC and BNB mentions dominate, with 2 and 1 mentions, respectively, in highly active r/CryptoCurrency subreddit, indicating optimism with 100/100 activity."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Bullish signals from XRP Ledger's $530 million tokenization and Justin Mateen's $2 million ABTC stock purchase are offset by bearish news, including Bitcoin fork risks, Trump Media's crypto withdrawal, and sanctions on Iranian exchanges."
+      "summary": "Mixed: Bullish sentiments from XRP Ledger's $530 million tokenization and Justin Mateen's $2 million ABTC stock purchase are offset by bearish news, including Trump Media's scrapped CRO token deal and U.S. sanctions on Iranian exchanges."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 142,
+      "active_threads": 143,
       "mentions": {
-        "BTC": 18,
+        "BTC": 19,
         "XRP": 7,
         "SOL": 3
       },
-      "bullish_hits": 88,
+      "bullish_hits": 91,
       "bearish_hits": 53,
-      "bullish_pct": 62,
+      "bullish_pct": 63,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "PUMP",
-        "name": "Pump.fun",
-        "rank": 69,
+        "symbol": "BICO",
+        "name": "Biconomy",
+        "rank": 371,
         "score": 0,
-        "change_24h": -2.18
+        "change_24h": 46.27
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
-        "rank": 109,
+        "rank": 108,
         "score": 1,
-        "change_24h": 2.67
+        "change_24h": 3.52
       },
       {
         "symbol": "PI",
         "name": "Pi Network",
         "rank": 65,
         "score": 2,
-        "change_24h": 2.64
+        "change_24h": 2.0
       },
       {
-        "symbol": "SOL",
-        "name": "Solana",
-        "rank": 7,
+        "symbol": "BSV",
+        "name": "Bitcoin SV",
+        "rank": 130,
         "score": 3,
-        "change_24h": 2.8
+        "change_24h": 4.06
       },
       {
         "symbol": "KAS",
         "name": "Kaspa",
         "rank": 78,
         "score": 4,
-        "change_24h": 4.45
+        "change_24h": 3.44
       },
       {
-        "symbol": "BICO",
-        "name": "Biconomy",
-        "rank": 389,
+        "symbol": "BONK",
+        "name": "Bonk",
+        "rank": 152,
         "score": 5,
-        "change_24h": 52.38
+        "change_24h": -11.41
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "WKC",
+        "name": "Wiki Cat",
+        "rank": 454,
         "score": 6,
-        "change_24h": 1.3
+        "change_24h": 26.3
       }
     ]
   },
@@ -500,7 +585,7 @@
         "published": "Fri, 07 Aug 2026 16:28:54 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -530,7 +615,7 @@
         "published": "Fri, 07 Aug 2026 21:38:57 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -550,7 +635,7 @@
         "published": "Fri, 07 Aug 2026 21:58:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 0.6,
         "color": "green"
       },
       {
@@ -562,7 +647,7 @@
           "PLTR"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -574,7 +659,7 @@
           "NVDA"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -584,43 +669,43 @@
         "published": "Fri, 07 Aug 2026 20:38:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.24,
+      "score": 0.227,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Fed rate hike in 2026?",
-        "volume_24h": 620338,
+        "volume_24h": 620352,
         "yes_price": 0.55,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 535796,
+        "volume_24h": 544972,
         "yes_price": 0.36,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 451414,
+        "volume_24h": 452395,
         "yes_price": 0.62,
         "category": "finance"
       },
       {
         "title": "US x Iran Effective Ceasefire by July 31?",
-        "volume_24h": 324106,
+        "volume_24h": 318214,
         "yes_price": 0.9,
         "category": "finance"
       },
       {
         "title": "Iran leadership change by August 31?",
-        "volume_24h": 219250,
+        "volume_24h": 219210,
         "yes_price": 0.04,
         "category": "finance"
       },
@@ -632,29 +717,29 @@
       },
       {
         "title": "US announces end of Iranian blockade by August 15, 2026?",
-        "volume_24h": 204384,
-        "yes_price": 0.59,
+        "volume_24h": 204778,
+        "yes_price": 0.58,
         "category": "finance"
       },
       {
-        "title": "US announces end of Iranian blockade by August 8, 2026?",
-        "volume_24h": 129217,
-        "yes_price": 0.1,
+        "title": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+        "volume_24h": 150568,
+        "yes_price": 0.8,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: Markets predict a 55% chance of a Fed rate hike in 2026, with 62% expecting no change after the September meeting, and a 90% chance of a US-Iran ceasefire by July 31."
+      "summary": "Bullish: Markets predict a 55% chance of a Fed rate hike in 2026 and 58% chance of the US ending the Iranian blockade by August 15, with Mojtaba Khamenei likely leading Iran by year-end, at 80%."
     },
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "The provided data for \"Top mentioned\" and \"Subreddits\" is empty, making it impossible to summarize market sentiment or provide specific reasons, numbers, or names. Please provide the actual Reddit discussion data to analyze the overall market sentiment."
+      "summary": "Mixed: No specific data available to determine market sentiment, with no top mentions or subreddits provided."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: Markets soared despite no Iran deal, with Burger King overtaking Wendy's and Airbnb's stock surging 15% after beating earnings, driven by CEO Chesky's AI investment plans."
+      "outlook": "Mixed",
+      "summary": "Mixed: Market sentiment is complex with bullish signals from Airbnb's 15% stock surge on strong earnings and AI spending, alongside Burger King's growth and market resilience to Trump's Iran deal tease. However, a disappointing July jobs report and Trump's renewed effort to fire Fed's Lisa Cook introduce bearish concerns, while software stocks swing wildly."
     }
   },
   "portfolio": [
