@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-08-08T23:35:59Z",
+  "updated_at": "2026-08-09T02:12:15Z",
   "crypto": {
     "fear_greed": {
-      "value": 30,
+      "value": 31,
       "label": "Fear",
-      "previous_value": 29,
+      "previous_value": 30,
       "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 64897,
-        "change_24h": 0,
-        "market_cap": 1302330754525,
-        "volume_24h": 12368316917
+        "price_usd": 64790,
+        "change_24h": -0.1,
+        "market_cap": 1300177383965,
+        "volume_24h": 12281819472
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1915.77,
+        "price_usd": 1914.51,
         "change_24h": 0.1,
-        "market_cap": 231195334184,
-        "volume_24h": 3395759276
+        "market_cap": 231052054143,
+        "volume_24h": 3368520763
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 600.5,
-        "change_24h": 1.3,
-        "market_cap": 79965375205,
-        "volume_24h": 586168048
+        "price_usd": 601.23,
+        "change_24h": 2.1,
+        "market_cap": 80071218542,
+        "volume_24h": 599398721
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.038,
-        "change_24h": 1.6,
-        "market_cap": 64893697029,
-        "volume_24h": 741406502
+        "price_usd": 1.035,
+        "change_24h": 1.0,
+        "market_cap": 64704840411,
+        "volume_24h": 711615788
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 75.9,
-        "change_24h": 3.1,
-        "market_cap": 44177686377,
-        "volume_24h": 1405551381
+        "price_usd": 75.78,
+        "change_24h": 3.0,
+        "market_cap": 44116180403,
+        "volume_24h": 1409139192
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.070351,
-        "change_24h": 1.1,
-        "market_cap": 10930518332,
-        "volume_24h": 355654570
+        "price_usd": 0.069929,
+        "change_24h": 0.4,
+        "market_cap": 10868266701,
+        "volume_24h": 362084080
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.199297,
-        "change_24h": -1.1,
-        "market_cap": 7441439713,
-        "volume_24h": 199204676
+        "price_usd": 0.199293,
+        "change_24h": -0.5,
+        "market_cap": 7445519564,
+        "volume_24h": 204084923
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.3,
+        "price_usd": 8.29,
         "change_24h": 1.6,
-        "market_cap": 6205719580,
-        "volume_24h": 127338843
+        "market_cap": 6203206408,
+        "volume_24h": 124164181
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.47,
-        "change_24h": 0.4,
-        "market_cap": 2792610985,
-        "volume_24h": 117095739
+        "price_usd": 6.48,
+        "change_24h": 0.7,
+        "market_cap": 2797854626,
+        "volume_24h": 107553425
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 1,
-        "price_usd": 64897,
-        "change_24h": 0
+        "price_usd": 64790,
+        "change_24h": -0.1
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 1915.77,
+        "price_usd": 1914.51,
         "change_24h": 0.1
-      },
-      {
-        "symbol": "LINK",
-        "mentions": 1,
-        "price_usd": 8.3,
-        "change_24h": 1.6
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 75.9,
-        "change_24h": 3.1
+        "price_usd": 75.78,
+        "change_24h": 3.0
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 600.5,
-        "change_24h": 1.3
+        "price_usd": 601.23,
+        "change_24h": 2.1
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.038,
-        "change_24h": 1.6
+        "price_usd": 1.035,
+        "change_24h": 1.0
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.199297,
-        "change_24h": -1.1
+        "price_usd": 0.199293,
+        "change_24h": -0.5
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.070351,
-        "change_24h": 1.1
+        "price_usd": 0.069929,
+        "change_24h": 0.4
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.47,
-        "change_24h": 0.4
+        "price_usd": 6.48,
+        "change_24h": 0.7
+      },
+      {
+        "symbol": "LINK",
+        "mentions": 0,
+        "price_usd": 8.29,
+        "change_24h": 1.6
       },
       {
         "symbol": "TON",
@@ -152,9 +152,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.3,
+        "color": "red"
       },
       {
         "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
@@ -163,7 +163,7 @@
         "published": "Sat, 08 Aug 2026 17:48:02 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -172,9 +172,9 @@
         "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
         "published": "Sat, 08 Aug 2026 15:25:38 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
       },
       {
         "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
@@ -184,9 +184,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
@@ -194,9 +194,9 @@
         "url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
         "published": "Sat, 08 Aug 2026 13:00:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
@@ -204,9 +204,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
         "published": "Sat, 08 Aug 2026 09:07:24 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       },
       {
         "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
@@ -216,9 +216,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
@@ -228,9 +228,9 @@
         "assets": [
           "XRP"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
@@ -241,7 +241,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.8,
         "color": "red"
       },
       {
@@ -250,9 +250,9 @@
         "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
         "published": "Fri, 07 Aug 2026 21:13:21 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
       },
       {
         "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
@@ -262,9 +262,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -284,9 +284,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
@@ -294,9 +294,9 @@
         "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Sat, 08 Aug 2026 15:08:06 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Bitcoin will never fall below $60K again: Nansen founder",
@@ -306,27 +306,33 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be above $64,000 on August 9?",
-        "volume_24h": 130560,
-        "yes_price": 0.98,
+        "volume_24h": 134672,
+        "yes_price": 0.96,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be between $62,000 and $64,000 on August 9?",
+        "volume_24h": 67790,
+        "yes_price": 0.04,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: The market is overwhelmingly optimistic, with 98% predicting Bitcoin will exceed $64,000 on August 9, backed by $130,560 in volume."
+      "summary": "Bullish: 96% of traders predict Bitcoin will exceed $64,000 on August 9, with $134,672 in volume."
     },
     "reddit": [
       {
@@ -334,13 +340,13 @@
         "mentions": {
           "BTC": 1,
           "ETH": 1,
-          "LINK": 1,
           "SOL": 0,
           "BNB": 0,
           "XRP": 0,
           "ADA": 0,
           "DOGE": 0,
           "AVAX": 0,
+          "LINK": 0,
           "TON": 0
         },
         "activity_score": 100,
@@ -350,75 +356,75 @@
       }
     ],
     "reddit_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "outlook": "Bullish",
+      "summary": "Bullish: High activity in r/CryptoCurrency (100/100) suggests optimism, with mentions of BTC and ETH, indicating a positive outlook."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto news data."
+      "summary": "Mixed: Bullish views from Bitwise's Matt Hougan and T. Rowe Price are countered by bearish news, including Bitcoin's BIP-110 soft fork attempt and Brazil's crypto transfer delays, with neutral hardware wallet sales in Russia."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 138,
+      "active_threads": 143,
       "mentions": {
         "BTC": 23,
-        "XRP": 7,
-        "SOL": 2
+        "XRP": 14,
+        "BNB": 3
       },
-      "bullish_hits": 90,
-      "bearish_hits": 52,
-      "bullish_pct": 63,
+      "bullish_hits": 95,
+      "bearish_hits": 54,
+      "bullish_pct": 64,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 108,
-        "score": 0,
-        "change_24h": 4.49
-      },
-      {
-        "symbol": "FWA",
-        "name": "Fake World Assets",
-        "rank": 824,
-        "score": 1,
-        "change_24h": 112.89
-      },
-      {
         "symbol": "TUT",
         "name": "Tutorial",
-        "rank": 291,
-        "score": 2,
-        "change_24h": 165.95
+        "rank": 253,
+        "score": 0,
+        "change_24h": 235.08
       },
       {
         "symbol": "CASHCAT",
         "name": "Cash Cat",
-        "rank": 234,
-        "score": 3,
-        "change_24h": 27.99
+        "rank": 235,
+        "score": 1,
+        "change_24h": 31.7
+      },
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 108,
+        "score": 2,
+        "change_24h": 4.02
       },
       {
         "symbol": "STONKBROKER",
         "name": "StonkBroker",
-        "rank": 475,
-        "score": 4,
-        "change_24h": 19.77
+        "rank": 414,
+        "score": 3,
+        "change_24h": 39.69
       },
       {
         "symbol": "PUMP",
         "name": "Pump.fun",
-        "rank": 67,
-        "score": 5,
-        "change_24h": 7.98
+        "rank": 68,
+        "score": 4,
+        "change_24h": 7.55
       },
       {
-        "symbol": "WKC",
-        "name": "Wiki Cat",
-        "rank": 467,
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "rank": 2,
+        "score": 5,
+        "change_24h": 0.06
+      },
+      {
+        "symbol": "TAO",
+        "name": "Bittensor",
+        "rank": 40,
         "score": 6,
-        "change_24h": -1.46
+        "change_24h": 5.99
       }
     ]
   },
@@ -498,7 +504,68 @@
         "change_24h": 5.63
       }
     ],
-    "top_mentioned": [],
+    "top_mentioned": [
+      {
+        "symbol": "NVDA",
+        "mentions": 0,
+        "price_usd": 223.96,
+        "change_24h": 2.27
+      },
+      {
+        "symbol": "TSLA",
+        "mentions": 0,
+        "price_usd": 328.58,
+        "change_24h": 2.83
+      },
+      {
+        "symbol": "AAPL",
+        "mentions": 0,
+        "price_usd": 313.33,
+        "change_24h": 0.29
+      },
+      {
+        "symbol": "MSFT",
+        "mentions": 0,
+        "price_usd": 499.99,
+        "change_24h": 0.03
+      },
+      {
+        "symbol": "GOOGL",
+        "mentions": 0,
+        "price_usd": 354.3,
+        "change_24h": -0.96
+      },
+      {
+        "symbol": "AMZN",
+        "mentions": 0,
+        "price_usd": 274.48,
+        "change_24h": 0.82
+      },
+      {
+        "symbol": "META",
+        "mentions": 0,
+        "price_usd": 592.1,
+        "change_24h": 0.37
+      },
+      {
+        "symbol": "AMD",
+        "mentions": 0,
+        "price_usd": 483.36,
+        "change_24h": -1.21
+      },
+      {
+        "symbol": "PLTR",
+        "mentions": 0,
+        "price_usd": 172.01,
+        "change_24h": 10.32
+      },
+      {
+        "symbol": "GME",
+        "mentions": 0,
+        "price_usd": null,
+        "change_24h": null
+      }
+    ],
     "news": [
       {
         "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
@@ -506,9 +573,9 @@
         "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
         "published": "Sat, 08 Aug 2026 17:41:31 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
@@ -516,9 +583,9 @@
         "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
         "published": "Sat, 08 Aug 2026 12:00:01 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
@@ -526,19 +593,19 @@
         "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
         "published": "Sat, 08 Aug 2026 13:28:00 GMT",
         "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+        "published": "Sun, 09 Aug 2026 00:36:19 GMT",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
-        "published": "Sat, 08 Aug 2026 23:14:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
       },
       {
         "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
@@ -557,7 +624,7 @@
         "published": "Sat, 08 Aug 2026 12:00:01 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -566,9 +633,9 @@
         "url": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
         "published": "Sat, 08 Aug 2026 13:30:01 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
@@ -576,9 +643,9 @@
         "url": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
         "published": "Sat, 08 Aug 2026 13:00:01 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
@@ -586,9 +653,9 @@
         "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
         "published": "Sat, 08 Aug 2026 15:00:01 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
@@ -606,9 +673,9 @@
         "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
         "published": "Sat, 08 Aug 2026 20:00:00 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
@@ -626,9 +693,9 @@
         "url": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
         "published": "Sat, 08 Aug 2026 19:00:00 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
@@ -646,78 +713,98 @@
         "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
         "published": "Sat, 08 Aug 2026 18:30:00 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.067,
+      "score": 0.0,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "US announces end of Iranian blockade by August 9, 2026?",
-        "volume_24h": 312542,
-        "yes_price": 0.04,
+        "volume_24h": 310289,
+        "yes_price": 0.06,
         "category": "finance"
       },
       {
         "title": "US x Iran Effective Ceasefire by July 31?",
-        "volume_24h": 232195,
-        "yes_price": 0.86,
-        "category": "finance"
-      },
-      {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 191720,
-        "yes_price": 0.17,
+        "volume_24h": 298867,
+        "yes_price": 0.84,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by August 15, 2026?",
-        "volume_24h": 190767,
-        "yes_price": 0.34,
+        "volume_24h": 191184,
+        "yes_price": 0.3,
+        "category": "finance"
+      },
+      {
+        "title": "Will the U.S. invade Iran before 2027?",
+        "volume_24h": 189504,
+        "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Iran leadership change by August 31?",
-        "volume_24h": 152520,
+        "volume_24h": 151644,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through August 15?",
-        "volume_24h": 128801,
+        "volume_24h": 140006,
         "yes_price": 0.93,
         "category": "finance"
       },
       {
-        "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 104703,
-        "yes_price": 0.35,
+        "title": "Israel x Iran ceasefire continues through August 31?",
+        "volume_24h": 108115,
+        "yes_price": 0.83,
         "category": "finance"
       },
       {
-        "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 101217,
-        "yes_price": 0.62,
+        "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+        "volume_24h": 103091,
+        "yes_price": 0.35,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: Market sentiment leans positive with high confidence in continued Israel x Iran (93%, 83%) and US x Iran (84%) ceasefires through August. Escalation is unlikely, with a 17% chance of US invading Iran and 4% for an Iran leadership change. While a US blockade end by August 2026 remains low (6-30%), the Fed is not expected to hike rates by 25 bps after September 2026 (35% probability)."
     },
-    "reddit": [],
+    "reddit": [
+      {
+        "subreddit": "r/wallstreetbets",
+        "mentions": {
+          "NVDA": 0,
+          "TSLA": 0,
+          "AAPL": 0,
+          "MSFT": 0,
+          "GOOGL": 0,
+          "AMZN": 0,
+          "META": 0,
+          "AMD": 0,
+          "PLTR": 0,
+          "GME": 0
+        },
+        "activity_score": 100,
+        "top_post": "Weekly Earnings Thread 8/10 - 8/14",
+        "top_post_url": "https://www.reddit.com/r/wallstreetbets/comments/1vi969l/weekly_earnings_thread_810_814/",
+        "top_post_score": 0
+      }
+    ],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
+      "summary": "Mixed: High activity on r/wallstreetbets (100/100) with no top mentions of major stocks like NVDA, TSLA, AAPL, MSFT, or GOOGL, indicating uncertainty."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: Berkshire's earnings rose, and CEO Greg Abel is deploying cash, while Iran's conditions and Cyclospora fears weigh on the market, with 4 bearish and 3 bullish signals."
     }
   },
   "portfolio": [
