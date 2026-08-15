@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T19:26:30Z",
+  "updated_at": "2026-08-15T19:48:01Z",
   "crypto": {
     "fear_greed": {
       "value": 34,
@@ -11,105 +11,105 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 63058,
+        "price_usd": 63052,
         "change_24h": 0.1,
-        "market_cap": 1265542945989,
-        "volume_24h": 11623433324
+        "market_cap": 1265506863172,
+        "volume_24h": 11561962100
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1882.41,
+        "price_usd": 1882.38,
         "change_24h": 0.3,
-        "market_cap": 227154724109,
-        "volume_24h": 3015394083
+        "market_cap": 227171346753,
+        "volume_24h": 2983220688
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 609.79,
+        "price_usd": 609.78,
         "change_24h": 0.7,
-        "market_cap": 81201505932,
-        "volume_24h": 428581706
+        "market_cap": 81198685668,
+        "volume_24h": 423622126
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.002,
         "change_24h": 0.2,
-        "market_cap": 62822476582,
-        "volume_24h": 634620821
+        "market_cap": 62827581605,
+        "volume_24h": 624297532
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 75.48,
+        "price_usd": 75.47,
         "change_24h": 0.5,
-        "market_cap": 43980855935,
-        "volume_24h": 716666463
+        "market_cap": 43981462059,
+        "volume_24h": 701376575
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.069866,
+        "price_usd": 0.0699,
         "change_24h": -0.1,
-        "market_cap": 10862967814,
-        "volume_24h": 159533512
+        "market_cap": 10869540797,
+        "volume_24h": 159731820
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.57,
+        "price_usd": 9.58,
         "change_24h": 7.3,
-        "market_cap": 7155453727,
-        "volume_24h": 509035875
+        "market_cap": 7165652184,
+        "volume_24h": 507221845
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.177693,
+        "price_usd": 0.177698,
         "change_24h": -1.2,
-        "market_cap": 6638590277,
-        "volume_24h": 130368043
+        "market_cap": 6638443926,
+        "volume_24h": 129380288
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 6.5,
         "change_24h": 0.9,
-        "market_cap": 2803098088,
-        "volume_24h": 228997515
+        "market_cap": 2806424957,
+        "volume_24h": 229040580
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 2,
-        "price_usd": 63058,
+        "price_usd": 63052,
         "change_24h": 0.1
       },
       {
         "symbol": "SOL",
-        "mentions": 1,
-        "price_usd": 75.48,
+        "mentions": 2,
+        "price_usd": 75.47,
         "change_24h": 0.5
       },
       {
         "symbol": "LINK",
         "mentions": 1,
-        "price_usd": 9.57,
+        "price_usd": 9.58,
         "change_24h": 7.3
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1882.41,
+        "price_usd": 1882.38,
         "change_24h": 0.3
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 609.79,
+        "price_usd": 609.78,
         "change_24h": 0.7
       },
       {
@@ -121,13 +121,13 @@
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.177693,
+        "price_usd": 0.177698,
         "change_24h": -1.2
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.069866,
+        "price_usd": 0.0699,
         "change_24h": -0.1
       },
       {
@@ -188,9 +188,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
@@ -208,9 +208,9 @@
         "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
         "published": "Sat, 15 Aug 2026 13:00:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
@@ -220,9 +220,9 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
@@ -230,9 +230,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
         "published": "Fri, 14 Aug 2026 23:41:49 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
@@ -240,9 +240,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
         "published": "Fri, 14 Aug 2026 21:05:23 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
@@ -250,9 +250,21 @@
         "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
         "published": "Fri, 14 Aug 2026 17:48:04 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 15 Aug 2026 19:27:29 +0000",
+        "assets": [
+          "UNI"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Tokenized stock holders more than double as monthly volume surges",
@@ -283,9 +295,9 @@
           "BTC",
           "MATIC"
         ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
@@ -296,46 +308,34 @@
           "BTC",
           "LTC"
         ],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
-      },
-      {
-        "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 15 Aug 2026 10:44:52 +0000",
-        "assets": [
-          "TON"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
+      "score": 0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be above $62,000 on August 16?",
-        "volume_24h": 73452,
+        "volume_24h": 74862,
         "yes_price": 0.97,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: The market is overwhelmingly optimistic, with 97% predicting Bitcoin will exceed $62,000 on August 16, backed by $74,862 in volume."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 2,
-          "SOL": 1,
+          "SOL": 2,
           "LINK": 1,
           "ETH": 0,
           "BNB": 0,
@@ -361,7 +361,7 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 142,
+      "active_threads": 143,
       "mentions": {
         "BTC": 24,
         "XRP": 11,
@@ -374,53 +374,53 @@
     },
     "cg_trending": [
       {
-        "symbol": "LINK",
-        "name": "Chainlink",
-        "rank": 17,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 108,
         "score": 0,
-        "change_24h": 7.05
+        "change_24h": -0.68
       },
       {
         "symbol": "COW",
         "name": "CoW Protocol",
-        "rank": 283,
+        "rank": 281,
         "score": 1,
-        "change_24h": 39.21
+        "change_24h": 44.63
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "rank": 17,
         "score": 2,
-        "change_24h": 0.41
-      },
-      {
-        "symbol": "PUMP",
-        "name": "Pump.fun",
-        "rank": 64,
-        "score": 3,
-        "change_24h": -1.29
+        "change_24h": 6.7
       },
       {
         "symbol": "JUP",
         "name": "Jupiter",
         "rank": 91,
+        "score": 3,
+        "change_24h": -0.37
+      },
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 4,
-        "change_24h": -0.65
+        "change_24h": 0.3
       },
       {
-        "symbol": "VIRTUAL",
-        "name": "Virtuals Protocol",
-        "rank": 111,
+        "symbol": "NIL",
+        "name": "Nillion",
+        "rank": 678,
         "score": 5,
-        "change_24h": 0.9
+        "change_24h": 18.53
       },
       {
-        "symbol": "HYPE",
-        "name": "Hyperliquid",
-        "rank": 10,
+        "symbol": "SUI",
+        "name": "Sui",
+        "rank": 31,
         "score": 6,
-        "change_24h": 2.64
+        "change_24h": 0.54
       }
     ]
   },
@@ -667,13 +667,13 @@
     "polymarket": [
       {
         "title": "US announces end of Iranian blockade by August 31, 2026?",
-        "volume_24h": 181148,
+        "volume_24h": 181170,
         "yes_price": 0.21,
         "category": "finance"
       },
       {
         "title": "US-Iran 60 day negotiation period extended?",
-        "volume_24h": 143551,
+        "volume_24h": 155808,
         "yes_price": 0.17,
         "category": "finance"
       },
@@ -685,25 +685,25 @@
       },
       {
         "title": "US announces end of Iranian blockade by August 22, 2026?",
-        "volume_24h": 128113,
+        "volume_24h": 127869,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Will Iran announce withdrawal from MOU negotiations by August 15?",
-        "volume_24h": 123675,
-        "yes_price": 0.04,
+        "volume_24h": 123882,
+        "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 119775,
+        "volume_24h": 119730,
         "yes_price": 0.73,
         "category": "finance"
       },
       {
         "title": "Will Renan Santos win the 2026 Brazilian presidential election?",
-        "volume_24h": 107614,
+        "volume_24h": 108385,
         "yes_price": 0.06,
         "category": "finance"
       },
