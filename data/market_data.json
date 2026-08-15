@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T20:29:52Z",
+  "updated_at": "2026-08-15T20:53:45Z",
   "crypto": {
     "fear_greed": {
       "value": 34,
@@ -11,99 +11,105 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 63015,
+        "price_usd": 63038,
         "change_24h": 0.4,
-        "market_cap": 1264819604322,
-        "volume_24h": 11130756019
+        "market_cap": 1265220537804,
+        "volume_24h": 11059155676
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1881.15,
+        "price_usd": 1881.55,
         "change_24h": 0.5,
-        "market_cap": 227022998375,
-        "volume_24h": 2913894378
+        "market_cap": 227070064773,
+        "volume_24h": 2901500355
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 610.27,
+        "price_usd": 610.33,
         "change_24h": 0.9,
-        "market_cap": 81269276138,
-        "volume_24h": 428445276
+        "market_cap": 81277207482,
+        "volume_24h": 428967288
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.003,
         "change_24h": 0.4,
-        "market_cap": 62842628724,
-        "volume_24h": 583722424
+        "market_cap": 62869778479,
+        "volume_24h": 579386450
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 75.39,
+        "price_usd": 75.44,
         "change_24h": 0.9,
-        "market_cap": 43934159334,
-        "volume_24h": 679007285
+        "market_cap": 43959941478,
+        "volume_24h": 675794874
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.069837,
+        "price_usd": 0.069852,
         "change_24h": 0.4,
-        "market_cap": 10860318973,
-        "volume_24h": 158642828
+        "market_cap": 10862721765,
+        "volume_24h": 159324678
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.55,
+        "price_usd": 9.58,
         "change_24h": 7.1,
-        "market_cap": 7149682268,
-        "volume_24h": 504030493
+        "market_cap": 7166669592,
+        "volume_24h": 504215472
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.177724,
+        "price_usd": 0.177983,
         "change_24h": -0.6,
-        "market_cap": 6639698261,
-        "volume_24h": 127899625
+        "market_cap": 6649020574,
+        "volume_24h": 127566043
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.49,
+        "price_usd": 6.5,
         "change_24h": 1.3,
-        "market_cap": 2803950196,
-        "volume_24h": 228469004
+        "market_cap": 2805333218,
+        "volume_24h": 224259588
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 2,
-        "price_usd": 63015,
+        "price_usd": 63038,
         "change_24h": 0.4
       },
       {
         "symbol": "SOL",
-        "mentions": 1,
-        "price_usd": 75.39,
+        "mentions": 2,
+        "price_usd": 75.44,
         "change_24h": 0.9
+      },
+      {
+        "symbol": "LINK",
+        "mentions": 1,
+        "price_usd": 9.58,
+        "change_24h": 7.1
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1881.15,
+        "price_usd": 1881.55,
         "change_24h": 0.5
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 610.27,
+        "price_usd": 610.33,
         "change_24h": 0.9
       },
       {
@@ -115,26 +121,20 @@
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.177724,
+        "price_usd": 0.177983,
         "change_24h": -0.6
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.069837,
+        "price_usd": 0.069852,
         "change_24h": 0.4
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.49,
+        "price_usd": 6.5,
         "change_24h": 1.3
-      },
-      {
-        "symbol": "LINK",
-        "mentions": 0,
-        "price_usd": 9.55,
-        "change_24h": 7.1
       },
       {
         "symbol": "TON",
@@ -188,9 +188,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
@@ -208,9 +208,9 @@
         "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
         "published": "Sat, 15 Aug 2026 13:00:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
@@ -220,9 +220,9 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
@@ -230,9 +230,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
         "published": "Fri, 14 Aug 2026 23:41:49 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.5,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
@@ -240,9 +240,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
         "published": "Fri, 14 Aug 2026 21:05:23 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
@@ -250,9 +250,9 @@
         "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
         "published": "Fri, 14 Aug 2026 17:48:04 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.5,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
@@ -263,7 +263,7 @@
           "UNI"
         ],
         "sentiment": "Bullish",
-        "score": 0.5,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -295,9 +295,9 @@
           "BTC",
           "MATIC"
         ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
@@ -308,41 +308,41 @@
           "BTC",
           "LTC"
         ],
-        "sentiment": "Bearish",
-        "score": -0.8,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.033,
+      "score": 0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be above $62,000 on August 16?",
-        "volume_24h": 75296,
+        "volume_24h": 76067,
         "yes_price": 0.98,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 98% of participants predict Bitcoin will exceed $62,000 on August 16, with $76,067 in volume."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 2,
-          "SOL": 1,
+          "SOL": 2,
+          "LINK": 1,
           "ETH": 0,
           "BNB": 0,
           "XRP": 0,
           "ADA": 0,
           "DOGE": 0,
           "AVAX": 0,
-          "LINK": 0,
           "TON": 0
         },
         "activity_score": 100,
@@ -361,66 +361,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 144,
+      "active_threads": 146,
       "mentions": {
-        "BTC": 22,
+        "BTC": 21,
         "XRP": 11,
         "BNB": 1
       },
-      "bullish_hits": 92,
-      "bearish_hits": 57,
+      "bullish_hits": 93,
+      "bearish_hits": 56,
       "bullish_pct": 62,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 108,
+        "symbol": "NIL",
+        "name": "Nillion",
+        "rank": 687,
         "score": 0,
-        "change_24h": -0.68
-      },
-      {
-        "symbol": "COW",
-        "name": "CoW Protocol",
-        "rank": 285,
-        "score": 1,
-        "change_24h": 38.38
-      },
-      {
-        "symbol": "LIT",
-        "name": "Lighter",
-        "rank": 89,
-        "score": 2,
-        "change_24h": 1.84
+        "change_24h": 14.41
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
-        "score": 3,
-        "change_24h": 0.22
+        "score": 1,
+        "change_24h": 0.26
+      },
+      {
+        "symbol": "COW",
+        "name": "CoW Protocol",
+        "rank": 282,
+        "score": 2,
+        "change_24h": 42.1
       },
       {
         "symbol": "SOL",
         "name": "Solana",
         "rank": 7,
+        "score": 3,
+        "change_24h": 0.38
+      },
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 108,
         "score": 4,
-        "change_24h": 0.47
+        "change_24h": -0.78
       },
       {
-        "symbol": "VIRTUAL",
-        "name": "Virtuals Protocol",
-        "rank": 111,
+        "symbol": "SUI",
+        "name": "Sui",
+        "rank": 32,
         "score": 5,
-        "change_24h": 1.32
+        "change_24h": 0.15
       },
       {
-        "symbol": "NIL",
-        "name": "Nillion",
-        "rank": 675,
+        "symbol": "MORPHO",
+        "name": "Morpho",
+        "rank": 55,
         "score": 6,
-        "change_24h": 18.79
+        "change_24h": 1.2
       }
     ]
   },
@@ -493,6 +493,11 @@
         "symbol": "PLTR",
         "price_usd": 174.04,
         "change_24h": -2.78
+      },
+      {
+        "symbol": "COIN",
+        "price_usd": 148.47,
+        "change_24h": -3.53
       }
     ],
     "top_mentioned": [],
@@ -508,10 +513,30 @@
         "color": "yellow"
       },
       {
+        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+        "published": "Sat, 15 Aug 2026 14:45:31 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
         "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-        "published": "Sat, 15 Aug 2026 11:00:36 GMT",
+        "published": "Sat, 15 Aug 2026 20:38:29 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
+        "published": "Sat, 15 Aug 2026 14:46:43 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -530,36 +555,6 @@
         "color": "yellow"
       },
       {
-        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-        "published": "Sat, 15 Aug 2026 14:45:31 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-        "published": "Sat, 15 Aug 2026 17:35:09 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
-        "published": "Sat, 15 Aug 2026 14:46:43 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Berkshire adds $17 billion to Alphabet stake",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
@@ -567,6 +562,16 @@
         "assets": [
           "GOOGL"
         ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+        "published": "Sat, 15 Aug 2026 17:35:09 GMT",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -598,6 +603,16 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
         "published": "Fri, 14 Aug 2026 18:00:01 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+        "published": "Sat, 15 Aug 2026 20:30:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -642,16 +657,6 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 17:08:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -662,49 +667,49 @@
     "polymarket": [
       {
         "title": "US announces end of Iranian blockade by August 31, 2026?",
-        "volume_24h": 185918,
+        "volume_24h": 186154,
         "yes_price": 0.21,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through August 31?",
-        "volume_24h": 163113,
+        "volume_24h": 163130,
         "yes_price": 0.93,
         "category": "finance"
       },
       {
-        "title": "US-Iran 60 day negotiation period extended?",
-        "volume_24h": 139795,
-        "yes_price": 0.17,
-        "category": "finance"
-      },
-      {
         "title": "US announces end of Iranian blockade by August 22, 2026?",
-        "volume_24h": 132542,
+        "volume_24h": 132932,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Will Iran announce withdrawal from MOU negotiations by August 15?",
-        "volume_24h": 127136,
+        "volume_24h": 127737,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 118933,
+        "volume_24h": 118352,
         "yes_price": 0.73,
         "category": "finance"
       },
       {
+        "title": "US-Iran 60 day negotiation period extended?",
+        "volume_24h": 112661,
+        "yes_price": 0.17,
+        "category": "finance"
+      },
+      {
         "title": "Will Renan Santos win the 2026 Brazilian presidential election?",
-        "volume_24h": 85700,
+        "volume_24h": 85691,
         "yes_price": 0.06,
         "category": "finance"
       },
       {
         "title": "Will Donald Trump win the 2028 US Presidential Election?",
-        "volume_24h": 81716,
+        "volume_24h": 81800,
         "yes_price": 0.02,
         "category": "finance"
       }
@@ -730,29 +735,29 @@
       "type": "Bond Income",
       "price_usd": 47.36,
       "change_1d": -0.08,
-      "change_1w": 0.08,
-      "change_1m": 0.18,
-      "high_3m": 47.44,
-      "low_3m": 46.68,
+      "change_1w": 0.3,
+      "change_1m": 0.45,
+      "high_3m": 47.4,
+      "low_3m": 46.41,
       "week52_high": 48.89,
       "week52_low": 46.84,
-      "rsi": 61.0,
+      "rsi": 72.8,
       "div_yield": 7.55,
       "last_div": null,
       "outlook": {
-        "label": "Mild Bullish",
-        "color": "green",
-        "score": 1,
+        "label": "Neutral",
+        "color": "yellow",
+        "score": 0,
         "bull_count": 2,
-        "bear_count": 1,
-        "total": 5,
+        "bear_count": 2,
+        "total": 6,
         "confidence": "Low",
         "reasons": [
           "Price above 20-day moving average ↑",
-          "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 61.0 — Above neutral, mild upward momentum ↑",
-          "5-day momentum +0.1% — consolidating sideways →",
-          "1-month return +0.2% — range-bound"
+          "Short-term trend above long-term (bullish cross) ↑",
+          "RSI 72.8 — Overbought zone, historically signals a pullback ↓",
+          "5-day momentum +0.3% — consolidating sideways →",
+          "1-month return +0.5% — range-bound"
         ]
       }
     },
