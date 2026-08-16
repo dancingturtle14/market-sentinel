@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T17:26:07Z",
+  "updated_at": "2026-08-16T17:48:27Z",
   "crypto": {
     "fear_greed": {
       "value": 34,
@@ -11,88 +11,82 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 63160,
+        "price_usd": 63081,
         "change_24h": 0.3,
-        "market_cap": 1267637139723,
-        "volume_24h": 9075480188
+        "market_cap": 1266089319577,
+        "volume_24h": 9145407273
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1885.6,
+        "price_usd": 1883.74,
         "change_24h": 0.2,
-        "market_cap": 227523218191,
-        "volume_24h": 2811276263
+        "market_cap": 227333157883,
+        "volume_24h": 2813046084
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 607.11,
+        "price_usd": 605.95,
         "change_24h": -0.7,
-        "market_cap": 80830999695,
-        "volume_24h": 460773699
+        "market_cap": 80688878021,
+        "volume_24h": 466144055
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.001,
         "change_24h": 0.1,
-        "market_cap": 62758147797,
-        "volume_24h": 382303648
+        "market_cap": 62720130669,
+        "volume_24h": 384986736
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 75.44,
+        "price_usd": 75.26,
         "change_24h": 0.1,
-        "market_cap": 43964430186,
-        "volume_24h": 568128680
+        "market_cap": 43859725521,
+        "volume_24h": 569031752
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.069955,
+        "price_usd": 0.069934,
         "change_24h": 0,
-        "market_cap": 10879221143,
-        "volume_24h": 170216904
+        "market_cap": 10876226561,
+        "volume_24h": 170624530
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.46,
+        "price_usd": 9.41,
         "change_24h": -1.3,
-        "market_cap": 7072043920,
-        "volume_24h": 245407393
+        "market_cap": 7037223407,
+        "volume_24h": 244639873
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.17634,
+        "price_usd": 0.176221,
         "change_24h": -1.5,
-        "market_cap": 6588371520,
-        "volume_24h": 119560980
+        "market_cap": 6582533783,
+        "volume_24h": 117970305
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.37,
+        "price_usd": 6.36,
         "change_24h": -2.8,
-        "market_cap": 2748109945,
-        "volume_24h": 154409211
+        "market_cap": 2747088041,
+        "volume_24h": 158933175
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 2,
-        "price_usd": 63160,
+        "price_usd": 63081,
         "change_24h": 0.3
-      },
-      {
-        "symbol": "LTC",
-        "mentions": 2,
-        "price_usd": null,
-        "change_24h": null
       },
       {
         "symbol": "XRP",
@@ -101,45 +95,51 @@
         "change_24h": 0.1
       },
       {
+        "symbol": "LTC",
+        "mentions": 1,
+        "price_usd": null,
+        "change_24h": null
+      },
+      {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1885.6,
+        "price_usd": 1883.74,
         "change_24h": 0.2
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 75.44,
+        "price_usd": 75.26,
         "change_24h": 0.1
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 607.11,
+        "price_usd": 605.95,
         "change_24h": -0.7
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.17634,
+        "price_usd": 0.176221,
         "change_24h": -1.5
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.069955,
+        "price_usd": 0.069934,
         "change_24h": 0
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.37,
+        "price_usd": 6.36,
         "change_24h": -2.8
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 9.46,
+        "price_usd": 9.41,
         "change_24h": -1.3
       }
     ],
@@ -150,9 +150,9 @@
         "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
         "published": "Sun, 16 Aug 2026 16:00:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
@@ -160,9 +160,9 @@
         "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
         "published": "Sun, 16 Aug 2026 14:02:32 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.8,
+        "color": "red"
       },
       {
         "title": "MiCA's cleanup is creating a new scam wave across the European Union",
@@ -172,9 +172,9 @@
         "assets": [
           "UNI"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
       },
       {
         "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
@@ -183,7 +183,7 @@
         "published": "Sun, 16 Aug 2026 13:00:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": 0.2,
         "color": "yellow"
       },
       {
@@ -194,9 +194,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
@@ -207,7 +207,7 @@
           "UNI"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -219,7 +219,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -231,7 +231,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -242,9 +242,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 0.6,
+        "color": "green"
       },
       {
         "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
@@ -253,7 +253,7 @@
         "published": "Sat, 15 Aug 2026 14:00:00 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -262,9 +262,9 @@
         "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Sun, 16 Aug 2026 12:48:09 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.4,
+        "color": "red"
       },
       {
         "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
@@ -274,9 +274,9 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.3,
+        "color": "green"
       },
       {
         "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
@@ -287,7 +287,7 @@
           "UNI"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -297,7 +297,7 @@
         "published": "Sat, 15 Aug 2026 17:26:43 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -312,14 +312,14 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.067,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-        "volume_24h": 145207,
+        "volume_24h": 145217,
         "yes_price": 0.24,
         "category": "crypto"
       },
@@ -328,19 +328,25 @@
         "volume_24h": 88096,
         "yes_price": 0.06,
         "category": "crypto"
+      },
+      {
+        "title": "Bitcoin Up or Down on August 17?",
+        "volume_24h": 85054,
+        "yes_price": 0.51,
+        "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across crypto prediction markets data."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 2,
-          "LTC": 2,
           "XRP": 1,
+          "LTC": 1,
           "ETH": 0,
           "SOL": 0,
           "BNB": 0,
@@ -360,12 +366,12 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: UBS's 24-fold surge in Bitcoin ETF call options and Unitree's potential 4x upside from IPO price indicate positive market sentiment, outweighing the shutdown of Bitcoin mining rigs."
+      "outlook": "Mixed",
+      "summary": "Mixed: 4 bullish vs 3 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 145,
+      "active_threads": 146,
       "mentions": {
         "BTC": 17,
         "XRP": 11,
@@ -380,51 +386,51 @@
       {
         "symbol": "WLD",
         "name": "Worldcoin",
-        "rank": 52,
+        "rank": 53,
         "score": 0,
-        "change_24h": 5.02
+        "change_24h": 4.1
       },
       {
         "symbol": "LIT",
         "name": "Lighter",
         "rank": 87,
         "score": 1,
-        "change_24h": 3.48
+        "change_24h": 4.11
+      },
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 109,
+        "score": 2,
+        "change_24h": 0.01
+      },
+      {
+        "symbol": "CYS",
+        "name": "Cysic",
+        "rank": 220,
+        "score": 3,
+        "change_24h": -41.06
       },
       {
         "symbol": "CHIP",
         "name": "USD.AI",
         "rank": 371,
-        "score": 2,
-        "change_24h": 13.02
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 108,
-        "score": 3,
-        "change_24h": -0.09
-      },
-      {
-        "symbol": "PLUME",
-        "name": "Plume",
-        "rank": 278,
         "score": 4,
-        "change_24h": 1.86
+        "change_24h": 13.35
       },
       {
-        "symbol": "CYS",
-        "name": "Cysic",
-        "rank": 223,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 5,
-        "change_24h": -41.65
+        "change_24h": 0.19
       },
       {
-        "symbol": "LINK",
-        "name": "Chainlink",
-        "rank": 16,
+        "symbol": "ONDO",
+        "name": "Ondo",
+        "rank": 45,
         "score": 6,
-        "change_24h": -1.99
+        "change_24h": 1.59
       }
     ]
   },
@@ -504,68 +510,7 @@
         "change_24h": -3.53
       }
     ],
-    "top_mentioned": [
-      {
-        "symbol": "NVDA",
-        "mentions": 1,
-        "price_usd": 225.16,
-        "change_24h": -0.06
-      },
-      {
-        "symbol": "MSTR",
-        "mentions": 1,
-        "price_usd": null,
-        "change_24h": null
-      },
-      {
-        "symbol": "TSLA",
-        "mentions": 0,
-        "price_usd": 342.27,
-        "change_24h": 0.68
-      },
-      {
-        "symbol": "AAPL",
-        "mentions": 0,
-        "price_usd": 305.93,
-        "change_24h": 0.22
-      },
-      {
-        "symbol": "MSFT",
-        "mentions": 0,
-        "price_usd": 495.4,
-        "change_24h": -0.3
-      },
-      {
-        "symbol": "GOOGL",
-        "mentions": 0,
-        "price_usd": 345.9,
-        "change_24h": -0.13
-      },
-      {
-        "symbol": "AMZN",
-        "mentions": 0,
-        "price_usd": 262.65,
-        "change_24h": -0.94
-      },
-      {
-        "symbol": "META",
-        "mentions": 0,
-        "price_usd": 589.85,
-        "change_24h": -0.86
-      },
-      {
-        "symbol": "AMD",
-        "mentions": 0,
-        "price_usd": 514.39,
-        "change_24h": 6.5
-      },
-      {
-        "symbol": "PLTR",
-        "mentions": 0,
-        "price_usd": 174.04,
-        "change_24h": -2.78
-      }
-    ],
+    "top_mentioned": [],
     "news": [
       {
         "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
@@ -670,6 +615,16 @@
         "color": "green"
       },
       {
+        "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 17:30:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
@@ -708,16 +663,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
-        "published": "Sun, 16 Aug 2026 11:00:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -728,19 +673,19 @@
     "polymarket": [
       {
         "title": "US announces end of Iranian blockade by August 31, 2026?",
-        "volume_24h": 221406,
+        "volume_24h": 220766,
         "yes_price": 0.14,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through August 31?",
-        "volume_24h": 187972,
+        "volume_24h": 194431,
         "yes_price": 0.95,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by August 22, 2026?",
-        "volume_24h": 143921,
+        "volume_24h": 143785,
         "yes_price": 0.06,
         "category": "finance"
       },
@@ -752,7 +697,7 @@
       },
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 77110,
+        "volume_24h": 78210,
         "yes_price": 0.73,
         "category": "finance"
       },
@@ -761,39 +706,13 @@
         "volume_24h": 70603,
         "yes_price": 0.67,
         "category": "finance"
-      },
-      {
-        "title": "Putin out as President of Russia by December 31, 2026?",
-        "volume_24h": 68360,
-        "yes_price": 0.07,
-        "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Mixed",
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
     },
-    "reddit": [
-      {
-        "subreddit": "r/wallstreetbets",
-        "mentions": {
-          "NVDA": 1,
-          "MSTR": 1,
-          "TSLA": 0,
-          "AAPL": 0,
-          "MSFT": 0,
-          "GOOGL": 0,
-          "AMZN": 0,
-          "META": 0,
-          "AMD": 0,
-          "PLTR": 0
-        },
-        "activity_score": 100,
-        "top_post": "Weekly Earnings Thread 8/17 - 8/21",
-        "top_post_url": "https://www.reddit.com/r/wallstreetbets/comments/1vocawt/weekly_earnings_thread_817_821/",
-        "top_post_score": 0
-      }
-    ],
+    "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
@@ -810,29 +729,29 @@
       "type": "Bond Income",
       "price_usd": 47.36,
       "change_1d": -0.08,
-      "change_1w": 0.3,
-      "change_1m": 0.45,
-      "high_3m": 47.4,
-      "low_3m": 46.41,
+      "change_1w": 0.08,
+      "change_1m": 0.18,
+      "high_3m": 47.44,
+      "low_3m": 46.68,
       "week52_high": 48.89,
       "week52_low": 46.84,
-      "rsi": 72.8,
+      "rsi": 61.0,
       "div_yield": 7.55,
       "last_div": null,
       "outlook": {
-        "label": "Neutral",
-        "color": "yellow",
-        "score": 0,
+        "label": "Mild Bullish",
+        "color": "green",
+        "score": 1,
         "bull_count": 2,
-        "bear_count": 2,
-        "total": 6,
+        "bear_count": 1,
+        "total": 5,
         "confidence": "Low",
         "reasons": [
           "Price above 20-day moving average ↑",
-          "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 72.8 — Overbought zone, historically signals a pullback ↓",
-          "5-day momentum +0.3% — consolidating sideways →",
-          "1-month return +0.5% — range-bound"
+          "Short-term trend below long-term (bearish cross) ↓",
+          "RSI 61.0 — Above neutral, mild upward momentum ↑",
+          "5-day momentum +0.1% — consolidating sideways →",
+          "1-month return +0.2% — range-bound"
         ]
       }
     },
