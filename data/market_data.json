@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-08-19T23:52:06Z",
+  "updated_at": "2026-08-20T01:40:19Z",
   "crypto": {
     "fear_greed": {
-      "value": 46,
-      "label": "Fear",
-      "previous_value": 41,
+      "value": 62,
+      "label": "Greed",
+      "previous_value": 46,
       "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 69185,
-        "change_24h": 7.2,
-        "market_cap": 1389140201089,
-        "volume_24h": 43772379079
+        "price_usd": 69483,
+        "change_24h": 7.4,
+        "market_cap": 1394632953779,
+        "volume_24h": 46148020174
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2249.38,
-        "change_24h": 17.6,
-        "market_cap": 271606745949,
-        "volume_24h": 27656293852
+        "price_usd": 2260.76,
+        "change_24h": 18.2,
+        "market_cap": 272802700461,
+        "volume_24h": 29137217931
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 626.28,
-        "change_24h": 4.2,
-        "market_cap": 83431706683,
-        "volume_24h": 1161688180
+        "price_usd": 625.2,
+        "change_24h": 4.3,
+        "market_cap": 83244919581,
+        "volume_24h": 1248244445
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.1,
-        "change_24h": 10.3,
-        "market_cap": 69041133725,
-        "volume_24h": 2872192570
+        "price_usd": 1.11,
+        "change_24h": 10.7,
+        "market_cap": 69577621318,
+        "volume_24h": 2968064524
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 85.22,
-        "change_24h": 11.0,
-        "market_cap": 49700961250,
-        "volume_24h": 4348063872
+        "price_usd": 84.92,
+        "change_24h": 10.4,
+        "market_cap": 49500746409,
+        "volume_24h": 4561376245
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.074861,
-        "change_24h": 6.7,
-        "market_cap": 11649077018,
-        "volume_24h": 760003773
+        "price_usd": 0.075176,
+        "change_24h": 7.1,
+        "market_cap": 11695203312,
+        "volume_24h": 808101732
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 10.52,
-        "change_24h": 11.2,
-        "market_cap": 7878050635,
-        "volume_24h": 690471032
+        "price_usd": 10.5,
+        "change_24h": 10.7,
+        "market_cap": 7852029123,
+        "volume_24h": 716550651
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.186694,
-        "change_24h": 9.1,
-        "market_cap": 7006857308,
-        "volume_24h": 452132499
+        "price_usd": 0.186622,
+        "change_24h": 6.6,
+        "market_cap": 6996299013,
+        "volume_24h": 459245601
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.76,
-        "change_24h": 7.6,
-        "market_cap": 2919596891,
-        "volume_24h": 322765173
+        "price_usd": 6.78,
+        "change_24h": 7.2,
+        "market_cap": 2928353882,
+        "volume_24h": 333233941
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 10,
-        "price_usd": 69185,
-        "change_24h": 7.2
+        "mentions": 11,
+        "price_usd": 69483,
+        "change_24h": 7.4
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 2249.38,
-        "change_24h": 17.6
+        "price_usd": 2260.76,
+        "change_24h": 18.2
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 85.22,
-        "change_24h": 11.0
+        "price_usd": 84.92,
+        "change_24h": 10.4
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 626.28,
-        "change_24h": 4.2
+        "price_usd": 625.2,
+        "change_24h": 4.3
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.1,
-        "change_24h": 10.3
+        "price_usd": 1.11,
+        "change_24h": 10.7
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.186694,
-        "change_24h": 9.1
+        "price_usd": 0.186622,
+        "change_24h": 6.6
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.074861,
-        "change_24h": 6.7
+        "price_usd": 0.075176,
+        "change_24h": 7.1
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 6.76,
-        "change_24h": 7.6
+        "price_usd": 6.78,
+        "change_24h": 7.2
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 10.52,
-        "change_24h": 11.2
+        "price_usd": 10.5,
+        "change_24h": 10.7
       },
       {
         "symbol": "TON",
@@ -152,9 +152,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
@@ -172,9 +172,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
         "published": "Wed, 19 Aug 2026 19:48:33 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
@@ -182,9 +182,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
         "published": "Wed, 19 Aug 2026 18:10:10 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
@@ -194,9 +194,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.2,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
@@ -226,9 +226,9 @@
         "url": "https://www.coindesk.com/tech/2026/08/19/ai-could-supercharge-crypto-but-there-s-a-catch-fidelity-digital-assets-says",
         "published": "Wed, 19 Aug 2026 14:59:07 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
@@ -246,9 +246,9 @@
         "url": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
         "published": "Wed, 19 Aug 2026 14:50:33 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
@@ -258,9 +258,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Trump pushes for CLARITY Act passage alongside crypto leaders",
@@ -288,9 +288,9 @@
         "url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 19 Aug 2026 18:48:58 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
@@ -300,63 +300,63 @@
         "assets": [
           "ETH"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.28,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": 0.6,
+      "label": "Bullish",
+      "color": "green"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $120,000 by December 31, 2026?",
-        "volume_24h": 248597,
+        "volume_24h": 248900,
         "yes_price": 0.07,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin reach $72,500 in August?",
-        "volume_24h": 244611,
-        "yes_price": 0.46,
-        "category": "crypto"
-      },
-      {
         "title": "Will Bitcoin reach $75,000 in August?",
-        "volume_24h": 229056,
+        "volume_24h": 232840,
         "yes_price": 0.22,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $62,500 in August?",
-        "volume_24h": 219261,
-        "yes_price": 0.11,
+        "volume_24h": 228139,
+        "yes_price": 0.1,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $72,500 in August?",
+        "volume_24h": 226780,
+        "yes_price": 0.48,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $72,000 on August 20?",
-        "volume_24h": 187993,
+        "volume_24h": 201795,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Bitcoin Up or Down on August 20?",
-        "volume_24h": 176970,
-        "yes_price": 0.69,
+        "volume_24h": 182941,
+        "yes_price": 0.81,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $70,000 on August 20?",
-        "volume_24h": 172929,
-        "yes_price": 0.27,
+        "volume_24h": 181344,
+        "yes_price": 0.33,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $68,000 on August 20?",
-        "volume_24h": 147079,
-        "yes_price": 0.84,
+        "volume_24h": 153940,
+        "yes_price": 0.9,
         "category": "crypto"
       }
     ],
@@ -387,7 +387,7 @@
       {
         "subreddit": "r/Bitcoin",
         "mentions": {
-          "BTC": 7,
+          "BTC": 8,
           "ETH": 0,
           "SOL": 0,
           "BNB": 0,
@@ -410,70 +410,70 @@
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 6 bullish vs 2 bearish signals detected across crypto news data."
+      "summary": "Bullish: 6 bullish vs 3 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 122,
+      "active_threads": 123,
       "mentions": {
-        "BTC": 21,
+        "BTC": 22,
         "XRP": 18,
-        "ETH": 4
+        "ETH": 5
       },
-      "bullish_hits": 89,
+      "bullish_hits": 91,
       "bearish_hits": 57,
       "bullish_pct": 61,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
+        "symbol": "PIPEDOG",
+        "name": "pipedog",
+        "rank": 607,
+        "score": 0,
+        "change_24h": 15.95
+      },
+      {
         "symbol": "HYPE",
         "name": "Hyperliquid",
         "rank": 10,
-        "score": 0,
-        "change_24h": 20.42
+        "score": 1,
+        "change_24h": 17.76
       },
       {
-        "symbol": "PIPEDOG",
-        "name": "pipedog",
-        "rank": 609,
-        "score": 1,
-        "change_24h": 14.13
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "rank": 17,
+        "score": 2,
+        "change_24h": 10.27
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
         "rank": 2,
-        "score": 2,
-        "change_24h": 17.63
+        "score": 3,
+        "change_24h": 17.91
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
-        "score": 3,
-        "change_24h": 7.1
-      },
-      {
-        "symbol": "SOL",
-        "name": "Solana",
-        "rank": 7,
         "score": 4,
-        "change_24h": 11.03
+        "change_24h": 7.68
       },
       {
-        "symbol": "LIT",
-        "name": "Lighter",
-        "rank": 89,
+        "symbol": "SUI",
+        "name": "Sui",
+        "rank": 32,
         "score": 5,
-        "change_24h": 10.89
+        "change_24h": 7.98
       },
       {
-        "symbol": "PUMP",
-        "name": "Pump.fun",
-        "rank": 65,
+        "symbol": "AERO",
+        "name": "Aerodrome Finance",
+        "rank": 106,
         "score": 6,
-        "change_24h": -3.06
+        "change_24h": 12.07
       }
     ]
   },
@@ -561,9 +561,9 @@
         "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
         "published": "Wed, 19 Aug 2026 22:34:33 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
@@ -571,29 +571,51 @@
         "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
         "published": "Wed, 19 Aug 2026 20:02:32 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-        "published": "Wed, 19 Aug 2026 23:25:32 GMT",
+        "published": "Thu, 20 Aug 2026 01:02:50 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
+        "published": "Thu, 20 Aug 2026 00:30:32 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+        "published": "Wed, 19 Aug 2026 23:57:47 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+        "title": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
-        "published": "Wed, 19 Aug 2026 23:51:46 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "url": "https://www.cnbc.com/2026/08/20/india-apple-samsung-china-smartphone-chip-inflation.html",
+        "published": "Thu, 20 Aug 2026 00:17:08 GMT",
+        "assets": [
+          "AAPL"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
@@ -611,9 +633,9 @@
         "url": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
         "published": "Wed, 19 Aug 2026 20:10:14 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
@@ -621,28 +643,8 @@
         "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
         "published": "Wed, 19 Aug 2026 20:07:09 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
-        "published": "Wed, 19 Aug 2026 21:29:38 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
-        "published": "Wed, 19 Aug 2026 20:10:01 GMT",
-        "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -651,9 +653,9 @@
         "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
         "published": "Wed, 19 Aug 2026 19:49:28 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
@@ -681,9 +683,9 @@
         "url": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
         "published": "Wed, 19 Aug 2026 23:01:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "The chip-stock rally hits a speed bump — but these analysts see reason to be hopeful",
@@ -691,9 +693,9 @@
         "url": "https://www.marketwatch.com/story/the-chip-stock-rally-hits-a-speed-bump-but-these-analysts-see-reason-to-be-hopeful-61821295?mod=mw_rss_topstories",
         "published": "Wed, 19 Aug 2026 22:02:00 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
@@ -707,56 +709,56 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.4,
-      "label": "Bullish",
-      "color": "green"
+      "score": 0.133,
+      "label": "Neutral",
+      "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 474727,
+        "volume_24h": 475736,
         "yes_price": 0.28,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 430376,
+        "volume_24h": 396568,
         "yes_price": 0.71,
         "category": "finance"
       },
       {
         "title": "US-Iran Final Nuclear Deal by December 31, 2026?",
-        "volume_24h": 243512,
+        "volume_24h": 239217,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by August 31, 2026?",
-        "volume_24h": 198928,
+        "volume_24h": 198926,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Xi Jinping out before 2027?",
-        "volume_24h": 175118,
+        "volume_24h": 173031,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "US ceasefire against Iran continues through August 31?",
-        "volume_24h": 132161,
-        "yes_price": 0.91,
+        "volume_24h": 147457,
+        "yes_price": 0.9,
         "category": "finance"
       },
       {
         "title": "US ceasefire against Iran continues through September 30?",
-        "volume_24h": 123643,
-        "yes_price": 0.7,
+        "volume_24h": 123815,
+        "yes_price": 0.69,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 108365,
+        "volume_24h": 112078,
         "yes_price": 0.17,
         "category": "finance"
       }
@@ -772,7 +774,7 @@
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 3 bullish vs 0 bearish signals detected across stock/finance news data."
+      "summary": "Bullish: 5 bullish vs 1 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
@@ -882,7 +884,7 @@
       "change_1m": 6.92,
       "high_3m": 35.09,
       "low_3m": 31.61,
-      "week52_high": 35.3089,
+      "week52_high": 35.31,
       "week52_low": 26.32,
       "rsi": 82.6,
       "div_yield": 3.13,
