@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T10:30:07Z",
+  "updated_at": "2026-08-22T10:54:27Z",
   "crypto": {
     "fear_greed": {
       "value": 71,
@@ -11,129 +11,129 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 76759,
+        "price_usd": 77039,
         "change_24h": -1.7,
-        "market_cap": 1540277111096,
-        "volume_24h": 57304002965
+        "market_cap": 1546335179249,
+        "volume_24h": 57278642639
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2401.41,
+        "price_usd": 2411.21,
         "change_24h": 0.3,
-        "market_cap": 289744599550,
-        "volume_24h": 30026808419
-      },
-      {
-        "symbol": "BNB",
-        "name": "BNB",
-        "price_usd": 687.65,
-        "change_24h": 2.9,
-        "market_cap": 91557027341,
-        "volume_24h": 2533639210
+        "market_cap": 291022461413,
+        "volume_24h": 30253728099
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.46,
+        "price_usd": 1.49,
         "change_24h": 9.8,
-        "market_cap": 91077197304,
-        "volume_24h": 12643730596
+        "market_cap": 93288923283,
+        "volume_24h": 12905524910
+      },
+      {
+        "symbol": "BNB",
+        "name": "BNB",
+        "price_usd": 691.6,
+        "change_24h": 2.9,
+        "market_cap": 92106435010,
+        "volume_24h": 2536553004
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 92.13,
+        "price_usd": 92.98,
         "change_24h": 2.2,
-        "market_cap": 53705967927,
-        "volume_24h": 8541254817
+        "market_cap": 54225088636,
+        "volume_24h": 8665384906
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.088707,
+        "price_usd": 0.089767,
         "change_24h": 7.6,
-        "market_cap": 13799503806,
-        "volume_24h": 2955489126
+        "market_cap": 13969495828,
+        "volume_24h": 2817252118
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 11.43,
+        "price_usd": 11.54,
         "change_24h": -0.1,
-        "market_cap": 8543815473,
-        "volume_24h": 1082877021
+        "market_cap": 8631914849,
+        "volume_24h": 1070691424
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.219451,
+        "price_usd": 0.222304,
         "change_24h": 5.8,
-        "market_cap": 8223982503,
-        "volume_24h": 1402078319
+        "market_cap": 8334817304,
+        "volume_24h": 1353492373
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 7.43,
+        "price_usd": 7.51,
         "change_24h": 0.1,
-        "market_cap": 3202029931,
-        "volume_24h": 610549166
+        "market_cap": 3242719029,
+        "volume_24h": 601831754
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 8,
-        "price_usd": 76759,
+        "price_usd": 77039,
         "change_24h": -1.7
       },
       {
         "symbol": "XRP",
         "mentions": 1,
-        "price_usd": 1.46,
+        "price_usd": 1.49,
         "change_24h": 9.8
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 2401.41,
+        "price_usd": 2411.21,
         "change_24h": 0.3
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 92.13,
+        "price_usd": 92.98,
         "change_24h": 2.2
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 687.65,
+        "price_usd": 691.6,
         "change_24h": 2.9
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.219451,
+        "price_usd": 0.222304,
         "change_24h": 5.8
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.088707,
+        "price_usd": 0.089767,
         "change_24h": 7.6
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 7.43,
+        "price_usd": 7.51,
         "change_24h": 0.1
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 11.43,
+        "price_usd": 11.54,
         "change_24h": -0.1
       },
       {
@@ -165,7 +165,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.333,
+        "score": 1.0,
         "color": "green"
       },
       {
@@ -174,9 +174,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
         "published": "Fri, 21 Aug 2026 22:10:28 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
       },
       {
         "title": "Pass the Clarity Act",
@@ -184,9 +184,9 @@
         "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
         "published": "Fri, 21 Aug 2026 19:00:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
@@ -198,7 +198,7 @@
           "LTC"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -209,9 +209,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
       },
       {
         "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
@@ -223,7 +223,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.5,
         "color": "green"
       },
       {
@@ -232,9 +232,9 @@
         "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
         "published": "Fri, 21 Aug 2026 11:30:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
@@ -244,9 +244,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
@@ -254,9 +254,9 @@
         "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
         "published": "Fri, 21 Aug 2026 10:38:47 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -276,9 +276,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
@@ -310,63 +310,63 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.356,
-      "label": "Bullish",
-      "color": "green"
+      "score": 0.087,
+      "label": "Neutral",
+      "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Bitcoin Up or Down on August 22?",
-        "volume_24h": 249940,
-        "yes_price": 0.21,
+        "volume_24h": 252672,
+        "yes_price": 0.41,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $80,000 in August?",
-        "volume_24h": 213283,
-        "yes_price": 0.51,
+        "volume_24h": 212037,
+        "yes_price": 0.58,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $82,500 in August?",
-        "volume_24h": 160925,
-        "yes_price": 0.29,
+        "volume_24h": 160260,
+        "yes_price": 0.32,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $85,000 in August?",
-        "volume_24h": 122299,
+        "volume_24h": 128993,
         "yes_price": 0.17,
         "category": "crypto"
       },
       {
         "title": "Will Ethereum reach $3,000 in August?",
-        "volume_24h": 120742,
-        "yes_price": 0.06,
+        "volume_24h": 121920,
+        "yes_price": 0.07,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $80,000 by December 31, 2026?",
-        "volume_24h": 111520,
-        "yes_price": 0.81,
+        "volume_24h": 111375,
+        "yes_price": 0.82,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $60,000 in August?",
-        "volume_24h": 107031,
+        "volume_24h": 106856,
         "yes_price": 0.02,
         "category": "crypto"
       },
       {
         "title": "Ethereum Up or Down on August 22?",
-        "volume_24h": 98117,
-        "yes_price": 0.5,
+        "volume_24h": 102557,
+        "yes_price": 0.67,
         "category": "crypto"
       }
     ],
@@ -401,19 +401,19 @@
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 4 bullish vs 1 bearish signals detected across crypto news data."
+      "summary": "Bullish: 4 bullish vs 2 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 139,
+      "active_threads": 137,
       "mentions": {
-        "BTC": 27,
+        "BTC": 25,
         "XRP": 16,
         "ETH": 1
       },
-      "bullish_hits": 106,
-      "bearish_hits": 63,
-      "bullish_pct": 63,
+      "bullish_hits": 100,
+      "bearish_hits": 54,
+      "bullish_pct": 65,
       "top_coin": "BTC"
     },
     "cg_trending": [
@@ -422,49 +422,49 @@
         "name": "Zcash",
         "rank": 12,
         "score": 0,
-        "change_24h": 18.74
+        "change_24h": 22.27
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
         "score": 1,
-        "change_24h": -1.81
-      },
-      {
-        "symbol": "PIPEDOG",
-        "name": "pipedog",
-        "rank": 677,
-        "score": 2,
-        "change_24h": -10.42
+        "change_24h": -0.89
       },
       {
         "symbol": "TRUMP",
         "name": "Official Trump",
-        "rank": 95,
+        "rank": 91,
+        "score": 2,
+        "change_24h": 55.85
+      },
+      {
+        "symbol": "PIPEDOG",
+        "name": "pipedog",
+        "rank": 679,
         "score": 3,
-        "change_24h": 40.52
+        "change_24h": -9.33
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "rank": 5,
+        "rank": 4,
         "score": 4,
-        "change_24h": 5.14
+        "change_24h": 9.26
       },
       {
         "symbol": "SUI",
         "name": "Sui",
-        "rank": 30,
+        "rank": 29,
         "score": 5,
-        "change_24h": 1.7
+        "change_24h": 4.79
       },
       {
-        "symbol": "PUMP",
-        "name": "Pump.fun",
-        "rank": 50,
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 10,
         "score": 6,
-        "change_24h": 9.14
+        "change_24h": 3.39
       }
     ]
   },
@@ -504,11 +504,6 @@
         "change_24h": 5.14
       },
       {
-        "symbol": "AAPL",
-        "price_usd": 309.35,
-        "change_24h": -0.63
-      },
-      {
         "symbol": "MSFT",
         "price_usd": 483.24,
         "change_24h": 0.43
@@ -537,76 +532,20 @@
         "symbol": "PLTR",
         "price_usd": 179.94,
         "change_24h": 3.44
-      },
-      {
-        "symbol": "COIN",
-        "price_usd": 186.49,
-        "change_24h": 8.2
       }
     ],
-    "top_mentioned": [
-      {
-        "symbol": "META",
-        "mentions": 1,
-        "price_usd": 549.9,
-        "change_24h": 0.75
-      },
-      {
-        "symbol": "SPY",
-        "mentions": 1,
-        "price_usd": null,
-        "change_24h": null
-      },
-      {
-        "symbol": "NVDA",
-        "mentions": 0,
-        "price_usd": 214.72,
-        "change_24h": -0.98
-      },
-      {
-        "symbol": "TSLA",
-        "mentions": 0,
-        "price_usd": 362.86,
-        "change_24h": 5.14
-      },
-      {
-        "symbol": "AAPL",
-        "mentions": 0,
-        "price_usd": 309.35,
-        "change_24h": -0.63
-      },
-      {
-        "symbol": "MSFT",
-        "mentions": 0,
-        "price_usd": 483.24,
-        "change_24h": 0.43
-      },
-      {
-        "symbol": "GOOGL",
-        "mentions": 0,
-        "price_usd": 344.82,
-        "change_24h": 1.22
-      },
-      {
-        "symbol": "AMZN",
-        "mentions": 0,
-        "price_usd": 258.63,
-        "change_24h": -0.57
-      },
-      {
-        "symbol": "AMD",
-        "mentions": 0,
-        "price_usd": 473.25,
-        "change_24h": 0.81
-      },
-      {
-        "symbol": "PLTR",
-        "mentions": 0,
-        "price_usd": 179.94,
-        "change_24h": 3.44
-      }
-    ],
+    "top_mentioned": [],
     "news": [
+      {
+        "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
+        "published": "Sat, 22 Aug 2026 10:34:23 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
         "source": "CNBC",
@@ -648,6 +587,16 @@
         "color": "red"
       },
       {
+        "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+        "published": "Fri, 21 Aug 2026 20:05:14 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
         "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
@@ -656,28 +605,6 @@
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
-        "published": "Fri, 21 Aug 2026 19:58:36 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
-        "published": "Fri, 21 Aug 2026 19:29:48 GMT",
-        "assets": [
-          "TSLA"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth",
@@ -700,14 +627,14 @@
         "color": "red"
       },
       {
-        "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+        "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-        "published": "Fri, 21 Aug 2026 22:35:17 GMT",
+        "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
+        "published": "Fri, 21 Aug 2026 19:58:36 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
@@ -763,32 +690,32 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.133,
+      "score": -0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 691211,
+        "volume_24h": 691389,
         "yes_price": 0.69,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 484957,
+        "volume_24h": 484908,
         "yes_price": 0.3,
         "category": "finance"
       },
       {
         "title": "Will Renan Santos win the 2026 Brazilian presidential election?",
-        "volume_24h": 222563,
+        "volume_24h": 221600,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Fed rate hike in 2026?",
-        "volume_24h": 183779,
+        "volume_24h": 183799,
         "yes_price": 0.55,
         "category": "finance"
       },
@@ -800,19 +727,19 @@
       },
       {
         "title": "US ceasefire against Iran continues through August 31?",
-        "volume_24h": 138389,
+        "volume_24h": 138488,
         "yes_price": 0.86,
         "category": "finance"
       },
       {
         "title": "US ceasefire against Iran continues through August 25?",
-        "volume_24h": 110615,
-        "yes_price": 0.98,
+        "volume_24h": 117312,
+        "yes_price": 0.97,
         "category": "finance"
       },
       {
         "title": "Xi Jinping out before 2027?",
-        "volume_24h": 106487,
+        "volume_24h": 106507,
         "yes_price": 0.04,
         "category": "finance"
       }
@@ -821,34 +748,14 @@
       "outlook": "Bullish",
       "summary": "Bullish: 1 bullish vs 0 bearish signals detected across finance prediction markets data."
     },
-    "reddit": [
-      {
-        "subreddit": "r/wallstreetbets",
-        "mentions": {
-          "META": 1,
-          "SPY": 1,
-          "NVDA": 0,
-          "TSLA": 0,
-          "AAPL": 0,
-          "MSFT": 0,
-          "GOOGL": 0,
-          "AMZN": 0,
-          "AMD": 0,
-          "PLTR": 0
-        },
-        "activity_score": 100,
-        "top_post": "Weekly Earnings Thread 8/24 - 8/28",
-        "top_post_url": "https://www.reddit.com/r/wallstreetbets/comments/1vumyj2/weekly_earnings_thread_824_828/",
-        "top_post_score": 0
-      }
-    ],
+    "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 5 bullish vs 3 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
