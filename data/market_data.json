@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-08-23T23:50:01Z",
+  "updated_at": "2026-08-24T01:46:21Z",
   "crypto": {
     "fear_greed": {
-      "value": 66,
+      "value": 73,
       "label": "Greed",
-      "previous_value": 71,
+      "previous_value": 66,
       "previous_label": "Greed"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 77538,
-        "change_24h": 1.0,
-        "market_cap": 1556276820264,
-        "volume_24h": 29499712622
+        "price_usd": 77218,
+        "change_24h": 0.6,
+        "market_cap": 1549876365019,
+        "volume_24h": 30262339415
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2456.49,
-        "change_24h": 1.9,
-        "market_cap": 296469669940,
-        "volume_24h": 16418600592
-      },
-      {
-        "symbol": "XRP",
-        "name": "XRP",
-        "price_usd": 1.52,
-        "change_24h": 4.6,
-        "market_cap": 95534244274,
-        "volume_24h": 5332365923
+        "price_usd": 2439.42,
+        "change_24h": 1.5,
+        "market_cap": 294392496487,
+        "volume_24h": 16587788159
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 701.1,
-        "change_24h": 1.5,
-        "market_cap": 93343947513,
-        "volume_24h": 1080486300
+        "price_usd": 696.49,
+        "change_24h": 1.2,
+        "market_cap": 92747316547,
+        "volume_24h": 1071813983
+      },
+      {
+        "symbol": "XRP",
+        "name": "XRP",
+        "price_usd": 1.48,
+        "change_24h": 2.4,
+        "market_cap": 92581563928,
+        "volume_24h": 5036727990
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 95.31,
-        "change_24h": 3.0,
-        "market_cap": 55610178291,
-        "volume_24h": 4307599627
+        "price_usd": 94.25,
+        "change_24h": 1.6,
+        "market_cap": 54974303563,
+        "volume_24h": 4119368988
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.093236,
-        "change_24h": 1.7,
-        "market_cap": 14509458576,
-        "volume_24h": 1076411324
+        "price_usd": 0.091445,
+        "change_24h": 0.5,
+        "market_cap": 14230584867,
+        "volume_24h": 1038152994
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 11.51,
-        "change_24h": 0.5,
-        "market_cap": 8610641572,
-        "volume_24h": 618951729
+        "price_usd": 11.38,
+        "change_24h": -1.3,
+        "market_cap": 8513605501,
+        "volume_24h": 630253750
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.226241,
-        "change_24h": 1.5,
-        "market_cap": 8476191162,
-        "volume_24h": 589961953
+        "price_usd": 0.219655,
+        "change_24h": -0.9,
+        "market_cap": 8235378385,
+        "volume_24h": 597025571
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 7.61,
-        "change_24h": 2.5,
-        "market_cap": 3283416794,
-        "volume_24h": 270821457
+        "price_usd": 7.48,
+        "change_24h": 0.8,
+        "market_cap": 3229705258,
+        "volume_24h": 267752650
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 8,
-        "price_usd": 77538,
-        "change_24h": 1.0
+        "mentions": 9,
+        "price_usd": 77218,
+        "change_24h": 0.6
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 2456.49,
-        "change_24h": 1.9
+        "price_usd": 2439.42,
+        "change_24h": 1.5
       },
       {
         "symbol": "SOL",
         "mentions": 1,
-        "price_usd": 95.31,
-        "change_24h": 3.0
+        "price_usd": 94.25,
+        "change_24h": 1.6
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 701.1,
-        "change_24h": 1.5
+        "price_usd": 696.49,
+        "change_24h": 1.2
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.52,
-        "change_24h": 4.6
+        "price_usd": 1.48,
+        "change_24h": 2.4
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.226241,
-        "change_24h": 1.5
+        "price_usd": 0.219655,
+        "change_24h": -0.9
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.093236,
-        "change_24h": 1.7
+        "price_usd": 0.091445,
+        "change_24h": 0.5
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 7.61,
-        "change_24h": 2.5
+        "price_usd": 7.48,
+        "change_24h": 0.8
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 11.51,
-        "change_24h": 0.5
+        "price_usd": 11.38,
+        "change_24h": -1.3
       },
       {
         "symbol": "TON",
@@ -172,9 +172,9 @@
         "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
         "published": "Sun, 23 Aug 2026 15:00:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
@@ -182,9 +182,9 @@
         "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
         "published": "Sun, 23 Aug 2026 13:00:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
@@ -192,9 +192,9 @@
         "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
         "published": "Sat, 22 Aug 2026 15:16:41 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
@@ -204,9 +204,9 @@
         "assets": [
           "BNB"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
@@ -224,9 +224,9 @@
         "url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
         "published": "Sat, 22 Aug 2026 13:30:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
@@ -237,15 +237,27 @@
           "BTC",
           "ETH"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
         "published": "Sat, 22 Aug 2026 05:37:43 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 23 Aug 2026 23:56:00 +0000",
         "assets": [
           "BTC"
         ],
@@ -269,9 +281,9 @@
         "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Sat, 22 Aug 2026 13:30:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -291,21 +303,9 @@
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 21 Aug 2026 20:00:47 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -316,50 +316,50 @@
     "polymarket": [
       {
         "title": "Will Ethereum dip to $1,000 by December 31, 2026?",
-        "volume_24h": 393836,
+        "volume_24h": 392836,
         "yes_price": 0.06,
         "category": "crypto"
       },
       {
         "title": "Will Ethereum dip to $800 by December 31, 2026?",
-        "volume_24h": 339373,
+        "volume_24h": 339365,
         "yes_price": 0.04,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-        "volume_24h": 197559,
+        "volume_24h": 176847,
         "yes_price": 0.09,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_24h": 155958,
+        "volume_24h": 155963,
         "yes_price": 0.12,
         "category": "crypto"
       },
       {
         "title": "Will Ethereum dip to $1,750 by December 31, 2026?",
         "volume_24h": 136337,
-        "yes_price": 0.16,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $80,000 in August?",
-        "volume_24h": 110885,
-        "yes_price": 0.63,
+        "yes_price": 0.17,
         "category": "crypto"
       },
       {
         "title": "Will Ethereum dip to $1,500 by December 31, 2026?",
-        "volume_24h": 105147,
+        "volume_24h": 123763,
         "yes_price": 0.1,
         "category": "crypto"
       },
       {
+        "title": "Will Bitcoin reach $80,000 in August?",
+        "volume_24h": 105877,
+        "yes_price": 0.59,
+        "category": "crypto"
+      },
+      {
         "title": "Will Bitcoin reach $82,500 in August?",
-        "volume_24h": 90096,
-        "yes_price": 0.38,
+        "volume_24h": 91764,
+        "yes_price": 0.36,
         "category": "crypto"
       }
     ],
@@ -371,7 +371,7 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 8,
+          "BTC": 9,
           "ETH": 1,
           "SOL": 1,
           "BNB": 0,
@@ -397,15 +397,15 @@
       "summary": "Mixed: 3 bullish vs 3 bearish signals detected across crypto news data."
     },
     "fourchain": {
-      "thread_count": 200,
-      "active_threads": 142,
+      "thread_count": 201,
+      "active_threads": 146,
       "mentions": {
-        "BTC": 29,
-        "XRP": 15,
+        "BTC": 30,
+        "XRP": 16,
         "ETH": 6
       },
-      "bullish_hits": 99,
-      "bearish_hits": 63,
+      "bullish_hits": 106,
+      "bearish_hits": 67,
       "bullish_pct": 61,
       "top_coin": "BTC"
     },
@@ -413,51 +413,51 @@
       {
         "symbol": "CATALORIAN",
         "name": "Elon's Space Cat",
-        "rank": 990,
+        "rank": 954,
         "score": 0,
         "change_24h": 0
+      },
+      {
+        "symbol": "PONS",
+        "name": "Pons",
+        "rank": 457,
+        "score": 1,
+        "change_24h": 59.32
       },
       {
         "symbol": "HYPE",
         "name": "Hyperliquid",
         "rank": 9,
-        "score": 1,
-        "change_24h": 3.58
-      },
-      {
-        "symbol": "CYBERLEEK",
-        "name": "CyberLeek",
-        "rank": 900,
         "score": 2,
-        "change_24h": 78.48
-      },
-      {
-        "symbol": "PONS",
-        "name": "Pons",
-        "rank": 496,
-        "score": 3,
-        "change_24h": 54.47
-      },
-      {
-        "symbol": "ZEC",
-        "name": "Zcash",
-        "rank": 11,
-        "score": 4,
-        "change_24h": 7.38
+        "change_24h": -0.08
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
-        "score": 5,
-        "change_24h": 0.6
+        "score": 3,
+        "change_24h": 0.16
       },
       {
-        "symbol": "TAO",
-        "name": "Bittensor",
-        "rank": 41,
+        "symbol": "PUMP",
+        "name": "Pump.fun",
+        "rank": 46,
+        "score": 4,
+        "change_24h": 0.62
+      },
+      {
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "rank": 11,
+        "score": 5,
+        "change_24h": 3.57
+      },
+      {
+        "symbol": "CYBERLEEK",
+        "name": "CyberLeek",
+        "rank": 956,
         "score": 6,
-        "change_24h": 6.81
+        "change_24h": 100.38
       }
     ]
   },
@@ -546,8 +546,18 @@
         "published": "Sun, 23 Aug 2026 22:39:41 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.7,
         "color": "red"
+      },
+      {
+        "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
+        "published": "Mon, 24 Aug 2026 00:59:57 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.5,
+        "color": "green"
       },
       {
         "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
@@ -556,7 +566,7 @@
         "published": "Sun, 23 Aug 2026 12:00:01 GMT",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.8,
         "color": "green"
       },
       {
@@ -575,20 +585,8 @@
         "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
         "published": "Sun, 23 Aug 2026 12:00:01 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-        "published": "Sat, 22 Aug 2026 18:57:46 GMT",
-        "assets": [
-          "META"
-        ],
         "sentiment": "Bullish",
-        "score": 0.333,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -602,11 +600,13 @@
         "color": "green"
       },
       {
-        "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
+        "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
-        "published": "Sat, 22 Aug 2026 12:00:01 GMT",
-        "assets": [],
+        "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+        "published": "Sat, 22 Aug 2026 18:57:46 GMT",
+        "assets": [
+          "META"
+        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -622,6 +622,16 @@
         "color": "yellow"
       },
       {
+        "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+        "published": "Sat, 22 Aug 2026 12:00:01 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
+      },
+      {
         "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
@@ -629,29 +639,19 @@
         "assets": [
           "SPY"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "What's bogging down the data center trade has nothing to do with demand",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/23/whats-bogging-down-the-data-center-trade-has-nothing-to-do-with-demand.html",
-        "published": "Sun, 23 Aug 2026 22:55:14 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-        "published": "Sun, 23 Aug 2026 23:45:00 GMT",
+        "published": "Mon, 24 Aug 2026 01:01:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
@@ -669,9 +669,9 @@
         "url": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
         "published": "Sun, 23 Aug 2026 19:00:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.9,
+        "color": "green"
       },
       {
         "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
@@ -695,56 +695,56 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.022,
+      "score": 0.28,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 334128,
+        "volume_24h": 334234,
         "yes_price": 0.68,
         "category": "finance"
       },
       {
         "title": "Will Renan Santos win the 2026 Brazilian presidential election?",
-        "volume_24h": 183011,
+        "volume_24h": 194774,
         "yes_price": 0.04,
-        "category": "finance"
-      },
-      {
-        "title": "Trump out as President before 2027?",
-        "volume_24h": 178899,
-        "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by August 31, 2026?",
-        "volume_24h": 177180,
-        "yes_price": 0.04,
+        "volume_24h": 191013,
+        "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "US ceasefire against Iran continues through August 31?",
-        "volume_24h": 166253,
+        "volume_24h": 184686,
         "yes_price": 0.91,
         "category": "finance"
       },
       {
+        "title": "Trump out as President before 2027?",
+        "volume_24h": 178955,
+        "yes_price": 0.07,
+        "category": "finance"
+      },
+      {
         "title": "Xi Jinping out before 2027?",
-        "volume_24h": 150710,
+        "volume_24h": 155034,
         "yes_price": 0.05,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 141717,
+        "volume_24h": 144497,
         "yes_price": 0.32,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 131137,
+        "volume_24h": 130950,
         "yes_price": 0.17,
         "category": "finance"
       }
@@ -756,11 +756,11 @@
     "reddit": [],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
+      "summary": "Mixed: Data provided is insufficient to ascertain specific market sentiment or identify key mentions, subreddits, numbers, or names for analysis. Therefore, a definitive bullish or bearish stance cannot be formed based on the input."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 4 bullish vs 3 bearish signals detected across stock/finance news data."
+      "summary": "Mixed: 4 bullish vs 4 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
