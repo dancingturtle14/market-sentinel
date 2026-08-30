@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T21:26:51Z",
+  "updated_at": "2026-08-30T23:46:41Z",
   "crypto": {
     "fear_greed": {
       "value": 69,
@@ -11,88 +11,94 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 78491,
-        "change_24h": 0.49,
-        "market_cap": 1575879151517,
-        "volume_24h": 16330631758
+        "price_usd": 77462,
+        "change_24h": -1.0,
+        "market_cap": 1555409757060,
+        "volume_24h": 18196481612
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2472.22,
-        "change_24h": 0.87,
-        "market_cap": 298349689102,
-        "volume_24h": 8570992522
+        "price_usd": 2411.06,
+        "change_24h": -1.86,
+        "market_cap": 291047894296,
+        "volume_24h": 10157363126
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 695.45,
-        "change_24h": 0.44,
-        "market_cap": 92603276563,
-        "volume_24h": 619512047
+        "price_usd": 684.03,
+        "change_24h": -1.22,
+        "market_cap": 91105105157,
+        "volume_24h": 656204304
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.39,
-        "change_24h": -0.41,
-        "market_cap": 87137059983,
-        "volume_24h": 1410593381
+        "price_usd": 1.35,
+        "change_24h": -3.36,
+        "market_cap": 84676011957,
+        "volume_24h": 1578708461
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 103.98,
-        "change_24h": -1.07,
-        "market_cap": 60835668619,
-        "volume_24h": 2567676336
+        "price_usd": 101.43,
+        "change_24h": -3.93,
+        "market_cap": 59367265511,
+        "volume_24h": 2790659030
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.084394,
-        "change_24h": -0.91,
-        "market_cap": 13140436682,
-        "volume_24h": 431929976
+        "price_usd": 0.081643,
+        "change_24h": -4.15,
+        "market_cap": 12716785017,
+        "volume_24h": 533568032
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 11.47,
-        "change_24h": 0.17,
-        "market_cap": 8580849906,
-        "volume_24h": 267278530
+        "price_usd": 11.09,
+        "change_24h": -2.95,
+        "market_cap": 8303429713,
+        "volume_24h": 283717081
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.19922,
-        "change_24h": -1.06,
-        "market_cap": 7468649988,
-        "volume_24h": 243317448
+        "price_usd": 0.192202,
+        "change_24h": -4.49,
+        "market_cap": 7213681861,
+        "volume_24h": 284241283
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 7.32,
-        "change_24h": 0.07,
-        "market_cap": 3160497164,
-        "volume_24h": 128476541
+        "price_usd": 7.1,
+        "change_24h": -3.05,
+        "market_cap": 3068296874,
+        "volume_24h": 153654588
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 2,
-        "price_usd": 78491,
-        "change_24h": 0.49
+        "price_usd": 77462,
+        "change_24h": -1.0
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 2472.22,
-        "change_24h": 0.87
+        "price_usd": 2411.06,
+        "change_24h": -1.86
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 1,
+        "price_usd": 101.43,
+        "change_24h": -3.93
       },
       {
         "symbol": "UNI",
@@ -107,40 +113,34 @@
         "change_24h": null
       },
       {
-        "symbol": "SOL",
-        "mentions": 0,
-        "price_usd": 103.98,
-        "change_24h": -1.07
-      },
-      {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 695.45,
-        "change_24h": 0.44
+        "price_usd": 684.03,
+        "change_24h": -1.22
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.39,
-        "change_24h": -0.41
+        "price_usd": 1.35,
+        "change_24h": -3.36
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.19922,
-        "change_24h": -1.06
+        "price_usd": 0.192202,
+        "change_24h": -4.49
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.084394,
-        "change_24h": -0.91
+        "price_usd": 0.081643,
+        "change_24h": -4.15
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 7.32,
-        "change_24h": 0.07
+        "price_usd": 7.1,
+        "change_24h": -3.05
       }
     ],
     "news": [
@@ -253,6 +253,19 @@
         "color": "yellow"
       },
       {
+        "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 30 Aug 2026 23:36:16 +0000",
+        "assets": [
+          "BTC",
+          "SOL"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -293,18 +306,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Polygon discloses security flaws fixed in recent hard forks",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 29 Aug 2026 20:28:51 +0000",
-        "assets": [
-          "MATIC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -315,8 +316,14 @@
     "polymarket": [
       {
         "title": "Will Bitcoin reach $80,000 in August?",
-        "volume_24h": 101112,
-        "yes_price": 0.38,
+        "volume_24h": 111329,
+        "yes_price": 0.14,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $75,000 in August?",
+        "volume_24h": 88859,
+        "yes_price": 0.17,
         "category": "crypto"
       },
       {
@@ -326,27 +333,33 @@
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $75,000 in August?",
-        "volume_24h": 77127,
-        "yes_price": 0.04,
-        "category": "crypto"
-      },
-      {
         "title": "Will Bitcoin reach $82,500 in August?",
-        "volume_24h": 75291,
-        "yes_price": 0.05,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_24h": 73710,
-        "yes_price": 0.12,
+        "volume_24h": 78092,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will Ethereum reach $2,700 in August?",
-        "volume_24h": 71621,
+        "volume_24h": 77117,
         "yes_price": 0.02,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be above $76,000 on August 31?",
+        "volume_24h": 74600,
+        "yes_price": 0.84,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+        "volume_24h": 73637,
+        "yes_price": 0.13,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $72,500 in August?",
+        "volume_24h": 60589,
+        "yes_price": 0.03,
         "category": "crypto"
       }
     ],
@@ -360,9 +373,9 @@
         "mentions": {
           "BTC": 2,
           "ETH": 1,
+          "SOL": 1,
           "UNI": 1,
           "ATOM": 1,
-          "SOL": 0,
           "BNB": 0,
           "XRP": 0,
           "ADA": 0,
@@ -385,66 +398,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 148,
+      "active_threads": 149,
       "mentions": {
-        "BTC": 22,
-        "XRP": 13,
-        "ETH": 2
+        "BTC": 23,
+        "XRP": 14,
+        "BNB": 3
       },
-      "bullish_hits": 105,
-      "bearish_hits": 57,
-      "bullish_pct": 65,
+      "bullish_hits": 103,
+      "bearish_hits": 58,
+      "bullish_pct": 64,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "PONS",
-        "name": "Pons",
-        "rank": 149,
+        "symbol": "ZYLO",
+        "name": "Zylo Ecosystem",
+        "rank": 622,
         "score": 0,
-        "change_24h": 62.61
+        "change_24h": 20.56
       },
       {
-        "symbol": "SKR",
-        "name": "Seeker",
-        "rank": 187,
+        "symbol": "PONS",
+        "name": "Pons",
+        "rank": 146,
         "score": 1,
-        "change_24h": 128.89
+        "change_24h": 38.85
       },
       {
         "symbol": "HNT",
         "name": "Helium",
-        "rank": 194,
+        "rank": 220,
         "score": 2,
-        "change_24h": 123.3
+        "change_24h": 70.52
       },
       {
-        "symbol": "ZYLO",
-        "name": "Zylo Ecosystem",
-        "rank": 627,
+        "symbol": "UNI",
+        "name": "Uniswap",
+        "rank": 29,
         "score": 3,
-        "change_24h": 21.55
+        "change_24h": 9.8
       },
       {
-        "symbol": "LIT",
-        "name": "Lighter",
-        "rank": 72,
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "rank": 10,
         "score": 4,
-        "change_24h": 8.03
+        "change_24h": -0.62
       },
       {
-        "symbol": "CASHCAT",
-        "name": "Cash Cat",
-        "rank": 160,
+        "symbol": "SKR",
+        "name": "Seeker",
+        "rank": 182,
         "score": 5,
-        "change_24h": 8.47
+        "change_24h": 127.41
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "TAO",
+        "name": "Bittensor",
+        "rank": 42,
         "score": 6,
-        "change_24h": 0.52
+        "change_24h": -3.78
       }
     ]
   },
@@ -539,24 +552,24 @@
         "color": "green"
       },
       {
-        "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
+        "title": "U.S. strikes Iranian rocket launchers near Strait of Hormuz",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
-        "published": "Sun, 30 Aug 2026 12:00:02 GMT",
+        "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+        "published": "Sun, 30 Aug 2026 21:32:59 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
+        "title": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
-        "published": "Sun, 30 Aug 2026 12:32:44 GMT",
+        "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
+        "published": "Sun, 30 Aug 2026 22:05:32 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
@@ -569,23 +582,11 @@
         "color": "yellow"
       },
       {
-        "title": "Aon nears $17 billion deal to buy insurance broker USI, WSJ reports",
+        "title": "Singapore tackles finances and culture to avert a demographic crisis",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
-        "published": "Sun, 30 Aug 2026 20:46:12 GMT",
+        "url": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html",
+        "published": "Sun, 30 Aug 2026 23:31:15 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
-        "published": "Sun, 30 Aug 2026 13:00:01 GMT",
-        "assets": [
-          "META"
-        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -621,10 +622,52 @@
         "color": "yellow"
       },
       {
-        "title": "Top Wall Street analysts suggest these 3 dividend stocks for consistent income",
+        "title": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/30/top-analysts-suggest-these-dividend-stocks-for-consistent-income.html",
-        "published": "Sun, 30 Aug 2026 10:42:13 GMT",
+        "url": "https://www.cnbc.com/2026/08/30/what-caused-nvidias-nasty-reversal-friday-look-to-the-fed-for-clues.html",
+        "published": "Sun, 30 Aug 2026 23:26:35 GMT",
+        "assets": [
+          "NVDA"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
+        "published": "Sun, 30 Aug 2026 12:32:44 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+        "published": "Sun, 30 Aug 2026 23:30:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+        "published": "Sun, 30 Aug 2026 22:31:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+        "published": "Sun, 30 Aug 2026 22:15:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -634,7 +677,7 @@
         "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-        "published": "Sun, 30 Aug 2026 16:30:00 GMT",
+        "published": "Sun, 30 Aug 2026 22:15:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
@@ -649,96 +692,66 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-        "published": "Sun, 30 Aug 2026 14:00:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
-        "published": "Sun, 30 Aug 2026 13:30:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-        "published": "Sun, 30 Aug 2026 13:01:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.2,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": 0.333,
+      "label": "Bullish",
+      "color": "green"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 659762,
+        "volume_24h": 660973,
         "yes_price": 0.47,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 370656,
-        "yes_price": 0.52,
+        "volume_24h": 412125,
+        "yes_price": 0.53,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 306760,
-        "yes_price": 0.14,
+        "volume_24h": 359067,
+        "yes_price": 0.15,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through August 31?",
-        "volume_24h": 130748,
-        "yes_price": 0.95,
-        "category": "finance"
-      },
-      {
-        "title": "Putin out as President of Russia by December 31, 2026?",
-        "volume_24h": 125882,
-        "yes_price": 0.07,
-        "category": "finance"
-      },
-      {
-        "title": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-        "volume_24h": 115834,
-        "yes_price": 0.72,
+        "volume_24h": 224818,
+        "yes_price": 0.97,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through September 30?",
-        "volume_24h": 108198,
-        "yes_price": 0.81,
+        "volume_24h": 156345,
+        "yes_price": 0.82,
+        "category": "finance"
+      },
+      {
+        "title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?",
+        "volume_24h": 144672,
+        "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by September 30, 2026?",
-        "volume_24h": 95520,
-        "yes_price": 0.18,
+        "volume_24h": 129053,
+        "yes_price": 0.2,
+        "category": "finance"
+      },
+      {
+        "title": "Putin out as President of Russia by December 31, 2026?",
+        "volume_24h": 127993,
+        "yes_price": 0.07,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 1 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
     },
     "reddit": [],
     "reddit_summary": {
