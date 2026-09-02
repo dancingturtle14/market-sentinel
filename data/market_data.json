@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-09-01T22:46:20Z",
+  "updated_at": "2026-09-02T00:57:13Z",
   "crypto": {
     "fear_greed": {
-      "value": 69,
+      "value": 63,
       "label": "Greed",
-      "previous_value": 62,
+      "previous_value": 69,
       "previous_label": "Greed"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 77107,
-        "change_24h": -1.94,
-        "market_cap": 1548156938966,
-        "volume_24h": 29887648127
+        "price_usd": 77152,
+        "change_24h": -1.87,
+        "market_cap": 1549103673028,
+        "volume_24h": 30036635616
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2406.29,
-        "change_24h": -2.5,
-        "market_cap": 290415290521,
-        "volume_24h": 12514919094
+        "price_usd": 2407.47,
+        "change_24h": -2.54,
+        "market_cap": 290529690830,
+        "volume_24h": 12798999413
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 679.29,
-        "change_24h": -1.66,
-        "market_cap": 90461404000,
-        "volume_24h": 702363066
+        "price_usd": 684.12,
+        "change_24h": -1.28,
+        "market_cap": 91102996563,
+        "volume_24h": 757870169
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.34,
-        "change_24h": -2.85,
-        "market_cap": 84194318983,
-        "volume_24h": 2007219861
+        "change_24h": -3.06,
+        "market_cap": 84155068160,
+        "volume_24h": 2080506055
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 99.46,
-        "change_24h": -3.62,
-        "market_cap": 58207046951,
-        "volume_24h": 3357868539
+        "price_usd": 99.66,
+        "change_24h": -3.37,
+        "market_cap": 58322272142,
+        "volume_24h": 3415612446
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.081276,
-        "change_24h": -2.05,
-        "market_cap": 12659554943,
-        "volume_24h": 533055431
+        "price_usd": 0.081206,
+        "change_24h": -2.19,
+        "market_cap": 12646740033,
+        "volume_24h": 532030986
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 11.16,
-        "change_24h": -1.44,
-        "market_cap": 8348402556,
-        "volume_24h": 397812592
+        "change_24h": -1.83,
+        "market_cap": 8350980116,
+        "volume_24h": 360681228
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.194702,
-        "change_24h": -2.07,
-        "market_cap": 7302200805,
-        "volume_24h": 341736512
+        "price_usd": 0.196162,
+        "change_24h": -1.58,
+        "market_cap": 7355920334,
+        "volume_24h": 343327528
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
         "price_usd": 7.18,
-        "change_24h": -0.63,
-        "market_cap": 3099496530,
-        "volume_24h": 184713545
+        "change_24h": -1.22,
+        "market_cap": 3099373508,
+        "volume_24h": 185693510
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 6,
-        "price_usd": 77107,
-        "change_24h": -1.94
+        "mentions": 8,
+        "price_usd": 77152,
+        "change_24h": -1.87
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 2406.29,
-        "change_24h": -2.5
+        "price_usd": 2407.47,
+        "change_24h": -2.54
       },
       {
         "symbol": "SOL",
         "mentions": 1,
-        "price_usd": 99.46,
-        "change_24h": -3.62
+        "price_usd": 99.66,
+        "change_24h": -3.37
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 679.29,
-        "change_24h": -1.66
+        "price_usd": 684.12,
+        "change_24h": -1.28
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.34,
-        "change_24h": -2.85
+        "change_24h": -3.06
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.194702,
-        "change_24h": -2.07
+        "price_usd": 0.196162,
+        "change_24h": -1.58
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.081276,
-        "change_24h": -2.05
+        "price_usd": 0.081206,
+        "change_24h": -2.19
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
         "price_usd": 7.18,
-        "change_24h": -0.63
+        "change_24h": -1.22
       },
       {
         "symbol": "LINK",
         "mentions": 0,
         "price_usd": 11.16,
-        "change_24h": -1.44
+        "change_24h": -1.83
       },
       {
         "symbol": "TON",
@@ -144,6 +144,16 @@
       }
     ],
     "news": [
+      {
+        "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
+        "published": "Tue, 01 Sep 2026 23:55:46 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
         "source": "CoinDesk",
@@ -245,16 +255,6 @@
         "color": "yellow"
       },
       {
-        "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
-        "published": "Tue, 01 Sep 2026 10:35:21 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -312,27 +312,21 @@
     },
     "polymarket": [
       {
-        "title": "Will the price of Bitcoin be above $74,000 on September 2?",
-        "volume_24h": 94767,
-        "yes_price": 0.97,
-        "category": "crypto"
-      },
-      {
         "title": "Will Bitcoin reach $100,000 in September?",
-        "volume_24h": 93417,
+        "volume_24h": 93636,
         "yes_price": 0.03,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $55,000 in September?",
-        "volume_24h": 90102,
-        "yes_price": 0.02,
+        "title": "Will the price of Bitcoin be above $76,000 on September 2?",
+        "volume_24h": 93336,
+        "yes_price": 0.89,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Bitcoin be above $76,000 on September 2?",
-        "volume_24h": 88413,
-        "yes_price": 0.83,
+        "title": "Will Bitcoin dip to $55,000 in September?",
+        "volume_24h": 90223,
+        "yes_price": 0.02,
         "category": "crypto"
       }
     ],
@@ -344,7 +338,7 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 6,
+          "BTC": 8,
           "ETH": 1,
           "SOL": 1,
           "BNB": 0,
@@ -373,64 +367,64 @@
       "thread_count": 201,
       "active_threads": 143,
       "mentions": {
-        "BTC": 19,
+        "BTC": 18,
         "XRP": 8,
         "ETH": 2
       },
-      "bullish_hits": 121,
+      "bullish_hits": 113,
       "bearish_hits": 43,
-      "bullish_pct": 74,
+      "bullish_pct": 72,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
         "symbol": "PONS",
         "name": "Pons",
-        "rank": 123,
+        "rank": 130,
         "score": 0,
-        "change_24h": 15.72
-      },
-      {
-        "symbol": "UNI",
-        "name": "Uniswap",
-        "rank": 28,
-        "score": 1,
-        "change_24h": 10.49
+        "change_24h": 4.31
       },
       {
         "symbol": "CASHCAT",
         "name": "Cash Cat",
-        "rank": 163,
-        "score": 2,
-        "change_24h": 13.43
-      },
-      {
-        "symbol": "RAM",
-        "name": "Ramses",
-        "rank": 938,
-        "score": 3,
-        "change_24h": -78.18
+        "rank": 168,
+        "score": 1,
+        "change_24h": 6.94
       },
       {
         "symbol": "USELESS",
         "name": "Useless Coin",
-        "rank": 248,
-        "score": 4,
-        "change_24h": 20.36
+        "rank": 242,
+        "score": 2,
+        "change_24h": 20.08
       },
       {
         "symbol": "ARB",
         "name": "Arbitrum",
         "rank": 87,
-        "score": 5,
-        "change_24h": 1.35
+        "score": 3,
+        "change_24h": -6.73
       },
       {
-        "symbol": "SOL",
-        "name": "Solana",
-        "rank": 7,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
+        "score": 4,
+        "change_24h": -2.01
+      },
+      {
+        "symbol": "UP",
+        "name": "up",
+        "rank": 897,
+        "score": 5,
+        "change_24h": -20.3
+      },
+      {
+        "symbol": "UNI",
+        "name": "Uniswap",
+        "rank": 27,
         "score": 6,
-        "change_24h": -3.72
+        "change_24h": 10.74
       }
     ]
   },
@@ -513,14 +507,44 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
+        "title": "U.S. completes fresh strikes on Iran as Mideast tensions flare again",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-        "published": "Tue, 01 Sep 2026 20:56:50 GMT",
+        "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+        "published": "Wed, 02 Sep 2026 00:44:05 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+        "published": "Tue, 01 Sep 2026 23:52:21 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+        "published": "Tue, 01 Sep 2026 18:52:11 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+        "published": "Tue, 01 Sep 2026 21:40:18 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
@@ -531,6 +555,18 @@
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
+      },
+      {
+        "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+        "published": "Tue, 01 Sep 2026 16:27:54 GMT",
+        "assets": [
+          "AAPL"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
@@ -553,16 +589,6 @@
         "color": "yellow"
       },
       {
-        "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
-        "published": "Tue, 01 Sep 2026 18:52:11 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
@@ -571,26 +597,6 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
-        "published": "Tue, 01 Sep 2026 21:40:18 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
-        "published": "Tue, 01 Sep 2026 20:20:50 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "Used cars under $20,000 tend to sell quickly — but there are trade-offs for buyers",
@@ -603,14 +609,44 @@
         "color": "yellow"
       },
       {
-        "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-        "published": "Tue, 01 Sep 2026 07:30:49 GMT",
+        "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+        "published": "Wed, 02 Sep 2026 00:19:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+        "published": "Wed, 02 Sep 2026 00:18:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+        "published": "Wed, 02 Sep 2026 00:00:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 23:15:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Dow drops below a key chart level, warning of more trouble ahead",
@@ -621,106 +657,66 @@
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
-        "published": "Tue, 01 Sep 2026 21:52:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-        "published": "Tue, 01 Sep 2026 21:43:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
-        "published": "Tue, 01 Sep 2026 21:02:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "This could be the 10-year Treasury’s tipping point into the danger zone",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
-        "published": "Tue, 01 Sep 2026 20:36:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 1226057,
-        "yes_price": 0.41,
+        "volume_24h": 1258066,
+        "yes_price": 0.4,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 624744,
-        "yes_price": 0.58,
+        "volume_24h": 624421,
+        "yes_price": 0.57,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 603373,
+        "volume_24h": 609820,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through September 30?",
-        "volume_24h": 236366,
-        "yes_price": 0.83,
+        "volume_24h": 224777,
+        "yes_price": 0.82,
         "category": "finance"
       },
       {
         "title": "Will Augusto Cury win the 2026 Brazilian presidential election?",
-        "volume_24h": 179555,
+        "volume_24h": 190700,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will Renan Santos win the 2026 Brazilian presidential election?",
-        "volume_24h": 161471,
+        "volume_24h": 166897,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by September 7, 2026?",
-        "volume_24h": 112906,
-        "yes_price": 0.03,
+        "volume_24h": 142273,
+        "yes_price": 0.02,
         "category": "finance"
       },
       {
-        "title": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-        "volume_24h": 111088,
-        "yes_price": 0.71,
+        "title": "Iran full airspace closure by September 30?",
+        "volume_24h": 115311,
+        "yes_price": 0.1,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 1 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
     },
     "reddit": [],
     "reddit_summary": {
@@ -728,8 +724,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 4 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 4 bullish vs 2 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
