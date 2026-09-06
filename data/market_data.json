@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T14:07:14Z",
+  "updated_at": "2026-09-06T17:17:46Z",
   "crypto": {
     "fear_greed": {
       "value": 73,
@@ -11,82 +11,100 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 79798,
-        "change_24h": 0.18,
-        "market_cap": 1602559740529,
-        "volume_24h": 19987291045
+        "price_usd": 79621,
+        "change_24h": -0.57,
+        "market_cap": 1598812445891,
+        "volume_24h": 19539000129
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2492.66,
-        "change_24h": 1.54,
-        "market_cap": 304276087549,
-        "volume_24h": 8774265098
+        "price_usd": 2485.36,
+        "change_24h": 0.25,
+        "market_cap": 303254306534,
+        "volume_24h": 9084214863
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 750.0,
-        "change_24h": -1.51,
-        "market_cap": 99893728839,
-        "volume_24h": 1592622405
+        "price_usd": 747.39,
+        "change_24h": -3.71,
+        "market_cap": 99542136537,
+        "volume_24h": 1325147871
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.42,
-        "change_24h": 0.14,
-        "market_cap": 88854759226,
-        "volume_24h": 1538214399
+        "price_usd": 1.41,
+        "change_24h": -0.63,
+        "market_cap": 88509418627,
+        "volume_24h": 1534440894
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 106.85,
-        "change_24h": 3.97,
-        "market_cap": 62631754413,
-        "volume_24h": 3847217249
+        "price_usd": 106.05,
+        "change_24h": 2.13,
+        "market_cap": 62080449455,
+        "volume_24h": 3746493573
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.089615,
-        "change_24h": 2.72,
-        "market_cap": 13973900557,
-        "volume_24h": 1362857315
+        "price_usd": 0.08917,
+        "change_24h": 0.09,
+        "market_cap": 13892295802,
+        "volume_24h": 1331293645
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 12.34,
-        "change_24h": 4.08,
-        "market_cap": 9239194390,
-        "volume_24h": 464373007
+        "price_usd": 12.3,
+        "change_24h": 1.55,
+        "market_cap": 9194502251,
+        "volume_24h": 473177055
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.219201,
-        "change_24h": 1.66,
-        "market_cap": 8227798267,
-        "volume_24h": 447214192
+        "price_usd": 0.218069,
+        "change_24h": -0.2,
+        "market_cap": 8178878113,
+        "volume_24h": 416142314
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 7.67,
-        "change_24h": 1.68,
-        "market_cap": 3314823969,
-        "volume_24h": 208686843
+        "price_usd": 7.63,
+        "change_24h": 0.65,
+        "market_cap": 3294057853,
+        "volume_24h": 212601280
       }
     ],
     "top_mentioned": [
       {
+        "symbol": "SOL",
+        "mentions": 3,
+        "price_usd": 106.05,
+        "change_24h": 2.13
+      },
+      {
         "symbol": "BTC",
         "mentions": 2,
-        "price_usd": 79798,
-        "change_24h": 0.18
+        "price_usd": 79621,
+        "change_24h": -0.57
+      },
+      {
+        "symbol": "ETH",
+        "mentions": 1,
+        "price_usd": 2485.36,
+        "change_24h": 0.25
+      },
+      {
+        "symbol": "BNB",
+        "mentions": 1,
+        "price_usd": 747.39,
+        "change_24h": -3.71
       },
       {
         "symbol": "MATIC",
@@ -95,55 +113,47 @@
         "change_24h": null
       },
       {
-        "symbol": "ETH",
-        "mentions": 0,
-        "price_usd": 2492.66,
-        "change_24h": 1.54
-      },
-      {
-        "symbol": "SOL",
-        "mentions": 0,
-        "price_usd": 106.85,
-        "change_24h": 3.97
-      },
-      {
-        "symbol": "BNB",
-        "mentions": 0,
-        "price_usd": 750.0,
-        "change_24h": -1.51
-      },
-      {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.42,
-        "change_24h": 0.14
+        "price_usd": 1.41,
+        "change_24h": -0.63
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.219201,
-        "change_24h": 1.66
+        "price_usd": 0.218069,
+        "change_24h": -0.2
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.089615,
-        "change_24h": 2.72
+        "price_usd": 0.08917,
+        "change_24h": 0.09
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 7.67,
-        "change_24h": 1.68
+        "price_usd": 7.63,
+        "change_24h": 0.65
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 12.34,
-        "change_24h": 4.08
+        "price_usd": 12.3,
+        "change_24h": 1.55
       }
     ],
     "news": [
+      {
+        "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+        "published": "Sun, 06 Sep 2026 16:00:00 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
       {
         "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
         "source": "CoinDesk",
@@ -243,16 +253,6 @@
         "color": "yellow"
       },
       {
-        "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
-        "published": "Fri, 04 Sep 2026 12:31:47 +0000",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
         "title": "Here’s what happened in crypto today",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -266,7 +266,7 @@
         "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 06 Sep 2026 13:01:48 +0000",
+        "published": "Sun, 06 Sep 2026 13:03:00 +0000",
         "assets": [
           "BTC"
         ],
@@ -290,7 +290,7 @@
         "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 05 Sep 2026 10:44:29 +0000",
+        "published": "Sat, 05 Sep 2026 10:46:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -310,37 +310,31 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.0,
+      "score": -0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "Bitcoin Up or Down on September 6?",
-        "volume_24h": 88234,
-        "yes_price": 0.52,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the price of Bitcoin be above $80,000 on September 6?",
-        "volume_24h": 62489,
-        "yes_price": 0.21,
+        "title": "Will AfD win an absolute majority of seats in Sachsen-Anhalt?",
+        "volume_24h": 181353,
+        "yes_price": 0.23,
         "category": "crypto"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across crypto prediction markets data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
+          "SOL": 3,
           "BTC": 2,
+          "ETH": 1,
+          "BNB": 1,
           "MATIC": 1,
-          "ETH": 0,
-          "SOL": 0,
-          "BNB": 0,
           "XRP": 0,
           "ADA": 0,
           "DOGE": 0,
@@ -355,74 +349,74 @@
     ],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: While r/CryptoCurrency shows high activity (100/100), suggesting broad engagement, specific coin sentiment remains unclear. BTC received 2 mentions and MATIC 1, but the limited volume and lack of contextual sentiment around these mentions prevent a definitive bullish or bearish assessment for individual assets from the provided data."
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across crypto news data."
+      "summary": "Mixed: 2 bullish vs 2 bearish signals detected across crypto news data."
     },
     "fourchain": {
-      "thread_count": 198,
-      "active_threads": 142,
+      "thread_count": 201,
+      "active_threads": 151,
       "mentions": {
-        "XRP": 18,
-        "BTC": 17,
+        "XRP": 19,
+        "BTC": 18,
         "DOGE": 5
       },
-      "bullish_hits": 94,
-      "bearish_hits": 48,
-      "bullish_pct": 66,
+      "bullish_hits": 100,
+      "bearish_hits": 47,
+      "bullish_pct": 68,
       "top_coin": "XRP"
     },
     "cg_trending": [
       {
-        "symbol": "FIRO",
-        "name": "Firo",
-        "rank": 894,
-        "score": 0,
-        "change_24h": 18.22
-      },
-      {
         "symbol": "SHRUB",
         "name": "Lil' Shrub",
-        "rank": 716,
+        "rank": 637,
+        "score": 0,
+        "change_24h": -21.3
+      },
+      {
+        "symbol": "CP",
+        "name": "CLUSTER PROTOCOL",
+        "rank": 548,
         "score": 1,
-        "change_24h": -79.91
+        "change_24h": -9.85
+      },
+      {
+        "symbol": "FIRO",
+        "name": "Firo",
+        "rank": 879,
+        "score": 2,
+        "change_24h": 16.27
       },
       {
         "symbol": "PONS",
         "name": "Pons",
-        "rank": 93,
-        "score": 2,
-        "change_24h": -0.63
+        "rank": 97,
+        "score": 3,
+        "change_24h": -16.3
+      },
+      {
+        "symbol": "STONK",
+        "name": "STONK",
+        "rank": 204,
+        "score": 4,
+        "change_24h": 317.49
+      },
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 102,
+        "score": 5,
+        "change_24h": 0.21
       },
       {
         "symbol": "ZEC",
         "name": "Zcash",
         "rank": 9,
-        "score": 3,
-        "change_24h": 16.36
-      },
-      {
-        "symbol": "CP",
-        "name": "CLUSTER PROTOCOL",
-        "rank": 551,
-        "score": 4,
-        "change_24h": -8.85
-      },
-      {
-        "symbol": "ARB",
-        "name": "Arbitrum",
-        "rank": 64,
-        "score": 5,
-        "change_24h": 45.41
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 101,
         "score": 6,
-        "change_24h": 2.58
+        "change_24h": 14.27
       }
     ]
   },
@@ -505,20 +499,30 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+        "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-        "published": "Sun, 06 Sep 2026 12:13:49 GMT",
+        "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+        "published": "Sun, 06 Sep 2026 16:27:03 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
+        "title": "AI data centers are transforming rural land markets — and fueling a backlash",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-        "published": "Sun, 06 Sep 2026 12:02:47 GMT",
+        "url": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
+        "published": "Sun, 06 Sep 2026 12:00:01 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+        "published": "Sun, 06 Sep 2026 15:35:16 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -545,40 +549,10 @@
         "color": "green"
       },
       {
-        "title": "AI data centers are transforming rural land markets — and fueling a backlash",
+        "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
-        "published": "Sun, 06 Sep 2026 12:00:01 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
-        "published": "Sat, 05 Sep 2026 12:20:42 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
-        "published": "Sat, 05 Sep 2026 15:11:03 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "LeBron James teases partnership with Polymarket",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
-        "published": "Sat, 05 Sep 2026 19:40:11 GMT",
+        "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+        "published": "Sat, 05 Sep 2026 12:00:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -599,6 +573,26 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
         "published": "Fri, 04 Sep 2026 12:15:44 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+        "published": "Sun, 06 Sep 2026 12:13:49 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
+        "published": "Sat, 05 Sep 2026 12:20:42 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -663,50 +657,44 @@
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 333680,
-        "yes_price": 0.49,
-        "category": "finance"
-      },
-      {
-        "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 169596,
+        "volume_24h": 331244,
         "yes_price": 0.51,
         "category": "finance"
       },
       {
-        "title": "Iran leadership change by September 30?",
-        "volume_24h": 145573,
+        "title": "Will China invade Taiwan by end of 2026?",
+        "volume_24h": 288120,
+        "yes_price": 0.04,
+        "category": "finance"
+      },
+      {
+        "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+        "volume_24h": 166903,
+        "yes_price": 0.49,
+        "category": "finance"
+      },
+      {
+        "title": "US announces end of Iranian blockade by September 14, 2026?",
+        "volume_24h": 114544,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "US x Iran Effective Ceasefire by September 4?",
-        "volume_24h": 112835,
-        "yes_price": 0.36,
-        "category": "finance"
-      },
-      {
-        "title": "US announces end of Iranian blockade by September 14, 2026?",
-        "volume_24h": 111206,
-        "yes_price": 0.03,
-        "category": "finance"
-      },
-      {
-        "title": "Israel x Iran ceasefire continues through September 30?",
-        "volume_24h": 79899,
-        "yes_price": 0.88,
-        "category": "finance"
-      },
-      {
-        "title": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
-        "volume_24h": 76175,
-        "yes_price": 0.14,
+        "volume_24h": 89037,
+        "yes_price": 0.38,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by September 30, 2026?",
-        "volume_24h": 72349,
+        "volume_24h": 64612,
         "yes_price": 0.17,
+        "category": "finance"
+      },
+      {
+        "title": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+        "volume_24h": 64180,
+        "yes_price": 0.23,
         "category": "finance"
       }
     ],
@@ -720,8 +708,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: While sugar is robustly outperforming the stock market this year, wider sentiment is tempered by neutral factors. Concerns include 'model fatigue' in AI development, potential geopolitical escalation with Iran, and a looming Fed rate hike impacting the economic outlook."
+      "outlook": "Bullish",
+      "summary": "Bullish: 2 bullish vs 0 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
