@@ -1,98 +1,98 @@
 {
-  "updated_at": "2026-09-12T23:13:20Z",
+  "updated_at": "2026-09-13T01:22:03Z",
   "crypto": {
     "fear_greed": {
-      "value": 63,
+      "value": 61,
       "label": "Greed",
-      "previous_value": 56,
+      "previous_value": 63,
       "previous_label": "Greed"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 77255,
-        "change_24h": 0.11,
-        "market_cap": 1551546172494,
-        "volume_24h": 15568937276
+        "price_usd": 77258,
+        "change_24h": -0.12,
+        "market_cap": 1551615640452,
+        "volume_24h": 15271978830
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2523.66,
-        "change_24h": 0.39,
-        "market_cap": 307985343071,
-        "volume_24h": 8232361115
+        "price_usd": 2523.21,
+        "change_24h": 0.32,
+        "market_cap": 307935992552,
+        "volume_24h": 7829066081
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 726.77,
-        "change_24h": 0.14,
-        "market_cap": 96759967274,
-        "volume_24h": 778012021
+        "price_usd": 728.33,
+        "change_24h": -0.13,
+        "market_cap": 96984874273,
+        "volume_24h": 760264928
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.36,
-        "change_24h": 0.67,
-        "market_cap": 85727472875,
-        "volume_24h": 985362308
+        "change_24h": 0.31,
+        "market_cap": 85816838051,
+        "volume_24h": 980356212
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 101.67,
-        "change_24h": -0.49,
-        "market_cap": 59642054711,
-        "volume_24h": 1833211352
+        "price_usd": 101.86,
+        "change_24h": -0.3,
+        "market_cap": 59755485884,
+        "volume_24h": 1832776194
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.084701,
-        "change_24h": 0.73,
-        "market_cap": 13202778369,
-        "volume_24h": 338843505
+        "price_usd": 0.084818,
+        "change_24h": 0.42,
+        "market_cap": 13222108112,
+        "volume_24h": 325990107
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 11.49,
-        "change_24h": -0.23,
-        "market_cap": 8589837525,
-        "volume_24h": 228459624
+        "change_24h": -0.56,
+        "market_cap": 8593413458,
+        "volume_24h": 218217434
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.206997,
-        "change_24h": 0.69,
-        "market_cap": 7763557988,
-        "volume_24h": 226792654
+        "price_usd": 0.207418,
+        "change_24h": 0.17,
+        "market_cap": 7781170657,
+        "volume_24h": 225184642
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 7.39,
-        "change_24h": -0.68,
-        "market_cap": 3268698349,
-        "volume_24h": 157799718
+        "price_usd": 7.38,
+        "change_24h": -1.11,
+        "market_cap": 3266728631,
+        "volume_24h": 153567943
       }
     ],
     "top_mentioned": [
       {
         "symbol": "ETH",
         "mentions": 3,
-        "price_usd": 2523.66,
-        "change_24h": 0.39
+        "price_usd": 2523.21,
+        "change_24h": 0.32
       },
       {
         "symbol": "BTC",
         "mentions": 1,
-        "price_usd": 77255,
-        "change_24h": 0.11
+        "price_usd": 77258,
+        "change_24h": -0.12
       },
       {
         "symbol": "LTC",
@@ -103,44 +103,44 @@
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 101.67,
-        "change_24h": -0.49
+        "price_usd": 101.86,
+        "change_24h": -0.3
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 726.77,
-        "change_24h": 0.14
+        "price_usd": 728.33,
+        "change_24h": -0.13
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.36,
-        "change_24h": 0.67
+        "change_24h": 0.31
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.206997,
-        "change_24h": 0.69
+        "price_usd": 0.207418,
+        "change_24h": 0.17
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.084701,
-        "change_24h": 0.73
+        "price_usd": 0.084818,
+        "change_24h": 0.42
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 7.39,
-        "change_24h": -0.68
+        "price_usd": 7.38,
+        "change_24h": -1.11
       },
       {
         "symbol": "LINK",
         "mentions": 0,
         "price_usd": 11.49,
-        "change_24h": -0.23
+        "change_24h": -0.56
       }
     ],
     "news": [
@@ -341,74 +341,74 @@
     ],
     "reddit_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
+      "summary": "Mixed: High activity on r/CryptoCurrency (100/100) reflects significant community engagement. Top discussions focus on ETH (3 mentions), BTC (1 mention), and LTC (1 mention), indicating sustained interest in key assets. However, the data lacks explicit positive or negative sentiment drivers for a definitive directional outlook."
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 3 bearish signals detected across crypto news data."
+      "summary": "Bearish: Overall sentiment is weighed down by security and broader tech concerns. Revolut exposed Bitcoin activity and passports due to a fake government request, raising security fears. Additionally, an AI race slowdown, agreed upon by leaders like Musk and Altman, could dampen tech sector enthusiasm."
     },
     "fourchain": {
       "thread_count": 201,
       "active_threads": 144,
       "mentions": {
-        "BTC": 17,
+        "BTC": 16,
         "XRP": 10,
-        "BNB": 3
+        "ETH": 2
       },
-      "bullish_hits": 77,
-      "bearish_hits": 56,
+      "bullish_hits": 78,
+      "bearish_hits": 57,
       "bullish_pct": 58,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "ILV",
-        "name": "Illuvium",
-        "rank": 664,
+        "symbol": "LSK",
+        "name": "Lisk",
+        "rank": 232,
         "score": 0,
-        "change_24h": 18.6
+        "change_24h": 242.01
       },
       {
-        "symbol": "NOCK",
-        "name": "Nockchain",
-        "rank": 253,
+        "symbol": "STONK",
+        "name": "STONK",
+        "rank": 155,
         "score": 1,
-        "change_24h": 33.33
-      },
-      {
-        "symbol": "LAPTOP",
-        "name": "Hunter Biden's Laptop",
-        "rank": 257,
-        "score": 2,
-        "change_24h": -27.16
+        "change_24h": -5.2
       },
       {
         "symbol": "PONS",
         "name": "Pons",
         "rank": 117,
+        "score": 2,
+        "change_24h": -1.16
+      },
+      {
+        "symbol": "NOCK",
+        "name": "Nockchain",
+        "rank": 245,
         "score": 3,
-        "change_24h": 4.14
+        "change_24h": 25.21
       },
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 114,
+        "symbol": "LAPTOP",
+        "name": "Hunter Biden's Laptop",
+        "rank": 253,
         "score": 4,
-        "change_24h": 0.41
-      },
-      {
-        "symbol": "STONK",
-        "name": "STONK",
-        "rank": 151,
-        "score": 5,
-        "change_24h": -4.9
+        "change_24h": -23.57
       },
       {
         "symbol": "SOL",
         "name": "Solana",
         "rank": 7,
+        "score": 5,
+        "change_24h": -0.31
+      },
+      {
+        "symbol": "PEPE",
+        "name": "Pepe",
+        "rank": 60,
         "score": 6,
-        "change_24h": -0.34
+        "change_24h": 3.47
       }
     ]
   },
@@ -494,11 +494,11 @@
         "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-        "published": "Sat, 12 Sep 2026 22:39:01 GMT",
+        "published": "Sat, 12 Sep 2026 23:20:43 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
@@ -506,9 +506,9 @@
         "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
         "published": "Sat, 12 Sep 2026 17:14:56 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
@@ -516,9 +516,9 @@
         "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
         "published": "Sat, 12 Sep 2026 12:40:05 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
       },
       {
         "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
@@ -526,9 +526,9 @@
         "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
         "published": "Sat, 12 Sep 2026 12:49:15 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.333,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
@@ -536,9 +536,9 @@
         "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
         "published": "Sat, 12 Sep 2026 13:15:04 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.5,
+        "color": "red"
       },
       {
         "title": "Buffett's confidence in troubled decade-old acquisition finally pays off",
@@ -546,9 +546,9 @@
         "url": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
         "published": "Sat, 12 Sep 2026 13:20:04 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.7,
+        "color": "green"
       },
       {
         "title": "Trump's America-first world is pushing other powers to hedge their bets",
@@ -556,9 +556,9 @@
         "url": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
         "published": "Sat, 12 Sep 2026 13:24:33 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.6,
+        "color": "red"
       },
       {
         "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
@@ -567,7 +567,7 @@
         "published": "Sat, 12 Sep 2026 12:00:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
-        "score": 0.0,
+        "score": -0.2,
         "color": "yellow"
       },
       {
@@ -576,9 +576,9 @@
         "url": "https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html",
         "published": "Fri, 11 Sep 2026 20:21:01 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
       },
       {
         "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
@@ -596,9 +596,9 @@
         "url": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
         "published": "Sat, 12 Sep 2026 21:50:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -0.6,
+        "color": "red"
       },
       {
         "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
@@ -607,7 +607,7 @@
         "published": "Sat, 12 Sep 2026 17:20:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.7,
         "color": "red"
       },
       {
@@ -616,9 +616,9 @@
         "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
         "published": "Sat, 12 Sep 2026 16:01:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": -0.1,
+        "color": "yellow"
       },
       {
         "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
@@ -642,57 +642,57 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.111,
+      "score": -0.173,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 2819376,
+        "volume_24h": 2114440,
         "yes_price": 0.2,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 1545710,
+        "volume_24h": 1178753,
         "yes_price": 0.8,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 229040,
+        "volume_24h": 228733,
         "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-        "volume_24h": 161478,
+        "volume_24h": 162099,
         "yes_price": 0.8,
         "category": "finance"
       },
       {
         "title": "Iran-Oman Hormuz Agreement by September 14?",
-        "volume_24h": 152655,
-        "yes_price": 0.3,
+        "volume_24h": 150661,
+        "yes_price": 0.28,
         "category": "finance"
       },
       {
         "title": "US x Iran Effective Ceasefire by September 4?",
-        "volume_24h": 123559,
+        "volume_24h": 143164,
         "yes_price": 0.88,
         "category": "finance"
       },
       {
-        "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
-        "volume_24h": 114353,
-        "yes_price": 0.5,
+        "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+        "volume_24h": 137394,
+        "yes_price": 0.47,
         "category": "finance"
       },
       {
-        "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_24h": 94691,
-        "yes_price": 0.48,
+        "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+        "volume_24h": 128056,
+        "yes_price": 0.5,
         "category": "finance"
       }
     ],
@@ -706,8 +706,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 3 bullish vs 1 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 3 bullish vs 2 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
