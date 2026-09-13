@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T12:40:20Z",
+  "updated_at": "2026-09-13T16:55:54Z",
   "crypto": {
     "fear_greed": {
       "value": 61,
@@ -11,88 +11,94 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 76744,
-        "change_24h": -0.75,
-        "market_cap": 1541450649751,
-        "volume_24h": 15751332099
+        "price_usd": 77262,
+        "change_24h": -0.1,
+        "market_cap": 1551571014842,
+        "volume_24h": 16024073624
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2476.16,
-        "change_24h": -2.32,
-        "market_cap": 302206222803,
-        "volume_24h": 8668345981
+        "price_usd": 2504.18,
+        "change_24h": -1.07,
+        "market_cap": 305615075480,
+        "volume_24h": 8956426927
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 715.55,
-        "change_24h": -2.84,
-        "market_cap": 95274359992,
-        "volume_24h": 734117938
+        "price_usd": 720.94,
+        "change_24h": -1.52,
+        "market_cap": 95980241151,
+        "volume_24h": 717896971
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.34,
-        "change_24h": -2.3,
-        "market_cap": 84249983899,
-        "volume_24h": 932062148
+        "price_usd": 1.35,
+        "change_24h": -1.46,
+        "market_cap": 84885914547,
+        "volume_24h": 944397045
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 99.6,
-        "change_24h": -2.64,
-        "market_cap": 58443285858,
-        "volume_24h": 1855075133
+        "price_usd": 100.74,
+        "change_24h": -1.28,
+        "market_cap": 59105116568,
+        "volume_24h": 1844969088
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.08336,
-        "change_24h": -1.99,
-        "market_cap": 12997081088,
-        "volume_24h": 333258225
+        "price_usd": 0.083863,
+        "change_24h": -1.45,
+        "market_cap": 14391215842,
+        "volume_24h": 341710587
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 11.25,
-        "change_24h": -2.83,
-        "market_cap": 8416756281,
-        "volume_24h": 220341735
+        "price_usd": 11.35,
+        "change_24h": -1.62,
+        "market_cap": 8490688887,
+        "volume_24h": 220660071
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.204408,
-        "change_24h": -2.24,
-        "market_cap": 7670727882,
-        "volume_24h": 207512169
+        "price_usd": 0.207069,
+        "change_24h": -0.47,
+        "market_cap": 7765900616,
+        "volume_24h": 208282226
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 7.31,
-        "change_24h": -1.96,
-        "market_cap": 3234042860,
-        "volume_24h": 155947206
+        "price_usd": 7.38,
+        "change_24h": -0.27,
+        "market_cap": 3268256069,
+        "volume_24h": 156386421
       }
     ],
     "top_mentioned": [
       {
         "symbol": "ETH",
         "mentions": 3,
-        "price_usd": 2476.16,
-        "change_24h": -2.32
+        "price_usd": 2504.18,
+        "change_24h": -1.07
       },
       {
         "symbol": "BTC",
         "mentions": 2,
-        "price_usd": 76744,
-        "change_24h": -0.75
+        "price_usd": 77262,
+        "change_24h": -0.1
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 1,
+        "price_usd": 100.74,
+        "change_24h": -1.28
       },
       {
         "symbol": "LTC",
@@ -101,49 +107,65 @@
         "change_24h": null
       },
       {
-        "symbol": "SOL",
-        "mentions": 0,
-        "price_usd": 99.6,
-        "change_24h": -2.64
-      },
-      {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 715.55,
-        "change_24h": -2.84
+        "price_usd": 720.94,
+        "change_24h": -1.52
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.34,
-        "change_24h": -2.3
+        "price_usd": 1.35,
+        "change_24h": -1.46
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.204408,
-        "change_24h": -2.24
+        "price_usd": 0.207069,
+        "change_24h": -0.47
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.08336,
-        "change_24h": -1.99
+        "price_usd": 0.083863,
+        "change_24h": -1.45
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 7.31,
-        "change_24h": -1.96
+        "price_usd": 7.38,
+        "change_24h": -0.27
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 11.25,
-        "change_24h": -2.83
+        "price_usd": 11.35,
+        "change_24h": -1.62
       }
     ],
     "news": [
+      {
+        "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+        "published": "Sun, 13 Sep 2026 13:00:00 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -0.7,
+        "color": "red"
+      },
+      {
+        "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+        "published": "Sun, 13 Sep 2026 13:00:00 +0000",
+        "assets": [
+          "LINK"
+        ],
+        "sentiment": "Bullish",
+        "score": 0.8,
+        "color": "green"
+      },
       {
         "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
         "source": "CoinDesk",
@@ -151,7 +173,7 @@
         "published": "Sun, 13 Sep 2026 12:00:00 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.7,
+        "score": -0.6,
         "color": "red"
       },
       {
@@ -161,7 +183,7 @@
         "published": "Sat, 12 Sep 2026 21:09:31 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.5,
+        "score": -0.3,
         "color": "red"
       },
       {
@@ -173,7 +195,7 @@
           "BTC"
         ],
         "sentiment": "Bearish",
-        "score": -0.8,
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -183,7 +205,7 @@
         "published": "Sat, 12 Sep 2026 18:51:04 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.4,
         "color": "green"
       },
       {
@@ -193,7 +215,7 @@
         "published": "Sat, 12 Sep 2026 18:43:33 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.4,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -206,7 +228,7 @@
           "UNI"
         ],
         "sentiment": "Bullish",
-        "score": 1.0,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -218,7 +240,7 @@
           "BTC"
         ],
         "sentiment": "Bullish",
-        "score": 0.9,
+        "score": 0.7,
         "color": "green"
       },
       {
@@ -230,29 +252,7 @@
           "ETH"
         ],
         "sentiment": "Bullish",
-        "score": 0.8,
-        "color": "green"
-      },
-      {
-        "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
-        "published": "Sat, 12 Sep 2026 10:11:01 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-        "published": "Fri, 11 Sep 2026 23:47:51 +0000",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 0.6,
+        "score": 0.9,
         "color": "green"
       },
       {
@@ -262,7 +262,7 @@
         "published": "Sun, 13 Sep 2026 11:09:54 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -0.4,
+        "score": -0.5,
         "color": "red"
       },
       {
@@ -272,7 +272,7 @@
         "published": "Sun, 13 Sep 2026 09:27:21 +0000",
         "assets": [],
         "sentiment": "Bearish",
-        "score": -1.0,
+        "score": -0.9,
         "color": "red"
       },
       {
@@ -291,9 +291,9 @@
         "url": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Sat, 12 Sep 2026 16:08:29 +0000",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -0.3,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
@@ -302,20 +302,20 @@
         "published": "Sat, 12 Sep 2026 15:50:14 +0000",
         "assets": [],
         "sentiment": "Bullish",
-        "score": 0.8,
+        "score": 0.4,
         "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": -0.013,
+      "score": -0.02,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "Will the price of Bitcoin be above $76,000 on September 13?",
-        "volume_24h": 95394,
-        "yes_price": 0.97,
+        "title": "Will Ethereum reach $3,200 in September?",
+        "volume_24h": 124939,
+        "yes_price": 0.07,
         "category": "crypto"
       }
     ],
@@ -329,8 +329,8 @@
         "mentions": {
           "ETH": 3,
           "BTC": 2,
+          "SOL": 1,
           "LTC": 1,
-          "SOL": 0,
           "BNB": 0,
           "XRP": 0,
           "ADA": 0,
@@ -349,8 +349,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: Despite ongoing regulatory uncertainty for the U.S. Clarity Act and Bitcoin Suisse planning to cut up to half its Swiss jobs, substantial capital inflows and market potential dominate. Nigel Farage’s Reform UK secured $97 million from two crypto billionaires. Ripple's stablecoin chief eyes a massive $13 trillion corporate treasury opportunity for RLUSD, reinforcing Bitcoin's appeal over bonds and staked ether's role as a decentralized benchmark."
+      "outlook": "Mixed",
+      "summary": "Mixed: 3 bullish vs 3 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
@@ -360,7 +360,7 @@
         "XRP": 9,
         "ETH": 2
       },
-      "bullish_hits": 82,
+      "bullish_hits": 84,
       "bearish_hits": 53,
       "bullish_pct": 61,
       "top_coin": "BTC"
@@ -369,51 +369,51 @@
       {
         "symbol": "LSK",
         "name": "Lisk",
-        "rank": 151,
+        "rank": 155,
         "score": 0,
-        "change_24h": 367.84
+        "change_24h": 329.48
+      },
+      {
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "rank": 9,
+        "score": 1,
+        "change_24h": -3.46
+      },
+      {
+        "symbol": "STONK",
+        "name": "STONK",
+        "rank": 167,
+        "score": 2,
+        "change_24h": -9.47
+      },
+      {
+        "symbol": "EMBER",
+        "name": "embercurve",
+        "rank": 526,
+        "score": 3,
+        "change_24h": 60.19
+      },
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 110,
+        "score": 4,
+        "change_24h": -0.36
       },
       {
         "symbol": "PONS",
         "name": "Pons",
         "rank": 118,
-        "score": 1,
-        "change_24h": -13.5
-      },
-      {
-        "symbol": "STONK",
-        "name": "STONK",
-        "rank": 164,
-        "score": 2,
-        "change_24h": -9.89
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 112,
-        "score": 3,
-        "change_24h": -2.95
-      },
-      {
-        "symbol": "EMBER",
-        "name": "embercurve",
-        "rank": 547,
-        "score": 4,
-        "change_24h": 54.0
-      },
-      {
-        "symbol": "LAPTOP",
-        "name": "Hunter Biden's Laptop",
-        "rank": 257,
         "score": 5,
-        "change_24h": -15.26
+        "change_24h": -11.64
       },
       {
-        "symbol": "MET",
-        "name": "Meteora",
-        "rank": 231,
+        "symbol": "VVV",
+        "name": "Venice Token",
+        "rank": 71,
         "score": 6,
-        "change_24h": -5.13
+        "change_24h": -7.68
       }
     ]
   },
@@ -496,10 +496,30 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+        "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-        "published": "Sun, 13 Sep 2026 12:29:49 GMT",
+        "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+        "published": "Sun, 13 Sep 2026 16:39:24 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
+        "published": "Sun, 13 Sep 2026 13:38:23 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+        "published": "Sun, 13 Sep 2026 11:52:33 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
@@ -511,15 +531,15 @@
         "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
         "published": "Sat, 12 Sep 2026 17:14:56 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
-        "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+        "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-        "published": "Sun, 13 Sep 2026 11:52:33 GMT",
+        "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+        "published": "Sun, 13 Sep 2026 16:38:45 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -536,34 +556,24 @@
         "color": "yellow"
       },
       {
-        "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
-        "published": "Sun, 13 Sep 2026 11:17:12 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
         "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
         "published": "Sun, 13 Sep 2026 11:53:35 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Indian Prime Minister Modi says border peace is key to India-China ties",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
-        "published": "Sat, 12 Sep 2026 15:12:56 GMT",
-        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "Taxing high earners to help fund Social Security gains bipartisan attention — what it could mean for benefits",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/13/social-security-payroll-tax-cap.html",
+        "published": "Sun, 13 Sep 2026 13:30:01 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Sub-$100 smartphones becoming a rarity as AI memory prices soar",
@@ -571,9 +581,9 @@
         "url": "https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html",
         "published": "Fri, 11 Sep 2026 11:59:39 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
@@ -586,60 +596,50 @@
         "color": "yellow"
       },
       {
-        "title": "Cramer: This market has eerie parallels with 2018. Here's what investors should do",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/11/cramer-market-eerie-parallels-2018-what-it-means-for-investors.html",
-        "published": "Fri, 11 Sep 2026 23:09:35 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
-        "published": "Sat, 12 Sep 2026 21:50:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
-        "published": "Sat, 12 Sep 2026 17:20:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
         "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-        "published": "Sat, 12 Sep 2026 16:01:00 GMT",
+        "published": "Sun, 13 Sep 2026 16:30:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+        "published": "Sun, 13 Sep 2026 15:00:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+        "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-        "published": "Sat, 12 Sep 2026 15:00:00 GMT",
+        "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+        "published": "Sun, 13 Sep 2026 14:30:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
-        "published": "Sat, 12 Sep 2026 14:01:00 GMT",
+        "published": "Sun, 13 Sep 2026 14:00:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
+        "published": "Sun, 13 Sep 2026 14:00:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -654,56 +654,56 @@
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 2008059,
-        "yes_price": 0.21,
+        "volume_24h": 1676285,
+        "yes_price": 0.2,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 1246090,
-        "yes_price": 0.78,
+        "volume_24h": 1364801,
+        "yes_price": 0.8,
+        "category": "finance"
+      },
+      {
+        "title": "Putin out as President of Russia by December 31, 2026?",
+        "volume_24h": 395279,
+        "yes_price": 0.06,
+        "category": "finance"
+      },
+      {
+        "title": "Will OpenAI not IPO by December 31, 2026?",
+        "volume_24h": 166049,
+        "yes_price": 0.92,
         "category": "finance"
       },
       {
         "title": "Will Marco Rubio win the 2028 US Presidential Election?",
-        "volume_24h": 142409,
-        "yes_price": 0.12,
+        "volume_24h": 148929,
+        "yes_price": 0.11,
         "category": "finance"
       },
       {
-        "title": "US x Iran Effective Ceasefire by September 4?",
-        "volume_24h": 121553,
-        "yes_price": 0.85,
+        "title": "Will China invade Taiwan by end of 2026?",
+        "volume_24h": 121091,
+        "yes_price": 0.04,
         "category": "finance"
       },
       {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 98115,
-        "yes_price": 0.17,
-        "category": "finance"
-      },
-      {
-        "title": "Iran-Oman Hormuz Agreement by September 14?",
-        "volume_24h": 96725,
-        "yes_price": 0.36,
+        "title": "Will the Republicans win the Texas Senate race in 2026?",
+        "volume_24h": 103291,
+        "yes_price": 0.53,
         "category": "finance"
       },
       {
         "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_24h": 95733,
-        "yes_price": 0.48,
-        "category": "finance"
-      },
-      {
-        "title": "Will David Lisnard win the 2027 French presidential election?",
-        "volume_24h": 90400,
-        "yes_price": 0.08,
+        "volume_24h": 100743,
+        "yes_price": 0.47,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: Markets anticipate a hawkish monetary stance with a 78% expectation for a 25 bps Fed rate increase by September 2026. Conversely, geopolitical tensions are expected to ease significantly, indicated by an 85% probability of a US x Iran ceasefire and only 17% chance of a US invasion before 2027."
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
     },
     "reddit": [],
     "reddit_summary": {
@@ -712,7 +712,7 @@
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 2 bearish signals detected across stock/finance news data."
+      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
