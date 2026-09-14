@@ -1,104 +1,104 @@
 {
-  "updated_at": "2026-09-13T21:36:07Z",
+  "updated_at": "2026-09-14T00:01:38Z",
   "crypto": {
     "fear_greed": {
-      "value": 61,
+      "value": 57,
       "label": "Greed",
-      "previous_value": 63,
+      "previous_value": 61,
       "previous_label": "Greed"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 77375,
-        "change_24h": 0.19,
-        "market_cap": 1553991418783,
-        "volume_24h": 14886259056
+        "price_usd": 76822,
+        "change_24h": -0.55,
+        "market_cap": 1542883641733,
+        "volume_24h": 16100835119
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2512.49,
-        "change_24h": -0.48,
-        "market_cap": 306634173921,
-        "volume_24h": 8833415607
+        "price_usd": 2476.54,
+        "change_24h": -1.91,
+        "market_cap": 302247622137,
+        "volume_24h": 9567215839
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 722.17,
-        "change_24h": -0.66,
-        "market_cap": 96156459377,
-        "volume_24h": 721621237
+        "price_usd": 716.4,
+        "change_24h": -1.5,
+        "market_cap": 95396626971,
+        "volume_24h": 748120849
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.36,
-        "change_24h": -0.48,
-        "market_cap": 85393658448,
-        "volume_24h": 965503514
+        "price_usd": 1.34,
+        "change_24h": -1.83,
+        "market_cap": 84296762482,
+        "volume_24h": 1098027211
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 101.37,
-        "change_24h": -0.13,
-        "market_cap": 59476551233,
-        "volume_24h": 1912121523
+        "price_usd": 99.27,
+        "change_24h": -2.4,
+        "market_cap": 58245120916,
+        "volume_24h": 2099827506
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.084176,
-        "change_24h": -0.68,
-        "market_cap": 13123261189,
-        "volume_24h": 351779790
+        "price_usd": 0.082437,
+        "change_24h": -2.78,
+        "market_cap": 12852223751,
+        "volume_24h": 406616672
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 11.44,
-        "change_24h": -0.66,
-        "market_cap": 8561845185,
-        "volume_24h": 255799069
+        "price_usd": 11.2,
+        "change_24h": -2.59,
+        "market_cap": 8376661993,
+        "volume_24h": 282707786
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.208211,
-        "change_24h": 0.52,
-        "market_cap": 7811280197,
-        "volume_24h": 207327523
+        "price_usd": 0.203541,
+        "change_24h": -1.8,
+        "market_cap": 7636192105,
+        "volume_24h": 232885155
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 7.44,
-        "change_24h": 0.52,
-        "market_cap": 3292117766,
-        "volume_24h": 155258949
+        "price_usd": 7.29,
+        "change_24h": -1.36,
+        "market_cap": 3226126246,
+        "volume_24h": 165669688
       }
     ],
     "top_mentioned": [
       {
-        "symbol": "ETH",
+        "symbol": "BTC",
         "mentions": 3,
-        "price_usd": 2512.49,
-        "change_24h": -0.48
+        "price_usd": 76822,
+        "change_24h": -0.55
       },
       {
-        "symbol": "BTC",
-        "mentions": 2,
-        "price_usd": 77375,
-        "change_24h": 0.19
+        "symbol": "ETH",
+        "mentions": 3,
+        "price_usd": 2476.54,
+        "change_24h": -1.91
       },
       {
         "symbol": "SOL",
         "mentions": 1,
-        "price_usd": 101.37,
-        "change_24h": -0.13
+        "price_usd": 99.27,
+        "change_24h": -2.4
       },
       {
         "symbol": "LTC",
@@ -109,38 +109,38 @@
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 722.17,
-        "change_24h": -0.66
+        "price_usd": 716.4,
+        "change_24h": -1.5
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.36,
-        "change_24h": -0.48
+        "price_usd": 1.34,
+        "change_24h": -1.83
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.208211,
-        "change_24h": 0.52
+        "price_usd": 0.203541,
+        "change_24h": -1.8
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.084176,
-        "change_24h": -0.68
+        "price_usd": 0.082437,
+        "change_24h": -2.78
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 7.44,
-        "change_24h": 0.52
+        "price_usd": 7.29,
+        "change_24h": -1.36
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 11.44,
-        "change_24h": -0.66
+        "price_usd": 11.2,
+        "change_24h": -2.59
       }
     ],
     "news": [
@@ -310,14 +310,20 @@
     "polymarket": [
       {
         "title": "Will Ethereum reach $3,200 in September?",
-        "volume_24h": 126871,
+        "volume_24h": 127644,
         "yes_price": 0.06,
         "category": "crypto"
       },
       {
         "title": "Will Ethereum reach $2,600 in September?",
-        "volume_24h": 94811,
-        "yes_price": 0.74,
+        "volume_24h": 120805,
+        "yes_price": 0.66,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be above $74,000 on September 14?",
+        "volume_24h": 79237,
+        "yes_price": 0.98,
         "category": "crypto"
       }
     ],
@@ -329,8 +335,8 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
+          "BTC": 3,
           "ETH": 3,
-          "BTC": 2,
           "SOL": 1,
           "LTC": 1,
           "BNB": 0,
@@ -355,67 +361,67 @@
       "summary": "Mixed: 3 bullish vs 2 bearish signals detected across crypto news data."
     },
     "fourchain": {
-      "thread_count": 198,
+      "thread_count": 201,
       "active_threads": 144,
       "mentions": {
-        "BTC": 16,
+        "BTC": 18,
         "XRP": 9,
         "ETH": 2
       },
-      "bullish_hits": 80,
-      "bearish_hits": 50,
-      "bullish_pct": 62,
+      "bullish_hits": 74,
+      "bearish_hits": 49,
+      "bullish_pct": 60,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
         "symbol": "LSK",
         "name": "Lisk",
-        "rank": 160,
+        "rank": 181,
         "score": 0,
-        "change_24h": 335.38
+        "change_24h": 139.55
       },
       {
-        "symbol": "FIL",
-        "name": "Filecoin",
-        "rank": 84,
+        "symbol": "PONS",
+        "name": "Pons",
+        "rank": 117,
         "score": 1,
-        "change_24h": 22.5
+        "change_24h": -8.71
       },
       {
         "symbol": "STONK",
         "name": "STONK",
-        "rank": 169,
+        "rank": 186,
         "score": 2,
-        "change_24h": -5.58
+        "change_24h": -27.83
       },
       {
-        "symbol": "LAPTOP",
-        "name": "Hunter Biden's Laptop",
-        "rank": 292,
+        "symbol": "PRL",
+        "name": "Pearl",
+        "rank": 223,
         "score": 3,
-        "change_24h": -21.24
+        "change_24h": 3.94
       },
       {
-        "symbol": "SOL",
-        "name": "Solana",
-        "rank": 7,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 4,
-        "change_24h": 0.01
+        "change_24h": -0.63
       },
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 112,
+        "symbol": "PENDLE",
+        "name": "Pendle",
+        "rank": 120,
         "score": 5,
-        "change_24h": -0.19
+        "change_24h": -4.55
       },
       {
-        "symbol": "ZEC",
-        "name": "Zcash",
-        "rank": 9,
+        "symbol": "PUMP",
+        "name": "Pump.fun",
+        "rank": 52,
         "score": 6,
-        "change_24h": -1.29
+        "change_24h": -6.62
       }
     ]
   },
@@ -548,30 +554,20 @@
         "color": "yellow"
       },
       {
+        "title": "Jim Cramer questions Anthropic CEO's slowdown manifesto and puts forth an action plan",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/13/cramer-questions-anthropic-ceos-slowdown-manifesto-puts-forth-an-action-plan.html",
+        "published": "Sun, 13 Sep 2026 23:47:14 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
         "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
         "published": "Sun, 13 Sep 2026 16:38:45 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "China's Xi urges BRICS nations to work towards peace in the Middle East",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
-        "published": "Sun, 13 Sep 2026 09:41:53 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-        "published": "Sun, 13 Sep 2026 11:53:35 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -592,6 +588,16 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
         "published": "Fri, 11 Sep 2026 22:42:14 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "China's Xi urges BRICS nations to work towards peace in the Middle East",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
+        "published": "Sun, 13 Sep 2026 09:41:53 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -649,39 +655,39 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.133,
+      "score": -0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-        "volume_24h": 2100501,
-        "yes_price": 0.21,
+        "volume_24h": 2205511,
+        "yes_price": 0.2,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_24h": 1517243,
-        "yes_price": 0.78,
+        "volume_24h": 1549303,
+        "yes_price": 0.79,
         "category": "finance"
       },
       {
         "title": "Putin out as President of Russia by December 31, 2026?",
-        "volume_24h": 380917,
+        "volume_24h": 381279,
         "yes_price": 0.06,
         "category": "finance"
       },
       {
         "title": "Will Marco Rubio win the 2028 US Presidential Election?",
-        "volume_24h": 155297,
+        "volume_24h": 153339,
         "yes_price": 0.11,
         "category": "finance"
       },
       {
         "title": "Will OpenAI not IPO by December 31, 2026?",
-        "volume_24h": 149284,
-        "yes_price": 0.92,
+        "volume_24h": 152565,
+        "yes_price": 0.95,
         "category": "finance"
       },
       {
@@ -692,14 +698,14 @@
       },
       {
         "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_24h": 112731,
+        "volume_24h": 124468,
         "yes_price": 0.47,
         "category": "finance"
       },
       {
         "title": "Will the Republicans win the Texas Senate race in 2026?",
-        "volume_24h": 100550,
-        "yes_price": 0.52,
+        "volume_24h": 115792,
+        "yes_price": 0.49,
         "category": "finance"
       }
     ],
@@ -713,8 +719,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
