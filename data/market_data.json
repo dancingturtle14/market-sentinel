@@ -1,98 +1,98 @@
 {
-  "updated_at": "2026-09-19T19:15:57Z",
+  "updated_at": "2026-09-19T21:39:56Z",
   "crypto": {
     "fear_greed": {
-      "value": 71,
-      "label": "Greed",
-      "previous_value": 56,
-      "previous_label": "Greed"
+      "value": 50,
+      "label": "Neutral",
+      "previous_value": 50,
+      "previous_label": "Neutral"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 81374,
-        "change_24h": 0.23,
-        "market_cap": 1634537530585,
-        "volume_24h": 26040381053
+        "price_usd": 80933,
+        "change_24h": -0.32,
+        "market_cap": 1625664208399,
+        "volume_24h": 24462966146
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2635.1,
-        "change_24h": 0.32,
-        "market_cap": 321645100345,
-        "volume_24h": 13137339567
+        "price_usd": 2621.15,
+        "change_24h": -0.4,
+        "market_cap": 319942091363,
+        "volume_24h": 11776475717
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 762.93,
-        "change_24h": -0.54,
-        "market_cap": 101591574850,
-        "volume_24h": 1012187813
+        "price_usd": 758.1,
+        "change_24h": -0.85,
+        "market_cap": 100948448045,
+        "volume_24h": 984964383
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.43,
-        "change_24h": 2.06,
-        "market_cap": 89830955426,
-        "volume_24h": 3379284358
+        "price_usd": 1.41,
+        "change_24h": 0.35,
+        "market_cap": 88441150988,
+        "volume_24h": 3340731798
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 111.01,
-        "change_24h": -1.73,
-        "market_cap": 65202931991,
-        "volume_24h": 3380995864
+        "price_usd": 110.28,
+        "change_24h": -2.71,
+        "market_cap": 64774224461,
+        "volume_24h": 3106906237
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.089647,
-        "change_24h": 2.1,
-        "market_cap": 13983498079,
-        "volume_24h": 997824947
+        "price_usd": 0.087104,
+        "change_24h": -1.32,
+        "market_cap": 13586901456,
+        "volume_24h": 1002817418
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 12.53,
-        "change_24h": 1.89,
-        "market_cap": 9371349807,
-        "volume_24h": 458834505
+        "price_usd": 12.31,
+        "change_24h": -0.71,
+        "market_cap": 9206633457,
+        "volume_24h": 447818019
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.229574,
-        "change_24h": 3.21,
-        "market_cap": 8614290410,
-        "volume_24h": 596108349
+        "price_usd": 0.226228,
+        "change_24h": 0.56,
+        "market_cap": 8488746173,
+        "volume_24h": 585935350
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.71,
-        "change_24h": 17.04,
-        "market_cap": 4301236495,
-        "volume_24h": 811754081
+        "price_usd": 9.6,
+        "change_24h": 15.98,
+        "market_cap": 4253433884,
+        "volume_24h": 895462485
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 5,
-        "price_usd": 81374,
-        "change_24h": 0.23
+        "mentions": 6,
+        "price_usd": 80933,
+        "change_24h": -0.32
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 2635.1,
-        "change_24h": 0.32
+        "price_usd": 2621.15,
+        "change_24h": -0.4
       },
       {
         "symbol": "LTC",
@@ -103,44 +103,44 @@
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 111.01,
-        "change_24h": -1.73
+        "price_usd": 110.28,
+        "change_24h": -2.71
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 762.93,
-        "change_24h": -0.54
+        "price_usd": 758.1,
+        "change_24h": -0.85
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.43,
-        "change_24h": 2.06
+        "price_usd": 1.41,
+        "change_24h": 0.35
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.229574,
-        "change_24h": 3.21
+        "price_usd": 0.226228,
+        "change_24h": 0.56
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.089647,
-        "change_24h": 2.1
+        "price_usd": 0.087104,
+        "change_24h": -1.32
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.71,
-        "change_24h": 17.04
+        "price_usd": 9.6,
+        "change_24h": 15.98
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 12.53,
-        "change_24h": 1.89
+        "price_usd": 12.31,
+        "change_24h": -0.71
       }
     ],
     "news": [
@@ -249,6 +249,18 @@
         "color": "yellow"
       },
       {
+        "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 19 Sep 2026 19:14:38 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -287,16 +299,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 18 Sep 2026 21:00:00 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -307,14 +309,14 @@
     "polymarket": [
       {
         "title": "Will Bitcoin reach $85,000 in September?",
-        "volume_24h": 115944,
-        "yes_price": 0.49,
+        "volume_24h": 97299,
+        "yes_price": 0.46,
         "category": "crypto"
       },
       {
         "title": "Will Ethereum reach $3,200 in September?",
-        "volume_24h": 76277,
-        "yes_price": 0.07,
+        "volume_24h": 76971,
+        "yes_price": 0.08,
         "category": "crypto"
       }
     ],
@@ -326,7 +328,7 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 5,
+          "BTC": 6,
           "ETH": 1,
           "LTC": 1,
           "SOL": 0,
@@ -353,66 +355,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 140,
+      "active_threads": 139,
       "mentions": {
         "BTC": 19,
         "XRP": 11,
         "ETH": 3
       },
-      "bullish_hits": 74,
-      "bearish_hits": 58,
-      "bullish_pct": 56,
+      "bullish_hits": 71,
+      "bearish_hits": 59,
+      "bullish_pct": 55,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "ZFORGE",
-        "name": "ZECFORGE.tech",
-        "rank": 759,
-        "score": 0,
-        "change_24h": 4190.99
-      },
-      {
         "symbol": "FIRO",
         "name": "Firo",
-        "rank": 802,
+        "rank": 806,
+        "score": 0,
+        "change_24h": 3.68
+      },
+      {
+        "symbol": "TRUMP",
+        "name": "Official Trump",
+        "rank": 102,
         "score": 1,
-        "change_24h": 11.84
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 108,
-        "score": 2,
-        "change_24h": 4.62
-      },
-      {
-        "symbol": "ZEC",
-        "name": "Zcash",
-        "rank": 9,
-        "score": 3,
-        "change_24h": 0.97
+        "change_24h": -1.26
       },
       {
         "symbol": "PONS",
         "name": "Pons",
-        "rank": 126,
-        "score": 4,
-        "change_24h": -14.61
+        "rank": 125,
+        "score": 2,
+        "change_24h": -16.27
+      },
+      {
+        "symbol": "ENA",
+        "name": "Ethena",
+        "rank": 49,
+        "score": 3,
+        "change_24h": 17.89
       },
       {
         "symbol": "ZAMA",
         "name": "Zama",
-        "rank": 175,
+        "rank": 183,
+        "score": 4,
+        "change_24h": 35.22
+      },
+      {
+        "symbol": "STONK",
+        "name": "STONK",
+        "rank": 159,
         "score": 5,
-        "change_24h": 47.26
+        "change_24h": 29.87
       },
       {
         "symbol": "NEAR",
         "name": "NEAR Protocol",
         "rank": 24,
         "score": 6,
-        "change_24h": -5.3
+        "change_24h": -3.54
       }
     ]
   },
@@ -655,49 +657,49 @@
     "polymarket": [
       {
         "title": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-        "volume_24h": 2284759,
+        "volume_24h": 2403056,
         "yes_price": 0.81,
         "category": "finance"
       },
       {
-        "title": "Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election?",
-        "volume_24h": 527610,
-        "yes_price": 0.02,
-        "category": "finance"
-      },
-      {
         "title": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
-        "volume_24h": 490343,
+        "volume_24h": 558613,
         "yes_price": 0.18,
         "category": "finance"
       },
       {
         "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-        "volume_24h": 173733,
+        "volume_24h": 173396,
         "yes_price": 0.91,
         "category": "finance"
       },
       {
+        "title": "US x Iran ceasefire continues through September 30?",
+        "volume_24h": 165437,
+        "yes_price": 0.73,
+        "category": "finance"
+      },
+      {
         "title": "Trump x Greenland deal signed by December 31?",
-        "volume_24h": 162465,
+        "volume_24h": 144017,
         "yes_price": 0.96,
         "category": "finance"
       },
       {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 133362,
-        "yes_price": 0.15,
+        "title": "US x Iran ceasefire continues through October 31?",
+        "volume_24h": 120432,
+        "yes_price": 0.48,
         "category": "finance"
       },
       {
-        "title": "US x Iran ceasefire continues through September 30?",
-        "volume_24h": 118976,
-        "yes_price": 0.81,
+        "title": "US x Iran ceasefire continues through September 20?",
+        "volume_24h": 108001,
+        "yes_price": 0.93,
         "category": "finance"
       },
       {
         "title": "Xi Jinping out before 2027?",
-        "volume_24h": 98519,
+        "volume_24h": 103745,
         "yes_price": 0.04,
         "category": "finance"
       }
