@@ -1,98 +1,98 @@
 {
-  "updated_at": "2026-09-19T21:39:56Z",
+  "updated_at": "2026-09-20T00:01:26Z",
   "crypto": {
     "fear_greed": {
-      "value": 50,
-      "label": "Neutral",
-      "previous_value": 50,
-      "previous_label": "Neutral"
+      "value": 71,
+      "label": "Greed",
+      "previous_value": 71,
+      "previous_label": "Greed"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 80933,
-        "change_24h": -0.32,
-        "market_cap": 1625664208399,
-        "volume_24h": 24462966146
+        "price_usd": 81244,
+        "change_24h": 0.46,
+        "market_cap": 1632149926191,
+        "volume_24h": 24016834511
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2621.15,
-        "change_24h": -0.4,
-        "market_cap": 319942091363,
-        "volume_24h": 11776475717
+        "price_usd": 2632.16,
+        "change_24h": 0.79,
+        "market_cap": 321314870788,
+        "volume_24h": 11039601528
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 758.1,
-        "change_24h": -0.85,
-        "market_cap": 100948448045,
-        "volume_24h": 984964383
+        "price_usd": 761.8,
+        "change_24h": 0.09,
+        "market_cap": 101450276688,
+        "volume_24h": 968264939
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.41,
-        "change_24h": 0.35,
-        "market_cap": 88441150988,
-        "volume_24h": 3340731798
+        "change_24h": 1.04,
+        "market_cap": 88702807016,
+        "volume_24h": 3359012202
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 110.28,
-        "change_24h": -2.71,
-        "market_cap": 64774224461,
-        "volume_24h": 3106906237
+        "price_usd": 111.0,
+        "change_24h": -1.51,
+        "market_cap": 65205800716,
+        "volume_24h": 3009037919
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.087104,
-        "change_24h": -1.32,
-        "market_cap": 13586901456,
-        "volume_24h": 1002817418
+        "price_usd": 0.087729,
+        "change_24h": 0.33,
+        "market_cap": 13683928310,
+        "volume_24h": 1011977894
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 12.31,
-        "change_24h": -0.71,
-        "market_cap": 9206633457,
-        "volume_24h": 447818019
+        "price_usd": 12.42,
+        "change_24h": 1.64,
+        "market_cap": 9295706722,
+        "volume_24h": 452635468
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.226228,
-        "change_24h": 0.56,
-        "market_cap": 8488746173,
-        "volume_24h": 585935350
+        "price_usd": 0.227702,
+        "change_24h": 1.44,
+        "market_cap": 8547238288,
+        "volume_24h": 562389450
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.6,
-        "change_24h": 15.98,
-        "market_cap": 4253433884,
-        "volume_24h": 895462485
+        "price_usd": 10.09,
+        "change_24h": 23.04,
+        "market_cap": 4470162383,
+        "volume_24h": 983228549
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 6,
-        "price_usd": 80933,
-        "change_24h": -0.32
+        "price_usd": 81244,
+        "change_24h": 0.46
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 2621.15,
-        "change_24h": -0.4
+        "price_usd": 2632.16,
+        "change_24h": 0.79
       },
       {
         "symbol": "LTC",
@@ -103,44 +103,44 @@
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 110.28,
-        "change_24h": -2.71
+        "price_usd": 111.0,
+        "change_24h": -1.51
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 758.1,
-        "change_24h": -0.85
+        "price_usd": 761.8,
+        "change_24h": 0.09
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.41,
-        "change_24h": 0.35
+        "change_24h": 1.04
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.226228,
-        "change_24h": 0.56
+        "price_usd": 0.227702,
+        "change_24h": 1.44
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.087104,
-        "change_24h": -1.32
+        "price_usd": 0.087729,
+        "change_24h": 0.33
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.6,
-        "change_24h": 15.98
+        "price_usd": 10.09,
+        "change_24h": 23.04
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 12.31,
-        "change_24h": -0.71
+        "price_usd": 12.42,
+        "change_24h": 1.64
       }
     ],
     "news": [
@@ -309,14 +309,8 @@
     "polymarket": [
       {
         "title": "Will Bitcoin reach $85,000 in September?",
-        "volume_24h": 97299,
-        "yes_price": 0.46,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Ethereum reach $3,200 in September?",
-        "volume_24h": 76971,
-        "yes_price": 0.08,
+        "volume_24h": 97722,
+        "yes_price": 0.47,
         "category": "crypto"
       }
     ],
@@ -355,66 +349,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 139,
+      "active_threads": 141,
       "mentions": {
         "BTC": 19,
         "XRP": 11,
         "ETH": 3
       },
-      "bullish_hits": 71,
+      "bullish_hits": 72,
       "bearish_hits": 59,
       "bullish_pct": 55,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "FIRO",
-        "name": "Firo",
-        "rank": 806,
-        "score": 0,
-        "change_24h": 3.68
-      },
-      {
         "symbol": "TRUMP",
         "name": "Official Trump",
         "rank": 102,
+        "score": 0,
+        "change_24h": 0.83
+      },
+      {
+        "symbol": "FIRO",
+        "name": "Firo",
+        "rank": 813,
         "score": 1,
-        "change_24h": -1.26
+        "change_24h": 1.67
       },
       {
-        "symbol": "PONS",
-        "name": "Pons",
-        "rank": 125,
+        "symbol": "DRV",
+        "name": "Derive",
+        "rank": 120,
         "score": 2,
-        "change_24h": -16.27
-      },
-      {
-        "symbol": "ENA",
-        "name": "Ethena",
-        "rank": 49,
-        "score": 3,
-        "change_24h": 17.89
-      },
-      {
-        "symbol": "ZAMA",
-        "name": "Zama",
-        "rank": 183,
-        "score": 4,
-        "change_24h": 35.22
-      },
-      {
-        "symbol": "STONK",
-        "name": "STONK",
-        "rank": 159,
-        "score": 5,
-        "change_24h": 29.87
+        "change_24h": 48.5
       },
       {
         "symbol": "NEAR",
         "name": "NEAR Protocol",
         "rank": 24,
+        "score": 3,
+        "change_24h": -4.58
+      },
+      {
+        "symbol": "ENA",
+        "name": "Ethena",
+        "rank": 47,
+        "score": 4,
+        "change_24h": 21.5
+      },
+      {
+        "symbol": "STONK",
+        "name": "STONK",
+        "rank": 165,
+        "score": 5,
+        "change_24h": 20.22
+      },
+      {
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "rank": 9,
         "score": 6,
-        "change_24h": -3.54
+        "change_24h": -5.86
       }
     ]
   },
@@ -527,16 +521,6 @@
         "color": "yellow"
       },
       {
-        "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
-        "published": "Sat, 19 Sep 2026 19:08:27 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
@@ -593,6 +577,16 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
         "published": "Sat, 19 Sep 2026 14:10:02 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "A new arms race is unfolding on the ocean floor",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
+        "published": "Sat, 19 Sep 2026 05:00:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -657,50 +651,50 @@
     "polymarket": [
       {
         "title": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-        "volume_24h": 2403056,
+        "volume_24h": 2515513,
         "yes_price": 0.81,
         "category": "finance"
       },
       {
         "title": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
-        "volume_24h": 558613,
+        "volume_24h": 609472,
         "yes_price": 0.18,
         "category": "finance"
       },
       {
+        "title": "US x Iran ceasefire continues through September 30?",
+        "volume_24h": 180414,
+        "yes_price": 0.64,
+        "category": "finance"
+      },
+      {
         "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-        "volume_24h": 173396,
+        "volume_24h": 171649,
         "yes_price": 0.91,
         "category": "finance"
       },
       {
-        "title": "US x Iran ceasefire continues through September 30?",
-        "volume_24h": 165437,
-        "yes_price": 0.73,
-        "category": "finance"
-      },
-      {
-        "title": "Trump x Greenland deal signed by December 31?",
-        "volume_24h": 144017,
-        "yes_price": 0.96,
-        "category": "finance"
-      },
-      {
         "title": "US x Iran ceasefire continues through October 31?",
-        "volume_24h": 120432,
-        "yes_price": 0.48,
-        "category": "finance"
-      },
-      {
-        "title": "US x Iran ceasefire continues through September 20?",
-        "volume_24h": 108001,
-        "yes_price": 0.93,
+        "volume_24h": 141638,
+        "yes_price": 0.39,
         "category": "finance"
       },
       {
         "title": "Xi Jinping out before 2027?",
-        "volume_24h": 103745,
+        "volume_24h": 125295,
         "yes_price": 0.04,
+        "category": "finance"
+      },
+      {
+        "title": "US x Iran ceasefire continues through September 20?",
+        "volume_24h": 125236,
+        "yes_price": 0.87,
+        "category": "finance"
+      },
+      {
+        "title": "US x Iran ceasefire continues through September 25?",
+        "volume_24h": 122062,
+        "yes_price": 0.72,
         "category": "finance"
       }
     ],
