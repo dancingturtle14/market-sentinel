@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-09-21T23:08:29Z",
+  "updated_at": "2026-09-22T01:45:57Z",
   "crypto": {
     "fear_greed": {
-      "value": 70,
-      "label": "Greed",
-      "previous_value": 71,
+      "value": 78,
+      "label": "Extreme Greed",
+      "previous_value": 70,
       "previous_label": "Greed"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 86574,
-        "change_24h": 6.68,
-        "market_cap": 1739079231276,
-        "volume_24h": 60654716807
+        "price_usd": 85661,
+        "change_24h": 5.17,
+        "market_cap": 1720898640516,
+        "volume_24h": 60599759054
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2785.53,
-        "change_24h": 5.77,
-        "market_cap": 340081287479,
-        "volume_24h": 27534479873
+        "price_usd": 2747.19,
+        "change_24h": 2.41,
+        "market_cap": 335395145868,
+        "volume_24h": 25716099766
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 802.84,
-        "change_24h": 3.87,
-        "market_cap": 106901516778,
-        "volume_24h": 1914668585
+        "price_usd": 788.07,
+        "change_24h": 0.58,
+        "market_cap": 105299758378,
+        "volume_24h": 1887923047
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.57,
-        "change_24h": 11.14,
-        "market_cap": 98534527885,
-        "volume_24h": 6223715983
+        "price_usd": 1.51,
+        "change_24h": 6.12,
+        "market_cap": 95051004088,
+        "volume_24h": 6124286473
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 119.8,
-        "change_24h": 8.23,
-        "market_cap": 70388444921,
-        "volume_24h": 6898080515
+        "price_usd": 117.53,
+        "change_24h": 4.65,
+        "market_cap": 69050709415,
+        "volume_24h": 6654123902
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.101251,
-        "change_24h": 15.82,
-        "market_cap": 15790458025,
-        "volume_24h": 2772748017
+        "price_usd": 0.099216,
+        "change_24h": 11.74,
+        "market_cap": 15491142961,
+        "volume_24h": 2862121424
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 13.26,
-        "change_24h": 6.32,
-        "market_cap": 9914704480,
-        "volume_24h": 755251573
+        "price_usd": 12.99,
+        "change_24h": 2.31,
+        "market_cap": 9720366755,
+        "volume_24h": 732371390
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.247188,
-        "change_24h": 8.3,
-        "market_cap": 9267430218,
-        "volume_24h": 822761983
+        "price_usd": 0.245023,
+        "change_24h": 6.25,
+        "market_cap": 9199600649,
+        "volume_24h": 831499130
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 11.27,
-        "change_24h": 0.22,
-        "market_cap": 4989744565,
-        "volume_24h": 1098831734
+        "price_usd": 11.12,
+        "change_24h": -1.73,
+        "market_cap": 4922627208,
+        "volume_24h": 968804417
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 5,
-        "price_usd": 86574,
-        "change_24h": 6.68
+        "price_usd": 85661,
+        "change_24h": 5.17
       },
       {
         "symbol": "DOGE",
         "mentions": 1,
-        "price_usd": 0.101251,
-        "change_24h": 15.82
+        "price_usd": 0.099216,
+        "change_24h": 11.74
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 2785.53,
-        "change_24h": 5.77
+        "price_usd": 2747.19,
+        "change_24h": 2.41
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 119.8,
-        "change_24h": 8.23
+        "price_usd": 117.53,
+        "change_24h": 4.65
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 802.84,
-        "change_24h": 3.87
+        "price_usd": 788.07,
+        "change_24h": 0.58
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.57,
-        "change_24h": 11.14
+        "price_usd": 1.51,
+        "change_24h": 6.12
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.247188,
-        "change_24h": 8.3
+        "price_usd": 0.245023,
+        "change_24h": 6.25
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 11.27,
-        "change_24h": 0.22
+        "price_usd": 11.12,
+        "change_24h": -1.73
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 13.26,
-        "change_24h": 6.32
+        "price_usd": 12.99,
+        "change_24h": 2.31
       },
       {
         "symbol": "TON",
@@ -313,26 +313,26 @@
     "polymarket": [
       {
         "title": "Will Ethereum dip to $2,250 by December 31, 2026?",
-        "volume_24h": 268951,
-        "yes_price": 0.24,
+        "volume_24h": 424255,
+        "yes_price": 0.27,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $87,500 in September?",
-        "volume_24h": 221463,
-        "yes_price": 0.81,
+        "volume_24h": 230455,
+        "yes_price": 0.69,
         "category": "crypto"
       },
       {
         "title": "Will Ethereum reach $3,200 in September?",
-        "volume_24h": 217428,
-        "yes_price": 0.09,
+        "volume_24h": 214804,
+        "yes_price": 0.06,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $90,000 in September?",
-        "volume_24h": 177313,
-        "yes_price": 0.5,
+        "volume_24h": 178885,
+        "yes_price": 0.41,
         "category": "crypto"
       },
       {
@@ -343,20 +343,20 @@
       },
       {
         "title": "Will Bitcoin reach $100,000 in September?",
-        "volume_24h": 159960,
-        "yes_price": 0.04,
+        "volume_24h": 161994,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-        "volume_24h": 145976,
+        "volume_24h": 145626,
         "yes_price": 0.05,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin reach $97,500 in September?",
-        "volume_24h": 94869,
-        "yes_price": 0.06,
+        "title": "Will Bitcoin reach $90,000 by December 31, 2026?",
+        "volume_24h": 126315,
+        "yes_price": 0.8,
         "category": "crypto"
       }
     ],
@@ -395,66 +395,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 111,
+      "active_threads": 124,
       "mentions": {
-        "BTC": 16,
+        "BTC": 17,
         "XRP": 5,
         "ETH": 3
       },
       "bullish_hits": 82,
-      "bearish_hits": 40,
-      "bullish_pct": 67,
+      "bearish_hits": 38,
+      "bullish_pct": 68,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
+        "symbol": "EDEL",
+        "name": "Edel",
+        "rank": 887,
+        "score": 0,
+        "change_24h": 5.7
+      },
+      {
         "symbol": "TRUMP",
         "name": "Official Trump",
         "rank": 100,
-        "score": 0,
-        "change_24h": 5.74
+        "score": 1,
+        "change_24h": 4.83
       },
       {
         "symbol": "FIRO",
         "name": "Firo",
         "rank": 834,
-        "score": 1,
-        "change_24h": 8.16
+        "score": 2,
+        "change_24h": 3.8
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 105,
-        "score": 2,
-        "change_24h": 11.39
-      },
-      {
-        "symbol": "EDEL",
-        "name": "Edel",
-        "rank": 892,
         "score": 3,
-        "change_24h": 8.6
-      },
-      {
-        "symbol": "STONK",
-        "name": "STONK",
-        "rank": 149,
-        "score": 4,
-        "change_24h": 5.37
+        "change_24h": 9.18
       },
       {
         "symbol": "TAO",
         "name": "Bittensor",
-        "rank": 34,
-        "score": 5,
-        "change_24h": 18.79
+        "rank": 33,
+        "score": 4,
+        "change_24h": 18.25
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
+        "score": 5,
+        "change_24h": 5.3
+      },
+      {
+        "symbol": "TRUE",
+        "name": "True",
+        "rank": 971,
         "score": 6,
-        "change_24h": 6.39
+        "change_24h": 964.77
       }
     ]
   },
@@ -515,8 +515,8 @@
       },
       {
         "symbol": "META",
-        "price_usd": 741.24,
-        "change_24h": 11.34
+        "price_usd": 741.25,
+        "change_24h": 11.43
       },
       {
         "symbol": "AMD",
@@ -547,6 +547,26 @@
         "color": "yellow"
       },
       {
+        "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+        "published": "Tue, 22 Sep 2026 01:43:25 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+        "published": "Tue, 22 Sep 2026 01:30:01 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/21/stocks-had-a-great-day-on-the-surface-but-something-alarming-occurred-not-seen-since-1999.html",
@@ -565,6 +585,18 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+        "published": "Mon, 21 Sep 2026 23:03:57 GMT",
+        "assets": [
+          "META"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
@@ -587,45 +619,11 @@
         "color": "yellow"
       },
       {
-        "title": "Investors discover their new favorite consumer AI play in Meta. Options volume is surging",
+        "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/21/meta-investors-discover-new-ai-play.html",
-        "published": "Mon, 21 Sep 2026 20:13:33 GMT",
-        "assets": [
-          "META"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Retailer Revolve announces partnership with Donatella Versace",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/21/revolve-partnership-donatella-versace.html",
-        "published": "Mon, 21 Sep 2026 19:44:52 GMT",
+        "url": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
+        "published": "Mon, 21 Sep 2026 23:18:30 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
-        "published": "Mon, 21 Sep 2026 22:46:26 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
-        "published": "Sun, 20 Sep 2026 19:06:16 GMT",
-        "assets": [
-          "AMD"
-        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -696,57 +694,57 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
+      "score": -0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-        "volume_24h": 410782,
+        "volume_24h": 408978,
         "yes_price": 0.53,
         "category": "finance"
       },
       {
         "title": "2026 Balance of Power: R Senate, R House",
-        "volume_24h": 305222,
+        "volume_24h": 316996,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
-        "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
-        "volume_24h": 259980,
-        "yes_price": 0.6,
-        "category": "finance"
-      },
-      {
         "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_24h": 257538,
-        "yes_price": 0.4,
-        "category": "finance"
-      },
-      {
-        "title": "Will Xi Jinping visit US by September 23?",
-        "volume_24h": 216204,
-        "yes_price": 0.98,
+        "volume_24h": 295110,
+        "yes_price": 0.39,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 213209,
+        "volume_24h": 264754,
         "yes_price": 0.15,
         "category": "finance"
       },
       {
         "title": "NATO x Russia military clash by October 31, 2026?",
-        "volume_24h": 212392,
+        "volume_24h": 243251,
         "yes_price": 0.21,
         "category": "finance"
       },
       {
+        "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+        "volume_24h": 239667,
+        "yes_price": 0.6,
+        "category": "finance"
+      },
+      {
         "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-        "volume_24h": 200650,
+        "volume_24h": 154077,
         "yes_price": 0.47,
+        "category": "finance"
+      },
+      {
+        "title": "NATO x Russia military clash by December 31, 2026?",
+        "volume_24h": 149425,
+        "yes_price": 0.33,
         "category": "finance"
       }
     ],
@@ -760,8 +758,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 0 bullish vs 2 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
@@ -802,30 +800,30 @@
       "name": "Global X S&P 500 Covered Call",
       "type": "Covered Call Income",
       "price_usd": 41.63,
-      "change_1d": -0.22,
-      "change_1w": 0.29,
-      "change_1m": 0.73,
-      "high_3m": 41.72,
-      "low_3m": 39.52,
+      "change_1d": 0.5,
+      "change_1w": 1.01,
+      "change_1m": 1.45,
+      "high_3m": 41.63,
+      "low_3m": 39.24,
       "week52_high": 41.8,
       "week52_low": 38.22,
-      "rsi": 53.5,
+      "rsi": 60.0,
       "div_yield": 9.43,
       "last_div": null,
       "outlook": {
-        "label": "Mild Bullish",
+        "label": "Bullish",
         "color": "green",
-        "score": 2,
-        "bull_count": 2,
+        "score": 3,
+        "bull_count": 3,
         "bear_count": 0,
         "total": 5,
-        "confidence": "Low",
+        "confidence": "Medium",
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 53.5 — In neutral range (45–55)",
-          "5-day momentum +0.3% — consolidating sideways →",
-          "1-month return +0.7% — range-bound"
+          "RSI 60.0 — Above neutral, mild upward momentum ↑",
+          "5-day momentum +1.0% — consolidating sideways →",
+          "1-month return +1.4% — range-bound"
         ]
       }
     },
@@ -898,14 +896,14 @@
       "name": "Invesco Nasdaq 100",
       "type": "Growth",
       "price_usd": 305.27,
-      "change_1d": 2.82,
-      "change_1w": 4.54,
-      "change_1m": 4.26,
+      "change_1d": 2.92,
+      "change_1w": 4.65,
+      "change_1m": 4.37,
       "high_3m": 305.27,
-      "low_3m": 272.51,
+      "low_3m": 272.22,
       "week52_high": 308.21,
       "week52_low": 228.75,
-      "rsi": 64.5,
+      "rsi": 64.8,
       "div_yield": 44.0,
       "last_div": null,
       "outlook": {
@@ -919,9 +917,9 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 64.5 — Above neutral, mild upward momentum ↑",
-          "5-day momentum +4.5% — short-term buying pressure ↑",
-          "1-month return +4.3% — sustained uptrend ↑"
+          "RSI 64.8 — Above neutral, mild upward momentum ↑",
+          "5-day momentum +4.6% — short-term buying pressure ↑",
+          "1-month return +4.4% — sustained uptrend ↑"
         ]
       }
     }
