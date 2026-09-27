@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-09-26T23:49:33Z",
+  "updated_at": "2026-09-27T04:56:31Z",
   "crypto": {
     "fear_greed": {
-      "value": 74,
+      "value": 70,
       "label": "Greed",
-      "previous_value": 71,
+      "previous_value": 74,
       "previous_label": "Greed"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 84384,
-        "change_24h": 0.38,
-        "market_cap": 1695247009389,
-        "volume_24h": 18064919372
+        "price_usd": 84306,
+        "change_24h": 0.4,
+        "market_cap": 1693687404862,
+        "volume_24h": 17235953670
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2693.9,
-        "change_24h": 0.08,
-        "market_cap": 328872151364,
-        "volume_24h": 5877128046
+        "price_usd": 2691.84,
+        "change_24h": 0.09,
+        "market_cap": 328634278943,
+        "volume_24h": 6156520656
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 773.09,
-        "change_24h": -0.53,
-        "market_cap": 102941472551,
-        "volume_24h": 658623896
+        "price_usd": 770.69,
+        "change_24h": -0.42,
+        "market_cap": 102632145733,
+        "volume_24h": 648267176
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.53,
-        "change_24h": -2.55,
-        "market_cap": 96107775993,
-        "volume_24h": 2499957195
+        "price_usd": 1.51,
+        "change_24h": -3.2,
+        "market_cap": 94765336825,
+        "volume_24h": 2495126006
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 121.28,
-        "change_24h": -0.67,
-        "market_cap": 71267325193,
-        "volume_24h": 2956078982
+        "price_usd": 120.16,
+        "change_24h": -0.4,
+        "market_cap": 70623022602,
+        "volume_24h": 2798151295
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.096662,
-        "change_24h": -2.36,
-        "market_cap": 15084552122,
-        "volume_24h": 658840090
+        "price_usd": 0.095551,
+        "change_24h": -2.51,
+        "market_cap": 14915070186,
+        "volume_24h": 587935332
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 14.15,
-        "change_24h": 1.55,
-        "market_cap": 10579704880,
-        "volume_24h": 585951194
+        "price_usd": 14.04,
+        "change_24h": -0.77,
+        "market_cap": 10506474332,
+        "volume_24h": 533043930
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.253868,
-        "change_24h": -1.66,
-        "market_cap": 9529439884,
-        "volume_24h": 522944179
+        "price_usd": 0.250595,
+        "change_24h": -2.33,
+        "market_cap": 9408003837,
+        "volume_24h": 417387888
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 10.88,
-        "change_24h": 2.09,
-        "market_cap": 4819008750,
-        "volume_24h": 545884503
+        "price_usd": 10.68,
+        "change_24h": 0.19,
+        "market_cap": 4733624040,
+        "volume_24h": 484798551
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 6,
-        "price_usd": 84384,
-        "change_24h": 0.38
+        "price_usd": 84306,
+        "change_24h": 0.4
       },
       {
         "symbol": "ETH",
         "mentions": 3,
-        "price_usd": 2693.9,
-        "change_24h": 0.08
+        "price_usd": 2691.84,
+        "change_24h": 0.09
       },
       {
         "symbol": "ADA",
         "mentions": 1,
-        "price_usd": 0.253868,
-        "change_24h": -1.66
+        "price_usd": 0.250595,
+        "change_24h": -2.33
+      },
+      {
+        "symbol": "LTC",
+        "mentions": 1,
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 121.28,
-        "change_24h": -0.67
+        "price_usd": 120.16,
+        "change_24h": -0.4
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 773.09,
-        "change_24h": -0.53
+        "price_usd": 770.69,
+        "change_24h": -0.42
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.53,
-        "change_24h": -2.55
+        "price_usd": 1.51,
+        "change_24h": -3.2
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.096662,
-        "change_24h": -2.36
+        "price_usd": 0.095551,
+        "change_24h": -2.51
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 10.88,
-        "change_24h": 2.09
+        "price_usd": 10.68,
+        "change_24h": 0.19
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 14.15,
-        "change_24h": 1.55
-      },
-      {
-        "symbol": "TON",
-        "mentions": 0,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 14.04,
+        "change_24h": -0.77
       }
     ],
     "news": [
@@ -314,10 +314,29 @@
       "label": "Neutral",
       "color": "yellow"
     },
-    "polymarket": [],
+    "polymarket": [
+      {
+        "title": "Will Netherlands win on 2026-09-27?",
+        "volume_24h": 133185,
+        "yes_price": 0.69,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $82,000 September 21-27?",
+        "volume_24h": 69038,
+        "yes_price": 0.04,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be above $86,000 on September 27?",
+        "volume_24h": 66531,
+        "yes_price": 0.03,
+        "category": "crypto"
+      }
+    ],
     "polymarket_summary": {
       "outlook": "Mixed",
-      "summary": "Insufficient data to generate a summary."
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
     },
     "reddit": [
       {
@@ -326,17 +345,17 @@
           "BTC": 6,
           "ETH": 3,
           "ADA": 1,
+          "LTC": 1,
           "SOL": 0,
           "BNB": 0,
           "XRP": 0,
           "DOGE": 0,
           "AVAX": 0,
-          "LINK": 0,
-          "TON": 0
+          "LINK": 0
         },
         "activity_score": 100,
         "top_post": "Daily Crypto Discussion",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1wqgpej/daily_crypto_discussion/",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1wra8zv/daily_crypto_discussion/",
         "top_post_score": 0
       }
     ],
@@ -348,56 +367,68 @@
       "outlook": "Bullish",
       "summary": "Bullish: 3 bullish vs 0 bearish signals detected across crypto news data."
     },
-    "fourchain": {},
+    "fourchain": {
+      "thread_count": 201,
+      "active_threads": 143,
+      "mentions": {
+        "BTC": 23,
+        "XRP": 8,
+        "ETH": 5
+      },
+      "bullish_hits": 87,
+      "bearish_hits": 65,
+      "bullish_pct": 57,
+      "top_coin": "BTC"
+    },
     "cg_trending": [
       {
         "symbol": "QNT",
         "name": "Quant",
-        "rank": 50,
+        "rank": 40,
         "score": 0,
-        "change_24h": 49.43
+        "change_24h": 89.96
       },
       {
         "symbol": "EDEL",
         "name": "Edel",
-        "rank": 907,
+        "rank": 924,
         "score": 1,
-        "change_24h": 1.08
-      },
-      {
-        "symbol": "TRUMP",
-        "name": "Official Trump",
-        "rank": 103,
-        "score": 2,
-        "change_24h": -0.22
+        "change_24h": -4.7
       },
       {
         "symbol": "ZEC",
         "name": "Zcash",
         "rank": 9,
-        "score": 3,
-        "change_24h": 6.44
-      },
-      {
-        "symbol": "ONDO",
-        "name": "Ondo",
-        "rank": 42,
-        "score": 4,
-        "change_24h": -2.67
+        "score": 2,
+        "change_24h": 6.49
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
         "rank": 101,
-        "score": 5,
-        "change_24h": -3.76
+        "score": 3,
+        "change_24h": -4.49
+      },
+      {
+        "symbol": "ENA",
+        "name": "Ethena",
+        "rank": 41,
+        "score": 4,
+        "change_24h": -3.77
       },
       {
         "symbol": "NEAR",
         "name": "NEAR Protocol",
         "rank": 22,
+        "score": 5,
+        "change_24h": 3.48
+      },
+      {
+        "symbol": "PONS",
+        "name": "Pons",
+        "rank": 127,
         "score": 6,
-        "change_24h": -0.11
+        "change_24h": -5.1
       }
     ]
   },
@@ -480,10 +511,10 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+        "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-        "published": "Sat, 26 Sep 2026 13:30:06 GMT",
+        "url": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
+        "published": "Sat, 26 Sep 2026 17:10:32 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -502,30 +533,10 @@
         "color": "yellow"
       },
       {
-        "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
-        "published": "Sat, 26 Sep 2026 17:10:32 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
         "published": "Sat, 26 Sep 2026 21:55:01 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-        "published": "Sat, 26 Sep 2026 21:21:04 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -542,24 +553,44 @@
         "color": "yellow"
       },
       {
-        "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+        "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
-        "published": "Fri, 25 Sep 2026 21:38:38 GMT",
+        "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+        "published": "Sat, 26 Sep 2026 21:21:04 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "White House moves to block $810 million in funding through pocket rescission",
+        "title": "Berkshire adds to nearly doubled stake in slumping homebuilder",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
-        "published": "Sat, 26 Sep 2026 18:46:48 GMT",
+        "url": "https://www.cnbc.com/2026/09/26/berkshire-adds-to-nearly-doubled-stake-in-slumping-homebuilder.html",
+        "published": "Sat, 26 Sep 2026 13:14:15 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+        "published": "Sat, 26 Sep 2026 13:30:06 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
+        "published": "Thu, 24 Sep 2026 20:57:11 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
@@ -633,63 +664,63 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.2,
+      "score": -0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 801938,
-        "yes_price": 0.15,
-        "category": "finance"
-      },
-      {
         "title": "US x Iran ceasefire continues through September 30?",
-        "volume_24h": 550744,
+        "volume_24h": 545551,
         "yes_price": 0.85,
         "category": "finance"
       },
       {
-        "title": "US announces end of Iranian blockade by September 30, 2026?",
-        "volume_24h": 268037,
-        "yes_price": 0.04,
-        "category": "finance"
-      },
-      {
-        "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-        "volume_24h": 188709,
-        "yes_price": 0.34,
+        "title": "Will the U.S. invade Iran before 2027?",
+        "volume_24h": 221077,
+        "yes_price": 0.15,
         "category": "finance"
       },
       {
         "title": "2026 Balance of Power: R Senate, R House",
-        "volume_24h": 162399,
+        "volume_24h": 161608,
         "yes_price": 0.07,
+        "category": "finance"
+      },
+      {
+        "title": "US announces end of Iranian blockade by September 30, 2026?",
+        "volume_24h": 143616,
+        "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
-        "volume_24h": 138354,
+        "volume_24h": 139456,
         "yes_price": 0.58,
         "category": "finance"
       },
       {
+        "title": "US x Iran ceasefire continues through October 31?",
+        "volume_24h": 104675,
+        "yes_price": 0.49,
+        "category": "finance"
+      },
+      {
         "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_24h": 119846,
+        "volume_24h": 90035,
         "yes_price": 0.43,
         "category": "finance"
       },
       {
-        "title": "Kharg Island no longer under Iranian control by December 31?",
-        "volume_24h": 119496,
-        "yes_price": 0.07,
+        "title": "2026 Balance of Power: D Senate, D House",
+        "volume_24h": 73543,
+        "yes_price": 0.61,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 1 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
     },
     "reddit": [],
     "reddit_summary": {
@@ -697,8 +728,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock/finance news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 2 bullish vs 0 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
