@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T09:40:18Z",
+  "updated_at": "2026-10-10T15:48:58Z",
   "crypto": {
     "fear_greed": {
       "value": 64,
@@ -11,82 +11,88 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 82849,
-        "change_24h": 0.36,
-        "market_cap": 1664937023786,
-        "volume_24h": 22470904087
+        "price_usd": 82967,
+        "change_24h": 0.08,
+        "market_cap": 1667304923523,
+        "volume_24h": 17561202264
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2494.92,
-        "change_24h": -0.32,
-        "market_cap": 304685420857,
-        "volume_24h": 7295499132
+        "price_usd": 2507.97,
+        "change_24h": 0.78,
+        "market_cap": 306278308574,
+        "volume_24h": 5647999587
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 749.81,
-        "change_24h": 1.08,
-        "market_cap": 99843534114,
-        "volume_24h": 622670436
+        "price_usd": 750.56,
+        "change_24h": 1.43,
+        "market_cap": 99943594815,
+        "volume_24h": 518453944
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.41,
-        "change_24h": 0.69,
-        "market_cap": 88859596477,
-        "volume_24h": 1527862712
+        "change_24h": 1.85,
+        "market_cap": 88824428596,
+        "volume_24h": 1075821786
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 109.98,
-        "change_24h": -0.38,
-        "market_cap": 64753099007,
-        "volume_24h": 2276755024
+        "price_usd": 110.45,
+        "change_24h": 0.71,
+        "market_cap": 65033887688,
+        "volume_24h": 1793678868
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.086161,
-        "change_24h": 1.4,
-        "market_cap": 13463732293,
-        "volume_24h": 493896301
+        "price_usd": 0.086141,
+        "change_24h": 1.86,
+        "market_cap": 13461081518,
+        "volume_24h": 399338175
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 13.01,
-        "change_24h": 0.99,
-        "market_cap": 9973598979,
-        "volume_24h": 215657319
+        "price_usd": 13.12,
+        "change_24h": 2.43,
+        "market_cap": 10058389941,
+        "volume_24h": 215774352
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.25631,
-        "change_24h": 7.67,
-        "market_cap": 9623977252,
-        "volume_24h": 557576842
+        "price_usd": 0.254738,
+        "change_24h": 7.44,
+        "market_cap": 9564743065,
+        "volume_24h": 542076208
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 10.56,
-        "change_24h": 1.68,
-        "market_cap": 4679647912,
-        "volume_24h": 295653824
+        "price_usd": 10.52,
+        "change_24h": 3.33,
+        "market_cap": 4663382184,
+        "volume_24h": 256294093
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 6,
-        "price_usd": 82849,
-        "change_24h": 0.36
+        "price_usd": 82967,
+        "change_24h": 0.08
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 1,
+        "price_usd": 110.45,
+        "change_24h": 0.71
       },
       {
         "symbol": "LTC",
@@ -97,53 +103,83 @@
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 2494.92,
-        "change_24h": -0.32
-      },
-      {
-        "symbol": "SOL",
-        "mentions": 0,
-        "price_usd": 109.98,
-        "change_24h": -0.38
+        "price_usd": 2507.97,
+        "change_24h": 0.78
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 749.81,
-        "change_24h": 1.08
+        "price_usd": 750.56,
+        "change_24h": 1.43
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.41,
-        "change_24h": 0.69
+        "change_24h": 1.85
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.25631,
-        "change_24h": 7.67
+        "price_usd": 0.254738,
+        "change_24h": 7.44
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.086161,
-        "change_24h": 1.4
+        "price_usd": 0.086141,
+        "change_24h": 1.86
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 10.56,
-        "change_24h": 1.68
+        "price_usd": 10.52,
+        "change_24h": 3.33
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 13.01,
-        "change_24h": 0.99
+        "price_usd": 13.12,
+        "change_24h": 2.43
       }
     ],
     "news": [
+      {
+        "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+        "published": "Sat, 10 Oct 2026 12:00:00 +0000",
+        "assets": [
+          "BTC",
+          "ETH",
+          "LTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+        "published": "Sat, 10 Oct 2026 12:00:00 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+        "published": "Sat, 10 Oct 2026 11:00:00 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
       {
         "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
         "source": "CoinDesk",
@@ -219,30 +255,20 @@
         "color": "yellow"
       },
       {
-        "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
-        "published": "Fri, 09 Oct 2026 14:47:27 +0000",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 10 Oct 2026 12:30:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-        "published": "Fri, 09 Oct 2026 12:23:54 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-        "published": "Fri, 09 Oct 2026 11:39:05 +0000",
+        "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 10 Oct 2026 11:52:14 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -281,85 +307,26 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 09 Oct 2026 20:14:02 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 09 Oct 2026 19:04:03 +0000",
-        "assets": [
-          "ETH"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.2,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": -0.333,
+      "label": "Bearish",
+      "color": "red"
     },
-    "polymarket": [
-      {
-        "title": "Will the price of Bitcoin be above $84,000 on October 10?",
-        "volume_24h": 114666,
-        "yes_price": 0.03,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $65,000 in October?",
-        "volume_24h": 76561,
-        "yes_price": 0.02,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $80,000 October 5-11?",
-        "volume_24h": 67165,
-        "yes_price": 0.02,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-        "volume_24h": 64850,
-        "yes_price": 0.1,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the price of Bitcoin be above $82,000 on October 10?",
-        "volume_24h": 58348,
-        "yes_price": 0.98,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $62,500 in October?",
-        "volume_24h": 54940,
-        "yes_price": 0.02,
-        "category": "crypto"
-      }
-    ],
+    "polymarket": [],
     "polymarket_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
+      "summary": "Insufficient data to generate a summary."
     },
     "reddit": [
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 6,
+          "SOL": 1,
           "LTC": 1,
           "ETH": 0,
-          "SOL": 0,
           "BNB": 0,
           "XRP": 0,
           "ADA": 0,
@@ -379,70 +346,70 @@
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 4 bearish signals detected across crypto news data."
+      "summary": "Bearish: 0 bullish vs 6 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 144,
+      "active_threads": 136,
       "mentions": {
         "XRP": 23,
-        "BTC": 11,
+        "BTC": 12,
         "ETH": 5
       },
-      "bullish_hits": 109,
-      "bearish_hits": 80,
-      "bullish_pct": 58,
+      "bullish_hits": 106,
+      "bearish_hits": 63,
+      "bullish_pct": 63,
       "top_coin": "XRP"
     },
     "cg_trending": [
       {
-        "symbol": "SWARM",
-        "name": "SWARM ENGINE",
-        "rank": 938,
+        "symbol": "STRK",
+        "name": "Starknet",
+        "rank": 101,
         "score": 0,
-        "change_24h": 6.45
+        "change_24h": 17.77
       },
       {
         "symbol": "NEAR",
         "name": "NEAR Protocol",
         "rank": 20,
         "score": 1,
-        "change_24h": 10.32
+        "change_24h": 13.15
       },
       {
-        "symbol": "ZEC",
-        "name": "Zcash",
-        "rank": 10,
+        "symbol": "SWARM",
+        "name": "SWARM ENGINE",
+        "rank": 930,
         "score": 2,
-        "change_24h": -0.3
-      },
-      {
-        "symbol": "LUMIA",
-        "name": "Lumia",
-        "rank": 751,
-        "score": 3,
-        "change_24h": 34.83
+        "change_24h": 35.87
       },
       {
         "symbol": "DRV",
         "name": "Derive",
-        "rank": 110,
-        "score": 4,
-        "change_24h": 20.56
-      },
-      {
-        "symbol": "STRK",
-        "name": "Starknet",
-        "rank": 116,
-        "score": 5,
-        "change_24h": -3.71
+        "rank": 111,
+        "score": 3,
+        "change_24h": -3.12
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
+        "rank": 116,
+        "score": 4,
+        "change_24h": 3.54
+      },
+      {
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 11,
+        "score": 5,
+        "change_24h": 0.96
+      },
+      {
+        "symbol": "TRUMP",
+        "name": "Official Trump",
         "rank": 114,
         "score": 6,
-        "change_24h": 3.47
+        "change_24h": 2.58
       }
     ]
   },
@@ -525,6 +492,30 @@
     "top_mentioned": [],
     "news": [
       {
+        "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+        "published": "Sat, 10 Oct 2026 14:22:23 GMT",
+        "assets": [
+          "MSFT"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+        "published": "Sat, 10 Oct 2026 11:00:01 GMT",
+        "assets": [
+          "NVDA"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
@@ -535,66 +526,54 @@
         "color": "yellow"
       },
       {
-        "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
+        "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
-        "published": "Sat, 10 Oct 2026 05:00:01 GMT",
+        "url": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+        "published": "Sat, 10 Oct 2026 13:42:36 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
+        "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
-        "published": "Sat, 10 Oct 2026 05:00:01 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-        "published": "Fri, 09 Oct 2026 19:18:24 GMT",
+        "url": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
+        "published": "Sat, 10 Oct 2026 13:00:01 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+        "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
-        "published": "Fri, 09 Oct 2026 19:25:28 GMT",
+        "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+        "published": "Sat, 10 Oct 2026 15:00:01 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
-        "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+        "title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
-        "published": "Fri, 09 Oct 2026 20:51:25 GMT",
+        "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+        "published": "Sat, 10 Oct 2026 12:00:01 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Buffett's 'trips down YouTube rabbit hole' revealed",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/10/buffetts-trips-down-youtube-rabbit-hole-revealed.html",
+        "published": "Sat, 10 Oct 2026 12:01:16 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
-        "published": "Fri, 09 Oct 2026 18:50:21 GMT",
-        "assets": [
-          "NVDA"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
@@ -607,128 +586,118 @@
         "color": "yellow"
       },
       {
-        "title": "Nobel winner Krugman says France may have become 'too big to save'",
+        "title": "Pokémon card values are soaring. What collectors should know before buying or selling",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html",
-        "published": "Fri, 09 Oct 2026 11:33:48 GMT",
+        "url": "https://www.cnbc.com/2026/10/10/pokemon-card-values-grading-guide.html",
+        "published": "Sat, 10 Oct 2026 13:30:02 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
-        "published": "Fri, 09 Oct 2026 22:22:35 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-        "published": "Sat, 10 Oct 2026 03:15:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 0.333,
+        "color": "green"
       },
       {
         "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-        "published": "Sat, 10 Oct 2026 00:15:00 GMT",
+        "published": "Sat, 10 Oct 2026 15:30:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+        "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-        "published": "Fri, 09 Oct 2026 23:15:00 GMT",
+        "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+        "published": "Sat, 10 Oct 2026 15:05:00 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
-        "title": "How to provide guaranteed retirement income while paying no commissions",
+        "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
-        "published": "Fri, 09 Oct 2026 22:41:00 GMT",
+        "url": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
+        "published": "Sat, 10 Oct 2026 13:19:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+        "published": "Sat, 10 Oct 2026 13:15:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+        "published": "Sat, 10 Oct 2026 13:15:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
-        "published": "Fri, 09 Oct 2026 22:00:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": -0.133,
+      "score": -0.111,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_24h": 898265,
+        "volume_24h": 867232,
         "yes_price": 0.12,
         "category": "finance"
       },
       {
         "title": "US x Iran ceasefire continues through October 12?",
-        "volume_24h": 713550,
-        "yes_price": 0.96,
+        "volume_24h": 567213,
+        "yes_price": 0.95,
         "category": "finance"
       },
       {
         "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
-        "volume_24h": 441392,
+        "volume_24h": 368791,
         "yes_price": 0.88,
         "category": "finance"
       },
       {
-        "title": "US x Iran ceasefire continues through October 15?",
-        "volume_24h": 307250,
-        "yes_price": 0.92,
+        "title": "US x Iran ceasefire continues through October 31?",
+        "volume_24h": 287126,
+        "yes_price": 0.79,
         "category": "finance"
       },
       {
         "title": "Will the Republican Party control the House after the 2026 Midterm elections?",
-        "volume_24h": 296164,
+        "volume_24h": 277968,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
+        "title": "US x Iran ceasefire continues through October 15?",
+        "volume_24h": 256192,
+        "yes_price": 0.92,
+        "category": "finance"
+      },
+      {
         "title": "Will the Republicans win the Texas Senate race in 2026?",
-        "volume_24h": 230230,
+        "volume_24h": 229751,
         "yes_price": 0.38,
         "category": "finance"
       },
       {
-        "title": "US announces end of Iranian blockade by October 15, 2026?",
-        "volume_24h": 202227,
-        "yes_price": 0.06,
-        "category": "finance"
-      },
-      {
-        "title": "US x Iran ceasefire continues through October 31?",
-        "volume_24h": 195627,
-        "yes_price": 0.76,
+        "title": "2026 Balance of Power: R Senate, R House",
+        "volume_24h": 209661,
+        "yes_price": 0.09,
         "category": "finance"
       }
     ],
@@ -742,8 +711,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
