@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-10-13T23:02:30Z",
+  "updated_at": "2026-10-14T02:06:22Z",
   "crypto": {
     "fear_greed": {
-      "value": 57,
+      "value": 62,
       "label": "Greed",
-      "previous_value": 69,
+      "previous_value": 57,
       "previous_label": "Greed"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 83437,
-        "change_24h": 1.61,
-        "market_cap": 1677261601395,
-        "volume_24h": 32213021485
+        "price_usd": 83329,
+        "change_24h": 1.12,
+        "market_cap": 1674759616759,
+        "volume_24h": 29192199368
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2508.09,
-        "change_24h": 1.65,
-        "market_cap": 306395259894,
-        "volume_24h": 13503022347
+        "price_usd": 2507.0,
+        "change_24h": 1.82,
+        "market_cap": 306200372079,
+        "volume_24h": 10936947879
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 742.46,
-        "change_24h": 0.57,
-        "market_cap": 98874235345,
-        "volume_24h": 767329881
+        "price_usd": 743.29,
+        "change_24h": 1.01,
+        "market_cap": 98982876526,
+        "volume_24h": 631373873
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.37,
-        "change_24h": 1.63,
-        "market_cap": 86486111422,
-        "volume_24h": 2115841938
+        "change_24h": 1.25,
+        "market_cap": 86528492610,
+        "volume_24h": 1728559314
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 106.88,
-        "change_24h": 0.55,
-        "market_cap": 62978822414,
-        "volume_24h": 3916353298
+        "price_usd": 107.55,
+        "change_24h": 2.1,
+        "market_cap": 63370288437,
+        "volume_24h": 3134865548
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.084533,
-        "change_24h": 1.45,
-        "market_cap": 13218226152,
-        "volume_24h": 701333933
+        "price_usd": 0.084648,
+        "change_24h": 2.18,
+        "market_cap": 13232520629,
+        "volume_24h": 489506736
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 12.92,
-        "change_24h": 1.22,
-        "market_cap": 9910521022,
-        "volume_24h": 370717442
+        "price_usd": 12.95,
+        "change_24h": 2.26,
+        "market_cap": 9929887259,
+        "volume_24h": 312970861
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.236449,
-        "change_24h": -0.12,
-        "market_cap": 8882571642,
-        "volume_24h": 460606164
+        "price_usd": 0.237258,
+        "change_24h": 1.88,
+        "market_cap": 8909846969,
+        "volume_24h": 369318778
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 10.27,
-        "change_24h": -0.06,
-        "market_cap": 4553652817,
-        "volume_24h": 367467368
+        "price_usd": 10.33,
+        "change_24h": 0.87,
+        "market_cap": 4578796673,
+        "volume_24h": 300671420
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 8,
-        "price_usd": 83437,
-        "change_24h": 1.61
+        "price_usd": 83329,
+        "change_24h": 1.12
       },
       {
         "symbol": "SOL",
         "mentions": 1,
-        "price_usd": 106.88,
-        "change_24h": 0.55
-      },
-      {
-        "symbol": "DOGE",
-        "mentions": 1,
-        "price_usd": 0.084533,
-        "change_24h": 1.45
+        "price_usd": 107.55,
+        "change_24h": 2.1
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 2508.09,
-        "change_24h": 1.65
+        "price_usd": 2507.0,
+        "change_24h": 1.82
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 742.46,
-        "change_24h": 0.57
+        "price_usd": 743.29,
+        "change_24h": 1.01
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.37,
-        "change_24h": 1.63
+        "change_24h": 1.25
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.236449,
-        "change_24h": -0.12
+        "price_usd": 0.237258,
+        "change_24h": 1.88
+      },
+      {
+        "symbol": "DOGE",
+        "mentions": 0,
+        "price_usd": 0.084648,
+        "change_24h": 2.18
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 10.27,
-        "change_24h": -0.06
+        "price_usd": 10.33,
+        "change_24h": 0.87
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 12.92,
-        "change_24h": 1.22
+        "price_usd": 12.95,
+        "change_24h": 2.26
       },
       {
         "symbol": "TON",
@@ -144,6 +144,28 @@
       }
     ],
     "news": [
+      {
+        "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+        "published": "Wed, 14 Oct 2026 01:00:00 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+        "published": "Tue, 13 Oct 2026 23:23:05 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
       {
         "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
         "source": "CoinDesk",
@@ -230,25 +252,11 @@
         "color": "yellow"
       },
       {
-        "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-        "published": "Tue, 13 Oct 2026 10:46:57 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
-        "published": "Tue, 13 Oct 2026 10:38:51 +0000",
-        "assets": [
-          "BTC"
-        ],
+        "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 13 Oct 2026 23:28:19 +0000",
+        "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
@@ -295,42 +303,30 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 13 Oct 2026 15:57:55 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.0,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
+        "title": "Will oil be below $85 on November 2 and the Republicans win the Senate?",
+        "volume_24h": 63190,
+        "yes_price": 0.08,
+        "category": "crypto"
+      },
+      {
         "title": "Will oil be below $80 on November 2 and the Democrats win the Senate?",
-        "volume_24h": 85544,
+        "volume_24h": 62604,
         "yes_price": 0.08,
         "category": "crypto"
       },
       {
         "title": "Will oil be below $85 on November 2 and the Democrats win the Senate?",
-        "volume_24h": 60144,
+        "volume_24h": 62451,
         "yes_price": 0.13,
-        "category": "crypto"
-      },
-      {
-        "title": "Will oil be below $85 on November 2 and the Republicans win the Senate?",
-        "volume_24h": 57251,
-        "yes_price": 0.07,
         "category": "crypto"
       }
     ],
@@ -344,11 +340,11 @@
         "mentions": {
           "BTC": 8,
           "SOL": 1,
-          "DOGE": 1,
           "ETH": 0,
           "BNB": 0,
           "XRP": 0,
           "ADA": 0,
+          "DOGE": 0,
           "AVAX": 0,
           "LINK": 0,
           "TON": 0
@@ -375,60 +371,60 @@
         "XRP": 9,
         "ETH": 4
       },
-      "bullish_hits": 88,
+      "bullish_hits": 82,
       "bearish_hits": 56,
-      "bullish_pct": 61,
+      "bullish_pct": 59,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "WISP",
-        "name": "Wisp",
-        "rank": 706,
-        "score": 0,
-        "change_24h": 92.2
-      },
-      {
         "symbol": "DOPE",
         "name": "Doge Pepe",
-        "rank": 869,
-        "score": 1,
-        "change_24h": 63.56
-      },
-      {
-        "symbol": "CRAWLER",
-        "name": "Crawlerpad",
-        "rank": 835,
-        "score": 2,
-        "change_24h": 278.58
+        "rank": 784,
+        "score": 0,
+        "change_24h": 91.47
       },
       {
         "symbol": "ZYLO",
         "name": "Zylo Ecosystem",
-        "rank": 853,
-        "score": 3,
-        "change_24h": 2.19
+        "rank": 852,
+        "score": 1,
+        "change_24h": 1.65
       },
       {
         "symbol": "PRL",
         "name": "Pearl",
-        "rank": 104,
+        "rank": 105,
+        "score": 2,
+        "change_24h": 16.16
+      },
+      {
+        "symbol": "BTW",
+        "name": "Bitway",
+        "rank": 22,
+        "score": 3,
+        "change_24h": 28.83
+      },
+      {
+        "symbol": "OP",
+        "name": "Optimism",
+        "rank": 131,
         "score": 4,
-        "change_24h": 11.73
+        "change_24h": 20.73
       },
       {
-        "symbol": "BAT",
-        "name": "Basic Attention",
-        "rank": 151,
+        "symbol": "NEAR",
+        "name": "NEAR Protocol",
+        "rank": 20,
         "score": 5,
-        "change_24h": 27.77
+        "change_24h": -1.26
       },
       {
-        "symbol": "ETH",
-        "name": "Ethereum",
-        "rank": 2,
+        "symbol": "QTC",
+        "name": "Quantus",
+        "rank": 605,
         "score": 6,
-        "change_24h": 1.17
+        "change_24h": -2.73
       }
     ]
   },
@@ -473,6 +469,11 @@
         "change_24h": 0.09
       },
       {
+        "symbol": "MSFT",
+        "price_usd": 543.45,
+        "change_24h": 0.43
+      },
+      {
         "symbol": "GOOGL",
         "price_usd": 353.78,
         "change_24h": 0.3
@@ -506,10 +507,20 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "More Republicans come out against Trump's diesel deal with Putin",
+        "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
-        "published": "Tue, 13 Oct 2026 18:19:42 GMT",
+        "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+        "published": "Wed, 14 Oct 2026 01:55:26 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+        "published": "Wed, 14 Oct 2026 01:43:21 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
@@ -519,7 +530,7 @@
         "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-        "published": "Tue, 13 Oct 2026 21:44:46 GMT",
+        "published": "Wed, 14 Oct 2026 00:13:45 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -536,44 +547,44 @@
         "color": "yellow"
       },
       {
-        "title": "The latest inflation data is expected to show price increases are accelerating",
+        "title": "China's exports likely grew by double-digits in September",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
-        "published": "Tue, 13 Oct 2026 18:05:57 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
-        "published": "Tue, 13 Oct 2026 21:15:32 GMT",
+        "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+        "published": "Wed, 14 Oct 2026 01:16:02 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds",
+        "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
-        "published": "Tue, 13 Oct 2026 20:52:22 GMT",
+        "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+        "published": "Wed, 14 Oct 2026 01:35:51 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
-        "title": "Six Flags shares decline following deadly roller coaster incident",
+        "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
-        "published": "Tue, 13 Oct 2026 21:18:03 GMT",
+        "url": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
+        "published": "Wed, 14 Oct 2026 00:28:34 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+        "published": "Tue, 13 Oct 2026 23:05:12 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
@@ -596,10 +607,20 @@
         "color": "yellow"
       },
       {
-        "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-        "published": "Tue, 13 Oct 2026 20:48:37 GMT",
+        "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+        "published": "Wed, 14 Oct 2026 01:31:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+        "published": "Wed, 14 Oct 2026 01:25:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -614,16 +635,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 21:01:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
       },
       {
         "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
@@ -644,70 +655,60 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 20:32:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.133,
+      "score": 0.267,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
+        "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+        "volume_24h": 566759,
+        "yes_price": 0.14,
+        "category": "finance"
+      },
+      {
         "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-        "volume_24h": 504394,
+        "volume_24h": 468701,
         "yes_price": 0.81,
         "category": "finance"
       },
       {
         "title": "Putin out as President of Russia by December 31, 2026?",
-        "volume_24h": 418015,
+        "volume_24h": 421529,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "US x Iran ceasefire continues through October 15?",
-        "volume_24h": 411267,
-        "yes_price": 0.97,
-        "category": "finance"
-      },
-      {
-        "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_24h": 381947,
-        "yes_price": 0.14,
-        "category": "finance"
-      },
-      {
-        "title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-        "volume_24h": 320634,
-        "yes_price": 0.18,
+        "volume_24h": 401139,
+        "yes_price": 0.98,
         "category": "finance"
       },
       {
         "title": "US x Iran ceasefire continues through October 31?",
-        "volume_24h": 258412,
+        "volume_24h": 278934,
         "yes_price": 0.81,
         "category": "finance"
       },
       {
-        "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
-        "volume_24h": 164112,
-        "yes_price": 0.86,
+        "title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+        "volume_24h": 223942,
+        "yes_price": 0.2,
         "category": "finance"
       },
       {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 158130,
-        "yes_price": 0.17,
+        "title": "Israel x Iran ceasefire continues through October 31?",
+        "volume_24h": 199156,
+        "yes_price": 0.85,
+        "category": "finance"
+      },
+      {
+        "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+        "volume_24h": 181397,
+        "yes_price": 0.86,
         "category": "finance"
       }
     ],
@@ -721,8 +722,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 4 bullish vs 0 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
@@ -733,12 +734,12 @@
       "price_usd": 45.7,
       "change_1d": -0.27,
       "change_1w": -0.15,
-      "change_1m": -1.38,
+      "change_1m": -1.37,
       "high_3m": 46.9,
       "low_3m": 45.55,
       "week52_high": 48.73,
       "week52_low": 45.29,
-      "rsi": 31.1,
+      "rsi": 31.2,
       "div_yield": 7.62,
       "last_div": null,
       "outlook": {
@@ -752,7 +753,7 @@
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 31.1 — Below neutral, mild downward pressure ↓",
+          "RSI 31.2 — Below neutral, mild downward pressure ↓",
           "5-day momentum -0.1% — consolidating sideways →",
           "1-month return -1.4% — range-bound"
         ]
