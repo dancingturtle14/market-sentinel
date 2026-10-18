@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-10-17T22:08:15Z",
+  "updated_at": "2026-10-18T00:12:49Z",
   "crypto": {
     "fear_greed": {
-      "value": 55,
-      "label": "Greed",
-      "previous_value": 63,
+      "value": 53,
+      "label": "Neutral",
+      "previous_value": 55,
       "previous_label": "Greed"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 81102,
-        "change_24h": -0.68,
-        "market_cap": 1630121316195,
-        "volume_24h": 14322885149
+        "price_usd": 81332,
+        "change_24h": -0.2,
+        "market_cap": 1634673012904,
+        "volume_24h": 14144706314
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2381.87,
-        "change_24h": -1.53,
-        "market_cap": 290949586833,
-        "volume_24h": 6133194915
+        "price_usd": 2396.41,
+        "change_24h": -0.93,
+        "market_cap": 292702848230,
+        "volume_24h": 6388210729
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 713.7,
-        "change_24h": -1.11,
-        "market_cap": 95042614729,
-        "volume_24h": 522090317
+        "price_usd": 716.65,
+        "change_24h": -0.41,
+        "market_cap": 95427661458,
+        "volume_24h": 525036732
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.29,
-        "change_24h": -1.55,
-        "market_cap": 81301661170,
-        "volume_24h": 842238513
+        "change_24h": -1.32,
+        "market_cap": 81534213702,
+        "volume_24h": 870246682
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 102.49,
-        "change_24h": -1.79,
-        "market_cap": 60412860707,
-        "volume_24h": 1645960454
+        "price_usd": 103.17,
+        "change_24h": -1.1,
+        "market_cap": 60805046195,
+        "volume_24h": 1734518092
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.07849,
-        "change_24h": -2.64,
-        "market_cap": 12272599887,
-        "volume_24h": 493640016
+        "price_usd": 0.079167,
+        "change_24h": -1.93,
+        "market_cap": 12378514164,
+        "volume_24h": 507803222
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 11.9,
-        "change_24h": -3.38,
-        "market_cap": 9126014466,
-        "volume_24h": 210344766
+        "price_usd": 11.95,
+        "change_24h": -2.96,
+        "market_cap": 9166206347,
+        "volume_24h": 218538731
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.21786,
-        "change_24h": -3.43,
-        "market_cap": 8182446561,
-        "volume_24h": 211938536
+        "price_usd": 0.219171,
+        "change_24h": -2.63,
+        "market_cap": 8231942736,
+        "volume_24h": 217795518
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.66,
-        "change_24h": -3.05,
-        "market_cap": 4286661222,
-        "volume_24h": 221981539
+        "price_usd": 9.75,
+        "change_24h": -1.77,
+        "market_cap": 4325004938,
+        "volume_24h": 234800981
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 7,
-        "price_usd": 81102,
-        "change_24h": -0.68
-      },
-      {
-        "symbol": "LTC",
-        "mentions": 2,
-        "price_usd": null,
-        "change_24h": null
+        "price_usd": 81332,
+        "change_24h": -0.2
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 2381.87,
-        "change_24h": -1.53
+        "price_usd": 2396.41,
+        "change_24h": -0.93
+      },
+      {
+        "symbol": "LTC",
+        "mentions": 1,
+        "price_usd": null,
+        "change_24h": null
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 102.49,
-        "change_24h": -1.79
+        "price_usd": 103.17,
+        "change_24h": -1.1
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 713.7,
-        "change_24h": -1.11
+        "price_usd": 716.65,
+        "change_24h": -0.41
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.29,
-        "change_24h": -1.55
+        "change_24h": -1.32
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.21786,
-        "change_24h": -3.43
+        "price_usd": 0.219171,
+        "change_24h": -2.63
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.07849,
-        "change_24h": -2.64
+        "price_usd": 0.079167,
+        "change_24h": -1.93
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.66,
-        "change_24h": -3.05
+        "price_usd": 9.75,
+        "change_24h": -1.77
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 11.9,
-        "change_24h": -3.38
+        "price_usd": 11.95,
+        "change_24h": -2.96
       }
     ],
     "news": [
@@ -313,7 +313,7 @@
     "polymarket": [
       {
         "title": "Will oil be below $85 on November 2 and the Democrats win the Senate?",
-        "volume_24h": 79654,
+        "volume_24h": 66336,
         "yes_price": 0.05,
         "category": "crypto"
       }
@@ -327,8 +327,8 @@
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 7,
-          "LTC": 2,
           "ETH": 1,
+          "LTC": 1,
           "SOL": 0,
           "BNB": 0,
           "XRP": 0,
@@ -338,8 +338,8 @@
           "LINK": 0
         },
         "activity_score": 100,
-        "top_post": "Concordium Becomes the Exclusive Identity Verification Layer for XDC",
-        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1x7gzo1/concordium_becomes_the_exclusive_identity/",
+        "top_post": "Daily Crypto Discussion",
+        "top_post_url": "https://www.reddit.com/r/CryptoCurrency/comments/1x80jrh/daily_crypto_discussion/",
         "top_post_score": 0
       }
     ],
@@ -353,66 +353,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 147,
+      "active_threads": 148,
       "mentions": {
-        "BTC": 14,
-        "XRP": 6,
+        "BTC": 13,
+        "XRP": 9,
         "BNB": 4
       },
-      "bullish_hits": 108,
-      "bearish_hits": 57,
-      "bullish_pct": 65,
+      "bullish_hits": 106,
+      "bearish_hits": 55,
+      "bullish_pct": 66,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 120,
         "score": 0,
-        "change_24h": -0.73
-      },
-      {
-        "symbol": "PRL",
-        "name": "Pearl",
-        "rank": 102,
-        "score": 1,
-        "change_24h": 5.91
-      },
-      {
-        "symbol": "ONDO",
-        "name": "Ondo",
-        "rank": 48,
-        "score": 2,
-        "change_24h": -4.27
-      },
-      {
-        "symbol": "STRK",
-        "name": "Starknet",
-        "rank": 117,
-        "score": 3,
-        "change_24h": -12.47
-      },
-      {
-        "symbol": "QTC",
-        "name": "Quantus",
-        "rank": 626,
-        "score": 4,
-        "change_24h": -4.72
+        "change_24h": -1.45
       },
       {
         "symbol": "SOL",
         "name": "Solana",
         "rank": 7,
-        "score": 5,
-        "change_24h": -2.05
+        "score": 1,
+        "change_24h": -0.98
+      },
+      {
+        "symbol": "INJ",
+        "name": "Injective",
+        "rank": 84,
+        "score": 2,
+        "change_24h": -0.93
+      },
+      {
+        "symbol": "Q",
+        "name": "Quack AI",
+        "rank": 106,
+        "score": 3,
+        "change_24h": 125.46
       },
       {
         "symbol": "NEAR",
         "name": "NEAR Protocol",
-        "rank": 19,
+        "rank": 20,
+        "score": 4,
+        "change_24h": -3.75
+      },
+      {
+        "symbol": "ONDO",
+        "name": "Ondo",
+        "rank": 48,
+        "score": 5,
+        "change_24h": -3.46
+      },
+      {
+        "symbol": "CC",
+        "name": "Canton",
+        "rank": 28,
         "score": 6,
-        "change_24h": -2.99
+        "change_24h": -0.47
       }
     ]
   },
@@ -565,16 +565,6 @@
         "color": "yellow"
       },
       {
-        "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
-        "published": "Tue, 13 Oct 2026 18:33:42 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
@@ -593,6 +583,16 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
+      },
+      {
+        "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
+        "published": "Tue, 13 Oct 2026 18:33:42 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
@@ -655,50 +655,50 @@
     "polymarket": [
       {
         "title": "US x Iran ceasefire continues through October 31?",
-        "volume_24h": 378842,
+        "volume_24h": 380543,
         "yes_price": 0.81,
         "category": "finance"
       },
       {
         "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_24h": 324811,
-        "yes_price": 0.23,
+        "volume_24h": 358579,
+        "yes_price": 0.21,
         "category": "finance"
       },
       {
         "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
-        "volume_24h": 259294,
-        "yes_price": 0.77,
+        "volume_24h": 272872,
+        "yes_price": 0.79,
         "category": "finance"
       },
       {
         "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-        "volume_24h": 228794,
+        "volume_24h": 193121,
         "yes_price": 0.91,
         "category": "finance"
       },
       {
-        "title": "Israel x Iran ceasefire continues through October 18?",
-        "volume_24h": 204010,
-        "yes_price": 0.98,
-        "category": "finance"
-      },
-      {
-        "title": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?",
-        "volume_24h": 191298,
-        "yes_price": 0.09,
-        "category": "finance"
-      },
-      {
         "title": "US x Iran ceasefire continues through October 18?",
-        "volume_24h": 167881,
+        "volume_24h": 177991,
         "yes_price": 0.97,
         "category": "finance"
       },
       {
         "title": "NATO x Russia military clash by December 31, 2026?",
-        "volume_24h": 165289,
-        "yes_price": 0.28,
+        "volume_24h": 169262,
+        "yes_price": 0.26,
+        "category": "finance"
+      },
+      {
+        "title": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+        "volume_24h": 132795,
+        "yes_price": 0.36,
+        "category": "finance"
+      },
+      {
+        "title": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?",
+        "volume_24h": 129071,
+        "yes_price": 0.08,
         "category": "finance"
       }
     ],
