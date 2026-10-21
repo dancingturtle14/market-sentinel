@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T04:18:39Z",
+  "updated_at": "2026-10-21T09:31:24Z",
   "crypto": {
     "fear_greed": {
       "value": 63,
@@ -11,94 +11,100 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 82723,
-        "change_24h": 0.8,
-        "market_cap": 1662586863820,
-        "volume_24h": 26799470233
+        "price_usd": 83432,
+        "change_24h": 2.54,
+        "market_cap": 1676851637147,
+        "volume_24h": 27629264337
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2442.51,
-        "change_24h": 1.27,
-        "market_cap": 298367158834,
-        "volume_24h": 11292849683
+        "price_usd": 2460.18,
+        "change_24h": 3.26,
+        "market_cap": 300476589220,
+        "volume_24h": 12027224516
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 740.74,
-        "change_24h": 1.48,
-        "market_cap": 97422467223,
-        "volume_24h": 653963312
+        "price_usd": 748.4,
+        "change_24h": 2.88,
+        "market_cap": 98419619639,
+        "volume_24h": 716426345
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.33,
-        "change_24h": 1.99,
-        "market_cap": 84063586666,
-        "volume_24h": 1411330032
+        "price_usd": 1.36,
+        "change_24h": 4.99,
+        "market_cap": 85734589683,
+        "volume_24h": 1530370230
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 105.74,
-        "change_24h": 0.46,
-        "market_cap": 62341076679,
-        "volume_24h": 2617582984
+        "price_usd": 106.85,
+        "change_24h": 2.73,
+        "market_cap": 62992888493,
+        "volume_24h": 2581319295
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.081491,
-        "change_24h": 2.24,
-        "market_cap": 12745826984,
-        "volume_24h": 424775038
+        "price_usd": 0.082076,
+        "change_24h": 3.98,
+        "market_cap": 12835843965,
+        "volume_24h": 488061974
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 12.33,
-        "change_24h": 2.09,
-        "market_cap": 9453081359,
-        "volume_24h": 246722646
+        "price_usd": 12.38,
+        "change_24h": 3.88,
+        "market_cap": 9497300616,
+        "volume_24h": 260520073
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.222911,
-        "change_24h": 1.93,
-        "market_cap": 8373085792,
-        "volume_24h": 249619494
+        "price_usd": 0.225198,
+        "change_24h": 4.56,
+        "market_cap": 8458511989,
+        "volume_24h": 269947431
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.69,
-        "change_24h": 0.88,
-        "market_cap": 4302958613,
-        "volume_24h": 249437493
+        "price_usd": 9.72,
+        "change_24h": 2.96,
+        "market_cap": 4312815411,
+        "volume_24h": 267696700
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 4,
-        "price_usd": 82723,
-        "change_24h": 0.8
+        "mentions": 7,
+        "price_usd": 83432,
+        "change_24h": 2.54
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 2,
+        "price_usd": 106.85,
+        "change_24h": 2.73
       },
       {
         "symbol": "ADA",
         "mentions": 2,
-        "price_usd": 0.222911,
-        "change_24h": 1.93
+        "price_usd": 0.225198,
+        "change_24h": 4.56
       },
       {
-        "symbol": "SOL",
+        "symbol": "BNB",
         "mentions": 1,
-        "price_usd": 105.74,
-        "change_24h": 0.46
+        "price_usd": 748.4,
+        "change_24h": 2.88
       },
       {
         "symbol": "MATIC",
@@ -109,41 +115,104 @@
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 2442.51,
-        "change_24h": 1.27
-      },
-      {
-        "symbol": "BNB",
-        "mentions": 0,
-        "price_usd": 740.74,
-        "change_24h": 1.48
+        "price_usd": 2460.18,
+        "change_24h": 3.26
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.33,
-        "change_24h": 1.99
+        "price_usd": 1.36,
+        "change_24h": 4.99
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.081491,
-        "change_24h": 2.24
+        "price_usd": 0.082076,
+        "change_24h": 3.98
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.69,
-        "change_24h": 0.88
+        "price_usd": 9.72,
+        "change_24h": 2.96
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 12.33,
-        "change_24h": 2.09
+        "price_usd": 12.38,
+        "change_24h": 3.88
       }
     ],
     "news": [
+      {
+        "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+        "published": "Wed, 21 Oct 2026 09:23:00 +0000",
+        "assets": [
+          "BTC",
+          "UNI"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Monero futures are again heating with leverage, raising volatility risks",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks",
+        "published": "Wed, 21 Oct 2026 08:57:29 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+        "published": "Wed, 21 Oct 2026 08:47:11 +0000",
+        "assets": [
+          "ETH"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Zcash developers confirm November date for upgrade that triples payment speed",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
+        "published": "Wed, 21 Oct 2026 08:10:12 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+        "published": "Wed, 21 Oct 2026 05:25:57 +0000",
+        "assets": [
+          "XRP"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+        "published": "Wed, 21 Oct 2026 04:35:52 +0000",
+        "assets": [
+          "SOL"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
         "source": "CoinDesk",
@@ -187,70 +256,46 @@
         "color": "yellow"
       },
       {
-        "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
-        "published": "Tue, 20 Oct 2026 17:02:31 +0000",
+        "title": "Ether ETF outflows continue, pass $1B in October so far",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 21 Oct 2026 08:11:50 +0000",
         "assets": [
-          "BTC"
+          "ETH"
         ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
-        "published": "Tue, 20 Oct 2026 14:28:39 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -0.333,
-        "color": "red"
-      },
-      {
-        "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
-        "published": "Tue, 20 Oct 2026 13:35:08 +0000",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 21 Oct 2026 06:00:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-        "published": "Tue, 20 Oct 2026 12:40:17 +0000",
+        "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 21 Oct 2026 05:56:29 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
-        "published": "Tue, 20 Oct 2026 11:25:00 +0000",
+        "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 21 Oct 2026 05:15:00 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
-        "published": "Tue, 20 Oct 2026 11:14:21 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
@@ -261,82 +306,42 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 20 Oct 2026 23:26:02 +0000",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 20 Oct 2026 21:19:15 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 20 Oct 2026 20:38:00 +0000",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 20 Oct 2026 19:59:39 +0000",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.022,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_24h": 158321,
-        "yes_price": 0.09,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Ethereum dip to $1,250 by December 31, 2026?",
-        "volume_24h": 94282,
-        "yes_price": 0.09,
-        "category": "crypto"
-      },
-      {
-        "title": "Will oil be below $85 on November 2 and the Democrats win the Senate?",
-        "volume_24h": 79114,
+        "volume_24h": 166949,
         "yes_price": 0.07,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Bitcoin be above $80,000 on October 21?",
-        "volume_24h": 68771,
-        "yes_price": 0.98,
+        "title": "Will Ethereum dip to $1,250 by December 31, 2026?",
+        "volume_24h": 94475,
+        "yes_price": 0.09,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be above $82,000 on October 21?",
+        "volume_24h": 72159,
+        "yes_price": 0.95,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be above $86,000 on October 21?",
+        "volume_24h": 71578,
+        "yes_price": 0.02,
         "category": "crypto"
       },
       {
         "title": "Will the price of Bitcoin be above $84,000 on October 21?",
-        "volume_24h": 62171,
-        "yes_price": 0.12,
+        "volume_24h": 68273,
+        "yes_price": 0.3,
         "category": "crypto"
       }
     ],
@@ -348,12 +353,12 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 4,
+          "BTC": 7,
+          "SOL": 2,
           "ADA": 2,
-          "SOL": 1,
+          "BNB": 1,
           "MATIC": 1,
           "ETH": 0,
-          "BNB": 0,
           "XRP": 0,
           "DOGE": 0,
           "AVAX": 0,
@@ -371,7 +376,7 @@
     },
     "news_summary": {
       "outlook": "Mixed",
-      "summary": "Mixed: 3 bullish vs 4 bearish signals detected across crypto news data."
+      "summary": "Mixed: 3 bullish vs 3 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
@@ -390,51 +395,51 @@
       {
         "symbol": "PEARL",
         "name": "Pearl",
-        "rank": 91,
+        "rank": 90,
         "score": 0,
-        "change_24h": 11.85
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 114,
-        "score": 1,
-        "change_24h": 5.02
-      },
-      {
-        "symbol": "ZEC",
-        "name": "Zcash",
-        "rank": 10,
-        "score": 2,
-        "change_24h": 9.78
-      },
-      {
-        "symbol": "SUI",
-        "name": "Sui",
-        "rank": 28,
-        "score": 3,
-        "change_24h": 2.41
+        "change_24h": 13.72
       },
       {
         "symbol": "CARDS",
         "name": "Collector Crypt",
-        "rank": 139,
+        "rank": 141,
+        "score": 1,
+        "change_24h": 8.9
+      },
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 112,
+        "score": 2,
+        "change_24h": 8.64
+      },
+      {
+        "symbol": "QTC",
+        "name": "Quantus",
+        "rank": 721,
+        "score": 3,
+        "change_24h": -0.37
+      },
+      {
+        "symbol": "QNT",
+        "name": "Quant",
+        "rank": 39,
         "score": 4,
-        "change_24h": 6.28
+        "change_24h": 3.28
       },
       {
-        "symbol": "PYBOBO",
-        "name": "Capybobo",
-        "rank": 708,
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 11,
         "score": 5,
-        "change_24h": 6.25
+        "change_24h": 3.47
       },
       {
-        "symbol": "TAO",
-        "name": "Bittensor",
-        "rank": 35,
+        "symbol": "PONS",
+        "name": "Pons",
+        "rank": 190,
         "score": 6,
-        "change_24h": 1.14
+        "change_24h": 6.78
       }
     ]
   },
@@ -453,14 +458,14 @@
         "change_24h": 1.02
       },
       "vix": {
-        "value": 17.31,
-        "change_24h": -6.13
+        "value": 17.41,
+        "change_24h": 0.58
       }
     },
     "market_mood": {
-      "score": 0.41,
-      "label": "Bullish",
-      "color": "green"
+      "score": 0.131,
+      "label": "Neutral",
+      "color": "yellow"
     },
     "prices": [
       {
@@ -517,30 +522,62 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
+        "title": "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-        "published": "Wed, 21 Oct 2026 01:02:36 GMT",
+        "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+        "published": "Wed, 21 Oct 2026 08:52:33 GMT",
+        "assets": [
+          "TSLA"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
+        "published": "Wed, 21 Oct 2026 09:20:37 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+        "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
-        "published": "Wed, 21 Oct 2026 02:55:38 GMT",
+        "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+        "published": "Wed, 21 Oct 2026 09:29:42 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
-        "title": "Japan exports post huge miss in September as growth slows to 16.7%",
+        "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
-        "published": "Wed, 21 Oct 2026 00:44:16 GMT",
+        "url": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+        "published": "Wed, 21 Oct 2026 08:53:53 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+        "published": "Tue, 20 Oct 2026 20:23:58 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+        "published": "Wed, 21 Oct 2026 07:49:48 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -567,46 +604,6 @@
         "color": "yellow"
       },
       {
-        "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-        "published": "Tue, 20 Oct 2026 20:23:58 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
-        "published": "Tue, 20 Oct 2026 23:34:14 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "What’s making Europe so angry? The frustration behind the protests",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
-        "published": "Tue, 20 Oct 2026 07:19:16 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "France to deploy military as it braces for fresh unrest this weekend",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-        "published": "Tue, 20 Oct 2026 15:01:38 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
@@ -617,112 +614,118 @@
         "color": "red"
       },
       {
-        "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 00:24:00 GMT",
-        "assets": [
-          "SPY"
-        ],
+        "title": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
+        "published": "Tue, 20 Oct 2026 19:11:36 GMT",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+        "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 00:15:00 GMT",
+        "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 09:15:00 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 00:14:00 GMT",
-        "assets": [
-          "TSLA"
-        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+        "title": "George Foreman’s lavish Texas estate with 50-car garage is listed for $6 million",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 00:12:00 GMT",
+        "url": "https://www.marketwatch.com/story/george-foremans-lavish-texas-estate-with-50-car-garage-is-listed-for-6-million-d464b764?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 09:04:00 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 09:00:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-        "published": "Tue, 20 Oct 2026 23:10:00 GMT",
+        "published": "Wed, 21 Oct 2026 08:55:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
+      },
+      {
+        "title": "AI stocks are probably in a bubble — but might be worth holding onto, says Citadel’s Ken Griffin",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 08:50:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.0,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "2026 Balance of Power: R Senate, R House",
-        "volume_24h": 617133,
+        "volume_24h": 676685,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
         "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
-        "volume_24h": 573384,
+        "volume_24h": 626343,
         "yes_price": 0.8,
         "category": "finance"
       },
       {
         "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_24h": 560891,
+        "volume_24h": 598788,
         "yes_price": 0.2,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-        "volume_24h": 519215,
-        "yes_price": 0.88,
+        "volume_24h": 589488,
+        "yes_price": 0.89,
         "category": "finance"
       },
       {
         "title": "2026 Balance of Power: R Senate, D House",
-        "volume_24h": 489184,
-        "yes_price": 0.28,
+        "volume_24h": 500041,
+        "yes_price": 0.27,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-        "volume_24h": 386579,
+        "volume_24h": 459363,
         "yes_price": 0.12,
         "category": "finance"
       },
       {
-        "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-        "volume_24h": 331469,
-        "yes_price": 0.92,
+        "title": "Will the Republicans win the Texas Senate race in 2026?",
+        "volume_24h": 305143,
+        "yes_price": 0.35,
         "category": "finance"
       },
       {
-        "title": "US x Iran ceasefire continues through October 22?",
-        "volume_24h": 308818,
-        "yes_price": 0.95,
+        "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+        "volume_24h": 286269,
+        "yes_price": 0.92,
         "category": "finance"
       }
     ],
@@ -736,8 +739,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 4 bullish vs 4 bearish signals detected across stock/finance news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 2 bullish vs 1 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
