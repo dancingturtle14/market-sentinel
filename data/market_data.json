@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-10-21T22:37:47Z",
+  "updated_at": "2026-10-22T01:23:50Z",
   "crypto": {
     "fear_greed": {
-      "value": 63,
+      "value": 68,
       "label": "Greed",
-      "previous_value": 55,
+      "previous_value": 63,
       "previous_label": "Greed"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 84614,
-        "change_24h": 1.99,
-        "market_cap": 1700590160078,
-        "volume_24h": 32382500634
+        "price_usd": 84284,
+        "change_24h": 1.73,
+        "market_cap": 1694091661957,
+        "volume_24h": 32260845347
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2490.48,
-        "change_24h": 1.45,
-        "market_cap": 304200836648,
-        "volume_24h": 13850192919
+        "price_usd": 2476.52,
+        "change_24h": 1.19,
+        "market_cap": 302532170332,
+        "volume_24h": 13763214072
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 749.8,
-        "change_24h": 1.12,
-        "market_cap": 98603526654,
-        "volume_24h": 761042181
+        "price_usd": 748.78,
+        "change_24h": 1.01,
+        "market_cap": 98481773812,
+        "volume_24h": 764337631
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.37,
-        "change_24h": 2.66,
-        "market_cap": 86815515088,
-        "volume_24h": 1824687939
+        "price_usd": 1.36,
+        "change_24h": 2.05,
+        "market_cap": 86152349676,
+        "volume_24h": 1749612469
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 107.73,
+        "price_usd": 107.27,
         "change_24h": 0.76,
-        "market_cap": 63513748679,
-        "volume_24h": 2546554163
+        "market_cap": 63259276741,
+        "volume_24h": 2548176867
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.082531,
-        "change_24h": 0.74,
-        "market_cap": 12909056425,
-        "volume_24h": 487761271
+        "price_usd": 0.082059,
+        "change_24h": 0.26,
+        "market_cap": 12838239298,
+        "volume_24h": 478649364
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
         "price_usd": 12.6,
-        "change_24h": 2.28,
-        "market_cap": 9665556157,
-        "volume_24h": 275211723
+        "change_24h": 1.99,
+        "market_cap": 9659951040,
+        "volume_24h": 266769207
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.227239,
-        "change_24h": 1.51,
-        "market_cap": 8537456719,
-        "volume_24h": 280966341
+        "price_usd": 0.226472,
+        "change_24h": 0.82,
+        "market_cap": 8508330710,
+        "volume_24h": 283522940
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.76,
-        "change_24h": -0.36,
-        "market_cap": 4332678585,
-        "volume_24h": 281191880
+        "price_usd": 9.69,
+        "change_24h": -0.5,
+        "market_cap": 4304836905,
+        "volume_24h": 292178805
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 10,
-        "price_usd": 84614,
-        "change_24h": 1.99
-      },
-      {
-        "symbol": "SOL",
-        "mentions": 1,
-        "price_usd": 107.73,
-        "change_24h": 0.76
+        "price_usd": 84284,
+        "change_24h": 1.73
       },
       {
         "symbol": "BNB",
         "mentions": 1,
-        "price_usd": 749.8,
-        "change_24h": 1.12
+        "price_usd": 748.78,
+        "change_24h": 1.01
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 2490.48,
-        "change_24h": 1.45
+        "price_usd": 2476.52,
+        "change_24h": 1.19
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 0,
+        "price_usd": 107.27,
+        "change_24h": 0.76
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.37,
-        "change_24h": 2.66
+        "price_usd": 1.36,
+        "change_24h": 2.05
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.227239,
-        "change_24h": 1.51
+        "price_usd": 0.226472,
+        "change_24h": 0.82
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.082531,
-        "change_24h": 0.74
+        "price_usd": 0.082059,
+        "change_24h": 0.26
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.76,
-        "change_24h": -0.36
+        "price_usd": 9.69,
+        "change_24h": -0.5
       },
       {
         "symbol": "LINK",
         "mentions": 0,
         "price_usd": 12.6,
-        "change_24h": 2.28
+        "change_24h": 1.99
       },
       {
         "symbol": "TON",
@@ -254,6 +254,16 @@
         "color": "green"
       },
       {
+        "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 22 Oct 2026 00:44:00 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -294,30 +304,18 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 21 Oct 2026 17:57:39 +0000",
-        "assets": [
-          "ADA"
-        ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.133,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_24h": 117029,
-        "yes_price": 0.06,
+        "volume_24h": 117743,
+        "yes_price": 0.07,
         "category": "crypto"
       }
     ],
@@ -330,9 +328,9 @@
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 10,
-          "SOL": 1,
           "BNB": 1,
           "ETH": 0,
+          "SOL": 0,
           "XRP": 0,
           "ADA": 0,
           "DOGE": 0,
@@ -356,66 +354,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 156,
+      "active_threads": 154,
       "mentions": {
         "XRP": 24,
         "BTC": 11,
         "ETH": 2
       },
-      "bullish_hits": 89,
-      "bearish_hits": 59,
-      "bullish_pct": 60,
+      "bullish_hits": 88,
+      "bearish_hits": 60,
+      "bullish_pct": 59,
       "top_coin": "XRP"
     },
     "cg_trending": [
       {
-        "symbol": "UHI",
-        "name": "Universal High Income",
-        "rank": 784,
-        "score": 0,
-        "change_24h": 21.67
-      },
-      {
         "symbol": "AERO",
         "name": "Aerodrome Finance",
         "rank": 88,
-        "score": 1,
-        "change_24h": -7.57
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 113,
-        "score": 2,
-        "change_24h": 2.51
-      },
-      {
-        "symbol": "PEARL",
-        "name": "Pearl",
-        "rank": 85,
-        "score": 3,
-        "change_24h": 13.56
-      },
-      {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
-        "score": 4,
-        "change_24h": 1.97
+        "score": 0,
+        "change_24h": -3.88
       },
       {
         "symbol": "NEAR",
         "name": "NEAR Protocol",
         "rank": 19,
-        "score": 5,
-        "change_24h": 6.87
+        "score": 1,
+        "change_24h": 6.78
       },
       {
         "symbol": "AXIS",
         "name": "Axis Robotics",
-        "rank": 531,
-        "score": 6,
+        "rank": 471,
+        "score": 2,
         "change_24h": 0
+      },
+      {
+        "symbol": "SOL",
+        "name": "Solana",
+        "rank": 7,
+        "score": 3,
+        "change_24h": 0.9
+      },
+      {
+        "symbol": "PEARL",
+        "name": "Pearl",
+        "rank": 85,
+        "score": 4,
+        "change_24h": 11.3
+      },
+      {
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "rank": 10,
+        "score": 5,
+        "change_24h": 4.86
+      },
+      {
+        "symbol": "PUMP",
+        "name": "Pump.fun",
+        "rank": 44,
+        "score": 6,
+        "change_24h": 7.53
       }
     ]
   },
@@ -498,10 +496,33 @@
     "top_mentioned": [],
     "news": [
       {
+        "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+        "published": "Thu, 22 Oct 2026 01:05:15 GMT",
+        "assets": [
+          "GOOGL",
+          "AMZN"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
+        "published": "Thu, 22 Oct 2026 00:47:38 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
         "title": "Tesla beats on earnings and sales even as auto revenue declines",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-        "published": "Wed, 21 Oct 2026 22:35:36 GMT",
+        "published": "Wed, 21 Oct 2026 23:32:04 GMT",
         "assets": [
           "TSLA"
         ],
@@ -510,14 +531,14 @@
         "color": "yellow"
       },
       {
-        "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+        "title": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-        "published": "Wed, 21 Oct 2026 21:12:29 GMT",
+        "url": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
+        "published": "Thu, 22 Oct 2026 00:52:13 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
@@ -530,6 +551,38 @@
         "color": "green"
       },
       {
+        "title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
+        "published": "Thu, 22 Oct 2026 00:53:01 GMT",
+        "assets": [
+          "META"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
+        "published": "Thu, 22 Oct 2026 00:07:48 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+        "published": "Wed, 21 Oct 2026 22:50:35 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
@@ -538,48 +591,6 @@
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/rick-rieder-investment-grade-bonds.html",
-        "published": "Wed, 21 Oct 2026 19:54:16 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
-        "published": "Wed, 21 Oct 2026 21:07:11 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-        "published": "Wed, 21 Oct 2026 17:27:34 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-        "published": "Wed, 21 Oct 2026 20:04:07 GMT",
-        "assets": [
-          "META"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
@@ -592,14 +603,38 @@
         "color": "red"
       },
       {
-        "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-        "published": "Wed, 21 Oct 2026 11:20:58 GMT",
+        "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 00:48:00 GMT",
         "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 23:29:00 GMT",
+        "assets": [
+          "TSLA"
+        ],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
+      },
+      {
+        "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 23:07:00 GMT",
+        "assets": [
+          "META"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
@@ -622,89 +657,59 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 21:14:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 21:00:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "7 healthcare stocks that stand out as investors pay up for the sector",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 20:59:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.2,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "2026 Balance of Power: R Senate, R House",
-        "volume_24h": 1013924,
-        "yes_price": 0.09,
+        "volume_24h": 1048658,
+        "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "US x Iran ceasefire continues through October 22?",
-        "volume_24h": 810355,
-        "yes_price": 0.8,
+        "volume_24h": 873237,
+        "yes_price": 0.93,
         "category": "finance"
       },
       {
         "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_24h": 790573,
-        "yes_price": 0.2,
-        "category": "finance"
-      },
-      {
-        "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
-        "volume_24h": 695568,
-        "yes_price": 0.8,
+        "volume_24h": 767356,
+        "yes_price": 0.21,
         "category": "finance"
       },
       {
         "title": "2026 Balance of Power: D Senate, D House",
-        "volume_24h": 629882,
-        "yes_price": 0.66,
+        "volume_24h": 631115,
+        "yes_price": 0.67,
+        "category": "finance"
+      },
+      {
+        "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+        "volume_24h": 624760,
+        "yes_price": 0.79,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-        "volume_24h": 629407,
+        "volume_24h": 618978,
         "yes_price": 0.12,
         "category": "finance"
       },
       {
-        "title": "Will the Republicans win the Texas Senate race in 2026?",
-        "volume_24h": 528481,
-        "yes_price": 0.33,
+        "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+        "volume_24h": 494732,
+        "yes_price": 0.88,
         "category": "finance"
       },
       {
         "title": "2026 Balance of Power: R Senate, D House",
-        "volume_24h": 516213,
+        "volume_24h": 487862,
         "yes_price": 0.26,
         "category": "finance"
       }
@@ -719,8 +724,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 4 bullish vs 4 bearish signals detected across stock/finance news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 7 bullish vs 2 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
