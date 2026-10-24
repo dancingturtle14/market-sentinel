@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-10-23T22:35:30Z",
+  "updated_at": "2026-10-24T01:27:49Z",
   "crypto": {
     "fear_greed": {
-      "value": 50,
+      "value": 51,
       "label": "Neutral",
-      "previous_value": 68,
-      "previous_label": "Greed"
+      "previous_value": 50,
+      "previous_label": "Neutral"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 81086,
-        "change_24h": -0.24,
-        "market_cap": 1630158618105,
-        "volume_24h": 22594384042
+        "price_usd": 80732,
+        "change_24h": -0.79,
+        "market_cap": 1622938756005,
+        "volume_24h": 23469146825
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2381.92,
-        "change_24h": 0.01,
-        "market_cap": 290999877662,
-        "volume_24h": 9002041975
+        "price_usd": 2374.66,
+        "change_24h": -0.57,
+        "market_cap": 290087292239,
+        "volume_24h": 9871009312
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 738.5,
-        "change_24h": 1.02,
-        "market_cap": 97131457382,
-        "volume_24h": 858789946
+        "price_usd": 736.96,
+        "change_24h": 0.77,
+        "market_cap": 96916995260,
+        "volume_24h": 950923519
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.3,
-        "change_24h": -0.69,
-        "market_cap": 81908459677,
-        "volume_24h": 1209957556
+        "price_usd": 1.29,
+        "change_24h": -1.66,
+        "market_cap": 81344763779,
+        "volume_24h": 1313598597
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 102.99,
-        "change_24h": -0.36,
-        "market_cap": 60741331827,
-        "volume_24h": 2025409639
+        "price_usd": 102.41,
+        "change_24h": -1.41,
+        "market_cap": 60394020736,
+        "volume_24h": 2197296580
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.078484,
-        "change_24h": -0.15,
-        "market_cap": 12280897802,
-        "volume_24h": 449144024
+        "price_usd": 0.078632,
+        "change_24h": -0.46,
+        "market_cap": 12300397278,
+        "volume_24h": 474886056
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 11.82,
-        "change_24h": -0.76,
-        "market_cap": 9065986150,
-        "volume_24h": 198119799
+        "price_usd": 11.79,
+        "change_24h": -1.92,
+        "market_cap": 9038651485,
+        "volume_24h": 220093534
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.21104,
-        "change_24h": -0.27,
-        "market_cap": 7929921298,
-        "volume_24h": 220564251
+        "price_usd": 0.210694,
+        "change_24h": -0.78,
+        "market_cap": 7915091079,
+        "volume_24h": 243579986
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 9.01,
-        "change_24h": -0.91,
-        "market_cap": 3998907227,
-        "volume_24h": 184952186
+        "price_usd": 9.03,
+        "change_24h": -0.99,
+        "market_cap": 4007864885,
+        "volume_24h": 214874682
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 5,
-        "price_usd": 81086,
-        "change_24h": -0.24
+        "price_usd": 80732,
+        "change_24h": -0.79
       },
       {
         "symbol": "BNB",
         "mentions": 2,
-        "price_usd": 738.5,
-        "change_24h": 1.02
+        "price_usd": 736.96,
+        "change_24h": 0.77
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 2381.92,
-        "change_24h": 0.01
+        "price_usd": 2374.66,
+        "change_24h": -0.57
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 102.99,
-        "change_24h": -0.36
+        "price_usd": 102.41,
+        "change_24h": -1.41
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.3,
-        "change_24h": -0.69
+        "price_usd": 1.29,
+        "change_24h": -1.66
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.21104,
-        "change_24h": -0.27
+        "price_usd": 0.210694,
+        "change_24h": -0.78
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.078484,
-        "change_24h": -0.15
+        "price_usd": 0.078632,
+        "change_24h": -0.46
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 9.01,
-        "change_24h": -0.91
+        "price_usd": 9.03,
+        "change_24h": -0.99
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 11.82,
-        "change_24h": -0.76
+        "price_usd": 11.79,
+        "change_24h": -1.92
       },
       {
         "symbol": "TON",
@@ -315,10 +315,17 @@
       "label": "Neutral",
       "color": "yellow"
     },
-    "polymarket": [],
+    "polymarket": [
+      {
+        "title": "Will Bitcoin dip to $80,000 on October 23?",
+        "volume_24h": 118088,
+        "yes_price": 0.12,
+        "category": "crypto"
+      }
+    ],
     "polymarket_summary": {
       "outlook": "Mixed",
-      "summary": "Insufficient data to generate a summary."
+      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto prediction markets data."
     },
     "reddit": [
       {
@@ -351,14 +358,14 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 144,
+      "active_threads": 145,
       "mentions": {
-        "XRP": 31,
-        "BTC": 11,
+        "XRP": 25,
+        "BTC": 12,
         "ETH": 2
       },
-      "bullish_hits": 80,
-      "bearish_hits": 59,
+      "bullish_hits": 77,
+      "bearish_hits": 55,
       "bullish_pct": 58,
       "top_coin": "XRP"
     },
@@ -366,51 +373,51 @@
       {
         "symbol": "IRYS",
         "name": "Irys",
-        "rank": 191,
+        "rank": 188,
         "score": 0,
-        "change_24h": 246.46
-      },
-      {
-        "symbol": "UHI",
-        "name": "Universal High Income",
-        "rank": 613,
-        "score": 1,
-        "change_24h": 27.65
-      },
-      {
-        "symbol": "PEARL",
-        "name": "Pearl",
-        "rank": 88,
-        "score": 2,
-        "change_24h": -6.05
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 112,
-        "score": 3,
-        "change_24h": -0.47
+        "change_24h": 326.2
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
+        "score": 1,
+        "change_24h": -0.68
+      },
+      {
+        "symbol": "NEAR",
+        "name": "NEAR Protocol",
+        "rank": 20,
+        "score": 2,
+        "change_24h": -5.52
+      },
+      {
+        "symbol": "QTC",
+        "name": "Quantus",
+        "rank": 705,
+        "score": 3,
+        "change_24h": -2.39
+      },
+      {
+        "symbol": "PEPE",
+        "name": "Pepe",
+        "rank": 51,
         "score": 4,
-        "change_24h": -0.24
+        "change_24h": 3.42
       },
       {
-        "symbol": "AAVE",
-        "name": "Aave",
-        "rank": 46,
+        "symbol": "BIRB",
+        "name": "Moonbirds",
+        "rank": 439,
         "score": 5,
-        "change_24h": -1.32
+        "change_24h": 240.36
       },
       {
-        "symbol": "AERO",
-        "name": "Aerodrome Finance",
-        "rank": 98,
+        "symbol": "AXIS",
+        "name": "Axis Robotics",
+        "rank": 412,
         "score": 6,
-        "change_24h": -6.88
+        "change_24h": 13.73
       }
     ]
   },
@@ -503,6 +510,16 @@
         "color": "red"
       },
       {
+        "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+        "published": "Fri, 23 Oct 2026 22:49:04 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
         "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
@@ -516,10 +533,20 @@
         "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-        "published": "Fri, 23 Oct 2026 22:30:52 GMT",
+        "published": "Fri, 23 Oct 2026 22:49:42 GMT",
         "assets": [
           "AAPL"
         ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+        "published": "Fri, 23 Oct 2026 16:55:37 GMT",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -537,16 +564,6 @@
         "color": "green"
       },
       {
-        "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-        "published": "Fri, 23 Oct 2026 16:55:37 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/23/meta-shares-rough-week-mike-khouw-is-buying.html",
@@ -557,16 +574,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-        "published": "Fri, 23 Oct 2026 19:19:08 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
       },
       {
         "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
@@ -589,10 +596,20 @@
         "color": "yellow"
       },
       {
-        "title": "Democratic socialist set to become D.C. mayor — and face Trump's pushback",
+        "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html",
-        "published": "Fri, 23 Oct 2026 10:30:01 GMT",
+        "url": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+        "published": "Fri, 23 Oct 2026 19:19:08 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 22:49:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -637,69 +654,59 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 21:06:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
       }
     ],
     "news_sentiment": {
-      "score": 0.267,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "NATO x Russia military clash by October 31, 2026?",
-        "volume_24h": 1389178,
+        "volume_24h": 1336293,
         "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-        "volume_24h": 1237171,
+        "volume_24h": 1239349,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "2026 Balance of Power: R Senate, R House",
-        "volume_24h": 1212720,
+        "volume_24h": 1205309,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-        "volume_24h": 1184475,
+        "volume_24h": 1186749,
         "yes_price": 0.93,
         "category": "finance"
       },
       {
         "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
-        "volume_24h": 759622,
+        "volume_24h": 783366,
         "yes_price": 0.77,
         "category": "finance"
       },
       {
         "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-        "volume_24h": 663505,
+        "volume_24h": 660160,
         "yes_price": 0.68,
         "category": "finance"
       },
       {
         "title": "2026 Balance of Power: D Senate, D House",
-        "volume_24h": 623479,
+        "volume_24h": 604585,
         "yes_price": 0.67,
         "category": "finance"
       },
       {
         "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-        "volume_24h": 527420,
+        "volume_24h": 525827,
         "yes_price": 0.92,
         "category": "finance"
       }
@@ -714,8 +721,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 2 bullish vs 4 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
@@ -723,7 +730,7 @@
       "symbol": "BKHY",
       "name": "BlackRock High Yield Bond",
       "type": "Bond Income",
-      "price_usd": 45.63,
+      "price_usd": 45.62,
       "change_1d": -0.05,
       "change_1w": 0.19,
       "change_1m": -0.74,
