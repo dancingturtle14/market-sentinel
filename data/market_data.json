@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-29T21:42:43Z",
+  "updated_at": "2026-10-30T01:47:27Z",
   "crypto": {
     "fear_greed": {
-      "value": 51,
-      "label": "Neutral",
+      "value": 30,
+      "label": "Fear",
       "previous_value": 51,
       "previous_label": "Neutral"
     },
@@ -11,130 +11,130 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 79404,
-        "change_24h": -2.14,
-        "market_cap": 1596868534232,
-        "volume_24h": 35796673230
+        "price_usd": 76948,
+        "change_24h": -4.32,
+        "market_cap": 1547405145296,
+        "volume_24h": 46941107757
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2284.8,
-        "change_24h": -3.11,
-        "market_cap": 279180451664,
-        "volume_24h": 15408543104
+        "price_usd": 2201.63,
+        "change_24h": -5.42,
+        "market_cap": 269206142221,
+        "volume_24h": 22013732651
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 708.31,
-        "change_24h": -6.27,
-        "market_cap": 93206022871,
-        "volume_24h": 2600183918
+        "price_usd": 698.48,
+        "change_24h": -6.95,
+        "market_cap": 91907461038,
+        "volume_24h": 3239627652
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.26,
-        "change_24h": -5.25,
-        "market_cap": 79766538061,
-        "volume_24h": 2420428483
+        "price_usd": 1.21,
+        "change_24h": -7.54,
+        "market_cap": 76664045728,
+        "volume_24h": 3126513452
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 97.67,
-        "change_24h": -4.5,
-        "market_cap": 57718425771,
-        "volume_24h": 3859400912
+        "price_usd": 93.82,
+        "change_24h": -6.7,
+        "market_cap": 55375682635,
+        "volume_24h": 5216897579
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.076665,
-        "change_24h": -4.17,
-        "market_cap": 12002596285,
-        "volume_24h": 622130377
+        "price_usd": 0.074121,
+        "change_24h": -5.94,
+        "market_cap": 11606706670,
+        "volume_24h": 849932531
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 11.18,
-        "change_24h": -5.38,
-        "market_cap": 8574416495,
-        "volume_24h": 373413250
+        "price_usd": 10.52,
+        "change_24h": -9.36,
+        "market_cap": 8073153968,
+        "volume_24h": 709036157
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.194346,
-        "change_24h": -5.74,
-        "market_cap": 7307238448,
-        "volume_24h": 409590151
+        "price_usd": 0.18738,
+        "change_24h": -7.15,
+        "market_cap": 7042960567,
+        "volume_24h": 486203236
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.52,
-        "change_24h": -5.42,
-        "market_cap": 3785118068,
-        "volume_24h": 250967585
+        "price_usd": 8.19,
+        "change_24h": -7.19,
+        "market_cap": 3641300758,
+        "volume_24h": 322973651
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 3,
-        "price_usd": 79404,
-        "change_24h": -2.14
+        "mentions": 2,
+        "price_usd": 76948,
+        "change_24h": -4.32
       },
       {
         "symbol": "XRP",
         "mentions": 2,
-        "price_usd": 1.26,
-        "change_24h": -5.25
+        "price_usd": 1.21,
+        "change_24h": -7.54
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 2284.8,
-        "change_24h": -3.11
-      },
-      {
-        "symbol": "SOL",
-        "mentions": 1,
-        "price_usd": 97.67,
-        "change_24h": -4.5
+        "price_usd": 2201.63,
+        "change_24h": -5.42
       },
       {
         "symbol": "BNB",
         "mentions": 1,
-        "price_usd": 708.31,
-        "change_24h": -6.27
+        "price_usd": 698.48,
+        "change_24h": -6.95
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 0,
+        "price_usd": 93.82,
+        "change_24h": -6.7
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.194346,
-        "change_24h": -5.74
+        "price_usd": 0.18738,
+        "change_24h": -7.15
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.076665,
-        "change_24h": -4.17
+        "price_usd": 0.074121,
+        "change_24h": -5.94
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 8.52,
-        "change_24h": -5.42
+        "price_usd": 8.19,
+        "change_24h": -7.19
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 11.18,
-        "change_24h": -5.38
+        "price_usd": 10.52,
+        "change_24h": -9.36
       },
       {
         "symbol": "TON",
@@ -145,7 +145,17 @@
     ],
     "news": [
       {
-        "title": "Multi-billion Binance hack hitting crypto markets",
+        "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+        "published": "Fri, 30 Oct 2026 00:17:10 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
         "published": "Thu, 29 Oct 2026 21:12:45 +0000",
@@ -240,19 +250,40 @@
         "color": "yellow"
       },
       {
-        "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
-        "published": "Thu, 29 Oct 2026 14:15:00 +0000",
-        "assets": [
-          "LINK"
-        ],
+        "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 30 Oct 2026 00:11:26 +0000",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Binance investigates potential multibillion-dollar hack",
+        "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 29 Oct 2026 23:24:21 +0000",
+        "assets": [
+          "BTC",
+          "BNB"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 29 Oct 2026 22:31:07 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Thu, 29 Oct 2026 21:24:36 +0000",
@@ -270,90 +301,48 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Public companies double share of blockchain revenue since 2022: Report",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 29 Oct 2026 19:53:14 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Polymarket suspended trading amid reports of user funds being drained",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 29 Oct 2026 19:23:03 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 29 Oct 2026 17:12:03 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.133,
+      "score": -0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "Will Bitcoin dip to $77,500 in October?",
-        "volume_24h": 225997,
-        "yes_price": 0.43,
-        "category": "crypto"
-      },
-      {
         "title": "Will Bitcoin reach $82,500 in October?",
-        "volume_24h": 146760,
-        "yes_price": 0.2,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $85,000 in October?",
-        "volume_24h": 134543,
-        "yes_price": 0.04,
+        "volume_24h": 215517,
+        "yes_price": 0.06,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $75,000 in October?",
-        "volume_24h": 105606,
-        "yes_price": 0.12,
+        "volume_24h": 197289,
+        "yes_price": 0.51,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Ethereum be above $2,400 on October 30?",
-        "volume_24h": 102588,
-        "yes_price": 0.05,
+        "title": "Will Bitcoin dip to $72,500 in October?",
+        "volume_24h": 144804,
+        "yes_price": 0.16,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $78,000 October 26-November 1?",
-        "volume_24h": 96492,
-        "yes_price": 0.58,
+        "title": "Will Bitcoin dip to $70,000 in October?",
+        "volume_24h": 130694,
+        "yes_price": 0.06,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $78,000 on October 29?",
-        "volume_24h": 92722,
-        "yes_price": 0.24,
+        "title": "Will the price of Bitcoin be above $72,000 on October 30?",
+        "volume_24h": 122910,
+        "yes_price": 0.97,
         "category": "crypto"
       },
       {
-        "title": "Will the price of Bitcoin be above $78,000 on October 30?",
-        "volume_24h": 88187,
-        "yes_price": 0.8,
+        "title": "Will the price of Bitcoin be above $80,000 on October 30?",
+        "volume_24h": 115515,
+        "yes_price": 0.07,
         "category": "crypto"
       }
     ],
@@ -365,11 +354,11 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 3,
+          "BTC": 2,
           "XRP": 2,
           "ETH": 1,
-          "SOL": 1,
           "BNB": 1,
+          "SOL": 0,
           "ADA": 0,
           "DOGE": 0,
           "AVAX": 0,
@@ -392,66 +381,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 131,
+      "active_threads": 117,
       "mentions": {
-        "XRP": 28,
-        "BTC": 19,
-        "BNB": 4
+        "BNB": 19,
+        "BTC": 18,
+        "XRP": 16
       },
-      "bullish_hits": 91,
-      "bearish_hits": 52,
-      "bullish_pct": 64,
-      "top_coin": "XRP"
+      "bullish_hits": 68,
+      "bearish_hits": 54,
+      "bullish_pct": 56,
+      "top_coin": "BNB"
     },
     "cg_trending": [
       {
         "symbol": "SP",
         "name": "Super Pepe",
-        "rank": 910,
+        "rank": 920,
         "score": 0,
-        "change_24h": 203.26
+        "change_24h": 438.69
       },
       {
-        "symbol": "BNB",
-        "name": "BNB",
-        "rank": 4,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 1,
-        "change_24h": -5.75
+        "change_24h": -4.67
       },
       {
         "symbol": "HYPE",
         "name": "Hyperliquid",
         "rank": 10,
         "score": 2,
-        "change_24h": 17.44
+        "change_24h": 12.7
       },
       {
-        "symbol": "XMR",
-        "name": "Monero",
-        "rank": 13,
+        "symbol": "ENA",
+        "name": "Ethena",
+        "rank": 41,
         "score": 3,
-        "change_24h": 5.41
+        "change_24h": -13.05
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "AAVE",
+        "name": "Aave",
+        "rank": 50,
         "score": 4,
-        "change_24h": -2.14
+        "change_24h": -10.47
       },
       {
-        "symbol": "ETH",
-        "name": "Ethereum",
-        "rank": 2,
+        "symbol": "PEPE",
+        "name": "Pepe",
+        "rank": 48,
         "score": 5,
-        "change_24h": -2.98
+        "change_24h": -9.5
       },
       {
-        "symbol": "SOL",
-        "name": "Solana",
-        "rank": 7,
+        "symbol": "BNB",
+        "name": "BNB",
+        "rank": 4,
         "score": 6,
-        "change_24h": -4.56
+        "change_24h": -7.75
       }
     ]
   },
@@ -534,10 +523,20 @@
     "top_mentioned": [],
     "news": [
       {
+        "title": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+        "published": "Thu, 29 Oct 2026 23:56:02 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-        "published": "Thu, 29 Oct 2026 21:35:25 GMT",
+        "published": "Thu, 29 Oct 2026 22:24:49 GMT",
         "assets": [
           "AMZN"
         ],
@@ -546,14 +545,36 @@
         "color": "red"
       },
       {
-        "title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
+        "title": "How elections worldwide are testing Trump’s influence abroad",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
+        "published": "Fri, 30 Oct 2026 00:13:22 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-        "published": "Thu, 29 Oct 2026 21:36:35 GMT",
+        "published": "Fri, 30 Oct 2026 00:39:52 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
+      },
+      {
+        "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+        "published": "Fri, 30 Oct 2026 00:38:13 GMT",
+        "assets": [
+          "MSFT"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
@@ -566,50 +587,24 @@
         "color": "red"
       },
       {
-        "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
+        "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-        "published": "Thu, 29 Oct 2026 20:15:19 GMT",
-        "assets": [
-          "GOOGL"
-        ],
+        "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+        "published": "Fri, 30 Oct 2026 01:34:32 GMT",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+        "title": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-        "published": "Thu, 29 Oct 2026 21:22:50 GMT",
-        "assets": [
-          "GOOGL"
-        ],
+        "url": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
+        "published": "Fri, 30 Oct 2026 01:06:07 GMT",
+        "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-        "published": "Thu, 29 Oct 2026 21:39:05 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
-        "published": "Thu, 29 Oct 2026 19:16:32 GMT",
-        "assets": [
-          "NVDA"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "It's a 'socialist' bank — and North Dakota Republicans love it",
@@ -625,27 +620,29 @@
         "title": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
-        "published": "Thu, 29 Oct 2026 16:06:02 GMT",
+        "published": "Thu, 29 Oct 2026 21:55:42 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-        "published": "Thu, 29 Oct 2026 21:29:59 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 00:15:00 GMT",
+        "assets": [
+          "AMZN"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
-        "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
+        "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 21:36:00 GMT",
+        "published": "Fri, 30 Oct 2026 00:14:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -655,97 +652,85 @@
         "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 21:35:00 GMT",
+        "published": "Fri, 30 Oct 2026 00:06:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+        "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 21:31:00 GMT",
+        "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 00:05:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
-        "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+        "title": "Why Intel’s stock is sinking toward its worst drop in two years",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 20:45:00 GMT",
+        "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+        "published": "Thu, 29 Oct 2026 23:21:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "The S&P 500 isn’t the big winner you may think it is",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 20:39:00 GMT",
-        "assets": [
-          "SPY"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.2,
-      "label": "Neutral",
-      "color": "yellow"
+      "score": -0.467,
+      "label": "Bearish",
+      "color": "red"
     },
     "polymarket": [
       {
         "title": "Will the Republican Party control the House after the 2026 Midterm elections?",
-        "volume_24h": 2521599,
+        "volume_24h": 2633985,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-        "volume_24h": 2321916,
-        "yes_price": 0.93,
+        "volume_24h": 2246956,
+        "yes_price": 0.94,
         "category": "finance"
       },
       {
         "title": "2026 Balance of Power: R Senate, R House",
-        "volume_24h": 895069,
+        "volume_24h": 897761,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
+        "title": "US x Iran ceasefire continues through October 31?",
+        "volume_24h": 772521,
+        "yes_price": 0.86,
+        "category": "finance"
+      },
+      {
         "title": "Will JD Vance win the 2028 US Presidential Election?",
-        "volume_24h": 710952,
-        "yes_price": 0.16,
+        "volume_24h": 718864,
+        "yes_price": 0.17,
         "category": "finance"
       },
       {
         "title": "Will the Republicans win the Texas Senate race in 2026?",
-        "volume_24h": 657382,
+        "volume_24h": 638524,
         "yes_price": 0.3,
         "category": "finance"
       },
       {
         "title": "2026 Balance of Power: D Senate, D House",
-        "volume_24h": 613559,
+        "volume_24h": 623887,
         "yes_price": 0.68,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-        "volume_24h": 460533,
-        "yes_price": 0.24,
-        "category": "finance"
-      },
-      {
-        "title": "2026 Balance of Power: R Senate, D House",
-        "volume_24h": 441630,
-        "yes_price": 0.27,
+        "volume_24h": 491359,
+        "yes_price": 0.28,
         "category": "finance"
       }
     ],
@@ -760,7 +745,7 @@
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 3 bullish vs 7 bearish signals detected across stock/finance news data."
+      "summary": "Bearish: 0 bullish vs 7 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
