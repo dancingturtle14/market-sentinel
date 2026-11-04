@@ -1,98 +1,98 @@
 {
-  "updated_at": "2026-11-03T23:07:37Z",
+  "updated_at": "2026-11-04T03:08:12Z",
   "crypto": {
     "fear_greed": {
-      "value": 26,
+      "value": 34,
       "label": "Fear",
-      "previous_value": 37,
+      "previous_value": 26,
       "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 77777,
-        "change_24h": 1.4,
-        "market_cap": 1563721326017,
-        "volume_24h": 25077423560
+        "price_usd": 75869,
+        "change_24h": -1.09,
+        "market_cap": 1525371154120,
+        "volume_24h": 25612325036
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2288.7,
-        "change_24h": 1.74,
-        "market_cap": 279630022567,
-        "volume_24h": 8006262699
+        "price_usd": 2232.37,
+        "change_24h": -0.75,
+        "market_cap": 272771512936,
+        "volume_24h": 8439871491
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 699.85,
-        "change_24h": 0.29,
-        "market_cap": 92035628941,
-        "volume_24h": 716384611
+        "price_usd": 683.09,
+        "change_24h": -1.85,
+        "market_cap": 89834112937,
+        "volume_24h": 770986221
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.28,
-        "change_24h": 2.43,
-        "market_cap": 81028815622,
-        "volume_24h": 1611984348
+        "price_usd": 1.25,
+        "change_24h": -0.08,
+        "market_cap": 78990579196,
+        "volume_24h": 1557800642
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 93.31,
-        "change_24h": 1.57,
-        "market_cap": 55076650755,
-        "volume_24h": 2015330002
+        "price_usd": 90.5,
+        "change_24h": -1.62,
+        "market_cap": 53420392802,
+        "volume_24h": 2080215726
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.075451,
-        "change_24h": 1.73,
-        "market_cap": 11811884816,
-        "volume_24h": 313547202
+        "price_usd": 0.072708,
+        "change_24h": -1.72,
+        "market_cap": 11386283726,
+        "volume_24h": 327056851
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 11.08,
-        "change_24h": -0.24,
-        "market_cap": 8498512736,
-        "volume_24h": 256820553
+        "price_usd": 10.68,
+        "change_24h": -3.59,
+        "market_cap": 8192903296,
+        "volume_24h": 262495453
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.190669,
-        "change_24h": 1.13,
-        "market_cap": 7164689117,
-        "volume_24h": 177763106
+        "price_usd": 0.184131,
+        "change_24h": -2.01,
+        "market_cap": 6919211263,
+        "volume_24h": 180935514
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.52,
-        "change_24h": 1.59,
-        "market_cap": 3781393847,
-        "volume_24h": 203203897
+        "price_usd": 8.34,
+        "change_24h": 0.01,
+        "market_cap": 3704114154,
+        "volume_24h": 214886383
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 7,
-        "price_usd": 77777,
-        "change_24h": 1.4
+        "price_usd": 75869,
+        "change_24h": -1.09
       },
       {
         "symbol": "ETH",
         "mentions": 1,
-        "price_usd": 2288.7,
-        "change_24h": 1.74
+        "price_usd": 2232.37,
+        "change_24h": -0.75
       },
       {
         "symbol": "UNI",
@@ -103,47 +103,67 @@
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 93.31,
-        "change_24h": 1.57
+        "price_usd": 90.5,
+        "change_24h": -1.62
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 699.85,
-        "change_24h": 0.29
+        "price_usd": 683.09,
+        "change_24h": -1.85
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.28,
-        "change_24h": 2.43
+        "price_usd": 1.25,
+        "change_24h": -0.08
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.190669,
-        "change_24h": 1.13
+        "price_usd": 0.184131,
+        "change_24h": -2.01
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.075451,
-        "change_24h": 1.73
+        "price_usd": 0.072708,
+        "change_24h": -1.72
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 8.52,
-        "change_24h": 1.59
+        "price_usd": 8.34,
+        "change_24h": 0.01
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 11.08,
-        "change_24h": -0.24
+        "price_usd": 10.68,
+        "change_24h": -3.59
       }
     ],
     "news": [
+      {
+        "title": "Live updates: Crypto's big election gamble faces voters as Democrats gain ground",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+        "published": "Wed, 04 Nov 2026 00:00:00 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "What voters said about their views on crypto",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+        "published": "Tue, 03 Nov 2026 23:19:44 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "What happens if North Korea steals Wall Street's tokenized assets next",
         "source": "CoinDesk",
@@ -227,20 +247,30 @@
         "color": "yellow"
       },
       {
-        "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
-        "published": "Tue, 03 Nov 2026 14:42:30 +0000",
+        "title": "US midterms election 2026 live: Crypto-backed Andy Barr wins Kentucky Senate seat",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 04 Nov 2026 02:20:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
-        "published": "Tue, 03 Nov 2026 14:22:09 +0000",
+        "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 04 Nov 2026 00:45:16 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Tue, 03 Nov 2026 23:56:09 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -265,42 +295,10 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "CFTC clears stock perpetual futures for trading on US exchanges",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 03 Nov 2026 20:24:55 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "US midterms: Prediction markets favor Democrats in key crypto races",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 03 Nov 2026 19:38:19 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 03 Nov 2026 16:47:01 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.133,
+      "score": 0.2,
       "label": "Neutral",
       "color": "yellow"
     },
@@ -339,67 +337,67 @@
       "summary": "Bullish: 3 bullish vs 0 bearish signals detected across crypto news data."
     },
     "fourchain": {
-      "thread_count": 201,
-      "active_threads": 160,
+      "thread_count": 197,
+      "active_threads": 149,
       "mentions": {
-        "XRP": 16,
+        "XRP": 17,
         "BTC": 9,
         "BNB": 4
       },
-      "bullish_hits": 84,
+      "bullish_hits": 75,
       "bearish_hits": 60,
-      "bullish_pct": 58,
+      "bullish_pct": 56,
       "top_coin": "XRP"
     },
     "cg_trending": [
       {
         "symbol": "DACITYCOIN",
         "name": "AudaCity",
-        "rank": 870,
+        "rank": 948,
         "score": 0,
-        "change_24h": -12.37
+        "change_24h": -17.44
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
-        "rank": 113,
+        "rank": 111,
         "score": 1,
-        "change_24h": 1.84
+        "change_24h": -1.49
       },
       {
-        "symbol": "ETH",
-        "name": "Ethereum",
-        "rank": 2,
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 11,
         "score": 2,
-        "change_24h": 1.8
+        "change_24h": -1.88
       },
       {
-        "symbol": "CARDS",
-        "name": "Collector Crypt",
-        "rank": 150,
+        "symbol": "LIT",
+        "name": "Lighter",
+        "rank": 80,
         "score": 3,
-        "change_24h": 19.18
+        "change_24h": 4.32
       },
       {
-        "symbol": "SUI",
-        "name": "Sui",
-        "rank": 30,
+        "symbol": "NEAR",
+        "name": "NEAR Protocol",
+        "rank": 21,
         "score": 4,
-        "change_24h": 3.22
+        "change_24h": -2.55
       },
       {
-        "symbol": "ZEC",
-        "name": "Zcash",
-        "rank": 10,
+        "symbol": "XMR",
+        "name": "Monero",
+        "rank": 12,
         "score": 5,
-        "change_24h": 6.4
+        "change_24h": 3.89
       },
       {
-        "symbol": "PEARL",
-        "name": "Pearl",
-        "rank": 100,
+        "symbol": "QTC",
+        "name": "Quantus",
+        "rank": 748,
         "score": 6,
-        "change_24h": -1.97
+        "change_24h": 3.71
       }
     ]
   },
@@ -437,6 +435,11 @@
         "symbol": "TSLA",
         "price_usd": 398.5,
         "change_24h": -1.32
+      },
+      {
+        "symbol": "AAPL",
+        "price_usd": 331.9,
+        "change_24h": -1.9
       },
       {
         "symbol": "MSFT",
@@ -477,54 +480,44 @@
     "top_mentioned": [],
     "news": [
       {
-        "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+        "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
-        "published": "Tue, 03 Nov 2026 23:04:37 GMT",
-        "assets": [
-          "AMD"
-        ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+        "published": "Wed, 04 Nov 2026 01:49:58 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
-        "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
+        "title": "Stock market after midterm elections: What S&P 500 history shows",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
-        "published": "Tue, 03 Nov 2026 20:10:41 GMT",
+        "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+        "published": "Tue, 03 Nov 2026 18:21:05 GMT",
         "assets": [
-          "AAPL"
+          "SPY"
         ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Google responds to political backlash over removing search from schools that ban AI",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+        "published": "Wed, 04 Nov 2026 01:07:01 GMT",
+        "assets": [
+          "GOOGL"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-        "published": "Tue, 03 Nov 2026 20:33:31 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-        "published": "Tue, 03 Nov 2026 18:05:18 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
-        "published": "Tue, 03 Nov 2026 22:38:38 GMT",
+        "published": "Tue, 03 Nov 2026 23:26:39 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -539,6 +532,30 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
+      },
+      {
+        "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+        "published": "Tue, 03 Nov 2026 20:10:41 GMT",
+        "assets": [
+          "AAPL"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+        "published": "Tue, 03 Nov 2026 23:04:37 GMT",
+        "assets": [
+          "AMD"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
@@ -561,10 +578,20 @@
         "color": "yellow"
       },
       {
-        "title": "AMD has been crushed into earnings. Here’s one way to trade it",
+        "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/03/amd-has-been-crushed-into-earnings-heres-one-way-to-trade-it.html",
-        "published": "Tue, 03 Nov 2026 20:40:51 GMT",
+        "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+        "published": "Tue, 03 Nov 2026 23:37:07 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 01:16:00 GMT",
         "assets": [
           "AMD"
         ],
@@ -573,10 +600,10 @@
         "color": "yellow"
       },
       {
-        "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-        "published": "Tue, 03 Nov 2026 17:05:29 GMT",
+        "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 01:12:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -613,88 +640,66 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 21:30:00 GMT",
-        "assets": [
-          "SPY"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 21:27:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.133,
+      "score": -0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-        "volume_24h": 5410718,
-        "yes_price": 0.94,
+        "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+        "volume_24h": 2967160,
+        "yes_price": 0.8,
         "category": "finance"
       },
       {
-        "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-        "volume_24h": 2821430,
-        "yes_price": 0.76,
+        "title": "Will the Democrats win the Michigan Senate race in 2026?",
+        "volume_24h": 2391977,
+        "yes_price": 0.97,
         "category": "finance"
       },
       {
-        "title": "Will the Republican Party control the House after the 2026 Midterm elections?",
-        "volume_24h": 2792313,
-        "yes_price": 0.06,
-        "category": "finance"
-      },
-      {
-        "title": "2026 Balance of Power: R Senate, R House",
-        "volume_24h": 2693718,
+        "title": "Will the Republicans win the Michigan Senate race in 2026?",
+        "volume_24h": 1121386,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
-        "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-        "volume_24h": 2331845,
-        "yes_price": 0.32,
+        "title": "Will the Democrats win the Maine Senate race in 2026?",
+        "volume_24h": 762900,
+        "yes_price": 0.92,
         "category": "finance"
       },
       {
-        "title": "Will the Republicans win the Texas Senate race in 2026?",
-        "volume_24h": 2031285,
-        "yes_price": 0.24,
+        "title": "Will the Republicans win the Nebraska Senate race in 2026?",
+        "volume_24h": 640592,
+        "yes_price": 0.91,
         "category": "finance"
       },
       {
-        "title": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-        "volume_24h": 1872352,
-        "yes_price": 0.24,
+        "title": "Will the Democrats win the Iowa Senate race in 2026?",
+        "volume_24h": 557456,
+        "yes_price": 0.96,
         "category": "finance"
       },
       {
-        "title": "2026 Balance of Power: D Senate, D House",
-        "volume_24h": 1780199,
-        "yes_price": 0.77,
+        "title": "Will the Republicans win the Mississippi Senate race in 2026?",
+        "volume_24h": 530946,
+        "yes_price": 0.76,
+        "category": "finance"
+      },
+      {
+        "title": "Will the Democrats win the Ohio Senate race in 2026?",
+        "volume_24h": 502970,
+        "yes_price": 0.98,
         "category": "finance"
       }
     ],
     "polymarket_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 0 bullish vs 0 bearish signals detected across finance prediction markets data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 0 bullish vs 1 bearish signals detected across finance prediction markets data."
     },
     "reddit": [],
     "reddit_summary": {
@@ -715,7 +720,7 @@
       "change_1d": -0.07,
       "change_1w": -0.94,
       "change_1m": -0.07,
-      "high_3m": 46.9,
+      "high_3m": 47.19,
       "low_3m": 45.43,
       "week52_high": 48.56,
       "week52_low": 45.29,
