@@ -1,98 +1,98 @@
 {
-  "updated_at": "2026-11-04T18:49:14Z",
+  "updated_at": "2026-11-05T00:15:37Z",
   "crypto": {
     "fear_greed": {
-      "value": 34,
-      "label": "Fear",
-      "previous_value": 26,
+      "value": 50,
+      "label": "Neutral",
+      "previous_value": 34,
       "previous_label": "Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 80348,
-        "change_24h": 3.45,
-        "market_cap": 1615197953960,
-        "volume_24h": 38981679531
+        "price_usd": 80652,
+        "change_24h": 4.31,
+        "market_cap": 1621523322110,
+        "volume_24h": 40395305292
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2421.7,
-        "change_24h": 5.51,
-        "market_cap": 295864445099,
-        "volume_24h": 16548369030
+        "price_usd": 2426.23,
+        "change_24h": 6.71,
+        "market_cap": 296456627604,
+        "volume_24h": 17451894352
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 716.72,
-        "change_24h": 2.82,
-        "market_cap": 94250690265,
-        "volume_24h": 1127080010
+        "price_usd": 720.52,
+        "change_24h": 3.42,
+        "market_cap": 94753294790,
+        "volume_24h": 1135320624
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.31,
-        "change_24h": 2.06,
-        "market_cap": 82884835321,
-        "volume_24h": 2836915878
+        "change_24h": 2.46,
+        "market_cap": 82716572440,
+        "volume_24h": 2711637095
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 95.39,
-        "change_24h": 2.01,
-        "market_cap": 56299500520,
-        "volume_24h": 3730811787
+        "price_usd": 95.53,
+        "change_24h": 3.17,
+        "market_cap": 56394730406,
+        "volume_24h": 3959649579
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.076734,
-        "change_24h": 2.0,
-        "market_cap": 12017251076,
-        "volume_24h": 602394915
+        "price_usd": 0.077055,
+        "change_24h": 2.63,
+        "market_cap": 12068284379,
+        "volume_24h": 660796861
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 11.48,
-        "change_24h": 3.19,
-        "market_cap": 8799446455,
-        "volume_24h": 389809127
+        "price_usd": 11.43,
+        "change_24h": 3.98,
+        "market_cap": 8766578861,
+        "volume_24h": 403651650
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.196355,
-        "change_24h": 3.46,
-        "market_cap": 7381868768,
-        "volume_24h": 305564938
+        "price_usd": 0.197009,
+        "change_24h": 3.88,
+        "market_cap": 7402310170,
+        "volume_24h": 323866550
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.82,
-        "change_24h": 3.46,
-        "market_cap": 3916182221,
-        "volume_24h": 278804097
+        "price_usd": 8.72,
+        "change_24h": 2.67,
+        "market_cap": 3874172330,
+        "volume_24h": 250744554
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 8,
-        "price_usd": 80348,
-        "change_24h": 3.45
+        "price_usd": 80652,
+        "change_24h": 4.31
       },
       {
         "symbol": "ETH",
-        "mentions": 2,
-        "price_usd": 2421.7,
-        "change_24h": 5.51
+        "mentions": 1,
+        "price_usd": 2426.23,
+        "change_24h": 6.71
       },
       {
         "symbol": "UNI",
@@ -103,47 +103,79 @@
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 95.39,
-        "change_24h": 2.01
+        "price_usd": 95.53,
+        "change_24h": 3.17
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 716.72,
-        "change_24h": 2.82
+        "price_usd": 720.52,
+        "change_24h": 3.42
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.31,
-        "change_24h": 2.06
+        "change_24h": 2.46
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.196355,
-        "change_24h": 3.46
+        "price_usd": 0.197009,
+        "change_24h": 3.88
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.076734,
-        "change_24h": 2.0
+        "price_usd": 0.077055,
+        "change_24h": 2.63
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 8.82,
-        "change_24h": 3.46
+        "price_usd": 8.72,
+        "change_24h": 2.67
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 11.48,
-        "change_24h": 3.19
+        "price_usd": 11.43,
+        "change_24h": 3.98
       }
     ],
     "news": [
+      {
+        "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+        "published": "Wed, 04 Nov 2026 22:55:00 +0000",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+        "published": "Wed, 04 Nov 2026 22:51:42 +0000",
+        "assets": [
+          "TON"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+        "published": "Wed, 04 Nov 2026 20:29:12 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
         "source": "CoinDesk",
@@ -189,16 +221,16 @@
         "color": "yellow"
       },
       {
-        "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+        "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
         "published": "Wed, 04 Nov 2026 14:00:53 +0000",
         "assets": [
           "BTC"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
         "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
@@ -223,108 +255,82 @@
         "color": "green"
       },
       {
-        "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
-        "published": "Wed, 04 Nov 2026 12:33:54 +0000",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Here's how analysts are reacting to the new blue Congress",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
-        "published": "Wed, 04 Nov 2026 12:14:11 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
-        "published": "Wed, 04 Nov 2026 10:38:58 +0000",
+        "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 04 Nov 2026 23:20:17 +0000",
         "assets": [
           "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 04 Nov 2026 18:02:42 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 04 Nov 2026 15:29:23 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Here’s what happened in crypto today",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 04 Nov 2026 13:47:43 +0000",
+        "published": "Wed, 04 Nov 2026 22:54:23 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
+        "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
         "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 04 Nov 2026 13:44:52 +0000",
+        "url": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 04 Nov 2026 22:31:58 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+        "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
         "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 04 Nov 2026 12:12:15 +0000",
+        "url": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 04 Nov 2026 22:17:33 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 04 Nov 2026 21:30:00 +0000",
         "assets": [
-          "TON"
+          "BTC"
         ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.267,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-        "volume_24h": 221754,
-        "yes_price": 0.42,
+        "volume_24h": 278012,
+        "yes_price": 0.45,
         "category": "crypto"
       },
       {
         "title": "Will the price of Ethereum be above $2,400 on November 5?",
-        "volume_24h": 166789,
-        "yes_price": 0.65,
+        "volume_24h": 167117,
+        "yes_price": 0.68,
+        "category": "crypto"
+      },
+      {
+        "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+        "volume_24h": 135102,
+        "yes_price": 0.34,
         "category": "crypto"
       }
     ],
@@ -337,7 +343,7 @@
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 8,
-          "ETH": 2,
+          "ETH": 1,
           "UNI": 1,
           "SOL": 0,
           "BNB": 0,
@@ -358,167 +364,177 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 6 bullish vs 4 bearish signals detected across crypto news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 6 bullish vs 3 bearish signals detected across crypto news data."
     },
     "fourchain": {
-      "thread_count": 201,
-      "active_threads": 138,
+      "thread_count": 194,
+      "active_threads": 141,
       "mentions": {
-        "XRP": 20,
-        "BTC": 8,
-        "ETH": 2
+        "XRP": 21,
+        "BTC": 6,
+        "ETH": 3
       },
-      "bullish_hits": 85,
-      "bearish_hits": 61,
-      "bullish_pct": 58,
+      "bullish_hits": 88,
+      "bearish_hits": 57,
+      "bullish_pct": 61,
       "top_coin": "XRP"
     },
     "cg_trending": [
       {
+        "symbol": "FOCO",
+        "name": "FOCO",
+        "rank": 735,
+        "score": 0,
+        "change_24h": 688.02
+      },
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
+        "score": 1,
+        "change_24h": 4.0
+      },
+      {
         "symbol": "DACITYCOIN",
         "name": "AudaCity",
-        "rank": 812,
-        "score": 0,
-        "change_24h": 21.26
-      },
-      {
-        "symbol": "PEARL",
-        "name": "Pearl",
-        "rank": 99,
-        "score": 1,
-        "change_24h": 5.34
-      },
-      {
-        "symbol": "NEAR",
-        "name": "NEAR Protocol",
-        "rank": 21,
+        "rank": 783,
         "score": 2,
-        "change_24h": 5.66
-      },
-      {
-        "symbol": "TRUMP",
-        "name": "Official Trump",
-        "rank": 121,
-        "score": 3,
-        "change_24h": -17.53
-      },
-      {
-        "symbol": "ETH",
-        "name": "Ethereum",
-        "rank": 2,
-        "score": 4,
-        "change_24h": 5.51
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 112,
-        "score": 5,
-        "change_24h": 4.09
+        "change_24h": 38.18
       },
       {
         "symbol": "SOL",
         "name": "Solana",
         "rank": 7,
+        "score": 3,
+        "change_24h": 2.88
+      },
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 112,
+        "score": 4,
+        "change_24h": 2.66
+      },
+      {
+        "symbol": "AERO",
+        "name": "Aerodrome Finance",
+        "rank": 152,
+        "score": 5,
+        "change_24h": 1.14
+      },
+      {
+        "symbol": "XMR",
+        "name": "Monero",
+        "rank": 12,
         "score": 6,
-        "change_24h": 1.97
+        "change_24h": 1.37
       }
     ]
   },
   "stocks": {
     "indices": {
       "sp500": {
-        "value": 7700.3,
-        "change_24h": 1.74
+        "value": 7688.62,
+        "change_24h": 1.58
       },
       "nasdaq": {
-        "value": 25832.79,
-        "change_24h": 1.82
+        "value": 25736.51,
+        "change_24h": 1.44
       },
       "dow": {
-        "value": 53297.94,
-        "change_24h": 2.92
+        "value": 53356.12,
+        "change_24h": 3.03
       },
       "vix": {
-        "value": 16.95,
-        "change_24h": -18.63
+        "value": 16.61,
+        "change_24h": -20.26
       }
     },
     "market_mood": {
-      "score": 0.945,
+      "score": 0.877,
       "label": "Bullish",
       "color": "green"
     },
     "prices": [
       {
         "symbol": "NVDA",
-        "price_usd": 203.47,
-        "change_24h": -1.56
+        "price_usd": 200.13,
+        "change_24h": -3.17
       },
       {
         "symbol": "TSLA",
-        "price_usd": 389.51,
-        "change_24h": -2.26
+        "price_usd": 385.19,
+        "change_24h": -3.34
       },
       {
         "symbol": "AAPL",
-        "price_usd": 352.79,
-        "change_24h": 6.29
+        "price_usd": 349.51,
+        "change_24h": 5.31
       },
       {
         "symbol": "MSFT",
-        "price_usd": 555.35,
-        "change_24h": 6.6
+        "price_usd": 555.8,
+        "change_24h": 6.68
       },
       {
         "symbol": "GOOGL",
-        "price_usd": 290.71,
-        "change_24h": 3.81
+        "price_usd": 288.93,
+        "change_24h": 3.18
       },
       {
         "symbol": "AMZN",
-        "price_usd": 267.86,
-        "change_24h": 6.85
+        "price_usd": 266.03,
+        "change_24h": 6.12
       },
       {
         "symbol": "META",
-        "price_usd": 630.4,
-        "change_24h": 1.51
+        "price_usd": 630.0,
+        "change_24h": 1.44
       },
       {
         "symbol": "AMD",
-        "price_usd": 482.24,
-        "change_24h": -0.34
+        "price_usd": 488.78,
+        "change_24h": 1.01
       },
       {
         "symbol": "PLTR",
-        "price_usd": 170.96,
-        "change_24h": -2.53
+        "price_usd": 171.7,
+        "change_24h": -2.11
       },
       {
         "symbol": "COIN",
-        "price_usd": 152.52,
-        "change_24h": 4.86
+        "price_usd": 151.5,
+        "change_24h": 4.16
       }
     ],
     "top_mentioned": [],
     "news": [
       {
-        "title": "What Republicans' huge loss means for Trump",
+        "title": "What was really behind Wednesday's monster rally? Trump quickly making peace",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-        "published": "Wed, 04 Nov 2026 16:44:04 GMT",
+        "url": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+        "published": "Wed, 04 Nov 2026 22:55:22 GMT",
         "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
       },
       {
-        "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+        "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-        "published": "Wed, 04 Nov 2026 17:32:26 GMT",
+        "url": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
+        "published": "Wed, 04 Nov 2026 23:44:18 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+        "published": "Wed, 04 Nov 2026 23:17:56 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -528,188 +544,177 @@
         "title": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
-        "published": "Wed, 04 Nov 2026 18:41:36 GMT",
+        "published": "Wed, 04 Nov 2026 20:53:19 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+        "title": "Trump committee hearing on Fed Governor Lisa Cook rescheduled to Dec. 14",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-        "published": "Wed, 04 Nov 2026 12:51:00 GMT",
+        "url": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+        "published": "Thu, 05 Nov 2026 00:11:19 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+        "title": "Democrats take Congress in a blue wave. Here's what it means for your money",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
-        "published": "Wed, 04 Nov 2026 18:37:11 GMT",
+        "url": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+        "published": "Wed, 04 Nov 2026 23:11:48 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+        "published": "Wed, 04 Nov 2026 20:14:52 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+        "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-        "published": "Wed, 04 Nov 2026 18:35:35 GMT",
+        "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+        "published": "Wed, 04 Nov 2026 22:46:43 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "What Republicans' huge loss means for Trump",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+        "published": "Wed, 04 Nov 2026 21:50:05 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
+        "title": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
-        "published": "Wed, 04 Nov 2026 13:53:54 GMT",
+        "url": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
+        "published": "Thu, 05 Nov 2026 00:04:36 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-        "published": "Wed, 04 Nov 2026 12:07:08 GMT",
+        "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 23:45:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
-        "published": "Wed, 04 Nov 2026 13:43:31 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-        "published": "Wed, 04 Nov 2026 15:05:28 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have $500 in savings. What politician speaks for me?",
+        "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 18:37:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "These stocks have soared the most today after the Democrats trounced Trump",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 18:29:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "These 12 stocks are good bets to beat the 10-year Treasury over the next decade",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 18:03:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 17:44:00 GMT",
+        "url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 22:46:00 GMT",
         "assets": [
-          "GOOGL",
-          "META"
+          "SPY"
         ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Hospital stocks rally while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
+        "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 17:19:00 GMT",
+        "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 22:15:00 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 22:06:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Qualcomm’s stock falls as twin forces pressure sales",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 22:03:00 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": 0.067,
+      "score": -0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-        "volume_24h": 3405606,
-        "yes_price": 0.93,
-        "category": "finance"
-      },
-      {
-        "title": "Will the Republicans win the Mississippi Senate race in 2026?",
-        "volume_24h": 1973384,
-        "yes_price": 0.09,
+        "volume_24h": 1843960,
+        "yes_price": 0.94,
         "category": "finance"
       },
       {
         "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
-        "volume_24h": 1574037,
+        "volume_24h": 1774387,
         "yes_price": 0.93,
         "category": "finance"
       },
       {
         "title": "Will the Democrats win the Mississippi Senate race in 2026?",
-        "volume_24h": 1560376,
-        "yes_price": 0.91,
+        "volume_24h": 1548286,
+        "yes_price": 0.98,
         "category": "finance"
       },
       {
         "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
-        "volume_24h": 843351,
+        "volume_24h": 932325,
         "yes_price": 0.07,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 793613,
+        "volume_24h": 777738,
         "yes_price": 0.1,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-        "volume_24h": 507795,
+        "volume_24h": 525184,
         "yes_price": 0.78,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-        "volume_24h": 292710,
+        "volume_24h": 320792,
         "yes_price": 0.21,
+        "category": "finance"
+      },
+      {
+        "title": "Trump out as President before 2027?",
+        "volume_24h": 277213,
+        "yes_price": 0.04,
         "category": "finance"
       }
     ],
@@ -723,8 +728,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 2 bullish vs 2 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
@@ -732,15 +737,15 @@
       "symbol": "BKHY",
       "name": "BlackRock High Yield Bond",
       "type": "Bond Income",
-      "price_usd": 45.83,
-      "change_1d": 0.61,
-      "change_1w": -0.27,
-      "change_1m": 0.13,
+      "price_usd": 45.85,
+      "change_1d": 0.66,
+      "change_1w": -0.22,
+      "change_1m": 0.17,
       "high_3m": 47.19,
       "low_3m": 45.43,
       "week52_high": 48.56,
       "week52_low": 45.29,
-      "rsi": 53.6,
+      "rsi": 54.2,
       "div_yield": 7.59,
       "last_div": null,
       "outlook": {
@@ -754,9 +759,9 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 53.6 — In neutral range (45–55)",
-          "5-day momentum -0.3% — consolidating sideways →",
-          "1-month return +0.1% — range-bound"
+          "RSI 54.2 — In neutral range (45–55)",
+          "5-day momentum -0.2% — consolidating sideways →",
+          "1-month return +0.2% — range-bound"
         ]
       }
     },
@@ -764,15 +769,15 @@
       "symbol": "XYLD",
       "name": "Global X S&P 500 Covered Call",
       "type": "Covered Call Income",
-      "price_usd": 41.57,
-      "change_1d": 1.3,
-      "change_1w": -0.08,
-      "change_1m": -0.02,
+      "price_usd": 41.58,
+      "change_1d": 1.32,
+      "change_1w": -0.07,
+      "change_1m": -0.01,
       "high_3m": 41.68,
-      "low_3m": 40.58,
+      "low_3m": 40.6,
       "week52_high": 42.0,
       "week52_low": 38.22,
-      "rsi": 48.0,
+      "rsi": 48.1,
       "div_yield": 6.38,
       "last_div": null,
       "outlook": {
@@ -786,7 +791,7 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 48.0 — In neutral range (45–55)",
+          "RSI 48.1 — In neutral range (45–55)",
           "5-day momentum -0.1% — consolidating sideways →",
           "1-month return -0.0% — range-bound"
         ]
@@ -796,15 +801,15 @@
       "symbol": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium",
       "type": "Equity Income",
-      "price_usd": 57.25,
-      "change_1d": 1.17,
-      "change_1w": -4.68,
-      "change_1m": -6.53,
+      "price_usd": 57.11,
+      "change_1d": 0.92,
+      "change_1w": -4.91,
+      "change_1m": -6.76,
       "high_3m": 61.27,
       "low_3m": 56.24,
       "week52_high": 61.72,
       "week52_low": 53.51,
-      "rsi": 36.5,
+      "rsi": 35.6,
       "div_yield": 11.05,
       "last_div": null,
       "outlook": {
@@ -818,9 +823,9 @@
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 36.5 — Below neutral, mild downward pressure ↓",
-          "5-day momentum -4.7% — short-term selling pressure ↓",
-          "1-month return -6.5% — sustained downtrend ↓"
+          "RSI 35.6 — Below neutral, mild downward pressure ↓",
+          "5-day momentum -4.9% — short-term selling pressure ↓",
+          "1-month return -6.8% — sustained downtrend ↓"
         ]
       }
     },
@@ -828,15 +833,15 @@
       "symbol": "SCHD",
       "name": "Schwab US Dividend Equity",
       "type": "Dividend Growth",
-      "price_usd": 36.12,
-      "change_1d": 1.61,
-      "change_1w": 2.94,
-      "change_1m": 9.96,
-      "high_3m": 36.12,
+      "price_usd": 36.21,
+      "change_1d": 1.86,
+      "change_1w": 3.19,
+      "change_1m": 10.23,
+      "high_3m": 36.21,
       "low_3m": 32.53,
-      "week52_high": 36.15,
+      "week52_high": 36.21,
       "week52_low": 26.41,
-      "rsi": 77.5,
+      "rsi": 78.0,
       "div_yield": 3.24,
       "last_div": null,
       "outlook": {
@@ -850,9 +855,9 @@
         "reasons": [
           "Price above 20-day moving average ↑",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 77.5 — Overbought zone, historically signals a pullback ↓",
-          "5-day momentum +2.9% — short-term buying pressure ↑",
-          "1-month return +10.0% — sustained uptrend ↑"
+          "RSI 78.0 — Overbought zone, historically signals a pullback ↓",
+          "5-day momentum +3.2% — short-term buying pressure ↑",
+          "1-month return +10.2% — sustained uptrend ↑"
         ]
       }
     },
@@ -860,15 +865,15 @@
       "symbol": "QQQM",
       "name": "Invesco Nasdaq 100",
       "type": "Growth",
-      "price_usd": 285.62,
-      "change_1d": 1.2,
-      "change_1w": -4.38,
-      "change_1m": -8.68,
+      "price_usd": 284.92,
+      "change_1d": 0.95,
+      "change_1w": -4.62,
+      "change_1m": -8.9,
       "high_3m": 312.76,
       "low_3m": 280.49,
       "week52_high": 314.115,
       "week52_low": 228.75,
-      "rsi": 37.1,
+      "rsi": 36.3,
       "div_yield": 43.0,
       "last_div": null,
       "outlook": {
@@ -882,9 +887,9 @@
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 37.1 — Below neutral, mild downward pressure ↓",
-          "5-day momentum -4.4% — short-term selling pressure ↓",
-          "1-month return -8.7% — sustained downtrend ↓"
+          "RSI 36.3 — Below neutral, mild downward pressure ↓",
+          "5-day momentum -4.6% — short-term selling pressure ↓",
+          "1-month return -8.9% — sustained downtrend ↓"
         ]
       }
     }
