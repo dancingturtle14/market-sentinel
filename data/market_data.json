@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:07:49Z",
+  "updated_at": "2026-11-08T18:27:10Z",
   "crypto": {
     "fear_greed": {
       "value": 28,
@@ -11,82 +11,88 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 75928,
-        "change_24h": 0.14,
-        "market_cap": 1526884595291,
-        "volume_24h": 10390217665
+        "price_usd": 75839,
+        "change_24h": 0.11,
+        "market_cap": 1525096794911,
+        "volume_24h": 10685153561
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 2237.51,
-        "change_24h": -0.06,
-        "market_cap": 273426243070,
-        "volume_24h": 3793149445
+        "price_usd": 2232.55,
+        "change_24h": -0.11,
+        "market_cap": 272819149270,
+        "volume_24h": 3861155697
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 698.0,
-        "change_24h": 0.65,
-        "market_cap": 91795039761,
-        "volume_24h": 579405451
+        "price_usd": 696.45,
+        "change_24h": 0.12,
+        "market_cap": 91590915187,
+        "volume_24h": 579419784
       },
       {
         "symbol": "XRP",
         "name": "XRP",
         "price_usd": 1.16,
-        "change_24h": 0.38,
-        "market_cap": 73946342489,
-        "volume_24h": 826345510
+        "change_24h": -0.32,
+        "market_cap": 73543339851,
+        "volume_24h": 870385987
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 89.48,
-        "change_24h": -0.24,
-        "market_cap": 52885448217,
-        "volume_24h": 856779804
+        "price_usd": 89.58,
+        "change_24h": -0.17,
+        "market_cap": 52945561177,
+        "volume_24h": 928785274
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.071241,
-        "change_24h": -0.66,
-        "market_cap": 11160839921,
-        "volume_24h": 223192051
+        "price_usd": 0.071255,
+        "change_24h": -0.86,
+        "market_cap": 11163003775,
+        "volume_24h": 255793598
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 10.74,
-        "change_24h": -0.67,
-        "market_cap": 8232203182,
-        "volume_24h": 149374230
+        "price_usd": 10.68,
+        "change_24h": -2.1,
+        "market_cap": 8192711905,
+        "volume_24h": 150606406
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.180209,
-        "change_24h": -1.24,
-        "market_cap": 6772937868,
-        "volume_24h": 111003911
+        "price_usd": 0.180005,
+        "change_24h": -1.09,
+        "market_cap": 6765254942,
+        "volume_24h": 112395107
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.17,
-        "change_24h": -0.81,
-        "market_cap": 3641638466,
-        "volume_24h": 91901943
+        "price_usd": 8.2,
+        "change_24h": -0.49,
+        "market_cap": 3655208619,
+        "volume_24h": 98711702
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
-        "mentions": 3,
-        "price_usd": 75928,
-        "change_24h": 0.14
+        "mentions": 4,
+        "price_usd": 75839,
+        "change_24h": 0.11
+      },
+      {
+        "symbol": "SOL",
+        "mentions": 1,
+        "price_usd": 89.58,
+        "change_24h": -0.17
       },
       {
         "symbol": "LTC",
@@ -97,50 +103,44 @@
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 2237.51,
-        "change_24h": -0.06
-      },
-      {
-        "symbol": "SOL",
-        "mentions": 0,
-        "price_usd": 89.48,
-        "change_24h": -0.24
+        "price_usd": 2232.55,
+        "change_24h": -0.11
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 698.0,
-        "change_24h": 0.65
+        "price_usd": 696.45,
+        "change_24h": 0.12
       },
       {
         "symbol": "XRP",
         "mentions": 0,
         "price_usd": 1.16,
-        "change_24h": 0.38
+        "change_24h": -0.32
       },
       {
         "symbol": "ADA",
         "mentions": 0,
-        "price_usd": 0.180209,
-        "change_24h": -1.24
+        "price_usd": 0.180005,
+        "change_24h": -1.09
       },
       {
         "symbol": "DOGE",
         "mentions": 0,
-        "price_usd": 0.071241,
-        "change_24h": -0.66
+        "price_usd": 0.071255,
+        "change_24h": -0.86
       },
       {
         "symbol": "AVAX",
         "mentions": 0,
-        "price_usd": 8.17,
-        "change_24h": -0.81
+        "price_usd": 8.2,
+        "change_24h": -0.49
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 10.74,
-        "change_24h": -0.67
+        "price_usd": 10.68,
+        "change_24h": -2.1
       }
     ],
     "news": [
@@ -249,6 +249,26 @@
         "color": "green"
       },
       {
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 08 Nov 2026 13:33:00 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 08 Nov 2026 12:57:51 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -269,33 +289,11 @@
         "color": "yellow"
       },
       {
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 07 Nov 2026 14:22:00 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Sat, 07 Nov 2026 14:16:00 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin holders have received eCash — What can you do with it?",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 07 Nov 2026 13:30:00 +0000",
-        "assets": [
-          "BTC"
-        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -309,20 +307,20 @@
     "polymarket": [
       {
         "title": "Pete Hegseth out as Secretary of Defense by November 30?",
-        "volume_24h": 139301,
-        "yes_price": 0.28,
-        "category": "crypto"
-      },
-      {
-        "title": "Puffpaw FDV above $100M one day after launch?",
-        "volume_24h": 100720,
-        "yes_price": 0.94,
+        "volume_24h": 181505,
+        "yes_price": 0.35,
         "category": "crypto"
       },
       {
         "title": "Pete Hegseth out as Secretary of Defense by December 31?",
-        "volume_24h": 100451,
-        "yes_price": 0.41,
+        "volume_24h": 156272,
+        "yes_price": 0.47,
+        "category": "crypto"
+      },
+      {
+        "title": "Puffpaw FDV above $100M one day after launch?",
+        "volume_24h": 85899,
+        "yes_price": 0.94,
         "category": "crypto"
       }
     ],
@@ -334,10 +332,10 @@
       {
         "subreddit": "r/CryptoCurrency",
         "mentions": {
-          "BTC": 3,
+          "BTC": 4,
+          "SOL": 1,
           "LTC": 1,
           "ETH": 0,
-          "SOL": 0,
           "BNB": 0,
           "XRP": 0,
           "ADA": 0,
@@ -361,66 +359,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 150,
+      "active_threads": 149,
       "mentions": {
-        "XRP": 27,
-        "BTC": 10,
+        "XRP": 36,
+        "BTC": 11,
         "BNB": 2
       },
-      "bullish_hits": 92,
-      "bearish_hits": 62,
-      "bullish_pct": 60,
+      "bullish_hits": 95,
+      "bearish_hits": 61,
+      "bullish_pct": 61,
       "top_coin": "XRP"
     },
     "cg_trending": [
       {
         "symbol": "WASTED",
         "name": "WASTED",
-        "rank": 829,
+        "rank": 728,
         "score": 0,
-        "change_24h": 35.94
+        "change_24h": 48.93
       },
       {
-        "symbol": "JCT",
-        "name": "Janction",
-        "rank": 198,
+        "symbol": "JOSÉ",
+        "name": "Be Like José",
+        "rank": 975,
         "score": 1,
-        "change_24h": 337.81
+        "change_24h": 0
       },
       {
         "symbol": "DACITY",
         "name": "Dacity Coin",
-        "rank": 816,
+        "rank": 749,
         "score": 2,
-        "change_24h": 10.2
+        "change_24h": 18.56
       },
       {
-        "symbol": "PEARL",
-        "name": "Pearl",
-        "rank": 88,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 3,
-        "change_24h": 0.55
+        "change_24h": -0.0
+      },
+      {
+        "symbol": "PUMP",
+        "name": "Pump.fun",
+        "rank": 55,
+        "score": 4,
+        "change_24h": -0.33
       },
       {
         "symbol": "STONK",
         "name": "STONK",
-        "rank": 439,
-        "score": 4,
-        "change_24h": -34.76
-      },
-      {
-        "symbol": "XRP",
-        "name": "XRP",
-        "rank": 5,
+        "rank": 511,
         "score": 5,
-        "change_24h": 0.17
+        "change_24h": -44.28
       },
       {
-        "symbol": "SUI",
-        "name": "Sui",
-        "rank": 29,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 116,
         "score": 6,
-        "change_24h": -0.87
+        "change_24h": -1.85
       }
     ]
   },
@@ -506,6 +504,29 @@
         "title": "How Democrats will try to end Trump's tariffs",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+        "published": "Sun, 08 Nov 2026 15:36:39 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+        "published": "Sun, 08 Nov 2026 18:18:30 GMT",
+        "assets": [
+          "NVDA",
+          "SPY"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
         "published": "Sun, 08 Nov 2026 13:00:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
@@ -523,16 +544,6 @@
         "color": "green"
       },
       {
-        "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
-        "published": "Sun, 08 Nov 2026 13:00:01 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
@@ -545,30 +556,30 @@
         "color": "green"
       },
       {
+        "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+        "published": "Sun, 08 Nov 2026 14:00:01 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+        "published": "Sun, 08 Nov 2026 14:14:11 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
         "title": "Trump offers UFC chief Dana White press secretary job",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
         "published": "Sat, 07 Nov 2026 23:13:38 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
-        "published": "Sun, 08 Nov 2026 09:29:04 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
-        "published": "Sun, 08 Nov 2026 11:47:24 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -595,118 +606,96 @@
         "color": "red"
       },
       {
-        "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-        "published": "Sat, 07 Nov 2026 16:02:33 GMT",
+        "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "published": "Sun, 08 Nov 2026 18:00:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "This market signal called the tech selloff. Now it’s sending another warning.",
+        "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
-        "published": "Sun, 08 Nov 2026 12:00:00 GMT",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-        "published": "Sat, 07 Nov 2026 20:48:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-        "published": "Sat, 07 Nov 2026 20:36:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Here are the 2027 capital-gains tax rates for each income level",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-        "published": "Sat, 07 Nov 2026 19:48:00 GMT",
+        "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+        "published": "Sun, 08 Nov 2026 17:30:00 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       },
       {
-        "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+        "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-        "published": "Sat, 07 Nov 2026 19:20:00 GMT",
+        "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+        "published": "Sun, 08 Nov 2026 17:23:00 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+        "published": "Sun, 08 Nov 2026 16:00:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+        "published": "Sun, 08 Nov 2026 15:30:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.133,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "Israel x Iran ceasefire continues through November 15?",
-        "volume_24h": 211861,
-        "yes_price": 0.91,
-        "category": "finance"
-      },
-      {
         "title": "US announces end of Iranian blockade by November 15, 2026?",
-        "volume_24h": 208053,
-        "yes_price": 0.04,
+        "volume_24h": 269969,
+        "yes_price": 0.05,
         "category": "finance"
       },
       {
-        "title": "Israel x Iran ceasefire continues through December 31?",
-        "volume_24h": 145096,
-        "yes_price": 0.58,
+        "title": "Israel x Iran ceasefire continues through November 15?",
+        "volume_24h": 241461,
+        "yes_price": 0.92,
+        "category": "finance"
+      },
+      {
+        "title": "Iran leadership change by December 31?",
+        "volume_24h": 202215,
+        "yes_price": 0.07,
+        "category": "finance"
+      },
+      {
+        "title": "Will Jean-Luc Mélenchon win the 2027 French presidential election?",
+        "volume_24h": 196330,
+        "yes_price": 0.14,
         "category": "finance"
       },
       {
         "title": "US announces end of Iranian blockade by November 30, 2026?",
-        "volume_24h": 122236,
+        "volume_24h": 147803,
         "yes_price": 0.14,
         "category": "finance"
       },
       {
         "title": "Will Chuck Schumer be the next Senate Majority Leader?",
-        "volume_24h": 92819,
-        "yes_price": 0.92,
-        "category": "finance"
-      },
-      {
-        "title": "Will Jean-Luc Mélenchon win the 2027 French presidential election?",
-        "volume_24h": 89946,
-        "yes_price": 0.14,
-        "category": "finance"
-      },
-      {
-        "title": "US announces end of Iranian blockade by March 31, 2027?",
-        "volume_24h": 79632,
-        "yes_price": 0.66,
-        "category": "finance"
-      },
-      {
-        "title": "US announces end of Iranian blockade by December 31, 2026?",
-        "volume_24h": 63044,
-        "yes_price": 0.34,
+        "volume_24h": 103099,
+        "yes_price": 0.93,
         "category": "finance"
       }
     ],
@@ -720,8 +709,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 3 bullish vs 0 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 3 bullish vs 2 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
