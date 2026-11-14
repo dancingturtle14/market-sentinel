@@ -1,140 +1,140 @@
 {
-  "updated_at": "2026-11-13T22:47:50Z",
+  "updated_at": "2026-11-14T02:59:15Z",
   "crypto": {
     "fear_greed": {
-      "value": 20,
+      "value": 13,
       "label": "Extreme Fear",
-      "previous_value": 28,
-      "previous_label": "Fear"
+      "previous_value": 20,
+      "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 68370,
-        "change_24h": -4.18,
-        "market_cap": 1375019892600,
-        "volume_24h": 43567011927
+        "price_usd": 67549,
+        "change_24h": -3.85,
+        "market_cap": 1358558980829,
+        "volume_24h": 42433372839
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1930.4,
-        "change_24h": -3.99,
-        "market_cap": 235945091476,
-        "volume_24h": 14901173568
+        "price_usd": 1908.19,
+        "change_24h": -4.17,
+        "market_cap": 233228971231,
+        "volume_24h": 15087623147
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 630.79,
-        "change_24h": -3.44,
-        "market_cap": 82959022090,
-        "volume_24h": 1039382703
+        "price_usd": 624.51,
+        "change_24h": -3.46,
+        "market_cap": 82132882893,
+        "volume_24h": 1050402018
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 1.01,
-        "change_24h": -2.4,
-        "market_cap": 64144380181,
-        "volume_24h": 2101751114
+        "price_usd": 1.002,
+        "change_24h": -1.92,
+        "market_cap": 63637145239,
+        "volume_24h": 2296987286
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 78.32,
-        "change_24h": -3.65,
-        "market_cap": 46337256635,
-        "volume_24h": 3472005298
+        "price_usd": 75.96,
+        "change_24h": -5.39,
+        "market_cap": 44940445313,
+        "volume_24h": 3772776697
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.064412,
-        "change_24h": -2.68,
-        "market_cap": 10094404859,
-        "volume_24h": 562611245
+        "price_usd": 0.063147,
+        "change_24h": -3.53,
+        "market_cap": 9897693025,
+        "volume_24h": 588706137
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.81,
-        "change_24h": -2.56,
-        "market_cap": 7526932635,
-        "volume_24h": 288051467
+        "price_usd": 9.68,
+        "change_24h": -2.63,
+        "market_cap": 7425861682,
+        "volume_24h": 302425785
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.16768,
-        "change_24h": -3.39,
-        "market_cap": 6300164423,
-        "volume_24h": 255277187
+        "price_usd": 0.164915,
+        "change_24h": -3.83,
+        "market_cap": 6195304022,
+        "volume_24h": 266799860
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 8.21,
-        "change_24h": -1.39,
-        "market_cap": 3665872243,
-        "volume_24h": 251219016
+        "price_usd": 8.12,
+        "change_24h": -1.73,
+        "market_cap": 3623497749,
+        "volume_24h": 261492809
       }
     ],
     "top_mentioned": [
       {
         "symbol": "BTC",
         "mentions": 4,
-        "price_usd": 68370,
-        "change_24h": -4.18
+        "price_usd": 67549,
+        "change_24h": -3.85
+      },
+      {
+        "symbol": "ADA",
+        "mentions": 1,
+        "price_usd": 0.164915,
+        "change_24h": -3.83
       },
       {
         "symbol": "DOGE",
         "mentions": 1,
-        "price_usd": 0.064412,
-        "change_24h": -2.68
+        "price_usd": 0.063147,
+        "change_24h": -3.53
       },
       {
         "symbol": "AVAX",
         "mentions": 1,
-        "price_usd": 8.21,
-        "change_24h": -1.39
+        "price_usd": 8.12,
+        "change_24h": -1.73
       },
       {
         "symbol": "ETH",
         "mentions": 0,
-        "price_usd": 1930.4,
-        "change_24h": -3.99
+        "price_usd": 1908.19,
+        "change_24h": -4.17
       },
       {
         "symbol": "SOL",
         "mentions": 0,
-        "price_usd": 78.32,
-        "change_24h": -3.65
+        "price_usd": 75.96,
+        "change_24h": -5.39
       },
       {
         "symbol": "BNB",
         "mentions": 0,
-        "price_usd": 630.79,
-        "change_24h": -3.44
+        "price_usd": 624.51,
+        "change_24h": -3.46
       },
       {
         "symbol": "XRP",
         "mentions": 0,
-        "price_usd": 1.01,
-        "change_24h": -2.4
-      },
-      {
-        "symbol": "ADA",
-        "mentions": 0,
-        "price_usd": 0.16768,
-        "change_24h": -3.39
+        "price_usd": 1.002,
+        "change_24h": -1.92
       },
       {
         "symbol": "LINK",
         "mentions": 0,
-        "price_usd": 9.81,
-        "change_24h": -2.56
+        "price_usd": 9.68,
+        "change_24h": -2.63
       },
       {
         "symbol": "TON",
@@ -144,6 +144,18 @@
       }
     ],
     "news": [
+      {
+        "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+        "published": "Fri, 13 Nov 2026 23:30:00 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
         "source": "CoinDesk",
@@ -251,18 +263,6 @@
         "color": "yellow"
       },
       {
-        "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-        "published": "Fri, 13 Nov 2026 05:45:26 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
         "title": "Here’s what happened in crypto today",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -317,57 +317,57 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.267,
+      "score": -0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "Will Bitcoin dip to $67,500 in November?",
-        "volume_24h": 385237,
-        "yes_price": 0.81,
-        "category": "crypto"
-      },
-      {
         "title": "Will Bitcoin dip to $65,000 by December 31, 2026?",
-        "volume_24h": 161687,
-        "yes_price": 0.7,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-        "volume_24h": 160447,
-        "yes_price": 0.39,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $100,000 by December 31, 2026?",
-        "volume_24h": 153738,
-        "yes_price": 0.03,
+        "volume_24h": 194635,
+        "yes_price": 0.79,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-        "volume_24h": 152974,
-        "yes_price": 0.18,
+        "volume_24h": 167736,
+        "yes_price": 0.2,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_24h": 135793,
-        "yes_price": 0.1,
+        "volume_24h": 162297,
+        "yes_price": 0.11,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $57,500 in November?",
-        "volume_24h": 133888,
-        "yes_price": 0.1,
+        "title": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+        "volume_24h": 159716,
+        "yes_price": 0.42,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $66,000 November 9-15?",
-        "volume_24h": 130982,
-        "yes_price": 0.17,
+        "volume_24h": 159549,
+        "yes_price": 0.39,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $64,000 November 9-15?",
+        "volume_24h": 157467,
+        "yes_price": 0.09,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $62,000 November 9-15?",
+        "volume_24h": 148872,
+        "yes_price": 0.04,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $66,000 on November 13?",
+        "volume_24h": 109017,
+        "yes_price": 0.07,
         "category": "crypto"
       }
     ],
@@ -380,13 +380,13 @@
         "subreddit": "r/CryptoCurrency",
         "mentions": {
           "BTC": 4,
+          "ADA": 1,
           "DOGE": 1,
           "AVAX": 1,
           "ETH": 0,
           "SOL": 0,
           "BNB": 0,
           "XRP": 0,
-          "ADA": 0,
           "LINK": 0,
           "TON": 0
         },
@@ -408,64 +408,64 @@
       "thread_count": 201,
       "active_threads": 138,
       "mentions": {
-        "BTC": 25,
-        "SOL": 7,
-        "XRP": 7
+        "BTC": 30,
+        "XRP": 9,
+        "SOL": 7
       },
-      "bullish_hits": 82,
-      "bearish_hits": 63,
-      "bullish_pct": 57,
+      "bullish_hits": 79,
+      "bearish_hits": 65,
+      "bullish_pct": 55,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "MIHAO",
-        "name": "ni hao cat",
-        "rank": 751,
+        "symbol": "PEARL",
+        "name": "Pearl",
+        "rank": 90,
         "score": 0,
-        "change_24h": -9.5
+        "change_24h": 12.65
       },
       {
-        "symbol": "SEPPUKU",
-        "name": "Seppuku",
-        "rank": 821,
+        "symbol": "SOL",
+        "name": "Solana",
+        "rank": 7,
         "score": 1,
-        "change_24h": 4.02
+        "change_24h": -5.34
+      },
+      {
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 10,
+        "score": 2,
+        "change_24h": -2.71
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
-        "score": 2,
-        "change_24h": -4.42
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 114,
         "score": 3,
-        "change_24h": -2.01
+        "change_24h": -3.77
       },
       {
         "symbol": "AKE",
         "name": "Akedo",
-        "rank": 137,
+        "rank": 132,
         "score": 4,
-        "change_24h": 346.39
+        "change_24h": 391.22
       },
       {
         "symbol": "NEAR",
         "name": "NEAR Protocol",
-        "rank": 21,
+        "rank": 22,
         "score": 5,
-        "change_24h": 1.4
+        "change_24h": -0.21
       },
       {
-        "symbol": "DRV",
-        "name": "Derive",
-        "rank": 132,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 115,
         "score": 6,
-        "change_24h": -9.01
+        "change_24h": -2.76
       }
     ]
   },
@@ -510,9 +510,9 @@
         "change_24h": 0.39
       },
       {
-        "symbol": "MSFT",
-        "price_usd": 523.88,
-        "change_24h": 0.17
+        "symbol": "GOOGL",
+        "price_usd": 295.77,
+        "change_24h": -0.98
       },
       {
         "symbol": "AMZN",
@@ -536,18 +536,31 @@
       },
       {
         "symbol": "COIN",
-        "price_usd": 127.64,
+        "price_usd": 127.65,
         "change_24h": -2.31
       }
     ],
     "top_mentioned": [],
     "news": [
       {
-        "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
+        "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-        "published": "Fri, 13 Nov 2026 22:41:04 GMT",
+        "published": "Sat, 14 Nov 2026 02:33:48 GMT",
         "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+        "published": "Sat, 14 Nov 2026 01:34:11 GMT",
+        "assets": [
+          "NVDA",
+          "SPY"
+        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -556,7 +569,7 @@
         "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-        "published": "Fri, 13 Nov 2026 22:28:19 GMT",
+        "published": "Fri, 13 Nov 2026 23:54:36 GMT",
         "assets": [
           "NVDA"
         ],
@@ -575,6 +588,16 @@
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
+      },
+      {
+        "title": "SpaceX launches Starship in key test flight of massive rocket",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+        "published": "Sat, 14 Nov 2026 01:18:51 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
@@ -599,30 +622,10 @@
         "color": "red"
       },
       {
-        "title": "Hassett denies report he's leaving White House: 'Not true'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
-        "published": "Fri, 13 Nov 2026 20:27:47 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Retirees sometimes tap savings for one-off expenses. Here’s what advisors say to consider first",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/13/retirement-401k-ira-withdrawal-taxes.html",
-        "published": "Fri, 13 Nov 2026 19:01:12 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+        "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-        "published": "Fri, 13 Nov 2026 19:11:13 GMT",
+        "published": "Fri, 13 Nov 2026 23:42:18 GMT",
         "assets": [
           "NVDA",
           "SPY"
@@ -644,13 +647,41 @@
         "color": "yellow"
       },
       {
-        "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
+        "title": "Hassett denies report he's leaving White House: 'Not true'",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
-        "published": "Fri, 13 Nov 2026 19:30:36 GMT",
-        "assets": [
-          "NVDA"
-        ],
+        "url": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+        "published": "Fri, 13 Nov 2026 20:27:47 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+        "published": "Sat, 14 Nov 2026 02:42:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "14 dividend stocks selected for long-term growth",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+        "published": "Sat, 14 Nov 2026 01:58:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+        "published": "Fri, 13 Nov 2026 23:12:00 GMT",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -660,16 +691,6 @@
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
         "published": "Fri, 13 Nov 2026 22:45:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "FAA declares rare nationwide ground stop on flights, with nearly 10,000 canceled so far",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-        "published": "Fri, 13 Nov 2026 22:44:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -686,80 +707,60 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-        "published": "Fri, 13 Nov 2026 22:04:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-        "published": "Fri, 13 Nov 2026 22:00:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.2,
+      "score": -0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-        "volume_24h": 846946,
-        "yes_price": 0.07,
+        "volume_24h": 874066,
+        "yes_price": 0.08,
         "category": "finance"
       },
       {
         "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-        "volume_24h": 615349,
-        "yes_price": 0.02,
+        "volume_24h": 592433,
+        "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-        "volume_24h": 544716,
+        "volume_24h": 503750,
         "yes_price": 0.89,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through November 15?",
-        "volume_24h": 309786,
-        "yes_price": 0.97,
+        "volume_24h": 347206,
+        "yes_price": 0.96,
         "category": "finance"
       },
       {
         "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-        "volume_24h": 290901,
+        "volume_24h": 300576,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
-        "title": "Will David Lisnard win the 2027 French presidential election?",
-        "volume_24h": 155681,
-        "yes_price": 0.18,
-        "category": "finance"
-      },
-      {
-        "title": "Will Ian Buck be the next CEO of NVIDIA?",
-        "volume_24h": 154123,
-        "yes_price": 0.23,
-        "category": "finance"
-      },
-      {
         "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
-        "volume_24h": 128786,
+        "volume_24h": 170970,
         "yes_price": 0.05,
+        "category": "finance"
+      },
+      {
+        "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+        "volume_24h": 135885,
+        "yes_price": 0.12,
+        "category": "finance"
+      },
+      {
+        "title": "Will David Lisnard win the 2027 French presidential election?",
+        "volume_24h": 128317,
+        "yes_price": 0.18,
         "category": "finance"
       }
     ],
