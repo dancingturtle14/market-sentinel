@@ -1,88 +1,124 @@
 {
-  "updated_at": "2026-11-20T23:55:46Z",
+  "updated_at": "2026-11-21T06:50:32Z",
   "crypto": {
     "fear_greed": {
       "value": 12,
       "label": "Extreme Fear",
-      "previous_value": 10,
+      "previous_value": 12,
       "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 58764,
-        "change_24h": -5.08,
-        "market_cap": 1182027160959,
-        "volume_24h": 54985064763
+        "price_usd": 57549,
+        "change_24h": -6.98,
+        "market_cap": 1157609329103,
+        "volume_24h": 64368836912
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1618.46,
-        "change_24h": -7.78,
-        "market_cap": 197834331125,
-        "volume_24h": 19974754704
+        "price_usd": 1640.0,
+        "change_24h": -6.02,
+        "market_cap": 200472613371,
+        "volume_24h": 23644160174
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 538.94,
-        "change_24h": -6.97,
-        "market_cap": 70876359060,
-        "volume_24h": 1029489491
+        "price_usd": 523.59,
+        "change_24h": -8.4,
+        "market_cap": 68857977301,
+        "volume_24h": 1226684678
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 0.909727,
-        "change_24h": -5.23,
-        "market_cap": 57782791117,
-        "volume_24h": 2373287830
+        "price_usd": 0.895952,
+        "change_24h": -7.53,
+        "market_cap": 56907806688,
+        "volume_24h": 2722276028
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 68.82,
-        "change_24h": -5.83,
-        "market_cap": 40732895187,
-        "volume_24h": 3528586077
+        "price_usd": 68.08,
+        "change_24h": -6.41,
+        "market_cap": 40296156918,
+        "volume_24h": 4008469937
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.054316,
-        "change_24h": -6.52,
-        "market_cap": 8518101790,
-        "volume_24h": 671042965
+        "price_usd": 0.053445,
+        "change_24h": -7.16,
+        "market_cap": 8382107584,
+        "volume_24h": 830095151
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.54,
-        "change_24h": -4.98,
-        "market_cap": 6548659778,
-        "volume_24h": 282171894
+        "price_usd": 8.38,
+        "change_24h": -5.66,
+        "market_cap": 6427294213,
+        "volume_24h": 340983469
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.143034,
-        "change_24h": -5.66,
-        "market_cap": 5375072308,
-        "volume_24h": 350641420
+        "price_usd": 0.140261,
+        "change_24h": -6.55,
+        "market_cap": 5270888520,
+        "volume_24h": 437624550
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.51,
-        "change_24h": -6.66,
-        "market_cap": 2909773578,
-        "volume_24h": 198798603
+        "price_usd": 6.33,
+        "change_24h": -8.35,
+        "market_cap": 2827540793,
+        "volume_24h": 244375775
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+        "published": "Sat, 21 Nov 2026 06:16:42 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+        "published": "Sat, 21 Nov 2026 05:59:19 +0000",
+        "assets": [
+          "XRP"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+        "published": "Sat, 21 Nov 2026 04:10:07 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Kalshi races to get ahead of New York order that could shut down exchange",
         "source": "CoinDesk",
@@ -161,35 +197,11 @@
         "color": "yellow"
       },
       {
-        "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-        "published": "Fri, 20 Nov 2026 13:30:22 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-        "published": "Fri, 20 Nov 2026 13:11:49 +0000",
+        "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 21 Nov 2026 05:40:35 +0000",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-        "published": "Fri, 20 Nov 2026 12:15:08 +0000",
-        "assets": [
-          "BTC"
-        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -235,72 +247,60 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 20 Nov 2026 15:52:06 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
       }
     ],
     "news_sentiment": {
-      "score": -0.2,
+      "score": -0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-        "volume_24h": 151278,
-        "yes_price": 0.61,
+        "volume_24h": 667208,
+        "yes_price": 0.76,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Ethereum dip to $1,500 by December 31, 2026?",
+        "volume_24h": 245511,
+        "yes_price": 0.68,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_24h": 141657,
-        "yes_price": 0.39,
+        "volume_24h": 245240,
+        "yes_price": 0.5,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-        "volume_24h": 137742,
-        "yes_price": 0.16,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $70,000 in November?",
-        "volume_24h": 128245,
-        "yes_price": 0.06,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $56,000 November 16-22?",
-        "volume_24h": 127771,
-        "yes_price": 0.27,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $50,000 in November?",
-        "volume_24h": 111258,
-        "yes_price": 0.14,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $40,000 by December 31, 2026?",
-        "volume_24h": 89670,
-        "yes_price": 0.1,
+        "volume_24h": 203826,
+        "yes_price": 0.25,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $55,000 in November?",
-        "volume_24h": 85588,
-        "yes_price": 0.44,
+        "volume_24h": 192104,
+        "yes_price": 0.65,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $52,000 November 16-22?",
+        "volume_24h": 127800,
+        "yes_price": 0.12,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $54,000 November 16-22?",
+        "volume_24h": 120916,
+        "yes_price": 0.3,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the price of Bitcoin be above $56,000 on November 21?",
+        "volume_24h": 118255,
+        "yes_price": 0.82,
         "category": "crypto"
       }
     ],
@@ -314,71 +314,71 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 2 bullish vs 3 bearish signals detected across crypto news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 1 bullish vs 4 bearish signals detected across crypto news data."
     },
     "fourchain": {
-      "thread_count": 201,
-      "active_threads": 101,
+      "thread_count": 200,
+      "active_threads": 112,
       "mentions": {
         "BTC": 11,
-        "XRP": 6,
-        "ETH": 1
+        "XRP": 5,
+        "BNB": 1
       },
-      "bullish_hits": 58,
-      "bearish_hits": 65,
-      "bullish_pct": 47,
+      "bullish_hits": 64,
+      "bearish_hits": 53,
+      "bullish_pct": 55,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
+        "symbol": "CHUNKEE",
+        "name": "Chunkee The Manatee",
+        "rank": 926,
+        "score": 0,
+        "change_24h": -8.06
+      },
+      {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
-        "score": 0,
-        "change_24h": -4.89
-      },
-      {
-        "symbol": "ETH",
-        "name": "Ethereum",
-        "rank": 2,
         "score": 1,
-        "change_24h": -7.6
-      },
-      {
-        "symbol": "BP",
-        "name": "Backpack",
-        "rank": 150,
-        "score": 2,
-        "change_24h": -8.29
-      },
-      {
-        "symbol": "PEARL",
-        "name": "Pearl",
-        "rank": 79,
-        "score": 3,
-        "change_24h": -13.89
-      },
-      {
-        "symbol": "LIT",
-        "name": "Lighter",
-        "rank": 89,
-        "score": 4,
-        "change_24h": -14.14
-      },
-      {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 127,
-        "score": 5,
-        "change_24h": -4.67
+        "change_24h": -8.46
       },
       {
         "symbol": "HYPE",
         "name": "Hyperliquid",
         "rank": 10,
+        "score": 2,
+        "change_24h": -12.56
+      },
+      {
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "rank": 11,
+        "score": 3,
+        "change_24h": -16.61
+      },
+      {
+        "symbol": "SOL",
+        "name": "Solana",
+        "rank": 7,
+        "score": 4,
+        "change_24h": -8.29
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "rank": 2,
+        "score": 5,
+        "change_24h": -9.14
+      },
+      {
+        "symbol": "LIT",
+        "name": "Lighter",
+        "rank": 90,
         "score": 6,
-        "change_24h": -9.08
+        "change_24h": -12.96
       }
     ]
   },
@@ -483,16 +483,6 @@
         "color": "red"
       },
       {
-        "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-        "published": "Fri, 20 Nov 2026 20:47:58 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
@@ -501,6 +491,26 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
+      },
+      {
+        "title": "The bull market has a new problem. The 'smart money' is selling",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+        "published": "Fri, 20 Nov 2026 14:15:29 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+        "published": "Fri, 20 Nov 2026 20:47:58 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
@@ -523,16 +533,6 @@
         "color": "yellow"
       },
       {
-        "title": "Data center construction costs soar 13% in 2026",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
-        "published": "Fri, 20 Nov 2026 16:52:08 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
         "title": "Trump says he still has confidence in Lutnick",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
@@ -553,10 +553,20 @@
         "color": "yellow"
       },
       {
-        "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+        "title": "Data center construction costs soar 13% in 2026",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-        "published": "Fri, 20 Nov 2026 21:10:48 GMT",
+        "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
+        "published": "Fri, 20 Nov 2026 16:52:08 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+        "published": "Sat, 21 Nov 2026 03:20:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -606,16 +616,6 @@
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-        "published": "Fri, 20 Nov 2026 21:39:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -626,50 +626,50 @@
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-        "volume_24h": 960930,
+        "volume_24h": 987358,
         "yes_price": 0.08,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-        "volume_24h": 742027,
+        "volume_24h": 734466,
         "yes_price": 0.9,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through November 22?",
-        "volume_24h": 665542,
-        "yes_price": 0.94,
+        "volume_24h": 693854,
+        "yes_price": 0.95,
         "category": "finance"
       },
       {
-        "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-        "volume_24h": 222512,
-        "yes_price": 0.06,
+        "title": "Will China invade Taiwan by end of 2026?",
+        "volume_24h": 484970,
+        "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will Dominique de Villepin win the 2027 French presidential election?",
-        "volume_24h": 212072,
-        "yes_price": 0.04,
+        "volume_24h": 209691,
+        "yes_price": 0.03,
         "category": "finance"
       },
       {
         "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-        "volume_24h": 209630,
-        "yes_price": 0.12,
-        "category": "finance"
-      },
-      {
-        "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 184842,
-        "yes_price": 0.09,
+        "volume_24h": 203217,
+        "yes_price": 0.11,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through November 30?",
-        "volume_24h": 167744,
-        "yes_price": 0.8,
+        "volume_24h": 200453,
+        "yes_price": 0.83,
+        "category": "finance"
+      },
+      {
+        "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+        "volume_24h": 200130,
+        "yes_price": 0.05,
         "category": "finance"
       }
     ],
@@ -683,8 +683,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 5 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 4 bullish vs 3 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
