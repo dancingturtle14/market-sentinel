@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:00:53Z",
+  "updated_at": "2026-11-22T22:43:36Z",
   "crypto": {
     "fear_greed": {
       "value": 11,
@@ -11,78 +11,88 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 61189,
-        "change_24h": 2.03,
-        "market_cap": 1230865724808,
-        "volume_24h": 30521935911
+        "price_usd": 60755,
+        "change_24h": 1.11,
+        "market_cap": 1222145907580,
+        "volume_24h": 27492899530
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1721.6,
-        "change_24h": 2.42,
-        "market_cap": 210451990448,
-        "volume_24h": 8074441659
+        "price_usd": 1711.01,
+        "change_24h": 1.98,
+        "market_cap": 209157515349,
+        "volume_24h": 7789557812
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 559.21,
-        "change_24h": 2.47,
-        "market_cap": 73541248149,
-        "volume_24h": 473612052
+        "price_usd": 554.66,
+        "change_24h": 1.33,
+        "market_cap": 72943454780,
+        "volume_24h": 484228794
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 0.929528,
-        "change_24h": 0.12,
-        "market_cap": 59040438844,
-        "volume_24h": 1119999648
+        "price_usd": 0.920476,
+        "change_24h": -0.62,
+        "market_cap": 58465517728,
+        "volume_24h": 1048116240
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 70.62,
-        "change_24h": 0.08,
-        "market_cap": 41804610197,
-        "volume_24h": 1878158897
+        "price_usd": 70.0,
+        "change_24h": -0.01,
+        "market_cap": 41439880745,
+        "volume_24h": 1819555900
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.055351,
-        "change_24h": 0.63,
-        "market_cap": 8681878718,
-        "volume_24h": 342841919
+        "price_usd": 0.054953,
+        "change_24h": -0.11,
+        "market_cap": 8619446216,
+        "volume_24h": 331702734
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.83,
-        "change_24h": 2.83,
-        "market_cap": 6770141906,
-        "volume_24h": 159951334
+        "price_usd": 8.75,
+        "change_24h": 2.14,
+        "market_cap": 6713087077,
+        "volume_24h": 154618808
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.145033,
-        "change_24h": 0.42,
-        "market_cap": 5450192109,
-        "volume_24h": 200801416
+        "price_usd": 0.143847,
+        "change_24h": -0.27,
+        "market_cap": 5405646561,
+        "volume_24h": 184109625
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.69,
-        "change_24h": 1.29,
-        "market_cap": 2990173833,
-        "volume_24h": 115445743
+        "price_usd": 6.64,
+        "change_24h": 1.31,
+        "market_cap": 2967449859,
+        "volume_24h": 107003558
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "More on the pending oversight hearings: State of Crypto",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/",
+        "published": "Sun, 22 Nov 2026 19:30:00 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
         "source": "CoinDesk",
@@ -112,6 +122,16 @@
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
         "published": "Sat, 21 Nov 2026 16:41:00 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+        "published": "Sat, 21 Nov 2026 14:00:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -177,31 +197,6 @@
         "color": "red"
       },
       {
-        "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-        "published": "Fri, 20 Nov 2026 22:05:31 +0000",
-        "assets": [
-          "ETH",
-          "TON"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-        "published": "Fri, 20 Nov 2026 18:13:52 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
         "title": "The future of onchain FX could start with users, not institutional liquidity",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -255,57 +250,57 @@
       }
     ],
     "news_sentiment": {
-      "score": -0.133,
+      "score": -0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
-        "title": "Will Bitcoin dip to $40,000 by December 31, 2026?",
-        "volume_24h": 98142,
-        "yes_price": 0.09,
+        "title": "Will Bitcoin reach $62,000 November 16-22?",
+        "volume_24h": 124902,
+        "yes_price": 0.29,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-        "volume_24h": 85227,
-        "yes_price": 0.54,
+        "volume_24h": 88924,
+        "yes_price": 0.55,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $55,000 in November?",
-        "volume_24h": 85059,
-        "yes_price": 0.23,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-        "volume_24h": 78465,
-        "yes_price": 0.13,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-        "volume_24h": 75016,
-        "yes_price": 0.76,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_24h": 73166,
-        "yes_price": 0.28,
+        "title": "Will Bitcoin dip to $58,000 on November 22?",
+        "volume_24h": 86151,
+        "yes_price": 0.07,
         "category": "crypto"
       },
       {
         "title": "Will AI solve the Riemann Hypothesis in 2026?",
-        "volume_24h": 71425,
-        "yes_price": 0.69,
+        "volume_24h": 84446,
+        "yes_price": 0.68,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin reach $62,000 November 16-22?",
-        "volume_24h": 68598,
-        "yes_price": 0.61,
+        "title": "Will Bitcoin dip to $55,000 in November?",
+        "volume_24h": 69014,
+        "yes_price": 0.25,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $62,000 on November 22?",
+        "volume_24h": 63172,
+        "yes_price": 0.29,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
+        "volume_24h": 63046,
+        "yes_price": 0.74,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+        "volume_24h": 62682,
+        "yes_price": 0.3,
         "category": "crypto"
       }
     ],
@@ -319,71 +314,71 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 3 bullish vs 3 bearish signals detected across crypto news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 3 bullish vs 1 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 127,
+      "active_threads": 133,
       "mentions": {
-        "BTC": 13,
-        "XRP": 5,
-        "BNB": 4
+        "BTC": 11,
+        "XRP": 7,
+        "BNB": 3
       },
-      "bullish_hits": 78,
-      "bearish_hits": 73,
-      "bullish_pct": 52,
+      "bullish_hits": 79,
+      "bearish_hits": 70,
+      "bullish_pct": 53,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
         "symbol": "WSTAR",
         "name": "Wanted Star",
-        "rank": 833,
+        "rank": 798,
         "score": 0,
-        "change_24h": -25.68
+        "change_24h": 39.33
+      },
+      {
+        "symbol": "POPO",
+        "name": "Popo The Turtle",
+        "rank": 763,
+        "score": 1,
+        "change_24h": 21.43
       },
       {
         "symbol": "TRUMP",
         "name": "Official Trump",
         "rank": 135,
-        "score": 1,
-        "change_24h": 4.04
-      },
-      {
-        "symbol": "POPO",
-        "name": "Popo The Turtle",
-        "rank": 795,
         "score": 2,
-        "change_24h": 79.02
-      },
-      {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
-        "score": 3,
-        "change_24h": 2.05
-      },
-      {
-        "symbol": "BP",
-        "name": "Backpack",
-        "rank": 148,
-        "score": 4,
-        "change_24h": 6.69
+        "change_24h": 0.51
       },
       {
         "symbol": "PEARL",
         "name": "Pearl",
         "rank": 78,
-        "score": 5,
-        "change_24h": 9.29
+        "score": 3,
+        "change_24h": 2.12
       },
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 130,
+        "symbol": "DRV",
+        "name": "Derive",
+        "rank": 110,
+        "score": 4,
+        "change_24h": 8.56
+      },
+      {
+        "symbol": "LIT",
+        "name": "Lighter",
+        "rank": 91,
+        "score": 5,
+        "change_24h": -0.59
+      },
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 6,
-        "change_24h": -1.11
+        "change_24h": 1.12
       }
     ]
   },
@@ -469,7 +464,17 @@
         "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-        "published": "Sun, 22 Nov 2026 16:53:20 GMT",
+        "published": "Sun, 22 Nov 2026 17:14:03 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+        "published": "Sun, 22 Nov 2026 18:55:05 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -480,16 +485,6 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
         "published": "Sun, 22 Nov 2026 13:00:01 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
-        "published": "Sun, 22 Nov 2026 06:00:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -510,6 +505,16 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
         "published": "Sun, 22 Nov 2026 13:25:47 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+        "published": "Sun, 22 Nov 2026 06:00:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -548,16 +553,6 @@
         "color": "yellow"
       },
       {
-        "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
-        "published": "Sun, 22 Nov 2026 12:13:56 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
         "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
@@ -568,50 +563,50 @@
         "color": "yellow"
       },
       {
-        "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+        "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-        "published": "Sun, 22 Nov 2026 16:32:00 GMT",
+        "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+        "published": "Sun, 22 Nov 2026 21:51:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Ron Johnson’s Social Security gaffe buried important news",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+        "published": "Sun, 22 Nov 2026 21:28:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Social Security should be shut down, this Republican senator says",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+        "published": "Sun, 22 Nov 2026 20:26:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+        "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-        "published": "Sun, 22 Nov 2026 16:18:00 GMT",
+        "url": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+        "published": "Sun, 22 Nov 2026 19:24:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+        "title": "These little-known investments could be among the best bargains in a crash",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-        "published": "Sun, 22 Nov 2026 16:15:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-        "published": "Sun, 22 Nov 2026 16:10:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
-        "published": "Sun, 22 Nov 2026 16:04:00 GMT",
+        "url": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+        "published": "Sun, 22 Nov 2026 18:23:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -625,51 +620,51 @@
     },
     "polymarket": [
       {
-        "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-        "volume_24h": 345200,
-        "yes_price": 0.07,
+        "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
+        "volume_24h": 282549,
+        "yes_price": 0.14,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 254760,
-        "yes_price": 0.07,
-        "category": "finance"
-      },
-      {
-        "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-        "volume_24h": 180865,
-        "yes_price": 0.9,
+        "volume_24h": 264689,
+        "yes_price": 0.06,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through November 30?",
-        "volume_24h": 150914,
-        "yes_price": 0.89,
+        "volume_24h": 174194,
+        "yes_price": 0.9,
         "category": "finance"
       },
       {
-        "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-        "volume_24h": 121097,
-        "yes_price": 0.11,
-        "category": "finance"
-      },
-      {
-        "title": "Will the Iranian regime fall before 2027?",
-        "volume_24h": 117935,
-        "yes_price": 0.03,
+        "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+        "volume_24h": 172596,
+        "yes_price": 0.06,
         "category": "finance"
       },
       {
         "title": "Will Anthropic announce bankruptcy by December 31, 2027?",
-        "volume_24h": 104822,
+        "volume_24h": 104838,
         "yes_price": 0.09,
         "category": "finance"
       },
       {
-        "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-        "volume_24h": 94196,
-        "yes_price": 0.06,
+        "title": "Will the Iranian regime fall before 2027?",
+        "volume_24h": 103767,
+        "yes_price": 0.03,
+        "category": "finance"
+      },
+      {
+        "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+        "volume_24h": 101835,
+        "yes_price": 0.02,
+        "category": "finance"
+      },
+      {
+        "title": "Israel x Iran ceasefire continues through December 15?",
+        "volume_24h": 88382,
+        "yes_price": 0.76,
         "category": "finance"
       }
     ],
