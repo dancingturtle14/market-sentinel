@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-11-22T22:43:36Z",
+  "updated_at": "2026-11-23T03:38:24Z",
   "crypto": {
     "fear_greed": {
       "value": 11,
       "label": "Extreme Fear",
-      "previous_value": 12,
+      "previous_value": 11,
       "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 60755,
-        "change_24h": 1.11,
-        "market_cap": 1222145907580,
-        "volume_24h": 27492899530
+        "price_usd": 61532,
+        "change_24h": 4.08,
+        "market_cap": 1237670033222,
+        "volume_24h": 28897434816
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1711.01,
-        "change_24h": 1.98,
-        "market_cap": 209157515349,
-        "volume_24h": 7789557812
+        "price_usd": 1736.05,
+        "change_24h": 4.76,
+        "market_cap": 212253386401,
+        "volume_24h": 8588124871
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 554.66,
-        "change_24h": 1.33,
-        "market_cap": 72943454780,
-        "volume_24h": 484228794
+        "price_usd": 560.31,
+        "change_24h": 3.74,
+        "market_cap": 73692515455,
+        "volume_24h": 522534385
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 0.920476,
-        "change_24h": -0.62,
-        "market_cap": 58465517728,
-        "volume_24h": 1048116240
+        "price_usd": 0.935432,
+        "change_24h": 1.99,
+        "market_cap": 59410330482,
+        "volume_24h": 1107647030
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 70.0,
-        "change_24h": -0.01,
-        "market_cap": 41439880745,
-        "volume_24h": 1819555900
+        "price_usd": 71.56,
+        "change_24h": 3.33,
+        "market_cap": 42368315467,
+        "volume_24h": 1924909916
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.054953,
-        "change_24h": -0.11,
-        "market_cap": 8619446216,
-        "volume_24h": 331702734
+        "price_usd": 0.055525,
+        "change_24h": 2.48,
+        "market_cap": 8709500182,
+        "volume_24h": 357191633
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.75,
-        "change_24h": 2.14,
-        "market_cap": 6713087077,
-        "volume_24h": 154618808
+        "price_usd": 8.9,
+        "change_24h": 4.62,
+        "market_cap": 6822670199,
+        "volume_24h": 162368051
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.143847,
-        "change_24h": -0.27,
-        "market_cap": 5405646561,
-        "volume_24h": 184109625
+        "price_usd": 0.144898,
+        "change_24h": 2.44,
+        "market_cap": 5444504353,
+        "volume_24h": 188143067
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.64,
-        "change_24h": 1.31,
-        "market_cap": 2967449859,
-        "volume_24h": 107003558
+        "price_usd": 6.69,
+        "change_24h": 3.05,
+        "market_cap": 2988124730,
+        "volume_24h": 125913000
       }
     ],
     "top_mentioned": [],
@@ -197,6 +197,38 @@
         "color": "red"
       },
       {
+        "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 23 Nov 2026 02:47:39 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Mon, 23 Nov 2026 00:53:49 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 22 Nov 2026 22:47:09 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
         "title": "The future of onchain FX could start with users, not institutional liquidity",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -215,92 +247,60 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 22 Nov 2026 09:33:06 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 22 Nov 2026 07:24:05 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sun, 22 Nov 2026 05:28:43 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.067,
+      "score": 0.067,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin reach $62,000 November 16-22?",
-        "volume_24h": 124902,
-        "yes_price": 0.29,
+        "volume_24h": 151756,
+        "yes_price": 0.39,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-        "volume_24h": 88924,
-        "yes_price": 0.55,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $58,000 on November 22?",
-        "volume_24h": 86151,
-        "yes_price": 0.07,
-        "category": "crypto"
-      },
-      {
-        "title": "Will AI solve the Riemann Hypothesis in 2026?",
-        "volume_24h": 84446,
-        "yes_price": 0.68,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $55,000 in November?",
-        "volume_24h": 69014,
-        "yes_price": 0.25,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $62,000 on November 22?",
-        "volume_24h": 63172,
-        "yes_price": 0.29,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-        "volume_24h": 63046,
-        "yes_price": 0.74,
+        "title": "Will Ethereum reach $2,600 in November?",
+        "volume_24h": 104746,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_24h": 62682,
+        "volume_24h": 102110,
         "yes_price": 0.3,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $62,000 on November 22?",
+        "volume_24h": 99948,
+        "yes_price": 0.41,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Ethereum reach $2,500 in November?",
+        "volume_24h": 98851,
+        "yes_price": 0.03,
+        "category": "crypto"
+      },
+      {
+        "title": "Will AI solve the Riemann Hypothesis in 2026?",
+        "volume_24h": 97052,
+        "yes_price": 0.64,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+        "volume_24h": 87572,
+        "yes_price": 0.51,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+        "volume_24h": 87209,
+        "yes_price": 0.15,
         "category": "crypto"
       }
     ],
@@ -319,66 +319,66 @@
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 133,
+      "active_threads": 132,
       "mentions": {
-        "BTC": 11,
+        "BTC": 14,
         "XRP": 7,
-        "BNB": 3
+        "BNB": 2
       },
-      "bullish_hits": 79,
-      "bearish_hits": 70,
+      "bullish_hits": 76,
+      "bearish_hits": 68,
       "bullish_pct": 53,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "WSTAR",
-        "name": "Wanted Star",
-        "rank": 798,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 0,
-        "change_24h": 39.33
+        "change_24h": 3.57
       },
       {
-        "symbol": "POPO",
-        "name": "Popo The Turtle",
-        "rank": 763,
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 10,
         "score": 1,
-        "change_24h": 21.43
+        "change_24h": 3.89
+      },
+      {
+        "symbol": "VVV",
+        "name": "Venice Token",
+        "rank": 57,
+        "score": 2,
+        "change_24h": 7.52
+      },
+      {
+        "symbol": "PI",
+        "name": "Pi Network",
+        "rank": 88,
+        "score": 3,
+        "change_24h": 6.77
       },
       {
         "symbol": "TRUMP",
         "name": "Official Trump",
         "rank": 135,
-        "score": 2,
-        "change_24h": 0.51
-      },
-      {
-        "symbol": "PEARL",
-        "name": "Pearl",
-        "rank": 78,
-        "score": 3,
-        "change_24h": 2.12
-      },
-      {
-        "symbol": "DRV",
-        "name": "Derive",
-        "rank": 110,
         "score": 4,
-        "change_24h": 8.56
+        "change_24h": 1.11
       },
       {
-        "symbol": "LIT",
-        "name": "Lighter",
-        "rank": 91,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 130,
         "score": 5,
-        "change_24h": -0.59
+        "change_24h": 1.99
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "ONDO",
+        "name": "Ondo",
+        "rank": 53,
         "score": 6,
-        "change_24h": 1.12
+        "change_24h": 2.18
       }
     ]
   },
@@ -543,20 +543,20 @@
         "color": "red"
       },
       {
-        "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
+        "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
-        "published": "Sun, 22 Nov 2026 14:30:01 GMT",
+        "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+        "published": "Sat, 21 Nov 2026 12:00:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+        "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-        "published": "Sat, 21 Nov 2026 12:00:01 GMT",
+        "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+        "published": "Fri, 20 Nov 2026 07:08:36 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -621,50 +621,50 @@
     "polymarket": [
       {
         "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-        "volume_24h": 282549,
-        "yes_price": 0.14,
+        "volume_24h": 337971,
+        "yes_price": 0.18,
+        "category": "finance"
+      },
+      {
+        "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
+        "volume_24h": 308477,
+        "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will the U.S. invade Iran before 2027?",
-        "volume_24h": 264689,
+        "volume_24h": 299456,
+        "yes_price": 0.07,
+        "category": "finance"
+      },
+      {
+        "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+        "volume_24h": 222900,
+        "yes_price": 0.08,
+        "category": "finance"
+      },
+      {
+        "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+        "volume_24h": 172493,
         "yes_price": 0.06,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through November 30?",
-        "volume_24h": 174194,
-        "yes_price": 0.9,
-        "category": "finance"
-      },
-      {
-        "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-        "volume_24h": 172596,
-        "yes_price": 0.06,
-        "category": "finance"
-      },
-      {
-        "title": "Will Anthropic announce bankruptcy by December 31, 2027?",
-        "volume_24h": 104838,
-        "yes_price": 0.09,
-        "category": "finance"
-      },
-      {
-        "title": "Will the Iranian regime fall before 2027?",
-        "volume_24h": 103767,
-        "yes_price": 0.03,
+        "volume_24h": 149111,
+        "yes_price": 0.91,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-        "volume_24h": 101835,
+        "volume_24h": 114744,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
-        "title": "Israel x Iran ceasefire continues through December 15?",
-        "volume_24h": 88382,
-        "yes_price": 0.76,
+        "title": "Will the Iranian regime fall before 2027?",
+        "volume_24h": 101581,
+        "yes_price": 0.03,
         "category": "finance"
       }
     ],
