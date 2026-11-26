@@ -1,88 +1,142 @@
 {
-  "updated_at": "2026-11-25T15:57:32Z",
+  "updated_at": "2026-11-26T00:10:21Z",
   "crypto": {
     "fear_greed": {
-      "value": 13,
+      "value": 11,
       "label": "Extreme Fear",
-      "previous_value": 11,
+      "previous_value": 13,
       "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 58419,
-        "change_24h": -2.3,
-        "market_cap": 1175231428305,
-        "volume_24h": 31612749188
+        "price_usd": 60413,
+        "change_24h": 1.24,
+        "market_cap": 1215394269988,
+        "volume_24h": 37987065544
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1650.27,
-        "change_24h": -1.75,
-        "market_cap": 201747204293,
-        "volume_24h": 11134258841
+        "price_usd": 1691.19,
+        "change_24h": 0.97,
+        "market_cap": 206763094206,
+        "volume_24h": 13197345467
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 537.69,
-        "change_24h": -1.63,
-        "market_cap": 70711679562,
-        "volume_24h": 555776839
+        "price_usd": 554.08,
+        "change_24h": 1.27,
+        "market_cap": 72873421431,
+        "volume_24h": 645919648
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 0.905477,
-        "change_24h": -0.95,
-        "market_cap": 57512841936,
-        "volume_24h": 1449133089
+        "price_usd": 0.937154,
+        "change_24h": 1.52,
+        "market_cap": 59522609149,
+        "volume_24h": 1862121908
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 67.62,
-        "change_24h": -2.2,
-        "market_cap": 40040633641,
-        "volume_24h": 2668216383
+        "price_usd": 70.53,
+        "change_24h": 1.36,
+        "market_cap": 41767813131,
+        "volume_24h": 3428036130
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.05353,
-        "change_24h": -2.1,
-        "market_cap": 8398529336,
-        "volume_24h": 374655203
+        "price_usd": 0.056127,
+        "change_24h": 1.75,
+        "market_cap": 8805485496,
+        "volume_24h": 467580281
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 8.67,
-        "change_24h": -1.28,
-        "market_cap": 6649334128,
-        "volume_24h": 227248012
+        "price_usd": 9.07,
+        "change_24h": 2.71,
+        "market_cap": 6955700023,
+        "volume_24h": 282606479
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.139404,
-        "change_24h": -2.69,
-        "market_cap": 5238674116,
-        "volume_24h": 220482603
+        "price_usd": 0.145857,
+        "change_24h": 1.29,
+        "market_cap": 5481779002,
+        "volume_24h": 283371815
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.37,
-        "change_24h": -2.3,
-        "market_cap": 2846604988,
-        "volume_24h": 143769747
+        "price_usd": 6.63,
+        "change_24h": 1.26,
+        "market_cap": 2963692756,
+        "volume_24h": 169668454
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+        "published": "Wed, 25 Nov 2026 18:24:47 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+        "published": "Wed, 25 Nov 2026 17:38:33 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+        "published": "Wed, 25 Nov 2026 16:02:31 +0000",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
+        "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+        "published": "Wed, 25 Nov 2026 16:02:07 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+        "published": "Wed, 25 Nov 2026 15:59:44 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
         "source": "CoinDesk",
@@ -142,20 +196,30 @@
         "color": "yellow"
       },
       {
-        "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
-        "published": "Wed, 25 Nov 2026 11:00:27 +0000",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 25 Nov 2026 22:33:13 +0000",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
-        "title": "Live updates: Bitcoin tumbles under $58,000 alongside continuing tech rout",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
-        "published": "Wed, 25 Nov 2026 08:35:47 +0000",
+        "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 25 Nov 2026 21:53:38 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 25 Nov 2026 21:22:19 +0000",
         "assets": [
           "BTC"
         ],
@@ -164,144 +228,80 @@
         "color": "yellow"
       },
       {
-        "title": "Solana developers move to stop validators finishing work on blocks that already lost",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
-        "published": "Wed, 25 Nov 2026 06:33:10 +0000",
-        "assets": [
-          "SOL"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
-        "published": "Wed, 25 Nov 2026 06:15:08 +0000",
-        "assets": [
-          "XRP"
-        ],
+        "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 25 Nov 2026 21:11:39 +0000",
+        "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       },
       {
-        "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
-        "published": "Wed, 25 Nov 2026 04:57:22 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
+        "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
         "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 25 Nov 2026 14:21:36 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 25 Nov 2026 13:26:05 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 25 Nov 2026 13:02:09 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 25 Nov 2026 11:49:54 +0000",
+        "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 25 Nov 2026 18:54:51 +0000",
         "assets": [
-          "SOL"
+          "ETH"
         ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 25 Nov 2026 11:31:10 +0000",
-        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.067,
+      "score": -0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin dip to $55,000 in November?",
-        "volume_24h": 256371,
-        "yes_price": 0.41,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the average Ornn H100 rental price in January 2027 be above $2.60?",
-        "volume_24h": 230421,
-        "yes_price": 0.8,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
-        "volume_24h": 195585,
-        "yes_price": 0.73,
+        "volume_24h": 265181,
+        "yes_price": 0.16,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 in November?",
-        "volume_24h": 189792,
-        "yes_price": 0.11,
+        "volume_24h": 209248,
+        "yes_price": 0.03,
         "category": "crypto"
       },
       {
-        "title": "Will the average Ornn B300 rental price in December 2026 be above $12.00?",
-        "volume_24h": 150990,
-        "yes_price": 0.33,
+        "title": "Will the average Ornn H100 rental price in January 2027 be above $2.60?",
+        "volume_24h": 177658,
+        "yes_price": 0.81,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $47,500 in November?",
-        "volume_24h": 150370,
-        "yes_price": 0.07,
+        "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+        "volume_24h": 143909,
+        "yes_price": 0.28,
         "category": "crypto"
       },
       {
-        "title": "Will Bitcoin dip to $52,500 in November?",
-        "volume_24h": 134898,
-        "yes_price": 0.2,
+        "title": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
+        "volume_24h": 139344,
+        "yes_price": 0.61,
         "category": "crypto"
       },
       {
         "title": "Will the average Ornn B200 rental price in June 2027 be above $8.00?",
-        "volume_24h": 134381,
+        "volume_24h": 134771,
         "yes_price": 0.58,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the average Ornn H100 rental price in February 2027 be above $3.20?",
+        "volume_24h": 133578,
+        "yes_price": 0.39,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+        "volume_24h": 127016,
+        "yes_price": 0.12,
         "category": "crypto"
       }
     ],
@@ -316,151 +316,206 @@
     },
     "news_summary": {
       "outlook": "Bearish",
-      "summary": "Bearish: 3 bullish vs 6 bearish signals detected across crypto news data."
+      "summary": "Bearish: 1 bullish vs 9 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 135,
+      "active_threads": 118,
       "mentions": {
-        "BTC": 22,
-        "XRP": 10,
-        "SOL": 3
+        "BTC": 14,
+        "XRP": 5,
+        "ETH": 2
       },
-      "bullish_hits": 75,
-      "bearish_hits": 66,
-      "bullish_pct": 53,
+      "bullish_hits": 72,
+      "bearish_hits": 56,
+      "bullish_pct": 56,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "PEI",
-        "name": "Pepe Intelligence",
-        "rank": 792,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 127,
         "score": 0,
-        "change_24h": 13.09
+        "change_24h": 3.03
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "VVV",
+        "name": "Venice Token",
+        "rank": 53,
         "score": 1,
-        "change_24h": -2.97
-      },
-      {
-        "symbol": "NPS",
-        "name": "Non-Playable Shiba",
-        "rank": 853,
-        "score": 2,
-        "change_24h": 854.33
-      },
-      {
-        "symbol": "VAR",
-        "name": "Variational X",
-        "rank": 922,
-        "score": 3,
-        "change_24h": 2.1
+        "change_24h": 18.74
       },
       {
         "symbol": "PEARL",
         "name": "Pearl",
         "rank": 78,
+        "score": 2,
+        "change_24h": -7.1
+      },
+      {
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 10,
+        "score": 3,
+        "change_24h": 2.99
+      },
+      {
+        "symbol": "XRP",
+        "name": "XRP",
+        "rank": 6,
         "score": 4,
-        "change_24h": -7.16
+        "change_24h": 1.39
       },
       {
-        "symbol": "ZEC",
-        "name": "Zcash",
-        "rank": 11,
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 5,
-        "change_24h": -3.48
+        "change_24h": 1.08
       },
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 129,
+        "symbol": "LIT",
+        "name": "Lighter",
+        "rank": 90,
         "score": 6,
-        "change_24h": -3.39
+        "change_24h": 0.53
       }
     ]
   },
   "stocks": {
     "indices": {
       "sp500": {
-        "value": 7008.09,
-        "change_24h": -2.68
+        "value": 7182.78,
+        "change_24h": -0.25
       },
       "nasdaq": {
-        "value": 22775.59,
-        "change_24h": -4.04
+        "value": 23585.8,
+        "change_24h": -0.62
       },
       "dow": {
-        "value": 49299.47,
-        "change_24h": -1.44
+        "value": 50182.95,
+        "change_24h": 0.33
       },
       "vix": {
-        "value": 33.43,
-        "change_24h": 26.82
+        "value": 28.29,
+        "change_24h": 7.32
       }
     },
     "market_mood": {
-      "score": -0.93,
+      "score": -0.318,
       "label": "Bearish",
       "color": "red"
     },
     "prices": [
       {
         "symbol": "NVDA",
-        "price_usd": 142.32,
-        "change_24h": -8.41
+        "price_usd": 149.3,
+        "change_24h": -3.91
       },
       {
         "symbol": "TSLA",
-        "price_usd": 363.47,
-        "change_24h": -5.51
+        "price_usd": 380.14,
+        "change_24h": -1.18
       },
       {
         "symbol": "AAPL",
-        "price_usd": 346.31,
-        "change_24h": -2.19
+        "price_usd": 355.58,
+        "change_24h": 0.43
       },
       {
         "symbol": "MSFT",
-        "price_usd": 478.8,
-        "change_24h": -3.49
+        "price_usd": 489.93,
+        "change_24h": -1.25
       },
       {
         "symbol": "GOOGL",
-        "price_usd": 264.53,
-        "change_24h": -5.2
+        "price_usd": 273.1,
+        "change_24h": -2.13
       },
       {
         "symbol": "AMZN",
-        "price_usd": 236.38,
-        "change_24h": -6.3
+        "price_usd": 244.43,
+        "change_24h": -3.12
       },
       {
         "symbol": "META",
-        "price_usd": 575.9,
-        "change_24h": -2.36
+        "price_usd": 609.89,
+        "change_24h": 3.4
       },
       {
         "symbol": "AMD",
-        "price_usd": 376.39,
-        "change_24h": -8.92
-      },
-      {
-        "symbol": "PLTR",
-        "price_usd": 153.64,
-        "change_24h": -4.68
+        "price_usd": 406.03,
+        "change_24h": -1.75
       },
       {
         "symbol": "COIN",
-        "price_usd": 96.98,
-        "change_24h": -5.25
+        "price_usd": 103.72,
+        "change_24h": 1.34
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+        "published": "Wed, 25 Nov 2026 21:00:08 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+        "published": "Thu, 26 Nov 2026 00:01:07 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+        "published": "Wed, 25 Nov 2026 19:52:47 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+        "published": "Wed, 25 Nov 2026 21:56:43 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+        "published": "Wed, 25 Nov 2026 22:26:56 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+        "published": "Wed, 25 Nov 2026 16:02:52 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
         "source": "CNBC",
@@ -470,70 +525,6 @@
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
-      },
-      {
-        "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-        "published": "Wed, 25 Nov 2026 13:37:35 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-        "published": "Wed, 25 Nov 2026 13:20:34 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
-        "published": "Wed, 25 Nov 2026 09:18:37 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-        "published": "Wed, 25 Nov 2026 14:29:50 GMT",
-        "assets": [
-          "NVDA"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-        "published": "Wed, 25 Nov 2026 12:26:41 GMT",
-        "assets": [
-          "NVDA"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
-        "published": "Wed, 25 Nov 2026 15:40:22 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
@@ -549,59 +540,57 @@
         "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-        "published": "Wed, 25 Nov 2026 14:55:10 GMT",
+        "published": "Wed, 25 Nov 2026 16:17:13 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       },
       {
-        "title": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
+        "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
-        "published": "Wed, 25 Nov 2026 15:00:01 GMT",
+        "url": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
+        "published": "Wed, 25 Nov 2026 06:09:44 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in",
+        "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 15:43:00 GMT",
-        "assets": [
-          "NVDA"
-        ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 15:41:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 15:08:00 GMT",
+        "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+        "published": "Wed, 25 Nov 2026 23:30:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+        "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 15:03:00 GMT",
+        "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+        "published": "Wed, 25 Nov 2026 23:30:00 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+        "published": "Wed, 25 Nov 2026 23:00:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+        "published": "Wed, 25 Nov 2026 22:45:00 GMT",
         "assets": [
           "NVDA"
         ],
@@ -610,14 +599,16 @@
         "color": "yellow"
       },
       {
-        "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+        "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 15:01:00 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+        "published": "Wed, 25 Nov 2026 22:31:00 GMT",
+        "assets": [
+          "NVDA"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -628,50 +619,50 @@
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-        "volume_24h": 1878713,
-        "yes_price": 0.05,
+        "volume_24h": 2087341,
+        "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-        "volume_24h": 927072,
+        "volume_24h": 1524551,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-        "volume_24h": 547418,
-        "yes_price": 0.92,
-        "category": "finance"
-      },
-      {
-        "title": "Will David Lisnard win the 2027 French presidential election?",
-        "volume_24h": 267818,
-        "yes_price": 0.23,
-        "category": "finance"
-      },
-      {
-        "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
-        "volume_24h": 238632,
-        "yes_price": 0.61,
-        "category": "finance"
-      },
-      {
-        "title": "Will the Iranian regime fall before 2027?",
-        "volume_24h": 170525,
-        "yes_price": 0.03,
-        "category": "finance"
-      },
-      {
-        "title": "Israel x Iran ceasefire continues through November 30?",
-        "volume_24h": 154881,
+        "volume_24h": 788972,
         "yes_price": 0.94,
         "category": "finance"
       },
       {
-        "title": "Israel x Iran ceasefire continues through December 31?",
-        "volume_24h": 115730,
-        "yes_price": 0.73,
+        "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+        "volume_24h": 286205,
+        "yes_price": 0.57,
+        "category": "finance"
+      },
+      {
+        "title": "Will David Lisnard win the 2027 French presidential election?",
+        "volume_24h": 251129,
+        "yes_price": 0.22,
+        "category": "finance"
+      },
+      {
+        "title": "Will Puma Shen win the next Taipei Mayor election?",
+        "volume_24h": 208731,
+        "yes_price": 0.43,
+        "category": "finance"
+      },
+      {
+        "title": "Will the Iranian regime fall before 2027?",
+        "volume_24h": 149122,
+        "yes_price": 0.02,
+        "category": "finance"
+      },
+      {
+        "title": "Will the U.S. invade Iran before 2027?",
+        "volume_24h": 117725,
+        "yes_price": 0.06,
         "category": "finance"
       }
     ],
@@ -685,8 +676,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bearish",
-      "summary": "Bearish: 0 bullish vs 2 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 2 bullish vs 2 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
@@ -694,31 +685,31 @@
       "symbol": "BKHY",
       "name": "BlackRock High Yield Bond",
       "type": "Bond Income",
-      "price_usd": 45.21,
-      "change_1d": -0.0,
-      "change_1w": -0.28,
-      "change_1m": -1.67,
-      "high_3m": 46.9,
+      "price_usd": 45.25,
+      "change_1d": 0.08,
+      "change_1w": -0.19,
+      "change_1m": -1.59,
+      "high_3m": 46.89,
       "low_3m": 45.15,
       "week52_high": 48.56,
       "week52_low": 44.9,
-      "rsi": 28.2,
+      "rsi": 30.3,
       "div_yield": 7.57,
       "last_div": null,
       "outlook": {
-        "label": "Neutral",
-        "color": "yellow",
-        "score": 0,
-        "bull_count": 2,
-        "bear_count": 2,
-        "total": 6,
-        "confidence": "Low",
+        "label": "Bearish",
+        "color": "red",
+        "score": -3,
+        "bull_count": 0,
+        "bear_count": 3,
+        "total": 5,
+        "confidence": "Medium",
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 28.2 — Oversold zone, historically signals a bounce ↑",
-          "5-day momentum -0.3% — consolidating sideways →",
-          "1-month return -1.7% — range-bound"
+          "RSI 30.3 — Below neutral, mild downward pressure ↓",
+          "5-day momentum -0.2% — consolidating sideways →",
+          "1-month return -1.6% — range-bound"
         ]
       }
     },
@@ -726,15 +717,15 @@
       "symbol": "XYLD",
       "name": "Global X S&P 500 Covered Call",
       "type": "Covered Call Income",
-      "price_usd": 37.94,
-      "change_1d": -1.54,
-      "change_1w": -5.0,
-      "change_1m": -8.63,
+      "price_usd": 38.45,
+      "change_1d": -0.21,
+      "change_1w": -3.71,
+      "change_1m": -7.39,
       "high_3m": 41.68,
       "low_3m": 37.9,
       "week52_high": 42.0,
       "week52_low": 37.68,
-      "rsi": 33.4,
+      "rsi": 36.3,
       "div_yield": 6.28,
       "last_div": null,
       "outlook": {
@@ -748,9 +739,9 @@
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 33.4 — Below neutral, mild downward pressure ↓",
-          "5-day momentum -5.0% — short-term selling pressure ↓",
-          "1-month return -8.6% — sustained downtrend ↓"
+          "RSI 36.3 — Below neutral, mild downward pressure ↓",
+          "5-day momentum -3.7% — short-term selling pressure ↓",
+          "1-month return -7.4% — sustained downtrend ↓"
         ]
       }
     },
@@ -758,31 +749,31 @@
       "symbol": "JEPQ",
       "name": "JPMorgan Nasdaq Equity Premium",
       "type": "Equity Income",
-      "price_usd": 50.93,
-      "change_1d": -4.02,
-      "change_1w": -6.86,
-      "change_1m": -13.88,
+      "price_usd": 52.72,
+      "change_1d": -0.64,
+      "change_1w": -3.58,
+      "change_1m": -10.86,
       "high_3m": 60.7,
       "low_3m": 50.84,
       "week52_high": 61.72,
       "week52_low": 50.525,
-      "rsi": 41.6,
+      "rsi": 46.7,
       "div_yield": 11.96,
       "last_div": null,
       "outlook": {
         "label": "Bearish",
         "color": "red",
-        "score": -5,
+        "score": -4,
         "bull_count": 0,
-        "bear_count": 5,
+        "bear_count": 4,
         "total": 5,
         "confidence": "High",
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 41.6 — Below neutral, mild downward pressure ↓",
-          "5-day momentum -6.9% — short-term selling pressure ↓",
-          "1-month return -13.9% — sustained downtrend ↓"
+          "RSI 46.7 — In neutral range (45–55)",
+          "5-day momentum -3.6% — short-term selling pressure ↓",
+          "1-month return -10.9% — sustained downtrend ↓"
         ]
       }
     },
@@ -790,31 +781,31 @@
       "symbol": "SCHD",
       "name": "Schwab US Dividend Equity",
       "type": "Dividend Growth",
-      "price_usd": 34.94,
-      "change_1d": 0.16,
-      "change_1w": 0.71,
-      "change_1m": -0.5,
+      "price_usd": 35.29,
+      "change_1d": 1.15,
+      "change_1w": 1.7,
+      "change_1m": 0.48,
       "high_3m": 36.21,
       "low_3m": 32.53,
       "week52_high": 36.38,
       "week52_low": 27.21,
-      "rsi": 44.8,
+      "rsi": 48.7,
       "div_yield": 2.95,
       "last_div": null,
       "outlook": {
-        "label": "Mild Bearish",
-        "color": "red",
-        "score": -1,
-        "bull_count": 1,
-        "bear_count": 2,
+        "label": "Mild Bullish",
+        "color": "green",
+        "score": 1,
+        "bull_count": 2,
+        "bear_count": 1,
         "total": 5,
         "confidence": "Low",
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend above long-term (bullish cross) ↑",
-          "RSI 44.8 — Below neutral, mild downward pressure ↓",
-          "5-day momentum +0.7% — consolidating sideways →",
-          "1-month return -0.5% — range-bound"
+          "RSI 48.7 — In neutral range (45–55)",
+          "5-day momentum +1.7% — short-term buying pressure ↑",
+          "1-month return +0.5% — range-bound"
         ]
       }
     },
@@ -822,31 +813,31 @@
       "symbol": "QQQM",
       "name": "Invesco Nasdaq 100",
       "type": "Growth",
-      "price_usd": 251.43,
-      "change_1d": -4.32,
-      "change_1w": -7.42,
-      "change_1m": -15.33,
+      "price_usd": 261.05,
+      "change_1d": -0.66,
+      "change_1w": -3.88,
+      "change_1m": -12.09,
       "high_3m": 312.76,
       "low_3m": 251.23,
       "week52_high": 314.115,
       "week52_low": 228.75,
-      "rsi": 41.4,
+      "rsi": 46.4,
       "div_yield": 46.0,
       "last_div": null,
       "outlook": {
         "label": "Bearish",
         "color": "red",
-        "score": -5,
+        "score": -4,
         "bull_count": 0,
-        "bear_count": 5,
+        "bear_count": 4,
         "total": 5,
         "confidence": "High",
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 41.4 — Below neutral, mild downward pressure ↓",
-          "5-day momentum -7.4% — short-term selling pressure ↓",
-          "1-month return -15.3% — sustained downtrend ↓"
+          "RSI 46.4 — In neutral range (45–55)",
+          "5-day momentum -3.9% — short-term selling pressure ↓",
+          "1-month return -12.1% — sustained downtrend ↓"
         ]
       }
     }
