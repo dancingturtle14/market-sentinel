@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T02:05:50Z",
+  "updated_at": "2026-11-27T11:17:31Z",
   "crypto": {
     "fear_greed": {
       "value": 12,
@@ -11,78 +11,166 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 60791,
-        "change_24h": 0.14,
-        "market_cap": 1222993317678,
-        "volume_24h": 20864953049
+        "price_usd": 61583,
+        "change_24h": 1.71,
+        "market_cap": 1238913924254,
+        "volume_24h": 23142836181
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1701.84,
-        "change_24h": 0.23,
-        "market_cap": 208056345354,
-        "volume_24h": 7086342335
+        "price_usd": 1725.73,
+        "change_24h": 1.78,
+        "market_cap": 210982002843,
+        "volume_24h": 8990282423
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 556.55,
-        "change_24h": -0.01,
-        "market_cap": 73192467508,
-        "volume_24h": 489785723
+        "price_usd": 563.75,
+        "change_24h": 2.41,
+        "market_cap": 74138456909,
+        "volume_24h": 498149414
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 0.949179,
-        "change_24h": -0.34,
-        "market_cap": 60288645938,
-        "volume_24h": 1175409873
+        "price_usd": 0.97948,
+        "change_24h": 3.14,
+        "market_cap": 62213271996,
+        "volume_24h": 1429497187
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 71.58,
-        "change_24h": 0.78,
-        "market_cap": 42393264333,
-        "volume_24h": 1631219578
+        "price_usd": 73.2,
+        "change_24h": 3.7,
+        "market_cap": 43354186884,
+        "volume_24h": 2176032127
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.056798,
-        "change_24h": 0.27,
-        "market_cap": 8912359632,
-        "volume_24h": 302333250
+        "price_usd": 0.058636,
+        "change_24h": 3.5,
+        "market_cap": 9200751713,
+        "volume_24h": 380825652
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.34,
-        "change_24h": 1.62,
-        "market_cap": 7161316533,
-        "volume_24h": 220938122
+        "price_usd": 9.53,
+        "change_24h": 3.45,
+        "market_cap": 7311685564,
+        "volume_24h": 255538227
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.149391,
-        "change_24h": 1.06,
-        "market_cap": 5614882191,
-        "volume_24h": 210130557
+        "price_usd": 0.152999,
+        "change_24h": 3.16,
+        "market_cap": 5750505229,
+        "volume_24h": 199192105
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.64,
-        "change_24h": -0.53,
-        "market_cap": 2964542765,
-        "volume_24h": 109003649
+        "price_usd": 6.8,
+        "change_24h": 2.68,
+        "market_cap": 3039676966,
+        "volume_24h": 129565057
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Injective asks SEC to allow order books for tokenized stock trading",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+        "published": "Fri, 27 Nov 2026 11:07:17 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+        "published": "Fri, 27 Nov 2026 10:51:27 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+        "published": "Fri, 27 Nov 2026 10:00:00 +0000",
+        "assets": [
+          "ETH"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+        "published": "Fri, 27 Nov 2026 09:49:55 +0000",
+        "assets": [
+          "BTC"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+        "published": "Fri, 27 Nov 2026 07:33:01 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+        "published": "Fri, 27 Nov 2026 05:06:32 +0000",
+        "assets": [
+          "XRP"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+        "published": "Fri, 27 Nov 2026 04:45:47 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+        "published": "Fri, 27 Nov 2026 04:29:47 +0000",
+        "assets": [
+          "ETH"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
       {
         "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
         "source": "CoinDesk",
@@ -108,196 +196,108 @@
         "color": "green"
       },
       {
-        "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
-        "published": "Thu, 26 Nov 2026 15:42:43 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
-        "published": "Thu, 26 Nov 2026 14:05:58 +0000",
-        "assets": [
-          "UNI"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
-        "published": "Thu, 26 Nov 2026 12:38:51 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
-        "published": "Thu, 26 Nov 2026 12:14:46 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
-        "published": "Thu, 26 Nov 2026 11:27:50 +0000",
+        "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 27 Nov 2026 10:26:06 +0000",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-        "published": "Thu, 26 Nov 2026 11:17:22 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
-        "published": "Thu, 26 Nov 2026 10:56:08 +0000",
+        "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 27 Nov 2026 08:04:39 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
-        "published": "Thu, 26 Nov 2026 10:40:33 +0000",
+        "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 27 Nov 2026 07:19:44 +0000",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       },
       {
-        "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 27 Nov 2026 01:47:38 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 27 Nov 2026 00:35:39 +0000",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
-        "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 26 Nov 2026 22:39:46 +0000",
-        "assets": [],
-        "sentiment": "Bearish",
-        "score": -1.0,
-        "color": "red"
-      },
-      {
         "title": "Here’s what happened in crypto today",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 26 Nov 2026 22:12:06 +0000",
+        "published": "Fri, 27 Nov 2026 06:00:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+        "title": "Japan’s crypto security group taps SEAL to speed up hack response",
         "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Thu, 26 Nov 2026 21:42:43 +0000",
-        "assets": [
-          "BNB"
-        ],
+        "url": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 27 Nov 2026 05:22:36 +0000",
+        "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": -0.111,
+      "score": 0.089,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will the price of Bitcoin be between $60,000 and $62,000 on November 27?",
-        "volume_24h": 2024675,
+        "volume_24h": 2035109,
         "yes_price": 0.6,
         "category": "crypto"
       },
       {
         "title": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
-        "volume_24h": 318599,
-        "yes_price": 0.74,
+        "volume_24h": 319239,
+        "yes_price": 0.71,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_24h": 131079,
-        "yes_price": 0.3,
+        "volume_24h": 162601,
+        "yes_price": 0.24,
         "category": "crypto"
       },
       {
         "title": "Will the average Ornn H200 rental price in January 2027 be above $7.00?",
-        "volume_24h": 117793,
-        "yes_price": 0.35,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the average Ornn B200 rental price in June 2027 be above $9.00?",
-        "volume_24h": 114445,
-        "yes_price": 0.41,
+        "volume_24h": 131876,
+        "yes_price": 0.34,
         "category": "crypto"
       },
       {
         "title": "Will the average Ornn B300 rental price in December 2026 be above $11.00?",
-        "volume_24h": 114272,
-        "yes_price": 0.54,
+        "volume_24h": 119898,
+        "yes_price": 0.51,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the average Ornn H100 rental price in January 2027 be above $3.00?",
+        "volume_24h": 119549,
+        "yes_price": 0.51,
         "category": "crypto"
       },
       {
         "title": "Will AI solve P versus NP in 2026?",
-        "volume_24h": 103598,
+        "volume_24h": 105955,
         "yes_price": 0.15,
         "category": "crypto"
       },
       {
         "title": "Will the average Ornn B200 rental price in December 2026 be above $9.00?",
-        "volume_24h": 99536,
-        "yes_price": 0.61,
+        "volume_24h": 97093,
+        "yes_price": 0.67,
         "category": "crypto"
       }
     ],
@@ -311,71 +311,71 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across crypto Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 3 bullish vs 2 bearish signals detected across crypto news data."
+      "outlook": "Bullish",
+      "summary": "Bullish: 2 bullish vs 0 bearish signals detected across crypto news data."
     },
     "fourchain": {
       "thread_count": 201,
-      "active_threads": 146,
+      "active_threads": 149,
       "mentions": {
-        "BTC": 15,
-        "XRP": 6,
-        "ETH": 2
+        "XRP": 11,
+        "BTC": 10,
+        "BNB": 2
       },
       "bullish_hits": 65,
-      "bearish_hits": 46,
-      "bullish_pct": 59,
-      "top_coin": "BTC"
+      "bearish_hits": 40,
+      "bullish_pct": 62,
+      "top_coin": "XRP"
     },
     "cg_trending": [
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
-        "rank": 129,
+        "rank": 127,
         "score": 0,
-        "change_24h": 0.7
+        "change_24h": 2.57
       },
       {
         "symbol": "ZYLO",
         "name": "Zylo Ecosystem",
-        "rank": 722,
+        "rank": 734,
         "score": 1,
-        "change_24h": 11.62
+        "change_24h": 1.88
       },
       {
-        "symbol": "ZEC",
-        "name": "Zcash",
-        "rank": 11,
+        "symbol": "NEAR",
+        "name": "NEAR Protocol",
+        "rank": 23,
         "score": 2,
-        "change_24h": -8.54
+        "change_24h": 2.73
+      },
+      {
+        "symbol": "SUI",
+        "name": "Sui",
+        "rank": 31,
+        "score": 3,
+        "change_24h": 3.44
+      },
+      {
+        "symbol": "PEARL",
+        "name": "Pearl",
+        "rank": 84,
+        "score": 4,
+        "change_24h": -8.75
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
         "rank": 1,
-        "score": 3,
-        "change_24h": 0.24
-      },
-      {
-        "symbol": "VVV",
-        "name": "Venice Token",
-        "rank": 59,
-        "score": 4,
-        "change_24h": -12.83
-      },
-      {
-        "symbol": "XMR",
-        "name": "Monero",
-        "rank": 13,
         "score": 5,
-        "change_24h": -10.84
+        "change_24h": 1.85
       },
       {
-        "symbol": "PEARL",
-        "name": "Pearl",
-        "rank": 82,
+        "symbol": "PONS",
+        "name": "Pons",
+        "rank": 315,
         "score": 6,
-        "change_24h": -10.11
+        "change_24h": 23.51
       }
     ]
   },
@@ -394,8 +394,8 @@
         "change_24h": 0.33
       },
       "vix": {
-        "value": 26.8,
-        "change_24h": -5.27
+        "value": 24.84,
+        "change_24h": -7.31
       }
     },
     "market_mood": {
@@ -468,46 +468,66 @@
         "color": "yellow"
       },
       {
-        "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+        "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-        "published": "Thu, 26 Nov 2026 12:46:55 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-        "published": "Fri, 27 Nov 2026 02:04:09 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
-        "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
-        "published": "Fri, 27 Nov 2026 00:22:29 GMT",
+        "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+        "published": "Fri, 27 Nov 2026 11:00:01 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+        "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
-        "published": "Thu, 26 Nov 2026 17:04:54 GMT",
+        "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+        "published": "Fri, 27 Nov 2026 10:20:39 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+        "published": "Fri, 27 Nov 2026 03:30:23 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+        "published": "Fri, 27 Nov 2026 07:15:44 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Defense giant Rheinmetall embraces ‘new normal’ of caution after military contract setback; stock rises",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+        "published": "Fri, 27 Nov 2026 10:11:09 GMT",
         "assets": [
-          "NVDA"
+          "META"
         ],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
+      },
+      {
+        "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
+        "published": "Thu, 26 Nov 2026 11:17:39 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
       },
       {
         "title": "Semiconductor chips are the new oil. Here's why",
@@ -520,22 +540,10 @@
         "color": "yellow"
       },
       {
-        "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+        "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
-        "published": "Thu, 26 Nov 2026 16:00:01 GMT",
-        "assets": [
-          "NVDA"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
-        "published": "Thu, 26 Nov 2026 04:12:18 GMT",
+        "url": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
+        "published": "Thu, 26 Nov 2026 13:34:51 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -552,20 +560,10 @@
         "color": "green"
       },
       {
-        "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-        "published": "Wed, 25 Nov 2026 21:56:43 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
         "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-        "published": "Fri, 27 Nov 2026 01:15:00 GMT",
+        "published": "Fri, 27 Nov 2026 11:15:00 GMT",
         "assets": [
           "NVDA"
         ],
@@ -574,42 +572,42 @@
         "color": "yellow"
       },
       {
-        "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+        "title": "Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-        "published": "Fri, 27 Nov 2026 01:00:00 GMT",
+        "url": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
+        "published": "Fri, 27 Nov 2026 10:54:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+        "title": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-        "published": "Fri, 27 Nov 2026 00:31:00 GMT",
+        "url": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
+        "published": "Fri, 27 Nov 2026 10:49:00 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+        "published": "Fri, 27 Nov 2026 10:37:00 GMT",
         "assets": [
-          "NVDA"
+          "QQQ"
         ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+        "title": "The AI stock crash is mostly over, JPMorgan says — but a worse phase could be coming in 2027",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-        "published": "Thu, 26 Nov 2026 22:00:00 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-        "published": "Thu, 26 Nov 2026 21:45:00 GMT",
+        "url": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?mod=mw_rss_topstories",
+        "published": "Fri, 27 Nov 2026 10:32:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
@@ -617,57 +615,57 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.067,
+      "score": 0.0,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
+        "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+        "volume_24h": 785110,
+        "yes_price": 0.03,
+        "category": "finance"
+      },
+      {
         "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
-        "volume_24h": 460522,
-        "yes_price": 0.6,
-        "category": "finance"
-      },
-      {
-        "title": "Will Puma Shen win the next Taipei Mayor election?",
-        "volume_24h": 348524,
-        "yes_price": 0.4,
-        "category": "finance"
-      },
-      {
-        "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-        "volume_24h": 235838,
-        "yes_price": 0.94,
+        "volume_24h": 471665,
+        "yes_price": 0.57,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-        "volume_24h": 205806,
+        "volume_24h": 315237,
         "yes_price": 0.02,
         "category": "finance"
       },
       {
-        "title": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
-        "volume_24h": 200170,
-        "yes_price": 0.27,
+        "title": "Will Puma Shen win the next Taipei Mayor election?",
+        "volume_24h": 305660,
+        "yes_price": 0.42,
         "category": "finance"
       },
       {
-        "title": "Israel x Iran ceasefire continues through November 30?",
-        "volume_24h": 196116,
+        "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+        "volume_24h": 272881,
         "yes_price": 0.94,
         "category": "finance"
       },
       {
-        "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-        "volume_24h": 186863,
-        "yes_price": 0.04,
+        "title": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
+        "volume_24h": 213600,
+        "yes_price": 0.32,
         "category": "finance"
       },
       {
-        "title": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
-        "volume_24h": 164248,
-        "yes_price": 0.39,
+        "title": "Israel x Iran ceasefire continues through November 30?",
+        "volume_24h": 155393,
+        "yes_price": 0.95,
+        "category": "finance"
+      },
+      {
+        "title": "Will PSOE win the most seats in the 2026 Spanish general election?",
+        "volume_24h": 125664,
+        "yes_price": 0.26,
         "category": "finance"
       }
     ],
@@ -681,8 +679,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 4 bullish vs 2 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 4 bullish vs 3 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
