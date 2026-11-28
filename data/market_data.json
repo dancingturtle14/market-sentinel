@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-11-27T20:12:45Z",
+  "updated_at": "2026-11-28T02:54:51Z",
   "crypto": {
     "fear_greed": {
-      "value": 12,
+      "value": 10,
       "label": "Extreme Fear",
-      "previous_value": 11,
+      "previous_value": 12,
       "previous_label": "Extreme Fear"
     },
     "prices": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 59776,
-        "change_24h": -1.5,
-        "market_cap": 1202567095853,
-        "volume_24h": 29105597608
+        "price_usd": 59919,
+        "change_24h": -2.22,
+        "market_cap": 1205491459433,
+        "volume_24h": 27646921116
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1668.27,
-        "change_24h": -2.02,
-        "market_cap": 203957379875,
-        "volume_24h": 11025070024
+        "price_usd": 1663.5,
+        "change_24h": -3.29,
+        "market_cap": 203379324396,
+        "volume_24h": 10326865659
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 553.03,
-        "change_24h": -0.37,
-        "market_cap": 72729309205,
-        "volume_24h": 552804024
+        "price_usd": 555.02,
+        "change_24h": -1.14,
+        "market_cap": 72992920370,
+        "volume_24h": 529041201
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 0.948225,
-        "change_24h": -0.4,
-        "market_cap": 60228013865,
-        "volume_24h": 1928379802
+        "price_usd": 0.949825,
+        "change_24h": -1.03,
+        "market_cap": 60332174834,
+        "volume_24h": 1774579980
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 71.97,
-        "change_24h": 0.93,
-        "market_cap": 42621119552,
-        "volume_24h": 2633974396
+        "price_usd": 71.71,
+        "change_24h": -0.85,
+        "market_cap": 42477848763,
+        "volume_24h": 2506293150
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.057647,
-        "change_24h": 1.08,
-        "market_cap": 9046247370,
-        "volume_24h": 443459551
+        "price_usd": 0.057679,
+        "change_24h": 0.26,
+        "market_cap": 9051262236,
+        "volume_24h": 407869533
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.37,
-        "change_24h": 1.18,
-        "market_cap": 7184992754,
-        "volume_24h": 296590957
+        "price_usd": 9.32,
+        "change_24h": -2.05,
+        "market_cap": 7144204082,
+        "volume_24h": 253997984
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.14903,
-        "change_24h": -1.09,
-        "market_cap": 5601303763,
-        "volume_24h": 229023922
+        "price_usd": 0.147966,
+        "change_24h": -2.07,
+        "market_cap": 5561298262,
+        "volume_24h": 199729138
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.64,
-        "change_24h": -0.26,
-        "market_cap": 2967116642,
-        "volume_24h": 132081056
+        "price_usd": 6.6,
+        "change_24h": -1.61,
+        "market_cap": 2951065322,
+        "volume_24h": 122639027
       }
     ],
     "top_mentioned": [],
@@ -196,6 +196,28 @@
         "color": "yellow"
       },
       {
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 27 Nov 2026 22:12:51 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 27 Nov 2026 21:15:29 +0000",
+        "assets": [
+          "TON"
+        ],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
         "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -228,26 +250,6 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "What was Coinbase worth while Nasdaq was closed?",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 27 Nov 2026 14:40:54 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 27 Nov 2026 13:44:00 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
@@ -257,51 +259,51 @@
     },
     "polymarket": [
       {
-        "title": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
-        "volume_24h": 175091,
-        "yes_price": 0.33,
-        "category": "crypto"
-      },
-      {
         "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-        "volume_24h": 158167,
+        "volume_24h": 177612,
         "yes_price": 0.12,
         "category": "crypto"
       },
       {
-        "title": "Will the average Ornn B300 rental price in January 2027 be above $11.00?",
-        "volume_24h": 146665,
-        "yes_price": 0.57,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $50,000 in November?",
-        "volume_24h": 143468,
-        "yes_price": 0.02,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the average Ornn B300 rental price in December 2026 be above $11.00?",
-        "volume_24h": 141405,
-        "yes_price": 0.56,
+        "title": "Will the average Ornn B300 rental price in January 2027 be above $12.50?",
+        "volume_24h": 147698,
+        "yes_price": 0.28,
         "category": "crypto"
       },
       {
         "title": "Will Bitcoin reach $62,500 in November?",
-        "volume_24h": 131380,
-        "yes_price": 0.24,
+        "volume_24h": 135668,
+        "yes_price": 0.27,
         "category": "crypto"
       },
       {
-        "title": "Will the average Ornn H100 rental price in December 2026 be above $3.00?",
-        "volume_24h": 120089,
-        "yes_price": 0.56,
+        "title": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
+        "volume_24h": 128799,
+        "yes_price": 0.65,
         "category": "crypto"
       },
       {
-        "title": "Will the average Ornn H200 rental price in March 2027 be above $5.00?",
-        "volume_24h": 115973,
-        "yes_price": 0.73,
+        "title": "Will AI solve the Riemann Hypothesis in 2026?",
+        "volume_24h": 111395,
+        "yes_price": 0.78,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
+        "volume_24h": 107056,
+        "yes_price": 0.51,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+        "volume_24h": 106091,
+        "yes_price": 0.28,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
+        "volume_24h": 104751,
+        "yes_price": 0.33,
         "category": "crypto"
       }
     ],
@@ -319,67 +321,67 @@
       "summary": "Bullish: 4 bullish vs 0 bearish signals detected across crypto news data."
     },
     "fourchain": {
-      "thread_count": 201,
-      "active_threads": 146,
+      "thread_count": 200,
+      "active_threads": 151,
       "mentions": {
-        "BTC": 13,
+        "BTC": 14,
         "XRP": 11,
         "ETH": 2
       },
-      "bullish_hits": 68,
+      "bullish_hits": 66,
       "bearish_hits": 37,
-      "bullish_pct": 65,
+      "bullish_pct": 64,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "rank": 127,
-        "score": 0,
-        "change_24h": 0.87
-      },
-      {
         "symbol": "PORTAL",
         "name": "Portal",
-        "rank": 512,
+        "rank": 506,
+        "score": 0,
+        "change_24h": 209.95
+      },
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "rank": 1,
         "score": 1,
-        "change_24h": 209.07
-      },
-      {
-        "symbol": "PUMPCHAN",
-        "name": "PumpChan",
-        "rank": 876,
-        "score": 2,
-        "change_24h": 0
-      },
-      {
-        "symbol": "ZYLO",
-        "name": "Zylo Ecosystem",
-        "rank": 723,
-        "score": 3,
-        "change_24h": 1.44
-      },
-      {
-        "symbol": "ZEC",
-        "name": "Zcash",
-        "rank": 11,
-        "score": 4,
-        "change_24h": 3.67
+        "change_24h": -2.37
       },
       {
         "symbol": "XMR",
         "name": "Monero",
         "rank": 14,
-        "score": 5,
-        "change_24h": -8.17
+        "score": 2,
+        "change_24h": -12.56
       },
       {
-        "symbol": "PEARL",
-        "name": "Pearl",
-        "rank": 84,
+        "symbol": "SOL",
+        "name": "Solana",
+        "rank": 7,
+        "score": 3,
+        "change_24h": -1.08
+      },
+      {
+        "symbol": "DRV",
+        "name": "Derive",
+        "rank": 109,
+        "score": 4,
+        "change_24h": -5.31
+      },
+      {
+        "symbol": "KNTQ",
+        "name": "Kinetiq",
+        "rank": 302,
+        "score": 5,
+        "change_24h": -10.47
+      },
+      {
+        "symbol": "AAVE",
+        "name": "Aave",
+        "rank": 53,
         "score": 6,
-        "change_24h": -10.06
+        "change_24h": -2.29
       }
     ]
   },
@@ -462,6 +464,16 @@
     "top_mentioned": [],
     "news": [
       {
+        "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+        "published": "Fri, 27 Nov 2026 22:00:57 GMT",
+        "assets": [],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
+      {
         "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
@@ -484,18 +496,6 @@
         "color": "red"
       },
       {
-        "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
-        "published": "Fri, 27 Nov 2026 16:43:14 GMT",
-        "assets": [
-          "AMZN"
-        ],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
         "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
@@ -506,10 +506,10 @@
         "color": "yellow"
       },
       {
-        "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+        "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-        "published": "Fri, 27 Nov 2026 18:24:06 GMT",
+        "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+        "published": "Fri, 27 Nov 2026 10:13:44 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
@@ -526,10 +526,20 @@
         "color": "yellow"
       },
       {
-        "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+        "title": "New car prices are at a record high. Here's where to look for deals",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-        "published": "Wed, 25 Nov 2026 16:17:13 GMT",
+        "url": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
+        "published": "Fri, 27 Nov 2026 13:15:01 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+        "published": "Fri, 27 Nov 2026 18:24:06 GMT",
         "assets": [],
         "sentiment": "Bullish",
         "score": 1.0,
@@ -546,16 +556,6 @@
         "color": "yellow"
       },
       {
-        "title": "New car prices are at a record high. Here's where to look for deals",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
-        "published": "Fri, 27 Nov 2026 13:15:01 GMT",
-        "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
-      },
-      {
         "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
@@ -566,33 +566,23 @@
         "color": "yellow"
       },
       {
-        "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+        "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-        "published": "Fri, 27 Nov 2026 19:55:00 GMT",
+        "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+        "published": "Sat, 28 Nov 2026 00:00:00 GMT",
         "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-        "published": "Fri, 27 Nov 2026 18:53:00 GMT",
-        "assets": [
-          "NVDA"
-        ],
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
       },
       {
-        "title": "The warnings behind this week’s stock-market rally",
+        "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
-        "published": "Fri, 27 Nov 2026 18:40:00 GMT",
-        "assets": [],
+        "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+        "published": "Fri, 27 Nov 2026 23:30:00 GMT",
+        "assets": [
+          "NVDA"
+        ],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
@@ -601,17 +591,29 @@
         "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-        "published": "Fri, 27 Nov 2026 17:31:00 GMT",
+        "published": "Fri, 27 Nov 2026 23:15:00 GMT",
         "assets": [],
         "sentiment": "Bearish",
         "score": -1.0,
         "color": "red"
       },
       {
-        "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+        "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-        "published": "Fri, 27 Nov 2026 17:04:00 GMT",
+        "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+        "published": "Fri, 27 Nov 2026 20:16:00 GMT",
+        "assets": [
+          "NVDA"
+        ],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
+        "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+        "published": "Fri, 27 Nov 2026 19:55:00 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -619,57 +621,57 @@
       }
     ],
     "news_sentiment": {
-      "score": 0.2,
+      "score": 0.133,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-        "volume_24h": 1083548,
-        "yes_price": 0.03,
+        "volume_24h": 1237347,
+        "yes_price": 0.04,
         "category": "finance"
       },
       {
         "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
-        "volume_24h": 1066659,
+        "volume_24h": 1151880,
         "yes_price": 0.56,
         "category": "finance"
       },
       {
         "title": "Will Puma Shen win the next Taipei Mayor election?",
-        "volume_24h": 458640,
+        "volume_24h": 486786,
         "yes_price": 0.44,
         "category": "finance"
       },
       {
         "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-        "volume_24h": 330706,
+        "volume_24h": 423098,
         "yes_price": 0.94,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through November 30?",
-        "volume_24h": 183383,
-        "yes_price": 0.95,
-        "category": "finance"
-      },
-      {
-        "title": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
-        "volume_24h": 181382,
-        "yes_price": 0.22,
-        "category": "finance"
-      },
-      {
-        "title": "Will Puma Shen win the 2026 Taipei Mayoral Election by 8% or more?",
-        "volume_24h": 150693,
-        "yes_price": 0.14,
+        "volume_24h": 162906,
+        "yes_price": 0.96,
         "category": "finance"
       },
       {
         "title": "Will Huang Shih-chieh win the next Taoyuan Mayor election?",
-        "volume_24h": 133212,
-        "yes_price": 0.11,
+        "volume_24h": 157177,
+        "yes_price": 0.1,
+        "category": "finance"
+      },
+      {
+        "title": "Will Chang San-cheng win the next Taoyuan Mayor election?",
+        "volume_24h": 132847,
+        "yes_price": 0.9,
+        "category": "finance"
+      },
+      {
+        "title": "Will Puma Shen win the 2026 Taipei Mayoral Election by 8% or more?",
+        "volume_24h": 131473,
+        "yes_price": 0.12,
         "category": "finance"
       }
     ],
@@ -683,8 +685,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Bullish",
-      "summary": "Bullish: 5 bullish vs 3 bearish signals detected across stock/finance news data."
+      "outlook": "Mixed",
+      "summary": "Mixed: 5 bullish vs 4 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
@@ -726,13 +728,13 @@
       "type": "Covered Call Income",
       "price_usd": 38.83,
       "change_1d": 0.99,
-      "change_1w": -0.84,
-      "change_1m": -6.68,
-      "high_3m": 41.68,
-      "low_3m": 37.9,
+      "change_1w": 0.15,
+      "change_1m": -5.75,
+      "high_3m": 41.27,
+      "low_3m": 37.52,
       "week52_high": 42.0,
       "week52_low": 37.68,
-      "rsi": 38.8,
+      "rsi": 42.5,
       "div_yield": 6.28,
       "last_div": null,
       "outlook": {
@@ -746,9 +748,9 @@
         "reasons": [
           "Price below 20-day moving average ↓",
           "Short-term trend below long-term (bearish cross) ↓",
-          "RSI 38.8 — Below neutral, mild downward pressure ↓",
-          "5-day momentum -0.8% — consolidating sideways →",
-          "1-month return -6.7% — sustained downtrend ↓"
+          "RSI 42.5 — Below neutral, mild downward pressure ↓",
+          "5-day momentum +0.2% — consolidating sideways →",
+          "1-month return -5.7% — sustained downtrend ↓"
         ]
       }
     },
