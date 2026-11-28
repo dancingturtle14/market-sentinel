@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T02:54:51Z",
+  "updated_at": "2026-11-28T11:33:17Z",
   "crypto": {
     "fear_greed": {
       "value": 10,
@@ -11,78 +11,90 @@
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price_usd": 59919,
-        "change_24h": -2.22,
-        "market_cap": 1205491459433,
-        "volume_24h": 27646921116
+        "price_usd": 59116,
+        "change_24h": -4.21,
+        "market_cap": 1189311337510,
+        "volume_24h": 25121917845
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price_usd": 1663.5,
-        "change_24h": -3.29,
-        "market_cap": 203379324396,
-        "volume_24h": 10326865659
+        "price_usd": 1643.25,
+        "change_24h": -4.89,
+        "market_cap": 200887202135,
+        "volume_24h": 10174254972
       },
       {
         "symbol": "BNB",
         "name": "BNB",
-        "price_usd": 555.02,
-        "change_24h": -1.14,
-        "market_cap": 72992920370,
-        "volume_24h": 529041201
+        "price_usd": 548.38,
+        "change_24h": -2.79,
+        "market_cap": 72176908630,
+        "volume_24h": 518841572
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "price_usd": 0.949825,
-        "change_24h": -1.03,
-        "market_cap": 60332174834,
-        "volume_24h": 1774579980
+        "price_usd": 0.936618,
+        "change_24h": -4.11,
+        "market_cap": 59475624302,
+        "volume_24h": 1589338549
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_usd": 71.71,
-        "change_24h": -0.85,
-        "market_cap": 42477848763,
-        "volume_24h": 2506293150
+        "price_usd": 70.66,
+        "change_24h": -3.57,
+        "market_cap": 41862722611,
+        "volume_24h": 2280669438
       },
       {
         "symbol": "DOGE",
         "name": "Dogecoin",
-        "price_usd": 0.057679,
-        "change_24h": 0.26,
-        "market_cap": 9051262236,
-        "volume_24h": 407869533
+        "price_usd": 0.05667,
+        "change_24h": -3.5,
+        "market_cap": 8892020891,
+        "volume_24h": 373507225
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_usd": 9.32,
-        "change_24h": -2.05,
-        "market_cap": 7144204082,
-        "volume_24h": 253997984
+        "price_usd": 9.14,
+        "change_24h": -4.27,
+        "market_cap": 7004981802,
+        "volume_24h": 229421918
       },
       {
         "symbol": "ADA",
         "name": "Cardano",
-        "price_usd": 0.147966,
-        "change_24h": -2.07,
-        "market_cap": 5561298262,
-        "volume_24h": 199729138
+        "price_usd": 0.145812,
+        "change_24h": -4.66,
+        "market_cap": 5483097173,
+        "volume_24h": 181725164
       },
       {
         "symbol": "AVAX",
         "name": "Avalanche",
-        "price_usd": 6.6,
-        "change_24h": -1.61,
-        "market_cap": 2951065322,
-        "volume_24h": 122639027
+        "price_usd": 6.48,
+        "change_24h": -4.64,
+        "market_cap": 2895756163,
+        "volume_24h": 119364382
       }
     ],
     "top_mentioned": [],
     "news": [
+      {
+        "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+        "published": "Sat, 28 Nov 2026 09:32:51 +0000",
+        "assets": [
+          "LINK"
+        ],
+        "sentiment": "Bearish",
+        "score": -1.0,
+        "color": "red"
+      },
       {
         "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
         "source": "CoinDesk",
@@ -186,10 +198,20 @@
         "color": "green"
       },
       {
-        "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
-        "published": "Fri, 27 Nov 2026 07:33:01 +0000",
+        "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 28 Nov 2026 10:31:00 +0000",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 28 Nov 2026 07:43:00 +0000",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
@@ -228,82 +250,60 @@
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
-      },
-      {
-        "title": "China sets March 2027 rollout for blockchain identity regulations",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 27 Nov 2026 17:37:23 +0000",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 27 Nov 2026 16:48:51 +0000",
-        "assets": [
-          "BTC"
-        ],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       }
     ],
     "news_sentiment": {
-      "score": 0.267,
+      "score": 0.2,
       "label": "Neutral",
       "color": "yellow"
     },
     "polymarket": [
       {
         "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-        "volume_24h": 177612,
-        "yes_price": 0.12,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the average Ornn B300 rental price in January 2027 be above $12.50?",
-        "volume_24h": 147698,
-        "yes_price": 0.28,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin reach $62,500 in November?",
-        "volume_24h": 135668,
-        "yes_price": 0.27,
-        "category": "crypto"
-      },
-      {
-        "title": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
-        "volume_24h": 128799,
-        "yes_price": 0.65,
+        "volume_24h": 238239,
+        "yes_price": 0.13,
         "category": "crypto"
       },
       {
         "title": "Will AI solve the Riemann Hypothesis in 2026?",
-        "volume_24h": 111395,
-        "yes_price": 0.78,
+        "volume_24h": 112151,
+        "yes_price": 0.72,
         "category": "crypto"
       },
       {
-        "title": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
-        "volume_24h": 107056,
-        "yes_price": 0.51,
-        "category": "crypto"
-      },
-      {
-        "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_24h": 106091,
-        "yes_price": 0.28,
+        "title": "Will the average Ornn H100 rental price in December 2026 be above $3.00?",
+        "volume_24h": 108551,
+        "yes_price": 0.56,
         "category": "crypto"
       },
       {
         "title": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
-        "volume_24h": 104751,
-        "yes_price": 0.33,
+        "volume_24h": 106090,
+        "yes_price": 0.34,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin reach $62,500 in November?",
+        "volume_24h": 104492,
+        "yes_price": 0.14,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the average Ornn H200 rental price in December 2026 be above $6.50?",
+        "volume_24h": 103328,
+        "yes_price": 0.56,
+        "category": "crypto"
+      },
+      {
+        "title": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
+        "volume_24h": 92226,
+        "yes_price": 0.65,
+        "category": "crypto"
+      },
+      {
+        "title": "Will Bitcoin dip to $50,000 in November?",
+        "volume_24h": 92072,
+        "yes_price": 0.02,
         "category": "crypto"
       }
     ],
@@ -318,70 +318,70 @@
     },
     "news_summary": {
       "outlook": "Bullish",
-      "summary": "Bullish: 4 bullish vs 0 bearish signals detected across crypto news data."
+      "summary": "Bullish: 4 bullish vs 2 bearish signals detected across crypto news data."
     },
     "fourchain": {
-      "thread_count": 200,
-      "active_threads": 151,
+      "thread_count": 201,
+      "active_threads": 144,
       "mentions": {
-        "BTC": 14,
-        "XRP": 11,
-        "ETH": 2
+        "BTC": 15,
+        "XRP": 6,
+        "SOL": 3
       },
       "bullish_hits": 66,
-      "bearish_hits": 37,
-      "bullish_pct": 64,
+      "bearish_hits": 40,
+      "bullish_pct": 62,
       "top_coin": "BTC"
     },
     "cg_trending": [
       {
-        "symbol": "PORTAL",
-        "name": "Portal",
-        "rank": 506,
+        "symbol": "WLFI",
+        "name": "World Liberty Financial",
+        "rank": 89,
         "score": 0,
-        "change_24h": 209.95
+        "change_24h": -53.55
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "rank": 1,
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "rank": 130,
         "score": 1,
-        "change_24h": -2.37
+        "change_24h": -4.79
       },
       {
-        "symbol": "XMR",
-        "name": "Monero",
-        "rank": 14,
+        "symbol": "USD1",
+        "name": "USD1",
+        "rank": 31,
         "score": 2,
-        "change_24h": -12.56
+        "change_24h": -0.18
       },
       {
-        "symbol": "SOL",
-        "name": "Solana",
-        "rank": 7,
+        "symbol": "PUMPCHAN",
+        "name": "PumpChan",
+        "rank": 795,
         "score": 3,
-        "change_24h": -1.08
+        "change_24h": 68.65
       },
       {
-        "symbol": "DRV",
-        "name": "Derive",
-        "rank": 109,
+        "symbol": "ZYLO",
+        "name": "Zylo Ecosystem",
+        "rank": 719,
         "score": 4,
-        "change_24h": -5.31
+        "change_24h": -0.07
       },
       {
-        "symbol": "KNTQ",
-        "name": "Kinetiq",
-        "rank": 302,
+        "symbol": "BTW",
+        "name": "Bitway",
+        "rank": 36,
         "score": 5,
-        "change_24h": -10.47
+        "change_24h": 52.23
       },
       {
-        "symbol": "AAVE",
-        "name": "Aave",
-        "rank": 53,
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "rank": 10,
         "score": 6,
-        "change_24h": -2.29
+        "change_24h": -5.34
       }
     ]
   },
@@ -496,24 +496,24 @@
         "color": "red"
       },
       {
-        "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+        "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-        "published": "Fri, 27 Nov 2026 18:20:32 GMT",
+        "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+        "published": "Sat, 28 Nov 2026 06:00:01 GMT",
         "assets": [],
         "sentiment": "Neutral",
         "score": 0.0,
         "color": "yellow"
       },
       {
-        "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+        "title": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
-        "published": "Fri, 27 Nov 2026 10:13:44 GMT",
+        "url": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+        "published": "Sat, 28 Nov 2026 06:00:01 GMT",
         "assets": [],
-        "sentiment": "Bullish",
-        "score": 1.0,
-        "color": "green"
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
       },
       {
         "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
@@ -536,6 +536,26 @@
         "color": "green"
       },
       {
+        "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+        "published": "Fri, 27 Nov 2026 18:20:32 GMT",
+        "assets": [],
+        "sentiment": "Neutral",
+        "score": 0.0,
+        "color": "yellow"
+      },
+      {
+        "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+        "published": "Fri, 27 Nov 2026 10:13:44 GMT",
+        "assets": [],
+        "sentiment": "Bullish",
+        "score": 1.0,
+        "color": "green"
+      },
+      {
         "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
@@ -544,26 +564,6 @@
         "sentiment": "Bullish",
         "score": 1.0,
         "color": "green"
-      },
-      {
-        "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
-        "published": "Fri, 27 Nov 2026 14:12:55 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
-      },
-      {
-        "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
-        "published": "Fri, 27 Nov 2026 13:00:42 GMT",
-        "assets": [],
-        "sentiment": "Neutral",
-        "score": 0.0,
-        "color": "yellow"
       },
       {
         "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
@@ -628,50 +628,50 @@
     "polymarket": [
       {
         "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-        "volume_24h": 1237347,
+        "volume_24h": 714453,
         "yes_price": 0.04,
         "category": "finance"
       },
       {
-        "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
-        "volume_24h": 1151880,
-        "yes_price": 0.56,
-        "category": "finance"
-      },
-      {
-        "title": "Will Puma Shen win the next Taipei Mayor election?",
-        "volume_24h": 486786,
-        "yes_price": 0.44,
-        "category": "finance"
-      },
-      {
         "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-        "volume_24h": 423098,
+        "volume_24h": 296421,
         "yes_price": 0.94,
         "category": "finance"
       },
       {
         "title": "Israel x Iran ceasefire continues through November 30?",
-        "volume_24h": 162906,
-        "yes_price": 0.96,
+        "volume_24h": 200233,
+        "yes_price": 0.98,
         "category": "finance"
       },
       {
-        "title": "Will Huang Shih-chieh win the next Taoyuan Mayor election?",
-        "volume_24h": 157177,
-        "yes_price": 0.1,
+        "title": "Will PP win the most seats in the 2026 Spanish general election?",
+        "volume_24h": 158971,
+        "yes_price": 0.71,
         "category": "finance"
       },
       {
-        "title": "Will Chang San-cheng win the next Taoyuan Mayor election?",
-        "volume_24h": 132847,
+        "title": "Will David Lisnard win the 2027 French presidential election?",
+        "volume_24h": 133280,
+        "yes_price": 0.27,
+        "category": "finance"
+      },
+      {
+        "title": "Will Kuomintang (KMT) win the most head of local government elections in the 2026 Taiwan local elections?",
+        "volume_24h": 131687,
         "yes_price": 0.9,
         "category": "finance"
       },
       {
-        "title": "Will Puma Shen win the 2026 Taipei Mayoral Election by 8% or more?",
-        "volume_24h": 131473,
-        "yes_price": 0.12,
+        "title": "Will PSOE win the most seats in the 2026 Spanish general election?",
+        "volume_24h": 108728,
+        "yes_price": 0.28,
+        "category": "finance"
+      },
+      {
+        "title": "Will Ron DeSantis win the 2028 US Presidential Election?",
+        "volume_24h": 67871,
+        "yes_price": 0.04,
         "category": "finance"
       }
     ],
@@ -685,8 +685,8 @@
       "summary": "Mixed: 0 bullish vs 0 bearish signals detected across stock Reddit discussion data."
     },
     "news_summary": {
-      "outlook": "Mixed",
-      "summary": "Mixed: 5 bullish vs 4 bearish signals detected across stock/finance news data."
+      "outlook": "Bearish",
+      "summary": "Bearish: 2 bullish vs 4 bearish signals detected across stock/finance news data."
     }
   },
   "portfolio": [
